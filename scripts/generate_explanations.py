@@ -226,7 +226,7 @@ Devuelve EXCLUSIVAMENTE un objeto JSON válido con este formato exacto:
                 if api_mode == "gemini":
                     time.sleep(4)
                 elif api_mode == "groq":
-                    time.sleep(2) # Pausa corta para no saturar
+                    time.sleep(7) # Pausa de 7 segundos para evitar límites de tokens por minuto (TPM) en la capa gratuita
             except Exception as e:
                 print(f"  ⚠️ Error procesando respuesta JSON de la IA: {e}")
         else:
