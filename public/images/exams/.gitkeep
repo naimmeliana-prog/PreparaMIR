@@ -1,0 +1,3 @@
+# Carpeta destinada a las imágenes de exámenes MIR.
+# Las imágenes oficiales extraídas por el script deben guardarse organizadas por año:
+# public/images/exams/[año]/pregunta_[número].png

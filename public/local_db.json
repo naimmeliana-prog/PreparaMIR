@@ -1,0 +1,170 @@
+{
+  "conversations": [],
+  "messages": [
+    {
+      "id": "79c0adc8-4358-4bd5-81c2-6c2ee8811e96",
+      "createdAt": "2026-08-01T16:18:31.846Z",
+      "title": "Necrosis metastática del hígado",
+      "updatedAt": "2026-08-01T16:18:41.131Z"
+    },
+    {
+      "id": "98b0d384-0476-40d3-bdbc-b80e580e3d80",
+      "createdAt": "2026-08-01T16:18:31.848Z",
+      "conversationId": "79c0adc8-4358-4bd5-81c2-6c2ee8811e96",
+      "role": "user",
+      "content": "necrosis metastática del hígado"
+    },
+    {
+      "id": "e6e25a8f-47f2-495d-9d78-b1927abd87d2",
+      "createdAt": "2026-08-01T16:18:41.130Z",
+      "conversationId": "79c0adc8-4358-4bd5-81c2-6c2ee8811e96",
+      "role": "assistant",
+      "content": "# 🫀 Infarto Agudo de Miocardio con Elevación del ST (IAMCEST)\n\n## 📌 Definición\nNecrosis miocárdica por **oclusión trombótica aguda** de una arteria coronaria. Es una **emergencia médica** en la que la reperfusión precoz es el pilar fundamental del tratamiento.\n\n---\n\n## 🔍 Diagnóstico: La Tríada Clásica\n\n| Criterio | Detalle |\n|---|---|\n| **Clínica** | Dolor torácico opresivo retroesternal > 20 min, irradiado a miembro superior izquierdo o mandíbula. Acompañamiento: diaforesis, disnea, náuseas, **sensación de muerte inminente** (angor animi). |\n| **ECG** | Elevación del ST ≥ 1 mm en **2 derivaciones contiguas** (o ≥ 2 mm en V1–V3 en hombres). |\n| **Biomarcadores** | Elevación de **troponina** (I o T) con patrón ascendente y/o descendente. |\n\n> ⚠️ **Truco MIR:** El IAMCEST se define por el **ST elevado**, no por la troponina. La troponina confirma la necrosis, pero el ST elevado es lo que activa el protocolo de reperfusión inmediata.\n\n---\n\n## 📊 ECG: Derivaciones y Vaso Culpad\n\n| Patrón ECG | Territorio | Vaso culpable más frecuente |\n|---|---|---|\n| **DII, DIII, aVF** | Inferior | **Coronaria derecha** (80%) |\n| **V1–V4** | Anterior | **Descendente anterior (DA)** |\n| **V1–V2** | Septal | DA (ramas septales) |\n| **V5–V6, D1, aVL** | Lateral | Circunfleja |\n| **V3R–V6R** | Ventrículo derecho | Coronaria derecha (oclusión proximal) |\n\n### Hallazgos evolutivos en el ECG:\n1. **Fase hiperaguda:** Ondas T hiperagudas (picos altos, picudos).\n2. **Fase aguda:** Elevación del ST → aparición de **onda Q patológica**.\n3. **Fase de evolución:** Normalización del ST → inversión de la T.\n4. **Fase crónica:** Onda Q persistente + onda T negativa o normalizada.\n\n> 🧠 **High-yield:** La onda Q patológica aparece en **horas a días**; su presencia indica necrosis establecida. No es necesaria para el diagnóstico agudo.\n\n---\n\n## 🧪 Biomarcadores\n\n| Biomarcador | Tiempo de elevación | Pico | Utilidad |\n|---|---|---|---|\n| **Mioglobina** | 1–2 h | 6–12 h | Más **precoz**, pero **inespecífica** (músculo esquelético) |\n| **Troponina I/T** | 3–4 h | 24 h | **Gold standard** (alta especificidad y sensibilidad) |\n| **CK-MB** | 4–6 h | 24 h | Útil para detectar **reinfarto** (desaparece antes) |\n\n> 🔑 **Regla práctica:** Si sospechas IAMCEST y el ECG es compatible, **NO esperes la troponina** para iniciar la reperfusión. El tratamiento se basa en el ECG.\n\n---\n\n## 💊 Tratamiento Farmacológico Inmediato (\"Pillola de Ataque\")\n\n### En la Urgencia / Pre-hospitalario:\n1. **AAS (ácido acetilsalicílico):** 300 mg vía oral (masticable).\n2. **Inhibidor P2Y12:**\n   - **Ticagrelor** 180 mg (preferente si ICP primaria planificada)\n   - **Clopidogrel** 600 mg (alternativa)\n3. **Anticoagulación:**\n   - **Enoxaparina** (preferente en fibrinólisis) o **heparina no fraccionada** (preferente en ICP).\n4. **Analgesia:** Morfina IV (cuidado con la hipotensión y la interacción con inhibidores P2Y12).\n5. **Oxígeno:** Solo si **SpO₂ < 90%** o insuficiencia respiratoria.\n6. **Nitratos:** Sublingual (o IV si persiste dolor y PA lo permite). Contraindicado en hipotensión, uso reciente de sildenafilo o insuficiencia ventricular derecha.\n7. **Betabloqueante:** Metoprolol IV (si no hay contraindicaciones: insuficiencia cardíaca avanzada, bradicardia, hipotensión, asma activa).\n\n### Tratamiento a largo plazo (estratificación secundaria):\n- **IECA / ARA-II** (preferente si FEVI < 40%, HTA, DM o ERC)\n- **Estatina de alta intensidad** (atorvastatina 80 mg)\n- **Betabloqueante oral** (metoprolol, bisoprolol, carvedilol)\n- **AAS a dosis baja** de por vida\n- **Inhibidor P2Y12 dual** (AAS + ticagrelor/clopidogrel) durante **12 meses** mínimo\n\n---\n\n## 🚨 Reperfusión: El Tratamiento Definitivo\n\n### Opción 1: **ICP Primaria (Angioplastia)** ⭐ Preferente\n- **Objetivo puerta-globo < 90 minutos** (desde el primer contacto con el servicio de cardiología intervencionista).\n- Indicada si el centro tiene hemodinamia disponible y el tiempo de traslado es < 120 min.\n- **Ventajas:** Mayor éxito de reperfusión, menor riesgo de hemorragia intracraneal, permite evaluar el ventrículo derecho y otras arterias.\n\n### Opción 2: **Fibrinólisis**\n- Indicada si la ICP primaria **no está disponible en < 120 minutos**.\n- **Ventana temporal:** Idealmente en las **primeras 3 horas** (beneficio máximo); se puede considerar hasta las **12 horas** del inicio de síntomas.\n- **Fármacos:** Tenecteplasa (preferente), alteplasa, reteplasa.\n- **Contraindicaciones absolutas:** Hemorragia activa, ACV previo < 3 meses, cirugía mayor reciente, trauma craneoencefálico, etc.\n\n### Tras fibrinólisis → **Traslado a centro con hemodinamia** (estrategia \"facilitada\") si hay signos de reperfusión incompleta (dolor persistente, ST no resuelto a los 60-90 min).\n\n---\n\n## ⚠️ Complicaciones Mecánicas (Días 3–5)\n\n| Complicación | Mecanismo | Clínica |\n|---|---|---|\n| **Rotura del tabique interventricular** | Necrosis del septo | **Shunt VD→VI**, soplo sistólico nuevo, hipotensión súbita, disnea |\n| **Disfunción papilar / Insuficiencia mitral aguda** | Isquemia o necrosis del músculo papilar | Soplo sistólico de regurgitación, edema pulmonar agudo |\n| **Rotura de pared libre** | Necrosis transmural | **Taponamiento cardíaco**, colapso hemodinámico súbito, muerte |\n\n> 🔥 **High-yield:** Estas complicaciones son más frecuentes en **infartos extensos** (anteriores) y en **primeros días**. Requieren diagnóstico urgente (ecocardiograma) y manejo quirúrgico.\n\n---\n\n## 🧩 Otras Complicaciones Importantes (MIR)\n\n- **Arritmias:** Fibrilación ventricular y taquicardia ventricular (más frecuentes en las primeras 48 h). Bloqueo AV (especialmente en IAM inferior → vaso derecho).\n- **Insuficiencia cardíaca aguda** (por necrosis extensa).\n- **Choque cardiogénico** (FEVI < 40%, amplia extensión).\n- **Pericarditis post-IAM** (fibrinósica, días 2–7, diferente a síndrome de Dressler que es autoinmune y aparece semanas-meses después).\n\n---\n\n## 📝 Resumen para Memorizar\n\n| Concepto | Respuesta rápida |\n|---|---|\n| **Definición** | Oclusión trombótica → necrosis → ST elevado |\n| **Diagnóstico** | Dolor + ST elevado + troponina ↑ |\n| **Tratamiento clave** | **Reperfusión urgente** (ICP primaria) |\n| **Objetivo ICP** | Puerta-globo **< 90 min** |\n| **Fibrinólisis** | Si ICP no disponible en < 120 min |\n| **Biomarcador gold standard** | **Troponina** |\n| **Complicación mecánica clásica** | Días 3-5: rotura septo, papilar, pared libre |\n| **IAM inferior → vaso** | Coronaria derecha |\n| **IAM anterior → vaso** | Descendente anterior |\n\n---\n\n¿Tienes alguna duda sobre algún aspecto concreto del IAMCEST o quieres que te ponga un caso clínico tipo MIR para practicar? 💪",
+      "metadata": null
+    },
+    {
+      "id": "51211a18-3be4-4965-92d3-d4703bab1c6b",
+      "createdAt": "2026-08-01T16:28:34.544Z",
+      "userId": "user-p3xdpby08lo",
+      "title": "Necrosis metastática del hígado",
+      "updatedAt": "2026-08-01T16:28:35.041Z"
+    },
+    {
+      "id": "068fdfdd-a6a0-4b16-8335-c889e9f267da",
+      "createdAt": "2026-08-01T16:28:34.549Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "51211a18-3be4-4965-92d3-d4703bab1c6b",
+      "role": "user",
+      "content": "necrosis metastática del hígado"
+    },
+    {
+      "id": "b57692c3-265c-4b63-848b-31c7e0a520da",
+      "createdAt": "2026-08-01T16:28:35.040Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "51211a18-3be4-4965-92d3-d4703bab1c6b",
+      "role": "assistant",
+      "content": "### Infarto agudo de miocardio con elevación del ST (IAMCEST)\n\nNecrosis miocárdica por oclusión trombótica de una arteria coronaria. Se diagnostica por la tríada: dolor torácico isquémico, cambios del ST en el ECG y elevación de biomarcadores (troponina). El pilar del tratamiento es la reperfusión precoz.\n\n**Puntos clave:**\n• Clínica: dolor torácico opresivo retroesternal >20 min, irradiado a miembro superior izquierdo o mandíbula, con diaforesis y sensación de muerte inminente.\n• ECG: elevación del ST en al menos 2 derivaciones contiguas. IAMCEST = criterio para reperfución inmediata. La onda Q patológica aparece en horas-días.\n• Biomarcadores: troponina I/T (se eleva a las 3-4 h, pico hacia las 24 h). La mioglobina es la más precoz pero inespecífica.\n• Tratamiento: oxígeno si SpO₂ <90%, AAS + inhibidor P2Y12 (clopidogrel/ticagrelor), anticoagulación, betabloqueante, IECA/ARA-II, estatina de alta intensidad.\n• Reperfusión: ICP (angioplastia) primaria preferente; si no disponible en <120 min, fibrinólisis.\n\n**Alto rendimiento (high-yield):**\n▸ ICP primaria: objetivo puerta-globo <90 min en centro con hemodinamia.\n▸ Complicaciones mecánicas (días 3-5): rotura del tabique interventricular, insuficiencia mitral por disfunción papilar, rotura de pared libre.\n▸ Derivaciones inferiores (DII, DIII, aVF) → arteria coronaria derecha; anteriores (V1-V4) → descendente anterior.\n\n_Cardiología_ · ¿Quieres practicar? Escribe *“pregunta de cardiología”* para un caso de test.",
+      "metadata": null
+    },
+    {
+      "id": "d3efea79-9fde-4756-b81f-9204b64fa885",
+      "createdAt": "2026-08-01T16:34:43.064Z",
+      "userId": "user-p3xdpby08lo",
+      "title": "Necrosis metastática del hígado",
+      "updatedAt": "2026-08-01T16:34:43.351Z"
+    },
+    {
+      "id": "de98af6b-236e-4e43-a6d0-e9786da795fe",
+      "createdAt": "2026-08-01T16:34:43.066Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "d3efea79-9fde-4756-b81f-9204b64fa885",
+      "role": "user",
+      "content": "necrosis metastática del hígado"
+    },
+    {
+      "id": "55d0ac10-d8b7-46b0-9805-ac6bca965ca8",
+      "createdAt": "2026-08-01T16:34:43.349Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "d3efea79-9fde-4756-b81f-9204b64fa885",
+      "role": "assistant",
+      "content": "### Infarto agudo de miocardio con elevación del ST (IAMCEST)\n\nNecrosis miocárdica por oclusión trombótica de una arteria coronaria. Se diagnostica por la tríada: dolor torácico isquémico, cambios del ST en el ECG y elevación de biomarcadores (troponina). El pilar del tratamiento es la reperfusión precoz.\n\n**Puntos clave:**\n• Clínica: dolor torácico opresivo retroesternal >20 min, irradiado a miembro superior izquierdo o mandíbula, con diaforesis y sensación de muerte inminente.\n• ECG: elevación del ST en al menos 2 derivaciones contiguas. IAMCEST = criterio para reperfución inmediata. La onda Q patológica aparece en horas-días.\n• Biomarcadores: troponina I/T (se eleva a las 3-4 h, pico hacia las 24 h). La mioglobina es la más precoz pero inespecífica.\n• Tratamiento: oxígeno si SpO₂ <90%, AAS + inhibidor P2Y12 (clopidogrel/ticagrelor), anticoagulación, betabloqueante, IECA/ARA-II, estatina de alta intensidad.\n• Reperfusión: ICP (angioplastia) primaria preferente; si no disponible en <120 min, fibrinólisis.\n\n**Alto rendimiento (high-yield):**\n▸ ICP primaria: objetivo puerta-globo <90 min en centro con hemodinamia.\n▸ Complicaciones mecánicas (días 3-5): rotura del tabique interventricular, insuficiencia mitral por disfunción papilar, rotura de pared libre.\n▸ Derivaciones inferiores (DII, DIII, aVF) → arteria coronaria derecha; anteriores (V1-V4) → descendente anterior.\n\n_Cardiología_ · ¿Quieres practicar? Escribe *“pregunta de cardiología”* para un caso de test.",
+      "metadata": null
+    },
+    {
+      "id": "8986f421-218b-4883-9753-33c6f70c4514",
+      "createdAt": "2026-08-01T16:37:52.537Z",
+      "userId": "user-p3xdpby08lo",
+      "title": "¿Cómo se diagnostica la EPOC?",
+      "updatedAt": "2026-08-01T16:37:52.810Z"
+    },
+    {
+      "id": "601150e4-cbbe-4d7e-91a1-bcb4f328ed04",
+      "createdAt": "2026-08-01T16:37:52.539Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "8986f421-218b-4883-9753-33c6f70c4514",
+      "role": "user",
+      "content": "¿Cómo se diagnostica la EPOC?"
+    },
+    {
+      "id": "93fa611e-cbf7-4fef-8dde-c01853f826ed",
+      "createdAt": "2026-08-01T16:37:52.809Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "8986f421-218b-4883-9753-33c6f70c4514",
+      "role": "assistant",
+      "content": "### Infarto agudo de miocardio con elevación del ST (IAMCEST)\n\nNecrosis miocárdica por oclusión trombótica de una arteria coronaria. Se diagnostica por la tríada: dolor torácico isquémico, cambios del ST en el ECG y elevación de biomarcadores (troponina). El pilar del tratamiento es la reperfusión precoz.\n\n**Puntos clave:**\n• Clínica: dolor torácico opresivo retroesternal >20 min, irradiado a miembro superior izquierdo o mandíbula, con diaforesis y sensación de muerte inminente.\n• ECG: elevación del ST en al menos 2 derivaciones contiguas. IAMCEST = criterio para reperfución inmediata. La onda Q patológica aparece en horas-días.\n• Biomarcadores: troponina I/T (se eleva a las 3-4 h, pico hacia las 24 h). La mioglobina es la más precoz pero inespecífica.\n• Tratamiento: oxígeno si SpO₂ <90%, AAS + inhibidor P2Y12 (clopidogrel/ticagrelor), anticoagulación, betabloqueante, IECA/ARA-II, estatina de alta intensidad.\n• Reperfusión: ICP (angioplastia) primaria preferente; si no disponible en <120 min, fibrinólisis.\n\n**Alto rendimiento (high-yield):**\n▸ ICP primaria: objetivo puerta-globo <90 min en centro con hemodinamia.\n▸ Complicaciones mecánicas (días 3-5): rotura del tabique interventricular, insuficiencia mitral por disfunción papilar, rotura de pared libre.\n▸ Derivaciones inferiores (DII, DIII, aVF) → arteria coronaria derecha; anteriores (V1-V4) → descendente anterior.\n\n_Cardiología_ · ¿Quieres practicar? Escribe *“pregunta de cardiología”* para un caso de test.",
+      "metadata": null
+    },
+    {
+      "id": "f1b77a1d-5bb5-4d13-b2b8-86890c08a60c",
+      "createdAt": "2026-08-01T16:38:03.462Z",
+      "userId": "user-p3xdpby08lo",
+      "title": "¿Qué es la preeclampsia?",
+      "updatedAt": "2026-08-01T16:38:17.567Z"
+    },
+    {
+      "id": "5503d9a7-699c-4dfa-be4c-dd8b39c34bfc",
+      "createdAt": "2026-08-01T16:38:03.465Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "f1b77a1d-5bb5-4d13-b2b8-86890c08a60c",
+      "role": "user",
+      "content": "¿Qué es la preeclampsia?"
+    },
+    {
+      "id": "e85c5941-a467-4511-9771-7dfc7be5dd33",
+      "createdAt": "2026-08-01T16:38:03.591Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "f1b77a1d-5bb5-4d13-b2b8-86890c08a60c",
+      "role": "assistant",
+      "content": "### Preeclampsia\n\nTrastorno hipertensivo del embarazo que aparece tras la semana 20, definido por hipertensión arterial de nueva aparición asociada a proteinuria o disfunción orgánica. La forma grave requiere ingreso y finalización de la gestación.\n\n**Puntos clave:**\n• Criterios: TA ≥140/90 tras la semana 20 + proteinuria ≥300 mg/24 h o disfunción orgánica.\n• Preeclampsia grave: TA ≥160/110, proteinuria >5 g/24 h, o datos de daño orgánico (HELLP, renal, cerebral).\n• Tratamiento grave: sulfato de magnesio (prevención de eclampsia) + antihipertensivo + finalización de la gestación.\n• Síndrome HELLP: hemólisis, enzimas hepáticas elevadas, plaquetopenia. Urgencia obstétrica.\n\n**Alto rendimiento (high-yield):**\n▸ El sulfato de magnesio es el fármaco de elección para la prevención y el tratamiento de la eclampsia.\n▸ La única curación definitiva es la finalización del embarazo.\n▸ El ácido acetilsalicílico en dosis bajas reduce el riesgo de preeclampsia en gestantes de alto riesgo.\n\n_Ginecología y Obstetricia_ · ¿Quieres practicar? Escribe *“pregunta de ginecología y obstetricia”* para un caso de test.",
+      "metadata": null
+    },
+    {
+      "id": "0559d49a-4297-4dd7-815f-21289b4bc3fb",
+      "createdAt": "2026-08-01T16:38:17.416Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "f1b77a1d-5bb5-4d13-b2b8-86890c08a60c",
+      "role": "user",
+      "content": "necrosis metastática del hígado"
+    },
+    {
+      "id": "6233cd8a-8527-4a23-99c9-970b418000dd",
+      "createdAt": "2026-08-01T16:38:17.564Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "f1b77a1d-5bb5-4d13-b2b8-86890c08a60c",
+      "role": "assistant",
+      "content": "### Infarto agudo de miocardio con elevación del ST (IAMCEST)\n\nNecrosis miocárdica por oclusión trombótica de una arteria coronaria. Se diagnostica por la tríada: dolor torácico isquémico, cambios del ST en el ECG y elevación de biomarcadores (troponina). El pilar del tratamiento es la reperfusión precoz.\n\n**Puntos clave:**\n• Clínica: dolor torácico opresivo retroesternal >20 min, irradiado a miembro superior izquierdo o mandíbula, con diaforesis y sensación de muerte inminente.\n• ECG: elevación del ST en al menos 2 derivaciones contiguas. IAMCEST = criterio para reperfución inmediata. La onda Q patológica aparece en horas-días.\n• Biomarcadores: troponina I/T (se eleva a las 3-4 h, pico hacia las 24 h). La mioglobina es la más precoz pero inespecífica.\n• Tratamiento: oxígeno si SpO₂ <90%, AAS + inhibidor P2Y12 (clopidogrel/ticagrelor), anticoagulación, betabloqueante, IECA/ARA-II, estatina de alta intensidad.\n• Reperfusión: ICP (angioplastia) primaria preferente; si no disponible en <120 min, fibrinólisis.\n\n**Alto rendimiento (high-yield):**\n▸ ICP primaria: objetivo puerta-globo <90 min en centro con hemodinamia.\n▸ Complicaciones mecánicas (días 3-5): rotura del tabique interventricular, insuficiencia mitral por disfunción papilar, rotura de pared libre.\n▸ Derivaciones inferiores (DII, DIII, aVF) → arteria coronaria derecha; anteriores (V1-V4) → descendente anterior.\n\n_Cardiología_ · ¿Quieres practicar? Escribe *“pregunta de cardiología”* para un caso de test.",
+      "metadata": null
+    },
+    {
+      "id": "bfebfbb8-79fe-4ad7-9c8e-4116a10fd071",
+      "createdAt": "2026-08-01T17:06:49.017Z",
+      "userId": "user-p3xdpby08lo",
+      "title": "Necrosis metastática del hígado",
+      "updatedAt": "2026-08-01T17:06:49.585Z"
+    },
+    {
+      "id": "d5f84a6f-e756-494a-8c5c-5209b3d55652",
+      "createdAt": "2026-08-01T17:06:49.020Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "bfebfbb8-79fe-4ad7-9c8e-4116a10fd071",
+      "role": "user",
+      "content": "necrosis metastática del hígado"
+    },
+    {
+      "id": "63c55dcb-acac-48b9-b928-6d100ae5e565",
+      "createdAt": "2026-08-01T17:06:49.584Z",
+      "userId": "user-p3xdpby08lo",
+      "conversationId": "bfebfbb8-79fe-4ad7-9c8e-4116a10fd071",
+      "role": "assistant",
+      "content": "### Infarto agudo de miocardio con elevación del ST (IAMCEST)\n\nNecrosis miocárdica por oclusión trombótica de una arteria coronaria. Se diagnostica por la tríada: dolor torácico isquémico, cambios del ST en el ECG y elevación de biomarcadores (troponina). El pilar del tratamiento es la reperfusión precoz.\n\n**Puntos clave:**\n• Clínica: dolor torácico opresivo retroesternal >20 min, irradiado a miembro superior izquierdo o mandíbula, con diaforesis y sensación de muerte inminente.\n• ECG: elevación del ST en al menos 2 derivaciones contiguas. IAMCEST = criterio para reperfución inmediata. La onda Q patológica aparece en horas-días.\n• Biomarcadores: troponina I/T (se eleva a las 3-4 h, pico hacia las 24 h). La mioglobina es la más precoz pero inespecífica.\n• Tratamiento: oxígeno si SpO₂ <90%, AAS + inhibidor P2Y12 (clopidogrel/ticagrelor), anticoagulación, betabloqueante, IECA/ARA-II, estatina de alta intensidad.\n• Reperfusión: ICP (angioplastia) primaria preferente; si no disponible en <120 min, fibrinólisis.\n\n**Alto rendimiento (high-yield):**\n▸ ICP primaria: objetivo puerta-globo <90 min en centro con hemodinamia.\n▸ Complicaciones mecánicas (días 3-5): rotura del tabique interventricular, insuficiencia mitral por disfunción papilar, rotura de pared libre.\n▸ Derivaciones inferiores (DII, DIII, aVF) → arteria coronaria derecha; anteriores (V1-V4) → descendente anterior.\n\n_Cardiología_ · ¿Quieres practicar? Escribe *“pregunta de cardiología”* para un caso de test.",
+      "metadata": null
+    }
+  ],
+  "users": [
+    {
+      "id": "user-p3xdpby08lo",
+      "username": "farid",
+      "password": "123456"
+    }
+  ]
+}

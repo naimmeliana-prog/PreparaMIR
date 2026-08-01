@@ -1,0 +1,251 @@
+export interface HardTopic {
+  id: string;
+  icon: string;
+  title: string;
+  whyHard: string;
+  approach: string;
+  keyPoints: string[];
+  example: string;
+  bucket?: "razonamiento" | "cálculo" | "imagen" | "urgencias";
+}
+
+export const hardTopics: HardTopic[] = [
+  {
+    id: "hard-bioestadistica",
+    icon: "📐",
+    title: "Bioestadística: OR, RR, RAR y NNT",
+    whyHard: "Mezcla fórmulas, interpretación clínica y diseño de estudio.",
+    approach: "Primero identifica el tipo de estudio. Casos-controles → OR. Cohortes/ensayos → RR. Luego traduce el resultado a lenguaje clínico.",
+    keyPoints: [
+      "OR en casos-controles.",
+      "RR en cohortes y ensayos.",
+      "RAR = riesgo control − riesgo experimental.",
+      "NNT = 1/RAR.",
+      "Si el IC incluye 1, no hay significación para RR/OR.",
+    ],
+    example: "Reducir un riesgo del 20% al 10% → RAR 10% → NNT 10.",
+    bucket: "cálculo",
+  },
+  {
+    id: "hard-pruebas",
+    icon: "🔬",
+    title: "Pruebas diagnósticas",
+    whyHard: "Porque sensibilidad, especificidad y valores predictivos se confunden con facilidad.",
+    approach: "Haz una tabla 2×2 mental y decide si la pregunta es de cribado, confirmación o prevalencia.",
+    keyPoints: [
+      "Cribado: sensibilidad alta.",
+      "Confirmación: especificidad alta.",
+      "VPP/VPN dependen de prevalencia.",
+      "LR+ y LR− ayudan más que VPP/VPN en comparaciones.",
+    ],
+    example: "En baja prevalencia, aunque una prueba sea buena, el VPP puede ser bajo.",
+    bucket: "razonamiento",
+  },
+  {
+    id: "hard-cribado",
+    icon: "🩻",
+    title: "Cribado poblacional y salud pública",
+    whyHard: "Hay que combinar epidemiología, coste-beneficio y sesgos.",
+    approach: "Aplica Wilson-Jungner: enfermedad relevante, fase presintomática, prueba válida y tratamiento precoz útil.",
+    keyPoints: [
+      "Sesgo de adelanto diagnóstico.",
+      "Sesgo de duración.",
+      "Selección de sanos.",
+      "No todo lo detectable merece cribado.",
+    ],
+    example: "Cribado de cáncer colorrectal sí; de enfermedad rara sin tratamiento eficaz, no.",
+    bucket: "razonamiento",
+  },
+  {
+    id: "hard-farmacologia",
+    icon: "💊",
+    title: "Farmacología clínica e interacciones",
+    whyHard: "Porque las respuestas dependen de comorbilidades, embarazo, riñón e interacciones.",
+    approach: "Piensa por familias y recuerda una contraindicación estrella por cada una.",
+    keyPoints: [
+      "Warfarina: teratógena, interacciones múltiples.",
+      "IECA/ARA-II: embarazo y estenosis bilateral de renal.",
+      "Aminoglucósidos: nefro y ototoxicidad.",
+      "Clozapina: agranulocitosis.",
+    ],
+    example: "En gestante con trombosis, HBPM; nunca warfarina.",
+    bucket: "razonamiento",
+  },
+  {
+    id: "hard-gestante",
+    icon: "🤰",
+    title: "Manejo clínico en el embarazo",
+    whyHard: "Porque cambia la seguridad de fármacos, pruebas y prioridades clínicas.",
+    approach: "Clasifica por trimestre, detecta urgencias obstétricas y elige la opción segura para madre y feto.",
+    keyPoints: [
+      "Preeclampsia grave: sulfato de magnesio + finalizar gestación.",
+      "HBPM en trombosis.",
+      "Evitar tetraciclinas, warfarina e IECA.",
+    ],
+    example: "Amenorrea + dolor + sangrado = descartar ectópico primero.",
+    bucket: "urgencias",
+  },
+  {
+    id: "hard-scores",
+    icon: "🔢",
+    title: "Escalas y puntos de corte",
+    whyHard: "Un solo punto cambia una decisión clínica.",
+    approach: "Memoriza el acrónimo y el umbral clave para ingreso, anticoagulación o gravedad.",
+    keyPoints: [
+      "CURB-65 ≥2 → ingreso.",
+      "CHA₂DS₂-VASc alto → anticoagulación.",
+      "Wells guía siguiente prueba.",
+      "NIHSS orienta gravedad.",
+    ],
+    example: "Neumonía con CURB-65 de 2 → ingreso hospitalario.",
+    bucket: "razonamiento",
+  },
+  {
+    id: "hard-imagen",
+    icon: "🖼️",
+    title: "Preguntas con imagen clínica",
+    whyHard: "Combinan interpretación visual y presión de tiempo.",
+    approach: "Lee primero el enunciado, identifica el hallazgo principal y después integra con la clínica.",
+    keyPoints: [
+      "ECG: ritmo, frecuencia, ST, QRS.",
+      "Rx tórax: consolidación, derrame, neumotórax.",
+      "TAC craneal: sangre vs isquemia.",
+      "Dermato: ABCDE.",
+    ],
+    example: "ST elevado en derivaciones contiguas + dolor → IAMCEST aunque la imagen sea simple.",
+    bucket: "imagen",
+  },
+  {
+    id: "hard-urgencias",
+    icon: "🚑",
+    title: "Urgencias tiempo-dependientes",
+    whyHard: "La dificultad no es el diagnóstico, sino elegir el orden correcto de actuación.",
+    approach: "Piensa en ABCDE y en ventanas terapéuticas.",
+    keyPoints: [
+      "Ictus: TAC y trombólisis <4,5 h.",
+      "IAMCEST: reperfusión precoz.",
+      "Meningitis: antibiótico precoz.",
+      "Shock séptico: líquidos + noradrenalina si precisa.",
+    ],
+    example: "En ictus, primero descartar hemorragia; no anticoagules a ciegas.",
+    bucket: "urgencias",
+  },
+  {
+    id: "hard-neonato",
+    icon: "👶",
+    title: "Neonatología de alto rendimiento",
+    whyHard: "Los valores normales, prioridades y diagnósticos cambian respecto al adulto.",
+    approach: "Pregunta clave: ¿esto en un recién nacido es fisiológico o patológico?",
+    keyPoints: [
+      "Ictericia en primeras 24 h = patológica.",
+      "Apgar no decide reanimación por sí solo.",
+      "Bronquiolitis: soporte, no antibiótico rutinario.",
+    ],
+    example: "Ictericia a las 12 h de vida → pensar en hemólisis, no en ictericia fisiológica.",
+    bucket: "urgencias",
+  },
+  {
+    id: "hard-hemato",
+    icon: "🩸",
+    title: "Anemias y microcitosis",
+    whyHard: "Las preguntas juegan con perfiles analíticos parecidos.",
+    approach: "Mira primero VCM y ferritina. Luego TIBC y saturación de transferrina.",
+    keyPoints: [
+      "Ferropenia: ferritina baja, TIBC alta.",
+      "Inflamación crónica: ferritina normal/alta, TIBC baja.",
+      "Talasemia: microcitosis con ferritina normal.",
+    ],
+    example: "Varón con ferropenia = descartar sangrado digestivo hasta demostrar lo contrario.",
+    bucket: "razonamiento",
+  },
+  {
+    id: "hard-renal",
+    icon: "🧂",
+    title: "Trastornos hidroelectrolíticos",
+    whyHard: "Requieren fisiología, números y priorización terapéutica.",
+    approach: "Antes de pensar en la causa, identifica qué mata primero: potasio, sodio o acidosis grave.",
+    keyPoints: [
+      "Hiperpotasemia grave: calcio IV, insulina + glucosa, medidas de eliminación.",
+      "Hiponatremia: corregir despacio para evitar mielinólisis.",
+      "Acidosis severa puede requerir diálisis si hay contexto renal.",
+    ],
+    example: "LRA con K 7,2 y ECG alterado → tratar potasio antes de ampliar estudio.",
+    bucket: "urgencias",
+  },
+  {
+    id: "hard-psiquiatria",
+    icon: "🧩",
+    title: "Psiquiatría diferencial",
+    whyHard: "Varias entidades comparten síntomas, pero cambian por duración y relación con estado de ánimo.",
+    approach: "Pregunta por duración, deterioro funcional y si la psicosis existe fuera de episodios afectivos.",
+    keyPoints: [
+      "Esquizofrenia: >6 meses.",
+      "Esquizoafectivo: psicosis + episodios afectivos, con psicosis aislada alguna vez.",
+      "Depresión psicótica: la psicosis ocurre dentro del episodio depresivo.",
+    ],
+    example: "Si hay síntomas psicóticos persistentes fuera de la depresión, no es solo depresión psicótica.",
+    bucket: "razonamiento",
+  },
+<<<<<<< HEAD
+  {
+    id: "hard-gasometria",
+    icon: "🧪",
+    title: "Gasometría y Trastornos Ácido-Base Mixtos",
+    whyHard: "Requiere seguir algoritmos secuenciales de pH, pCO₂ y HCO₃⁻, calculando Anion Gap.",
+    approach: "1º Mira pH (acidemia/alcalemia). 2º Mira quién es el primario (pCO₂ o HCO₃⁻). 3º Calcula el Anion Gap = Na − (Cl + HCO₃). 4º Comprueba compensación esperada.",
+    keyPoints: [
+      "Anion Gap normal (8-12): Diarrea, acidosis tubular renal.",
+      "Anion Gap elevado (>12): Cetoacidosis, Acidosis láctica, Uremia, Tóxicos (Metanol/Etilenglicol).",
+      "Si la pCO₂ no compensa exactamente lo previsto, hay un segundo trastorno respiratorio superpuesto.",
+    ],
+    example: "pH 7.18, pCO₂ 25, HCO₃ 9, Na 140, Cl 100 → Acidosis metabólica con Anion Gap alto (31) e hiperventilación compensatoria.",
+    bucket: "cálculo",
+  },
+  {
+    id: "hard-arritmias-qrs",
+    icon: "⚡",
+    title: "Taquicardias de QRS Ancho y Canalopatías",
+    whyHard: "Diferenciar Taquicardia Ventricular de TVSP con aberrancia y reconocer patología eléctrica primaria.",
+    approach: "Ante QRS ancho (>0.12s) e inestabilidad hemodinámica → Cardioversión eléctrica sin dudar. Si es estable, buscar criterios de Brugada/Vereckei.",
+    keyPoints: [
+      "QRS ancho en urgencias = Taquicardia Ventricular hasta demostrar lo contrario (85-90% de casos).",
+      "Síndrome de Brugada: Elevación del ST tipo cóncavo/tienda en V1-V2.",
+      "Síndrome de Wolff-Parkinson-White: PR corto (<0.12s) + Onda delta.",
+      "QT largo congénito/adquirido: Riesgo de Torsade de Pointes (tratar con Sulfato de Magnesio).",
+    ],
+    example: "Paciente con antecedente de cardiopatía isquémica + Taquicardia QRS ancho → tratar como TV, NUNCA dar verapamilo.",
+    bucket: "urgencias",
+  },
+  {
+    id: "hard-glomerulonefritis",
+    icon: "🩸",
+    title: "Diagnóstico Diferencial de Glomerulonefritis",
+    whyHard: "Múltiples síndromes histológicos con complementos (C3/C4) y anticuerpos que se solapan.",
+    approach: "Clasifica por clínica (Nefrótico vs Nefrítico) y luego por niveles de complemento plasmático (C3/C4 bajo vs normal).",
+    keyPoints: [
+      "C3 e hipercomplementemia consumida: Postestreptocócica, Membranoproliferativa, Lupus (C3 y C4 bajos).",
+      "Complemento NORMAL: Nefropatía IgA (Berger), Cambios Mínimos, Geometría Focal y Segmentaria, Membranosa.",
+      "Nefrótico puro en adultos: Glomerulopatía Membranosa (anti-PLA2R+). En niños: Cambios Mínimos.",
+    ],
+    example: "Varón de 50 años con proteinuria nefrótica masiva y anti-PLA2R positivo → Nefritis Membranosa.",
+    bucket: "razonamiento",
+  },
+  {
+    id: "hard-lcr",
+    icon: "💉",
+    title: "Análisis Diagnóstico del LCR en Meningitis",
+    whyHard: "Interpretar células, proteínas y glucosa en punción lumbar urgente para guiar antibioterapia.",
+    approach: "Calcula el cociente Glucosa LCR / Glucosa Suero (<0.4 es patológico). Mira el predominio leucocitario (PMN vs Linfocitos).",
+    keyPoints: [
+      "Bacteriana aguda: PMN elevados (>1000), Glucosa MUY baja (<40% del suero), Proteínas muy altas (>100 mg/dL).",
+      "Vírica: Linfocitos, Glucosa NORMAL (>60%), Proteínas ligeramente elevadas.",
+      "Tuberculosa / Fúngica: Linfocitos, Glucosa MUY baja, Proteínas extremadamente altas.",
+    ],
+    example: "LCR turbio con 3.000 células (90% PMN), glucosa 15 mg/dL y proteínas 250 mg/dL → Meningitis Bacteriana.",
+    bucket: "urgencias",
+  },
+];
+
+=======
+];
+>>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8

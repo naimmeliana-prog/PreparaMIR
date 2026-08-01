@@ -1,0 +1,2928 @@
+[
+  {
+    "id": "q-1",
+    "localNumber": 1,
+    "category": "Neumología",
+    "stem": "Pregunta asociada a la imagen 1. Varón de 65 años, sin antecedentes de interés, que consulta por tos, dolor torácico, fiebre, sudoración nocturna y disnea. En la radiografía de tórax se observa un derrame pleural unilate- ral izquierdo, por lo que se realiza una TC torá- cica que confirma el d errame pleural y donde además se observa un engrosamiento pleural y micronódulos subpleurales en el lóbulo superior izquierdo. Ante este hallazgo se decide realizar una toracoscopia con biop sia pleural, cuya his- tología se muestra en la figura. ¿Cuál es el diagnóstico anatomopatológico de la lesión pleural?:",
+    "options": [
+      "Infiltración por adenocarcinoma.",
+      "Inflamación aguda con abscesificación.",
+      "Inflamación granulomatosa.",
+      "Mesotelioma."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 1 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-2",
+    "localNumber": 2,
+    "category": "General",
+    "stem": "Pregunta asociada a la imagen 2. Varón de 20 años, de constitución longilínea, que presenta desde hace unos 15 meses disnea d e g r a n d e s e s f u e r z o s q u e p r o g r e s a a p e q u e ñ o s esfuerzos, con palpitaciones y dolor precordial. Fallece de forma súbita subiendo escaleras. En la necropsia se encuentra un vaso con la imagen de la figura. De las siguientes ¿cuál es la enfer- medad más probable?:",
+    "options": [
+      "Embolia pulmonar.",
+      "Traumatismo torácico con afectación de la aorta y el corazón.",
+      "Necrosis quística de la media y síndrome de Marfan.",
+      "Síndrome dislipémico familiar con grave ate- rosclerosis."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 2 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-3",
+    "localNumber": 3,
+    "category": "Cardiología",
+    "stem": "Pregunta asociada a la imagen 3. Mujer de 81 años que consulta por ictericia, dolor epigástrico, astenia y anorexia. La TC abdominal muestra en la cabeza del páncreas u n a l e s i ó n s ó l i d a , m a l d e l i m i t a d a , d e 2 4 x 2 4 m m , q u e c o n t a c t a f o c a l m e n t e c o n l a v e n a m e - sentérica superior y comporta dilatación de la vía biliar. No se observa un claro contacto con otras estructuras vasculares principales. Con la sospecha de proceso neoformativo se indica la intervención quirúrgica. Se muestra una ima- gen macroscópica y una microscópica de la lesión pancreática. El estudio inmunohistoquí- mico realizado en la pieza de resección muestra positividad para citoqueratina 7 y negatividad para sinaptofisina, tripsina, CK20 y CDX2. ¿Cuál es el diagnóstico anatomopatológico de la lesión pancreática?:",
+    "options": [
+      "Adenocarcinoma ductal.",
+      "Cistadenoma seroso.",
+      "Neoplasia mucinosa quística.",
+      "Pancreatitis autoinmune asociada a enferme- dad por IgG4."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 3 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-4",
+    "localNumber": 4,
+    "category": "General",
+    "stem": "Pregunta asociada a la imagen 4. Se realizó una biopsia hepática en una paciente de 37 años con obesidad y alteración de las transaminasas (figura 2014) que demostró una intensa esteatosis que afectaba al 70% de los hepatocitos. A los 7 años, tras ser diagnosticada de esclerosis múltiple y ganar peso, se repitió la biopsia (figura 2021). ¿Cuál de las siguientes afirmaciones describe mejor la evolución?:",
+    "options": [
+      "La esteatosis es menos intensa en la segunda biopsia, lo que es signo de buen pronóstico.",
+      "En la segunda biopsia no hay datos de infla- mación ni degeneración balonizante, lo que es signo de buen pronóstico.",
+      "La segunda biopsia muestra una situación estable.",
+      "La presencia de fibrosis en puentes demuestra la progresión de la enfermedad."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 4 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-5",
+    "localNumber": 5,
+    "category": "Traumatología",
+    "stem": "Pregunta asociada a la imagen 5. Mujer de 90 años de ed ad que presenta desde hace un mes y medio la lesión de la imagen. La lesión ha crecido rápidamente, sangra con faci- lidad y le ocasiona ligero dolor. De entre las siguientes opciones ¿cuál es la más probable?:",
+    "options": [
+      "Carcinoma de células escamosas cutáneo invasivo.",
+      "Carcinoma basocelular esclerodermiforme.",
+      "Sarcoma de Kaposi.",
+      "Lupus vulgar. - 2 -"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 5 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-6",
+    "localNumber": 6,
+    "category": "General",
+    "stem": "Pregunta asociada a la imagen 6. M u j e r d e 7 0 a ñ o s q u e c o n s u l t a p o r l e s i o n e s cutáneas de 1 año de evolución, sin otra sinto- matología asociada. Ni ega antecedentes perso- nales de interés. En la exploración presenta 20 placas eritematosas finamente descamativas y discretamente atróficas, de tamaños de 4 a 10 cm en glúteos, ambas axilas y mamas, sin otros hallazgos. La anatomía patológica muestra un infiltrado en dermis sup erficial de linfocitos atípicos en banda, con marcado epidermotro- pismo y formación de microabscesos intraepi- dérmicos. La analítica sanguínea completa fue normal. De los siguientes ¿cuál es el diagnóstico más probable?:",
+    "options": [
+      "Linfoma de Hodgkin cutáneo.",
+      "Síndrome de Sézary.",
+      "Linfoma no Hodgkin cutáneo tipo T.",
+      "Psoriasis pustulosa."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 6 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-7",
+    "localNumber": 7,
+    "category": "Pediatría",
+    "stem": "Pregunta asociada a la imagen 7. Niño de 23 meses de edad que ingresa por rec- torragias de repetición y anemización (hemo- globina 10,0 g/dl, hematocrito 27,9 %. Se reali- za estudio ecográfico abdominal sin hallazgos. Se muestra en la imagen la gammagrafía con pertecnetato-99mTc. De los siguientes, el diag- nóstico más probable es:",
+    "options": [
+      "Punto de sangrado de origen gástrico.",
+      "Divertículo de Meckel revestido de mucosa gástrica ectópica.",
+      "Punto de sangrado de origen genitourinario.",
+      "Gammagrafía normal."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 7 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-8",
+    "localNumber": 8,
+    "category": "Cardiología",
+    "stem": "Pregunta asociada a la imagen 8. Varón de 86 años con antecedentes de adeno- carcinoma de próstata t r a t a d o c o n b r a q u i t e r a - pia e HTA bien controlada que acude a urgen- cias por la aparición de edemas en MMII en las dos últimas semanas y disnea progresiva hasta hacerse de reposo. Se realiza ecocardiograma transtorácico observando una hipertrofia leve concéntrica del VI con función sistólica conser- vada. Se muestra la gammagrafía con pirofosfa- tos-99mTc. ¿Cuál de los siguientes es el diagnós- tico más probable?:",
+    "options": [
+      "Infarto agudo de miocardio.",
+      "Gammagrafía cardiaca normal.",
+      "Amiloidosis cardiaca mediada por transtireti- na.",
+      "Derrame pericárdico."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 8 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-9",
+    "localNumber": 9,
+    "category": "General",
+    "stem": "Pregunta asociada a la imagen 9. Mujer de 85 años, en tra tamiento con rosuvas- tatina por dislipemia, que en las últimas 4 se- manas presenta fiebre diaria (38-38,5ºC), bien tolerada, sin escalofríos y sin sudoración noc- turna, y pérdida de 3 kg de peso. En la explora- ción física destaca engrosamiento de la arteria temporal izquierda. Aná lisis: PCR 12 mg/dl, hemoglobina 9,5 g/dl. Radiografía de tórax normal. El resultado de la PET/TC se muestra en la figura. En este contexto ¿cuál es la res- puesta correcta?:",
+    "options": [
+      "La fiebre o febrícula es un síntoma presente en menos del 10 % de los pacientes.",
+      "Cuando se diagnostica la enfermedad, los hallazgos radiológicos (como los observados en esta PET/TC) están presentes en un 50-70 % de los pacientes.",
+      "Atendiendo a los hallazgos de la PET/TC en esta paciente tiene indicación de tratamiento inmediato con glucocorticoides (20 mg/día) y tocilizumab.",
+      "La PET/TC es la técnica más específica para establecer el diagnóstico."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 9 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-10",
+    "localNumber": 10,
+    "category": "General",
+    "stem": "Pregunta asociad a a la imagen 10. Mujer de 30 años sin cirugías previas en estudio de esterilidad primaria de 18 meses de evolu- ción. No existen hallazgos patológicos en su pareja masculina. La ecografía ginecológica es normal. La histerosalpin gografía se muestra en l a i m a g e n . C o n e s t o s d a t o s ¿ c u á l s e r í a e l s i - guiente procedimiento a realizar?:",
+    "options": [
+      "Fecundación in vitro.",
+      "Inseminación artificial.",
+      "Salpinguectomía bilateral laparoscópica.",
+      "Cromopertubación laparoscópica."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 10 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-11",
+    "localNumber": 11,
+    "category": "General",
+    "stem": "Pregunta asociad a a la imagen 11. Varón de 52 años, obeso, que acude a urgencias por pérdida de visión brusca en el ojo derecho. En la exploración del fondo de ojo encontramos la imagen representada. El resto de la explora- ción se encuentra dentro de la normalidad. ¿Cuál de las siguientes patologías presenta?:",
+    "options": [
+      "Retinopatía hipertensiva aguda con estrella macular.",
+      "Retinopatía diabética proliferativa con afecta- ción de cuatro cuadrantes.",
+      "Retinitis por citomegalovirus.",
+      "Trombosis de vena central de la retina. - 3 -"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 11 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-12",
+    "localNumber": 12,
+    "category": "General",
+    "stem": "Pregunta asociad a a la imagen 12. Varón de 62 años que consulta por una masa laterocervical derecha de crecimiento progresi- vo que se acompaña de odinofagia. Fumador de 1 paquete de cigarrillos al día desde hace 30 años. Las exploraciones de cavidad oral, orofa- ringoscópica, rinoscópica y otoscópica son nor- males. En la palpación cervical se identifica una adenopatía a nivel III de 4 cm, dura y adherida a planos profundos. ¿Cuál es el diagnóstico clínico más probable según la imagen de larin- goscopia?:",
+    "options": [
+      "Carcinoma transglótico derecho con adenopa- tía metastásica.",
+      "Carcinoma de seno piriforme derecho con adenopatía metastásica.",
+      "Carcinoma de supraglotis derecha con adeno- patía metastásica.",
+      "Carcinoma de amígdala palatina derecha con adenopatía metastásica."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 12 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-13",
+    "localNumber": 13,
+    "category": "General",
+    "stem": "Pregunta asociad a a la imagen 13. Mujer de 64 años que consulta por dolor cen- trotorácico de 24 horas de evolución sin otras manifestaciones clínicas. En la radiografía de tórax ¿qué hallazgo se encuentra?:",
+    "options": [
+      "Aneurisma aórtico.",
+      "Pericarditis aguda.",
+      "Neumonía.",
+      "Hernia hiatal."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 13 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-14",
+    "localNumber": 14,
+    "category": "General",
+    "stem": "Pregunta asociad a a la imagen 14. Varón de 74 años que consulta por dolor en hemitórax derecho de características pleuríticas de 1 semana de evolución, disnea de moderados esfuerzos, tos productiva y febrícula, sin sín- drome general. En la analítica destaca PCR 92,9 mg/L y dímero D 1.630 ng/ml (normal <500). Se muestra la radiografía de tórax póste- ro-anterior. ¿Cuál es el diagnóstico de sospecha y la actitud a seguir?:",
+    "options": [
+      "Solicitar angioTC de arterias pulmonares por sospecha de tromboembolismo pulmonar.",
+      "Iniciar tratamiento antibiótico por sospecha de neumonía sin signos de complicación y control radiológico en 4-6 semanas.",
+      "Derivarle a consulta especializada por sospe- cha radiológica de carcinoma de pulmón.",
+      "Solicitar radiografía en decúbito lateral dere- cho por sospecha de derrame pleural encapsu- lado previo a toracocentesis."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 14 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-15",
+    "localNumber": 15,
+    "category": "General",
+    "stem": "Pregunta asociad a a la imagen 15. En un paciente anticoagulado y antiagregado que presenta lenguaje incoherente sin otras manifestaciones clínicas asociadas, con una imagen en la TC craneal como la que se mues- tra, ¿cuál es el diagnóstico más probable?:",
+    "options": [
+      "Hemorragia subaracnoidea.",
+      "Hematoma intraparenquimatoso.",
+      "Hematoma epidural.",
+      "Hematoma subdural."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 15 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-16",
+    "localNumber": 16,
+    "category": "Aparato digestivo",
+    "stem": "Pregunta asociad a a la imagen 16. Varón de 47 años sin antecedentes de interés que acude a urgencias por fiebre de hasta 39ºC con escalofríos y sudoración, de una semana de evolución, acompañada de dolor epigástrico y malestar general. Se realiza TC abdominopélvi- ca con contraste endovenoso que se muestra en la imagen. ¿Cuál de los siguientes diagnósticos es más probable?:",
+    "options": [
+      "Absceso hepático.",
+      "Hemangioma hepático.",
+      "Hepatocarcinoma.",
+      "Hiperplasia nodular focal con necrosis en su interior."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 16 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-17",
+    "localNumber": 17,
+    "category": "General",
+    "stem": "Pregunta asociad a a la imagen 17. Varón de 74 años sin antecedentes de interés que consulta por presentar desde hace 15 días sensación continua de distensión abdominal e intolerancia oral con vómitos ocasionales de contenido maloliente. En la analítica únicamen- te destaca glucemia 110 mg/dl, PCR 6,3 mg/L (normal 0-5) y 13.140 leucocitos/microL. Se realiza TC abdominal con contraste intraveno- so, que se muestra. Considerando los datos clínicos y la prueba de imagen ¿qué diagnóstico es más probable?:",
+    "options": [
+      "Obstrucción gástrica por neoplasia antropiló- rica.",
+      "Gastritis enfisematosa.",
+      "Gastroparesia diabética.",
+      "Úlcera péptica con signos de perforación con- tenida. - 4 -"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 17 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-18",
+    "localNumber": 18,
+    "category": "Infecciosas",
+    "stem": "Pregunta asociad a a la imagen 18. Varón de 43 años alérgico a la penicilina que presenta boca séptica, síndrome febril, disfagia, edema, eritema y dolor submaxilar de una se- mana de evolución, sin mejoría con tratamiento antiinflamatorio y antibiótico. Se aporta imagen de la TC cervicofacial realizada tras la adminis- tración de contraste intravenoso ¿Qué diagnós- tico le sugiere?:",
+    "options": [
+      "Angina de Ludwig.",
+      "Absceso lingual.",
+      "Faringitis abscesificada.",
+      "Quiste dermoide lingual abscesificado."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 18 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-19",
+    "localNumber": 19,
+    "category": "Neumología",
+    "stem": "Pregunta asociad a a la imagen 19. Varón de 56 años con antecedentes de infección por VIH diagnosticada hace unos meses, que es encontrado confuso, desorientado y con hemi- paresia derecha. La familia refiere que presenta una pérdida significativa de peso en los últimos 6 meses, así como diarrea frecuente. No ha co- menzado tratamiento ant irretroviral por deseo personal. Los análisis muestran una carga viral de VIH-1 de 600.000 copias/mL, 130 linfocitos CD4, 900 linfocitos totales y un cociente CD4/CD8 de 0,1. La serología a toxoplasma, la carga viral de CMV y el antígeno criptocócico en sangre son negativos. La RM cerebral se muestra en la figura. ¿Cuál es el diagnóstico más probable?:",
+    "options": [
+      "Toxoplasmosis cerebral.",
+      "Linfoma primario del sistema nervioso cen- tral.",
+      "Leucoencefalopatía multifocal progresiva.",
+      "Encefalitis por CMV."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 19 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-20",
+    "localNumber": 20,
+    "category": "Cardiología",
+    "stem": "Pregunta asociad a a la imagen 20. Paciente de 75 años diagnosticado de endocardi- tis bacteriana por Staphylococcus aureus resis- tente a la meticilina tras presentar fiebre de 10 días de evolución, soplo sistólico en foco mitral 1-2/6, ecocardiografía transtorácica compatible y hemocultivos positivos. Se le está adminis- trando vancomicina. A los 4 días de antibiote- rapia presenta disnea intensa, ortopnea y TA 110/55 mmHg. Se aprecia un soplo en foco mi- tral irradiado a axila 3/6. Se muestra la radio- grafía de tórax. Indique la actitud más apropia- da:",
+    "options": [
+      "Añadir al tratamiento voriconazol.",
+      "Sustituir la vancomicina por daptomicina y administrar furosemida.",
+      "Añadir gentamicina, rifampicina, furosemida y nitritos.",
+      "Indicar cirugía de recambio valvular urgente y tratamiento deplectivo."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 20 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-21",
+    "localNumber": 21,
+    "category": "General",
+    "stem": "Pregunta asociad a a la imagen 21. La presencia de lesiones cutáneas en forma de pápulas violáceas en dorso de articulaciones interfalángicas, como las que se aprecian en la figura, son muy características de:",
+    "options": [
+      "Lupus cutáneo subagudo.",
+      "Porfiria cutánea tarda.",
+      "Dermatomiositis.",
+      "Artropatía psoriásica."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 21 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-22",
+    "localNumber": 22,
+    "category": "Cardiología",
+    "stem": "Pregunta asociad a a la imagen 22. Mujer de 64 años con antecedentes de diabetes mellitus, hipertensión arterial y obesidad (índi- ce de masa corporal 34) que es atendida en su domicilio por el servicio de emergencias tras presentar durante el descanso nocturno dolor torácico, sudoración int ensa, mareos y vómitos de dos horas de evolución. Se realiza electro- cardiograma urgente (imagen). En la explora- ción física se aprecia una ligera disminución del nivel de conciencia, frialdad acra y tensión arte- rial de 75/30 mmHg, además de un aumento de la presión venosa yugular durante la inspira- ción y la aparición de pulso paradójico, sin evidencia de edema pulmonar en la ausculta- ción. Con los datos clínicos, exploratorios y electrocardiográficos expuestos, ¿qué complica- ción del infarto sospecha en esta paciente?:",
+    "options": [
+      "Afectación de ventrículo derecho.",
+      "Rotura del septo interventricular basal.",
+      "Rotura del músculo papilar posteromedial mitral.",
+      "Pseudoaneurisma ventricular inferobasal."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 22 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-23",
+    "localNumber": 23,
+    "category": "Cardiología",
+    "stem": "Pregunta asociad a a la imagen 23. Varón de 19 años con antecedentes familiares de muerte súbita en padre que acude por clínica de ángor y síncopes en esfuerzo, con sensación de palpitaciones rápidas con el esfuerzo. Pre- senta el ECG que se adjunta. Se realiza un eco- cardiograma y es diagnosticado de una miocar- diopatía. Considerando su sospecha del tipo de miocardiopatía que presenta, señale la respues- ta verdadera:",
+    "options": [
+      "La fracción de eyección del ventrículo iz- quierdo muy frecuentemente es inferior al 55 %.",
+      "E s t a e n t i d a d e s d e b i d a a u n a h i p e r t r o f i a d e l tabique con obstrucción dinámica en el tracto de salida del ventrículo izquierdo.",
+      "No se asocia a disfunción diastólica.",
+      "El grosor de la pared del ventrículo izquierdo es normal o esta disminuido. - 5 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 23 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-24",
+    "localNumber": 24,
+    "category": "General",
+    "stem": "Pregunta asociad a a la imagen 24. En esta genealogía se observa un patrón de herencia autosómica dominante con un salto de generación en II-1 (su padre I-1 y su hijo III-1 están afectados por la enfermedad mientras que II-1 no la manifiesta). ¿Cómo se llama este fe- nómeno?:",
+    "options": [
+      "Herencia mitocondrial.",
+      "Expresividad variable.",
+      "Penetrancia incompleta.",
+      "Variación en el fenotipo debida al ambiente."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 24 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-25",
+    "localNumber": 25,
+    "category": "Neumología",
+    "stem": "Pregunta asociad a a la imagen 25. La imagen corresponde a 5 minutos de estudio de una poligrafía respiratoria en un varón de 62 años. ¿Qué tipo de evento respiratorio se ve en la misma?:",
+    "options": [
+      "Apnea obstructiva.",
+      "Esfuerzo respiratorio asociado a microdesper- tar.",
+      "Apnea central.",
+      "Hipopnea."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 25 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-26",
+    "localNumber": 26,
+    "category": "General",
+    "stem": "¿Cuál de los siguientes estudios de la coagula- ción se encontraría alterado en un paciente en el que se sospecha un trastorno hemorrágico he- reditario por deficiencia del factor VII?:",
+    "options": [
+      "Tiempo de tromboplastina parcial activado.",
+      "Tiempo de trombina.",
+      "Tiempo de protrombina.",
+      "Determinación de factor von Willebrand."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 26 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-27",
+    "localNumber": 27,
+    "category": "General",
+    "stem": "En relación con la toxicidad del etanol, señale la afirmación correcta:",
+    "options": [
+      "El acetato producido en el metabolismo hepá- tico del etanol es oxidado en este tejido para obtener energía.",
+      "El incremento en la relación NADH/NAD+ en el metabolismo hepático del etanol inhibe la gluconeogénesis.",
+      "El ácido úrico compite con el lactato en la excreción urinaria, contribuyendo a la hiper- lactacidemia.",
+      "Los principales marcadores bioquímicos de ingesta habitual de etanol son las transamina- sas, especialmente la alanina- aminotransferasa sobre la aspartato- aminotransferasa."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 27 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-28",
+    "localNumber": 28,
+    "category": "General",
+    "stem": "El perfil metabólico a las dos horas de haber ingerido una comida con abundantes proteínas y pocos hidratos de carbono incluye todos los siguientes cambios EXCEPTO:",
+    "options": [
+      "Aumento de la oxidación de aminoácidos de cadena ramificada en el músculo esquelético.",
+      "Aumento de los niveles de glucagón.",
+      "Aumento de la gluconeogénesis hepática.",
+      "Aumento de la utilización de citrulina por los enterocitos."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 28 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-29",
+    "localNumber": 29,
+    "category": "Nefrología",
+    "stem": "En relación con el control fisiológico hormonal y por autacoides de la f iltración glomerular y del flujo sanguíneo renal, indique la afirmación FALSA:",
+    "options": [
+      "El óxido nítrico derivado del endotelio au- menta la resistencia vascular y disminuye la filtración glomerular.",
+      "Las prostaglandinas y la bradicinina reducen la resistencia vascular renal y tienden a au- mentar la filtración glomerular.",
+      "La noradrenalina y la adrenalina contraen los vasos sanguíneos y reducen la filtración glo- merular.",
+      "La angiotensina II contrae preferentemente las arteriolas eferentes en la mayoría de los estados fisiológicos."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 29 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-30",
+    "localNumber": 30,
+    "category": "General",
+    "stem": "Con respecto a la actividad eléctrica del múscu- lo liso gastrointestinal en una situación fisiológi- ca, indique la afirmación FALSA:",
+    "options": [
+      "El ritmo de casi todas las contracciones gas- trointestinales viene determinado por la fre- cuencia de las ondas lentas.",
+      "La despolarización de las ondas lentas viene determinada por la entrada de iones sodio y calcio.",
+      "Los potenciales en espiga son potenciales de acción y tienen una duración mayor que el de las grandes fibras nerviosas.",
+      "En la generación y características de los po- tenciales en espiga es determinante la partici- pación de iones calcio."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 30 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-31",
+    "localNumber": 31,
+    "category": "General",
+    "stem": "En relación con el volumen y flujo sanguíneo en los pulmones, en un sujeto sano y en bipedesta- ción, señale la afirmación FALSA:",
+    "options": [
+      "En la espiración forzada se puede generar trasvase de sangre de la circulación pulmonar a la circulación sistémica.",
+      "Cuando disminuye la concentración de oxí- geno en los alvéolos, los vasos adyacentes se dilatan.",
+      "El ejercicio aumenta el flujo sanguíneo en todas las zonas pulmonares.",
+      "El aumento del gasto cardiaco durante el ejer- cicio intenso es asumido normalmente sin grandes aumentos en la presión arterial pul- monar. - 6 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 31 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-32",
+    "localNumber": 32,
+    "category": "Neurología",
+    "stem": "En cuanto a las características de los potencia- les de acción que presentan las fibras muscula- res esqueléticas, en relación con los potenciales de acción de las fibras de las motoneuronas A alfa que las inervan, señale la respuesta INCO- RRECTA:",
+    "options": [
+      "El potencial de membrana de reposo tiene un valor similar.",
+      "La duración del potencial de acción de la fibra muscular es mayor.",
+      "La velocidad de conducción del potencial de acción de la fibra muscular es menor.",
+      "El flujo de corriente en la profundidad de la fibra muscular es similar al de la motoneuro- na."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 32 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-33",
+    "localNumber": 33,
+    "category": "General",
+    "stem": "Las diferentes clases ( isotipos) de inmunoglobu- linas (Ig) tienen diferentes funciones que de- penden de los fragmentos Fc de sus cadenas pesadas. ¿Cuál de las siguientes afirmaciones es FALSA?:",
+    "options": [
+      "La IgA se une al receptor poli-Ig (pIgR) para atravesar la placenta y participar en la defensa del neonato.",
+      "La IgG se une al receptor III para Fc-gamma (Fc-gamma-RIII) de los fagocitos activando el proceso de opsonización.",
+      "La IgM se une a C1q y activa la vía clásica del complemento contribuyendo a la elimina- ción de bacterias extracelulares.",
+      "La IgE se une al receptor para Fc-épsilon (Fc- épsilon-R) y activa a eosinófilos y mastocitos participando en la defensa frente a los helmin- tos."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 33 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-34",
+    "localNumber": 34,
+    "category": "General",
+    "stem": "En la inmunoterapia antitumoral basada en el uso de anticuerpos monoclonales contra puntos de control inmunológico (checkpoints) destaca el uso de los anticuerpos monoclonales que blo- quean la interacción entre PD-1 y sus ligandos. ¿Cuál de las siguientes afirmaciones es cierta?:",
+    "options": [
+      "La molécula PD-1 es un receptor inhibidor de los linfocitos T que se expresa mayoritaria- mente en linfocitos T naive.",
+      "La interacción de PD-1 y sus ligandos inhibe la activación de los lin focitos T en los gan- glios linfáticos.",
+      "El bloqueo de PD-1 o de sus ligandos poten- cia la capacidad antitumoral de los linfocitos T CD8+.",
+      "El uso de este tipo de inmunoterapia no se debe combinar con tratamientos de quimiote- rapia."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 34 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-35",
+    "localNumber": 35,
+    "category": "General",
+    "stem": "Diferentes mutaciones en el gen AIRE (Auto- immune Regulator) causan una enfermedad rara denominada síndrome poliglandular auto- inmune tipo 1 (APS-1). Respecto al gen ¿cuál de las siguientes afirmaciones es cierta?:",
+    "options": [
+      "Está ligado al cromosoma X, por lo que el síndrome APS-1 también se conoce como IPEX (Inmunodesregulación, Poliendocrino- patía y Enteropatía ligada al cromosoma X).",
+      "Se expresa en los timocitos que no expresan CD4 ni CD8 (doble negativos) promoviendo su expansión y participando en el proceso de selección positiva en el timo.",
+      "S e e x pr e s a e n l a s c é l ul a s T r e gul a do r a s c o n- trolando su función y siendo responsable del proceso de tolerancia periférica.",
+      "Se expresa en células epiteliales de la médula tímica regulando la expresión antígenos espe- cíficos de otros tejidos y participando en el proceso de selección negativa en el timo."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 35 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-36",
+    "localNumber": 36,
+    "category": "General",
+    "stem": "Un estudio reciente indica que aproximadamen- t e e l 1 0 - 2 0 % d e l o s p a c i e n t e s m u y g r a v e s o fallecidos por COVID-19 poseen autoanticuer- pos neutralizantes de los interferones de tipo I. Los interferones de tipo I:",
+    "options": [
+      "Inhiben la actividad citotóxica de los linfoci- tos T CD8+ contra las células infectadas.",
+      "Son producidos por linfocitos CD4+ Th1 tras el reconocimiento de péptidos víricos median- te el receptor T para el antígeno.",
+      "Activan la expresión de genes que confieren a la célula huésped una resistencia mayor a la infección viral.",
+      "Inhiben la expresión de los antígenos de his- tocompatibilidad (HLA) de clase I en las cé- lulas infectadas. 3 7 . R e s p e c t o a l a s c é l u l a s T r e g u l a d o r a s ( T r e g ) e s cierto que: 1. Colaboran en la eliminación de células tumo- rales. 2. Expresan el correceptor inhibidor CTLA-4. 3. Coexpresan tanto CD4 como CD8. 4. Liberan citoquinas como IL-17 o IL-22. - 7 - 38. Mujer de 25 años con antecedentes de asma bronquial alérgica por sensibilización a pólenes de gramíneas y dermatitis atópica. Presenta de forma brusca hipotensión, taquicardia, urtica- ria y broncoespasmo tras ingerir cacahuetes y es trasladada a urgencias. ¿Cuál sería el orden de los fármacos a administrar y qué prueba de laboratorio podría solicitarse para ser evaluada posteriormente?: 1. Adrenalina intramuscular, seguida de un broncodilatador inhalado tipo SABA y dexclorfeniramina intramuscular. A continua- ción solicitar triptasa sérica. 2. Un broncodilatador inhalado tipo SABA, seguido de dexclorfeniramina intramuscular y adrenalina intramuscular. A continuación so- licitar triptasa sérica. 3. Dexclorfeniramina intramuscular, seguida de un broncodilatador inhalado tipo SABA y adrenalina intramuscular. A continuación so- licitar proteína catiónica del eosinófilo. 4. Adrenalina intramuscular, seguida de un broncodilatador inhalado tipo SABA y dexclorfeniramina intramuscular. A continua- ción solicitar proteína catiónica del eosinófi- lo. 39. Paciente de 35 años de edad que consulta para confirmar una sospecha de alergia a Anisakis simplex. Ha sufrido previamente un cuadro clínico de anisaquiasis gastrointestinal tras ingerir pescado. En las pruebas efectuadas se evidencian ni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 36 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-38",
+    "localNumber": 38,
+    "category": "Neumología",
+    "stem": "Mujer de 25 años con antecedentes de asma bronquial alérgica por sensibilización a pólenes de gramíneas y dermatitis atópica. Presenta de forma brusca hipotensión, taquicardia, urtica- ria y broncoespasmo tras ingerir cacahuetes y es trasladada a urgencias. ¿Cuál sería el orden de los fármacos a administrar y qué prueba de laboratorio podría solicitarse para ser evaluada posteriormente?:",
+    "options": [
+      "Adrenalina intramuscular, seguida de un broncodilatador inhalado tipo SABA y dexclorfeniramina intramuscular. A continua- ción solicitar triptasa sérica.",
+      "Un broncodilatador inhalado tipo SABA, seguido de dexclorfeniramina intramuscular y adrenalina intramuscular. A continuación so- licitar triptasa sérica.",
+      "Dexclorfeniramina intramuscular, seguida de un broncodilatador inhalado tipo SABA y adrenalina intramuscular. A continuación so- licitar proteína catiónica del eosinófilo.",
+      "Adrenalina intramuscular, seguida de un broncodilatador inhalado tipo SABA y dexclorfeniramina intramuscular. A continua- ción solicitar proteína catiónica del eosinófi- lo."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 38 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-39",
+    "localNumber": 39,
+    "category": "General",
+    "stem": "Paciente de 35 años de edad que consulta para confirmar una sospecha de alergia a Anisakis simplex. Ha sufrido previamente un cuadro clínico de anisaquiasis gastrointestinal tras ingerir pescado. En las pruebas efectuadas se evidencian niveles de Ig E específica de 10 KU/l frente a Anisakis simplex. De las siguientes ¿cuál sería la recomendación d ietética para este pa- ciente?:",
+    "options": [
+      "No puede comer ningún pescado, crustáceo, molusco ni cefalópodo.",
+      "Puede comer pescado fresco cocinado a la plancha.",
+      "Puede comer pescado ultracongelado comer- cialmente.",
+      "Puede comer pescado fresco marinado o ahumado en frío."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 39 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-40",
+    "localNumber": 40,
+    "category": "General",
+    "stem": "Mujer de 16 años diagnosticada de rinoconjun- tivitis alérgica por sensibilización a pólenes de gramíneas desde los 10 años, que no controla totalmente la sintomatología en época de polini- zación con antihistamínicos orales y corticoides tópicos nasales. ¿Qué opción terapéutica etioló- gica estaría indicada?:",
+    "options": [
+      "Inmunoterapia específica vía sublingual o vía subcutánea durante un periodo mínimo de 3 años.",
+      "Inmunoterapia específica vía sublingual o vía subcutánea durante un periodo máximo de 1 año.",
+      "Omalizumab vía subcutánea cada 4 semanas durante un período máximo de 1 año.",
+      "Omalizumab vía subcutánea cada 4 semanas durante un período mínimo de 6 meses."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 40 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-41",
+    "localNumber": 41,
+    "category": "Neumología",
+    "stem": "Se realiza un estudio para determinar la posible relación entre la contaminación ambiental por SO2 en diversas zonas ge ográficas y el número de visitas a urgencias por asma. Sobre el diseño del estudio, señale la respuesta correcta:",
+    "options": [
+      "Estudio de correlación ecológica.",
+      "Estudio de incidencia.",
+      "Estudio de prevalencia.",
+      "Estudio de cohortes."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 41 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-42",
+    "localNumber": 42,
+    "category": "Neumología",
+    "stem": "¿Qué tipo de medidas de precaución deben adoptarse ante un paciente con neumonía y antigenuria positiva a Legionella pneumophila?:",
+    "options": [
+      "Precauciones de transmisión por gotas.",
+      "Precauciones de transmisión por contacto.",
+      "Precauciones de transmisión por aire.",
+      "Precauciones estándar."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 42 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-43",
+    "localNumber": 43,
+    "category": "General",
+    "stem": "En un meta-análisis, el estimador combinado de los resultados de los estudios revisados es:",
+    "options": [
+      "L a s u m a d e l o s r e s u l t a d o s d e t o d o s l o s e s t u - dios.",
+      "La media aritmética de los resultados de todos los estudios.",
+      "La media ponderada de los resultados de to- dos los estudios.",
+      "El porcentaje de resultados favorables a la hipótesis estudiada en todos los estudios."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 43 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-44",
+    "localNumber": 44,
+    "category": "General",
+    "stem": "La especificidad de una prueba diagnóstica es del 94 %. ¿Cuál es la interpretación correcta?:",
+    "options": [
+      "De cada 100 resultados negativos, 94 corres- ponden a pacientes sanos.",
+      "De cada 100 pacientes sanos, en 94 el resulta- do de la prueba será negativo.",
+      "De cada 100 pacientes enfermos, en 6 el re- sultado de la prueba será negativo.",
+      "De cada 100 resultados positivos, 6 corres- ponden a pacientes enfermos. - 8 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 44 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-45",
+    "localNumber": 45,
+    "category": "General",
+    "stem": "En la valoración del riesgo de sesgo en los ensa- yos clínicos ¿cuál de los siguientes criterios se considera?:",
+    "options": [
+      "Pérdidas en el seguimiento.",
+      "Falta de representatividad de la muestra.",
+      "Insuficiente tamaño muestral.",
+      "Escasa comparabilidad de los casos y contro- les."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 45 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-46",
+    "localNumber": 46,
+    "category": "General",
+    "stem": "Un ensayo clínico controlado ha evaluado la eficacia de un nuevo antiagregante en pacientes graves con síndrome coronario agudo. En el grupo de tratamiento convencional (control) la mortalidad fue del 10 % en mujeres y del 8 % en hombres. En el grupo de intervención con el nuevo antiagregante, la mortalidad se redujo a l a m i t a d d e l o b s e r v a d o e n e l c o n t r o l t a n t o e n mujeres como en hombres. En relación con la eficacia del nuevo antiagregante para mejorar la supervivencia según el género, señale la res- puesta correcta:",
+    "options": [
+      "Es más eficaz en mujeres, porque el valor de NNT estimado en mujeres es inferior al de los hombres.",
+      "Es más eficaz en hombres, porque el valor de NNT estimado en hombres es superior al de las mujeres.",
+      "El nuevo antiagregante es igual de eficaz en mujeres y hombres, porque en ambos casos reduce la mortalidad a la mitad.",
+      "Es más eficaz en hombres, porque el valor de NNT estimado en hombres es inferior al de mujeres."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 46 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-47",
+    "localNumber": 47,
+    "category": "Infecciosas",
+    "stem": "¿En cuál de las siguientes infecciones se preci- san medidas de aislamiento de contacto y go- tas?:",
+    "options": [
+      "Varicela.",
+      "Fiebres hemorrágicas virales.",
+      "Norovirus.",
+      "Clostridioides difficile."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 47 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-48",
+    "localNumber": 48,
+    "category": "General",
+    "stem": "Para conocer si el uso habitual de ácido acetil salicílico (AAS) se asocia a un mayor riesgo de hipertensión se selecciona un grupo de sujetos, se averigua cuántos están tomando AAS y se les sigue durante 5 años para identificar los casos nuevos de hipertensión. ¿Cuál es el diseño de este estudio?:",
+    "options": [
+      "Es un ensayo clínico, porque se realiza con fármacos.",
+      "Es un estudio ecológico, porque se sigue a muchos sujetos.",
+      "Es un estudio de casos y controles, en el que los casos toman AAS y los controles no.",
+      "Es un estudio de cohortes, porque se sigue a sujetos clasificados se gún su exposición para identificar el riesgo de una enfermedad."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 48 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-49",
+    "localNumber": 49,
+    "category": "General",
+    "stem": "¿Cuál es la mejor forma de medir la carga glo- bal de enfermedad en una población?:",
+    "options": [
+      "Los años vividos con discapacidad.",
+      "Los años de vida perdidos por muerte prema- tura.",
+      "La mortalidad general y por las principales enfermedades.",
+      "Los años de vida ajustados por discapacidad."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 49 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-50",
+    "localNumber": 50,
+    "category": "Cardiología",
+    "stem": "Varón de 58 años que acude a control progra- mado de una diabetes mellitus tipo 2 diagnosti- cada hace 6 años. Tiene antecedentes personales de HTA, dislipidemia, cardiopatía isquémica y pancreatitis de origen biliar. Su medicación incluye lisinopril, metoprolol, metformina, AAS y atorvastatina. En la exploración física presen- ta tensión arterial 151/93 mmHg, IMC 27,1 kg/m2. La hemoglobina glicada es de 8,3 %. ¿Cuál de los siguientes es el tratamiento más adecuado para este paciente?:",
+    "options": [
+      "Empaglifozina.",
+      "Glipizida.",
+      "Acarbosa.",
+      "Sitagliptina."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 50 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-51",
+    "localNumber": 51,
+    "category": "General",
+    "stem": "Mujer de 55 años con diabetes tipo 1 diagnosti- cada a los 15 años que refiere náuseas y disten- sión abdominal, especialmente después de las comidas. La evaluación e s compatible con una gastroparesia diabética. ¿Cuál de los siguientes medicamentos sería el tratamiento más adecua- do para mejorar sus síntomas?:",
+    "options": [
+      "Lansoprazol.",
+      "Ondansetrón.",
+      "Loperamida.",
+      "Metoclopramida."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 51 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-52",
+    "localNumber": 52,
+    "category": "General",
+    "stem": "Mujer de 35 años diagnosticada de esquizofre- nia refractaria que ha iniciado tratamiento con clozapina. ¿Qué valor de laboratorio se debería monitorizar de forma periódica?:",
+    "options": [
+      "El aclaramiento de creatinina.",
+      "El recuento sanguíneo de leucocitos.",
+      "El nivel sérico de colesterol.",
+      "El nivel sérico de transaminasas."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 52 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-53",
+    "localNumber": 53,
+    "category": "General",
+    "stem": "Varón de 28 años que es trasladado a urgencias con signos de intoxicación aguda. Está conscien- te y presenta un cuadro caracterizado por vó- mitos, diarrea, sudoración, sialorrea, lagrimeo y miosis. Considerando la causa más probable de e s t e s í n d r o m e , ¿ q u é f á r m a c o i n d i c a r í a p a r a s u tratamiento de entre los siguientes?:",
+    "options": [
+      "Naloxona.",
+      "Flumazenilo.",
+      "Ciproheptadina.",
+      "Atropina. - 9 -"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 53 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-54",
+    "localNumber": 54,
+    "category": "General",
+    "stem": "¿Qué afirmación es correcta en relación con el omeprazol?:",
+    "options": [
+      "Es un potente antiácido.",
+      "Bloquea reversiblemente la bomba de hidro- geniones en el estómago.",
+      "Es un profármaco.",
+      "Tras disolverse su cubierta entérica en el es- tómago se une directamente a la bomba de protones de la célula parietal."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 54 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-55",
+    "localNumber": 55,
+    "category": "General",
+    "stem": "Paciente diabético de 63 años a quien su médico de familia ha solicitado una analítica para de- terminar los niveles de v itamina B12. ¿Cuál es el fármaco antidiabético que toma que justifica dicha solicitud?:",
+    "options": [
+      "Gliclazida.",
+      "Metformina.",
+      "Repaglinida.",
+      "Pioglitazona."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 55 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-56",
+    "localNumber": 56,
+    "category": "Pediatría",
+    "stem": "Para tratar una infecci ón en un niño alérgico a la penicilina, de los siguientes antibióticos a los que el germen es sensible según el antibiograma ¿cuál utilizaría?:",
+    "options": [
+      "Claritromicina.",
+      "Imipenem.",
+      "Ceftriaxona.",
+      "Norfloxacino."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 56 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-57",
+    "localNumber": 57,
+    "category": "Neurología",
+    "stem": "Uno de las siguientes signos clínicos impide realizar el diagnóstico de muerte cerebral:",
+    "options": [
+      "Presencia de reflejos medulares.",
+      "Anisocoria.",
+      "Ausencia de hipotensión.",
+      "Ausencia de ventilación espontánea."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 57 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-58",
+    "localNumber": 58,
+    "category": "General",
+    "stem": "Indique cuál de los siguientes NO se considera un factor de riesgo de delirium postoperatorio en el paciente mayor:",
+    "options": [
+      "Caídas previas.",
+      "Demencia o deterioro cognitivo.",
+      "Institucionalizado en una residencia.",
+      "Alteración visual y auditiva."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 58 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-59",
+    "localNumber": 59,
+    "category": "General",
+    "stem": "En la valoración preoperatoria de un paciente ¿cuál de los siguientes NO consideraría un fac- tor predisponente a desa rrollar complicaciones pulmonares?:",
+    "options": [
+      "Edad > 60 años.",
+      "Albúmina sérica < 3,5 g/100ml.",
+      "Consumo de alcohol.",
+      "ASA = 1."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 59 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-60",
+    "localNumber": 60,
+    "category": "Traumatología",
+    "stem": "Paciente de 20 años que acude a urgencias tras sufrir un accidente de bicicleta con traumatis- mo facial. Se realiza TC craneal que muestra una fractura del tercio medio facial que afecta a la región órbito-malar. Una de las complicacio- nes más frecuentes de este tipo de fracturas es:",
+    "options": [
+      "Anquilosis témporo-mandibular.",
+      "Maloclusión dental.",
+      "Pseudoartrosis naso-etmoidal.",
+      "Enoftalmos."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 60 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-61",
+    "localNumber": 61,
+    "category": "General",
+    "stem": "El conocimiento de la anatomía de la mama es fundamental a la hora de realizar intervencio- nes quirúrgicas en cirugía plástica. Señale cuál de los siguientes troncos nerviosos es el encar- gado en la mayoría de los casos de inervar el complejo areola-pezón:",
+    "options": [
+      "Rama cutánea lateral del nervio inter- costobraquial.",
+      "Ramas cutáneas mediales del plexo cervical.",
+      "Rama cutánea medial del nervio torácico lar- go.",
+      "Rama cutánea lateral de los nervios intercos- tales."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 61 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-62",
+    "localNumber": 62,
+    "category": "General",
+    "stem": "Mujer de 57 años intervenida de mamoplastia de aumento con prótesis hace 4 años. Refiere que desde hace 2 años su mama izquierda está más rígida que la derecha y que en ocasiones le ha producido molestias al realizar esfuerzos con s u b r a z o i z q u i e r d o . E n l a e x p l o r a c i ó n f í s i c a presenta asimetría evidente de ambas mamas con aumento de la consistencia y cierta defor- midad de la mama izquierda y desplazamiento moderado hacia el hueco axilar. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "options": [
+      "Seroma crónico con colonización bacteriana.",
+      "Linfoma anaplásico de células grandes aso- ciado a prótesis mamarias.",
+      "Contractura capsular.",
+      "Carcinoma ductal infiltrante de mama."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 62 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-63",
+    "localNumber": 63,
+    "category": "Cardiología",
+    "stem": "Varón de 36 años que consulta por hiperemia conjuntival y sensación de cuerpo extraño. En la exploración presenta a fectación del ganglio preauricular. ¿Cuál de las siguientes patologías NO se corresponde con dicha exploración?:",
+    "options": [
+      "Conjuntivitis adenovírica.",
+      "Conjuntivitis alérgica.",
+      "Síndrome oculoglandular de Parinaud.",
+      "Conjuntivitis por Chlamydia. - 10 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 63 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-64",
+    "localNumber": 64,
+    "category": "General",
+    "stem": "Mujer de 68 años que utiliza para visión lejana gafas de +4,00 dioptrías en ambos ojos. Consul- ta porque desde hace unas semanas tiene dolor ocular con cefalea y visión borrosa por la noche cuando está viendo la televisión en penumbra. ¿Cuál de las siguientes patologías es más pro- bable que presente?:",
+    "options": [
+      "Glaucoma por cierre angular primario.",
+      "Migraña.",
+      "Queratitis actínica.",
+      "Síndrome de ojo seco."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 64 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-65",
+    "localNumber": 65,
+    "category": "General",
+    "stem": "¿Cuál de las siguientes entidades es más proba- ble que presente un paciente que acude a con- sulta por visión borrosa y metamorfopsia?:",
+    "options": [
+      "Maculopatía.",
+      "Neuritis óptica.",
+      "Glaucoma agudo.",
+      "Catarata intumescente."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 65 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-66",
+    "localNumber": 66,
+    "category": "General",
+    "stem": "Mujer de 60 años con crisis de mareo de segun- dos de duración que se desencadenan con los movimientos de la cabeza a la derecha y cuando se da la vuelta en la cama a la derecha. No se asocia a hipoacusia, sensación de taponamiento ni acúfenos. La exploración otológica, de la bipedestación y la marcha son normales. No se evidencia nistagmo espontáneo, pero con la maniobra de Dix-Hallpike a la derecha se iden- tifica, tras breve latencia, un nistagmo discon- jugado (más torsional de recho y más vertical izquierdo) de unos 30 segundos de duración con mareo y náuseas. Indique la afirmación correc- ta sobre su diagnóstico y manejo:",
+    "options": [
+      "Vértigo de origen central, es preciso hacer una prueba de neuroimagen.",
+      "Vértigo posicional paroxístico benigno, debe ser tratado con la maniobra de Epley derecha.",
+      "Neuronitis vestibular derecha, debe ser trata- da con sulpirida.",
+      "Primera crisis de enfermedad de Ménière en oído derecho, se infiltrarán corticoides intra- timpánicos."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 66 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-67",
+    "localNumber": 67,
+    "category": "General",
+    "stem": "Varón de 40 años sin antecedentes relevantes que consulta por hipoacusia izquierda de ins- tauración progresiva y un bulto ipsilateral en el cuello. No refiere catarro de vías altas, rinorrea acuosa, prurito nasal, otalgia, otorrea, vértigo ni acúfenos. En la otoscopia, en el oído izquier- do se observa una membrana timpánica íntegra con una imagen de líquido ambarino con bur- bujas en oído medio, siendo la exploración del oído derecho normal. Rinne positivo en oído derecho y negativo en oído izquierdo, Weber lateraliza a oído izquierdo. ¿Cuál de las siguien- tes enfermedades es más probable que tenga en el oído izquierdo?:",
+    "options": [
+      "Otitis media aguda que debe ser tratada con antibióticos vía oral.",
+      "Otitis media crónica colesteatomatosa que debe ser tratada mediante cirugía.",
+      "Otitis media serosa que precisa una explora- ción de la nasofaringe en busca de una neo- formación u obstrucción de la trompa de Eus- taquio.",
+      "Hipoacusia neurosensorial que precisa la rea- lización de una audiometría tonal y una lo- goaudiometría."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 67 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-68",
+    "localNumber": 68,
+    "category": "Infecciosas",
+    "stem": "Mujer de 52 años de edad, a la que tres semanas antes se había diagnosticado una sinusitis aguda maxilar, etmoidal y frontal derechos. Mejoró inicialmente con tratamiento antibiótico, des- congestionante nasal, mucolítico y corticoides tópicos. Acude dos semanas después con un cuadro de fiebre, cefalea intensa, náuseas y malestar general. Para el estudio de posibles complicaciones supuradas intracraneales la prueba complementaria más adecuada es:",
+    "options": [
+      "Tomografía axial computarizada del macizo facial con cortes coronales y axiales.",
+      "Endoscopia nasal con ópticas rígidas o flexi- bles.",
+      "Resonancia magnética nuclear con gadolinio.",
+      "Punción lumbar."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 68 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-69",
+    "localNumber": 69,
+    "category": "Ginecología y Obstetricia",
+    "stem": "¿Cuál es el marcador ecográfico más importan- te en el cribado de la preeclampsia del primer trimestre del embarazo?:",
+    "options": [
+      "Longitud cráneo-caudal.",
+      "Grosor placentario.",
+      "Índice de pulsatilidad de las arterias uterinas.",
+      "Índice de pulsatilidad de la arteria central de la retina materna. - 11 -"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 69 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-70",
+    "localNumber": 70,
+    "category": "General",
+    "stem": "Mujer de 43 años portadora de dispositivo in- trauterino de levonorgestrel que consulta por falta de descanso nocturno con aparición de calor y palpitaciones. En la analítica destaca T4 libre 10,5 pmol/L (9-19), tirotropina 2,1 mUI/L (0,30-5,00), FSH 95,6 UI/L (1,38-16,7), LH 21 UI/L (2,4-9,3), estradiol < 0,07 nmol/L (0,07 - 1,14). ¿Cuál es el tratamiento más adecuado?:",
+    "options": [
+      "Benzodiacepinas.",
+      "Estrógenos vaginales.",
+      "E s t r ó g e n o s y p r o g e s t á g e n o s o r a l e s e n p a u t a continua.",
+      "Estrógenos transdérmicos en pauta continua."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 70 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-71",
+    "localNumber": 71,
+    "category": "General",
+    "stem": "En relación con el estudio prenatal de aneu- ploidías mediante el cribado combinado del primer trimestre ¿Cuál es la afirmación correc- ta?:",
+    "options": [
+      "El valor de la fracción libre de la gonadotro- pina coriónica se encuentra disminuido en la trisomía 21.",
+      "Se realiza mediante la combinación de datos analíticos y ecográficos.",
+      "Está indicada en el primer trimestre en pobla- ción gestante de riesgo.",
+      "La transonolucencia nucal debe medirse entre las 11 y 14 semanas, mediante la realización de un corte sagital y con el embrión en posi- ción de hiperflexión."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 71 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-72",
+    "localNumber": 72,
+    "category": "Ginecología y Obstetricia",
+    "stem": "¿Cuál de los siguiente s NO constituye un crite- rio de selección para la elección de la vía del parto en la presentación de nalgas durante el inicio del trabajo de parto?:",
+    "options": [
+      "Tipo de presentación podálica (nalgas puras, completas o incompletas).",
+      "Medida del diámetro biparietal fetal.",
+      "Peso fetal.",
+      "Actitud de la cabeza fetal."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 72 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-73",
+    "localNumber": 73,
+    "category": "General",
+    "stem": "Mujer de 51 años, menopaúsica desde hace un año y medio, que consulta por manchado vagi- nal de 2 semanas de evolución. Refiere que el manchado es menor que una regla. En la eco- grafía se objetiva un endometrio de 7 mm. Se- ñale la opción correcta:",
+    "options": [
+      "El endometrio está engrosado y ante la clínica de la paciente, toma una biopsia endometrial con cánula de Cornier.",
+      "El endometrio no está engrosado por lo que le pauta ácido tranexámico y seguimiento ambu- latorio.",
+      "Tiene indicación de hist eroscopia diagnóstica sin necesidad de toma de biopsia endometrial.",
+      "El endometrio no está engrosado, pero como tiene clínica de metrorragia está indicada la realización de una biopsia endometrial."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 73 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-74",
+    "localNumber": 74,
+    "category": "General",
+    "stem": "Primigesta de 34 semanas que presenta cifras tensionales de 165/95 y cefalea de dos días de evolución. Analítica: hemoglobina 10,5 g/dL, plaquetas 98.000/mm3, AST 356 UI/L (0-31), ALT 234 UI/L (0-31), LDH 878 UI/L (125-243). Llaman del laboratorio por presencia de esquis- tocitos en el frotis de sangre periférica. Ha reci- bido la segunda dosis de corticoides para madu- ración fetal hace 24 h. En la ecografía obstétrica el peso fetal estimado está en el percentil 1 para la edad gestacional y el Doppler de arteria um- bilical presenta ausencia del flujo telediastólico. ¿Cuál de las siguientes es la actitud clínica más indicada?:",
+    "options": [
+      "Actitud expectante con antihipertensivos y sulfato de magnesio hasta la mejora de las plaquetas maternas.",
+      "Actitud expectante con tratamiento antihiper- tensivo a domicilio y controles cada 48 h.",
+      "Finalización de la gestación cuando complete la maduración pulmonar fetal.",
+      "Finalización inmediata de la gestación."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 74 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-75",
+    "localNumber": 75,
+    "category": "General",
+    "stem": "Mujer de 30 años que solicita un método anti- conceptivo. Como antecedentes tiene una cesá- rea urgente hace 7 meses, naciendo una niña de 3.550 g. Está dando lactancia materna exclusi- va. Señale la afirmación correcta:",
+    "options": [
+      "Le explica que, si está en amenorrea, no re- quiere de otro método anticonceptivo puesto que la lactancia materna es suficiente como método anticonceptivo.",
+      "Le informa que el DIU de levonogestrel está contraindicado por haber tenido una cesárea hace menos de un año.",
+      "Le explica que podría usar un método hormo- nal de sólo gestágenos.",
+      "Le ofrece anticoncepción hormonal combina- da."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 75 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-76",
+    "localNumber": 76,
+    "category": "Traumatología",
+    "stem": "Mujer de 40 años que consulta porque desde hace un mes se nota un bulto en el cuadrante superoexterno de la mama derecha. Aporta un informe de una mamografía que describe una lesión BIRADS 3. ¿Cuál es la actitud a seguir?:",
+    "options": [
+      "Tranquilizarle, puesto que ya se ha hecho una prueba de imagen y se ha descartado maligni- dad.",
+      "Esa clasificación implica probablemente ciru- gía dado que la probabilidad de cáncer es ma- yor del 10 %. Se lo explica y le deriva de forma preferente a la Unidad de Mama.",
+      "Se trata de un hallazgo probablemente be- nigno, dado que hay menos de un 2 % de pro- babilidad de cáncer. Le explica que requiere de un seguimiento cada 6-12 meses hasta los 24 meses o una biopsia.",
+      "Los hallazgos son de baja sospecha de cáncer (entre un 2 y un 10 %) pero es necesario ha- cer una biopsia. - 12 -"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 76 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-77",
+    "localNumber": 77,
+    "category": "General",
+    "stem": "Siguiendo las indicaci ones del cribado del cán- cer de cérvix ¿a qué mujer realizaría una cito- logía entre las siguientes candidatas?:",
+    "options": [
+      "Mujer de 26 años sin citologías previas.",
+      "Mujer de 40 años con citología y virus del papiloma humano negativos hace 3 años.",
+      "Mujer de 67 años con incontinencia urinaria de esfuerzo.",
+      "Mujer de 22 años vacunada para el virus del papiloma humano e inicio de relaciones se- xuales hace 1 año."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 77 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-78",
+    "localNumber": 78,
+    "category": "General",
+    "stem": "En una enfermedad genética con un patrón de herencia autosómico dominante el riesgo de recurrencia de la enfermedad en una futura descendencia es de:",
+    "options": [
+      "25 % en cada embarazo.",
+      "50 % en cada embarazo en caso de que el hijo sea un varón.",
+      "50 % en cada embarazo siempre que la pareja sea también portadora.",
+      "50 % en cada embarazo independiente del sexo de la descendencia."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 78 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-79",
+    "localNumber": 79,
+    "category": "Pediatría",
+    "stem": "En caso de que haya manifestaciones clínicas ¿cuál es la forma clínica más frecuente de pri- moinfección por el virus del herpes simple tipo 1 en lactantes y niños pequeños?:",
+    "options": [
+      "Meningitis.",
+      "Genital.",
+      "Neumonía.",
+      "Gingivoestomatitis y faringitis."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 79 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-80",
+    "localNumber": 80,
+    "category": "Neumología",
+    "stem": "Lactante de 2 meses de edad con catarro de vías altas de 3 días de evolución, que comienza con dificultad respiratoria moderada y auscultación pulmonar con sibilancias espiratorias. La satu- ración de oxígeno es de 89 %. Se aísla virus respiratorio sincitial en e l e x u d a d o n a s o f a r í n - geo. ¿Cuál de los siguie ntes tratamientos consi- dera más indicado para este cuadro?:",
+    "options": [
+      "Rivabirina oral.",
+      "Salbutamol nebulizado.",
+      "Oxígeno suplementario.",
+      "Corticoides intravenosos."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 80 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-81",
+    "localNumber": 81,
+    "category": "General",
+    "stem": "Con respecto a las comunicaciones interventri- culares (CIV) en la infancia, señale la respuesta INCORRECTA:",
+    "options": [
+      "Exceptuando la válvula aórtica bicúspide, la CIV es la cardiopatía congénita más frecuen- te.",
+      "Las CIV localizadas en la porción media y apical del tabique inter ventricular son de tipo muscular.",
+      "La repercusión clínica y la necesidad de tra- tamiento dependen del tamaño de la comuni- cación.",
+      "Las CIV membranosas son las más frecuentes y la que tienen más probabilidad de cierre es- pontáneo."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 81 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-82",
+    "localNumber": 82,
+    "category": "General",
+    "stem": "Con respecto al síndrome de dificultad respira- toria neonatal (enfermedad de la membrana hialina), señale la respuesta FALSA:",
+    "options": [
+      "Los corticoides antenatales reducen el riesgo de su aparición.",
+      "Sus manifestaciones clínicas aparecen a partir de las 24 horas de vida.",
+      "El riesgo de aparición disminuye ante una rotura prematura de membranas.",
+      "Su causa principal es el déficit de surfactante pulmonar."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 82 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-83",
+    "localNumber": 83,
+    "category": "General",
+    "stem": "La fenilcetonuria es una enfermedad metabóli- ca congénita. En relación con la misma, indique la contestación FALSA:",
+    "options": [
+      "La fenilalanina debe suprimirse en la dieta completamente.",
+      "La discapacidad intelectual es constante y progresiva en caso de no realizar bien la dieta.",
+      "Puede deberse a un déficit de tetrahidrobiop- terina BH4.",
+      "S e r e c o m i e n d a s u e s t u d i o a l a s 2 4 - 4 8 h o r a s del inicio de la ingesta del recién nacido."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 83 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-84",
+    "localNumber": 84,
+    "category": "Neurología",
+    "stem": "En una enfermedad genética neurológica, el fenómeno de anticipación implica la aparición de las manifestaciones más precozmente y en general de forma más grave en la siguiente generación. Dado que la anticipación ocurre por la expansión de trinucleótidos, indique en cuál de estas enfermedades es posible esperar este fenómeno:",
+    "options": [
+      "Atrofia muscular espinal.",
+      "Distrofia muscular de Duchenne.",
+      "Enfermedad de Parkinson.",
+      "Distrofia miotónica de Steinert. - 13 -"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 84 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-85",
+    "localNumber": 85,
+    "category": "Neurología",
+    "stem": "El neuroblastoma es el tumor sólido extracra- neal más común en niños. En relación con su diagnóstico, señale la respuesta FALSA:",
+    "options": [
+      "Debemos sospecharlo ante la aparición de un síndrome opsoclono-mioclono-ataxia.",
+      "Existe casi siempre un aumento en la excre- ción urinaria de metabolitos de catecolami- nas.",
+      "La mayoría se diagnostica en menores de 6 años de edad.",
+      "La gammagrafía con tecnecio es muy especí- fica y está indicada para definir mejor su ex- tensión."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 85 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-86",
+    "localNumber": 86,
+    "category": "Pediatría",
+    "stem": "¿Cuál de los siguientes NO es indicación de realizar inmunoprofilaxis con palivizumab en un lactante?:",
+    "options": [
+      "Lactante nacido antes de las 29 semanas de gestación en el primer año de vida.",
+      "Lactante nacido antes de las 32 semanas de gestación con enfermedad pulmonar crónica de la prematuridad en el primer año de vida.",
+      "Lactante diagnosticado de fibrosis quística de páncreas en el cribado neonatal durante el primer año de vida.",
+      "Lactante de 12 meses afecto de inmunodefi- ciencia severa combinada."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 86 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-87",
+    "localNumber": 87,
+    "category": "Pediatría",
+    "stem": "Con respecto al síndrome de muerte súbita del lactante, señale la afirmación correcta:",
+    "options": [
+      "La presencia de antecedentes de muertes si- milares en hermanos/familiares es criterio diagnóstico de este síndrome.",
+      "Ante un episodio de muerte súbita infantil se debe firmar el certificado ordinario de defun- ción por el facultativo del servicio de urgen- cias.",
+      "La edad del niño superior a 1 año excluye el diagnóstico, independientemente de que se trate o no de lactantes.",
+      "La existencia de una patología grave diagnos- ticada en la autopsia es criterio diagnóstico de este síndrome."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 87 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-88",
+    "localNumber": 88,
+    "category": "Pediatría",
+    "stem": "Niño de 23 meses que presenta fiebre, hipoten- sión, vómitos repetidos, signos meníngeos, pete- quias y equimosis. El hemograma muestra 25.000 leucocitos (75 % neutrófilos, 10 % caya- dos) y 12.000 plaquetas/microL y el estudio de coagulación una actividad de protrombina de 35 %. ¿Qué opción NO es adecuada en su ma- nejo?:",
+    "options": [
+      "Administración de cefotaxima intravenosa.",
+      "Realización de punción lumbar.",
+      "Recogida de hemocultivo.",
+      "Fluidos intravenosos."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 88 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-89",
+    "localNumber": 89,
+    "category": "General",
+    "stem": "Niña de 4 años que presenta fiebre alta de 6 días de evolución. En la exploración clínica presenta un exantema eritematoso maculopapular en t r o n c o y z o n a g e n i t a l , c o n t e n d e n c i a a l a c o n - fluencia, sin llegar a ser escarlatiniforme; in- yección conjuntival sin secreciones y labios rojos con lengua aframbuesada. Presenta tam- bién eritema con edema en manos y pies y una adenopatía cervical unilateral de 2 cm de diá- metro. El diagnóstico clínico de sospecha más probable es:",
+    "options": [
+      "Enfermedad de Kawasaki.",
+      "Sarampión.",
+      "Rubeola.",
+      "Escarlatina."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 89 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-90",
+    "localNumber": 90,
+    "category": "Cardiología",
+    "stem": "Dentro de las cardiopatías cianóticas destaca la tetralogía de Fallot. En relación con este cua- dro, señale la respuesta INCORRECTA:",
+    "options": [
+      "En la prueba de hiperoxia con O2 al 100 % no se eleva significativamente la saturación de O2.",
+      "Es típica la presencia de hiperaflujo sanguí- neo pulmonar.",
+      "Ante toda sospecha debe administrarse pre- cozmente una perfusión de prostaglandina E1.",
+      "La silueta cardiaca presenta la típica imagen de corazón en bota."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 90 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-91",
+    "localNumber": 91,
+    "category": "Neurología",
+    "stem": "¿Cuál de las siguientes NO es una indicación para la realización de pruebas de neuroimagen en psiquiatría?:",
+    "options": [
+      "Trastorno mental de inicio después de los 50 años.",
+      "Crisis convulsivas con síntomas psiquiátricos.",
+      "Recaída psicótica al suspender el tratamiento tras un primer episodio psicótico.",
+      "Presencia de síntomas psiquiátricos atípicos."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 91 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-92",
+    "localNumber": 92,
+    "category": "General",
+    "stem": "Mujer de 75 años traída a consulta por su fami- lia porque le encuentran desde hace meses de- primida y con fallos de memoria. Les preocupa que pueda tener una enfermedad de Alzheimer. La paciente refiere que no cree que le pase nada y q u e e s t á c o m o s i e m p r e . ¿ E n q u é o r d e n s e presentan generalmente los siguientes síntomas en la progresión de la enfermedad de Alzhei- mer?:",
+    "options": [
+      "Cambios de humor, síntomas conductuales, déficit cognitivo.",
+      "Síntomas conductuales, síntomas motores, declive de la independencia funcional.",
+      "Cambios de humor, déficit cognitivo, declive de la independencia funcional.",
+      "Síntomas conductuales, cambios de humor, síntomas motores. - 14 -"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 92 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-93",
+    "localNumber": 93,
+    "category": "Traumatología",
+    "stem": "Varón de 35 años de edad, casado y padre de tres hijos, que ingresa en el hospital por una fractura de tobillo complicada. Al segundo día se le notó nervioso y comenzó a temblar. Se le interroga acerca de posibles hábitos tóxicos y los niega, explicando que ocasionalmente bebe una cerveza. La esposa señala que desde hace tres años consume cant idades importantes de cerveza diariamente y ocasionalmente se mues- tra violento. Al día siguiente las enfermeras informan de que ha dormido mal, está muy ansioso y dice incoherencias, estando desorien- tado en el tiempo. De las siguientes pautas tera- péuticas ¿cuál es la más adecuada?:",
+    "options": [
+      "Benzodiacepinas de vida media larga y clo- metiazol.",
+      "Benzodiacepinas de vida media corta y beta- bloqueantes.",
+      "Benzodiacepinas de vida media larga y car- bamacepina.",
+      "Benzodiacepinas de vida media corta y cloza- pina."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 93 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-94",
+    "localNumber": 94,
+    "category": "Neurología",
+    "stem": "Varón que consulta porque hace 1 mes falleció su madre, tras un largo p eriodo de enfermedad neurodegenerativa. A pesar del tiempo transcu- rrido sigue presentando dificultades del sueño ocasionales y problemas para aceptar su muer- te, sintiendo gran añoranza y elevada emocio- nabilidad cuando la recuerda o le hablan de ella. Por otra parte, si está distraído es capaz de disfrutar algo y en el trabajo su desempeño es prácticamente normal. ¿Cuál de las siguientes respuestas es FALSA?:",
+    "options": [
+      "El diagnóstico es duelo (Z63.4, según la 10ª edición de la Clasificación Internacional de Enfermedades -CIE-10-).",
+      "Si las dificultades del sueño tienen conse- cuencias sobre la vigilia del día siguiente po- dría prescribirle temporalmente un fármaco hipnótico.",
+      "Dado el tiempo transcurrido se debería instau- rar un antidepresivo a dosis bajas.",
+      "Es conveniente darle una nueva cita al cabo de 1-2 meses para ver su evolución."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 94 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-95",
+    "localNumber": 95,
+    "category": "Psiquiatría",
+    "stem": "Mujer de 23 años que consulta por presentar desde hace 2 meses crisis repentinas y recurren- tes de ansiedad con palpitaciones, sudoración, temblor, sensación de ah ogo y dolor torácico. Señale cuál de la siguientes afirmaciones NO es correcta:",
+    "options": [
+      "En la evolución es frecuente encontrar agora- fobia y conductas de evitación.",
+      "En el diagnóstico diferencial se deben consi- derar feocromocitoma, tirotoxicosis e hipo- glucemia.",
+      "Es preciso descartar una taquicardia auricular paroxística.",
+      "El diagnóstico más probable es un trastorno por ansiedad generalizada."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 95 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-96",
+    "localNumber": 96,
+    "category": "General",
+    "stem": "Sobre los factores de riesgo de suicidio, indique d e e n t r e l o s s i g u i e n t e s e l f a c t o r c o n M E N O S riesgo:",
+    "options": [
+      "Abuso de sustancias.",
+      "Evento estresante de larga duración.",
+      "Trastorno de pánico coexistente.",
+      "Edad avanzada."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 96 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-97",
+    "localNumber": 97,
+    "category": "General",
+    "stem": "Señale la afirmación c orrecta en relación con el tratamiento de la manía:",
+    "options": [
+      "El tratamiento habitual en las primeras 48 horas se basa en benzodiacepinas en monote- rapia por vía parenteral.",
+      "La clozapina es el fármaco de elección para el tratamiento agudo.",
+      "La combinación de litio y antipsicóticos está contraindicada en las fases iniciales del tra- tamiento.",
+      "En casos graves o resistentes puede utilizarse la terapia electroconvulsiva."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 97 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-98",
+    "localNumber": 98,
+    "category": "General",
+    "stem": "Respecto a la utilización de estimulación mag- nética transcraneal repetitiva en los trastornos psiquiátricos, señale la respuesta correcta:",
+    "options": [
+      "Es especialmente útil en trastornos psiquiátri- cos secundarios a la epilepsia.",
+      "Tiene una eficacia superior a la terapia elec- troconvulsiva.",
+      "Está indicada en la depresión resistente al tratamiento farmacológico.",
+      "Por su seguridad, es el tratamiento de elec- ción en la esquizofrenia de inicio tardío."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 98 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-99",
+    "localNumber": 99,
+    "category": "General",
+    "stem": "Ante un síndrome depresivo en un varón de 68 años sin antecedentes psiquiátricos, señalar cuál de las siguientes afirmaciones es INCORREC- TA:",
+    "options": [
+      "La presencia de des orie ntación, a patía y pé r - dida de memoria orienta hacia el diagnóstico de demencia.",
+      "La presencia de temblor de reposo, marcha sin balanceo y amimia facial orienta el diag- nóstico hacia enfermedad de Parkinson.",
+      "La presencia de hipercolesterolemia, bradip- siquia, bradicardia y estreñimiento orienta ha- cia el diagnóstico de hipotiroidismo.",
+      "El inicio reciente de tratamiento con betablo- queantes y antiinflamatorios no esteroideos puede justificar la aparición de un síndrome depresivo. - 15 -"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 99 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-100",
+    "localNumber": 100,
+    "category": "Cardiología",
+    "stem": "Mujer de 80 años con antecedentes de hiperten- sión arterial y diabetes mellitus que presenta de forma brusca una alteración del lenguaje. A su llegada al hospital se objetiva una fibrilación auricular no conocida y en la exploración pre- senta habla fluente con tendencia a la jergafa- sia, mala compresión del lenguaje, incapacidad para la repetición y disnomia. Semiológicamen- te presenta un cuadro compatible con:",
+    "options": [
+      "Afasia de Broca.",
+      "Afasia de conducción.",
+      "Afasia transcortical sensitiva.",
+      "Afasia de Wernicke."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 100 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-101",
+    "localNumber": 101,
+    "category": "Neurología",
+    "stem": "Todas las siguientes enfermedades neurodege- nerativas están relacionadas con una alteración en la proteína Tau, EXCEPTO:",
+    "options": [
+      "Enfermedad de Alzheimer.",
+      "Demencia frontotemporal.",
+      "Enfermedad de Parkinson.",
+      "Parálisis supranuclear progresiva."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 101 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-102",
+    "localNumber": 102,
+    "category": "General",
+    "stem": "Mujer de 29 años con antecedentes de crisis febriles y fumadora importante. Consulta por presentar desde hace unos 2 años episodios frecuentes, estereotipado s, que comienzan con una sensación epigástrica ascendente y un olor desagradable, seguidos de desconexión del me- dio. Los familiares que están con ella observan que hace movimientos de chupeteo y de apertu- ra y cierre repetidos de la mano izquierda. Pa- sados dos minutos los movimientos ceden, pero le cuesta responder ad ecuadamente y solo re- cuerda parcialmente lo ocurrido. De los si- guientes ¿cuál es el diagnóstico más probable?:",
+    "options": [
+      "Crisis focales complejas del lóbulo temporal.",
+      "Accidentes isquémicos transitorios en territo- rio carotídeo derecho.",
+      "Crisis focales simples motoras.",
+      "Episodios de amnesia global transitoria."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 102 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-103",
+    "localNumber": 103,
+    "category": "General",
+    "stem": "Varón de 30 años que consulta por cefaleas perioculares unilaterales que progresan rápi- damente hasta hacerse muy intensas. Las crisis de dolor duran entre 30-60 minutos, ocurren 2- 3 veces al día y se acompañan de lagrimeo en el ojo que le duele y rinorre a unilateral. ¿Cuál es el tratamiento preventivo más adecuado?:",
+    "options": [
+      "Prednisona oral con retirada en 2-3 meses.",
+      "Prednisona oral con retirada en un mes, aso- ciada a verapamilo oral a dosis de 80-180 mg cada 8 horas.",
+      "Carbamazepina a dosis de 600-1200 mg al día.",
+      "Indometacina a dosis de 50 mg cada 8 horas durante un mes."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 103 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-104",
+    "localNumber": 104,
+    "category": "Neurología",
+    "stem": "En un paciente con una parálisis facial periféri- ca (parálisis de Bell) izquierda ¿cuál de los si- guientes signos o síntomas NO esperaría encon- trar?:",
+    "options": [
+      "Hiperacusia izquierda.",
+      "Hipoestesia de la hemicara izquierda.",
+      "Hipogeusia.",
+      "Falta de lagrimeo en el ojo izquierdo."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 104 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-105",
+    "localNumber": 105,
+    "category": "Neurología",
+    "stem": "Varón de 45 años traído a la consulta por sus familiares por un cuadro de un año de evolu- ción de pérdida de memoria, que ha ido progre- sando hasta necesitar ayuda para algunas acti- vidades de su vida cotidiana. Tiene antecedentes de migrañas y algún episodio de focalidad neu- rológica autolimitada por los que no ha consul- tado nunca. La exploración neuropsicológica es compatible con una demencia inicial y la RM cerebral muestra una leucoencefalopatía grave. ¿Qué prueba habría que solicitar?:",
+    "options": [
+      "Punción lumbar para analizar amiloide y pro- teína tau en LCR.",
+      "Estudio genético para presenilina 1 (PSEN1).",
+      "Estudio genético para NOTCH3.",
+      "Estudio genético para progranulina."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 105 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-106",
+    "localNumber": 106,
+    "category": "General",
+    "stem": "Con respecto al trata miento de la hipertensión intracraneal NO es una medida aceptada:",
+    "options": [
+      "Elevar la cabeza del enfermo y mantener la cabeza centrada.",
+      "El drenaje de LCR a través de un drenaje lumbar.",
+      "La hiperventilación moderada.",
+      "Los glucocorticoides en algunas circunstan- cias."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 106 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-107",
+    "localNumber": 107,
+    "category": "Neurología",
+    "stem": "Varón de 55 años que sufre una hemorragia subaracnoidea por rotura de un aneurisma de arteria cerebral media. Es tratado de forma quirúrgica. Tras una buena evolución en la que recupera la capacidad de caminar, un mes después de sufrir la hemorragia presenta un deterioro progresivo, llegando a encontrarse obnubilado y con dificultad para obedecer ór- denes. Señale la afirmación correcta:",
+    "options": [
+      "Se encuentra en el momento de la evolución en el que es más frecuente el vasoespasmo.",
+      "Probablemente este deterioro progresivo sea secundario al resangrado del aneurisma.",
+      "El deterioro subagudo que presenta con ma- yor probabilidad se debe a hidrocefalia.",
+      "La técnica diagnóstica de elección es la an- giografía cerebral. - 16 -"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 107 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-108",
+    "localNumber": 108,
+    "category": "Traumatología",
+    "stem": "Varón de 49 años que ingresa en UCI por un traumatismo craneoencefálico tras un accidente laboral. En la exploración física no abre ojos, no emite sonid os ante s de ser intub ad o y pr esent a extensión de extremidades al estímulo nocicep- tivo. Se coloca un sensor de presión intracraneal y debe realizarse una craneotomía descompre- siva por una hemorragia intraparenquimatosa. ¿Cuál de las siguientes afirmaciones es correc- ta?:",
+    "options": [
+      "A su llegada se encuentra en un coma de la escala de Glasgow de 7.",
+      "La presión de perfusión cerebral es la presión arterial media más la presión intracraneal.",
+      "El edema cerebral vasogénico se produce por edema celular, rotura de la membrana y muer- te celular.",
+      "El flujo vascular cerebral aumenta con la hi- percapnia y la acidosis."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 108 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-109",
+    "localNumber": 109,
+    "category": "General",
+    "stem": "Respecto a la sedació n del paciente crítico en ventilación mecánica en la UCI ¿cuál de las siguientes afirmaciones es cierta?:",
+    "options": [
+      "Los bloqueantes neuromusculares están indi- cados cuando el paciente presenta asincro- nías, independientemente del grado de anal- gesia y sedación.",
+      "Se prefieren los sedantes no benzodiazepíni- cos debido a que las benzodiacepinas se rela- cionan con peor resultado clínico.",
+      "La interrupción diaria de la sedación no acor- ta el tiempo de ventilación mecánica ni la es- tancia en UCI.",
+      "El paracetamol es el pri ncipal agente farma- cológico para lograr una adecuada analgesia en los pacientes intubados y ventilados mecá- nicamente."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 109 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-110",
+    "localNumber": 110,
+    "category": "General",
+    "stem": "El osteosarcoma es un tumor óseo maligno que:",
+    "options": [
+      "Es más frecuente en la primera década de la vida.",
+      "Su tratamiento con quimioterapia y radiotera- pia suele evitar la cirugía.",
+      "Afecta más frecuentemente a huesos en la proximidad de la articulación de la rodilla.",
+      "Si presenta enfermedad de Paget previa tiene un mejor pronóstico."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 110 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-111",
+    "localNumber": 111,
+    "category": "General",
+    "stem": "El síndrome del túnel carpiano:",
+    "options": [
+      "Es más frecuente en varones.",
+      "Cursa con hipoestesia en el pulpejo de los dedos segundo a quinto.",
+      "Los síntomas se exacerban durante la noche.",
+      "Se acompaña de atrofia de la musculatura de la eminencia hipotenar."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 111 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-112",
+    "localNumber": 112,
+    "category": "General",
+    "stem": "Mujer de 61 años, administrativa, con antece- dentes de sobrepeso, hipertensión, dislipemia y síndrome metabólico, que consulta por dolor en ambas nalgas, región trocantérea izquierda, cara lateral del muslo izquierdo hasta la rodilla y pierna izquierda hasta el tercio medio. El dolor aparece cuando levantamos el miembro inferior con la rodilla extendida, pero se alivia al flexionar la rodilla. ¿Cuál es la primera sos- pecha clínica?:",
+    "options": [
+      "Artritis gotosa de cadera izquierda.",
+      "Artrosis coxo-femoral izquierda.",
+      "Lumbalgia irradiada / lumbociatalgia.",
+      "Claudicación por estenosis de canal."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 112 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-113",
+    "localNumber": 113,
+    "category": "Traumatología",
+    "stem": "Varón de 35 años, cart ero, sin antecedentes de interés, que acude a urgencias por un dolor agudo cervical de 24 horas de evolución, sin traumatismo previo, que irradia a brazo iz- quierdo hasta la mano y se acompaña de pares- tesias en el borde radial del antebrazo. No pre- senta pérdida de fuerza objetivable, conserva la movilidad del cuello aunque es dolorosa y se aprecia contractura de la musculatura paraver- tebral. La primera actitud será:",
+    "options": [
+      "Tratamiento conservador con antiinflamato- rios no esteroideos, calor local y reposo rela- tivo.",
+      "Llamada urgente al neurocirujano para valo- ración quirúrgica.",
+      "Solicitud preferente de resonancia magnética y electromiograma.",
+      "Derivación preferente a consultas externas de traumatología."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 113 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-114",
+    "localNumber": 114,
+    "category": "General",
+    "stem": "Respecto a la rotura del ligamento cruzado anterior de la rodilla, señale la respuesta co- rrecta:",
+    "options": [
+      "Es frecuente que se produzca por un trauma- tismo sobre la cara anterior de la tibia con la rodilla en flexión.",
+      "Raramente cursa con hemartros.",
+      "La maniobra de Lachman es negativa.",
+      "El tratamiento con fisioterapia con potencia- ción del cuádriceps y los isquiotibiales puede evitar la cirugía. - 17 -"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 114 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-115",
+    "localNumber": 115,
+    "category": "General",
+    "stem": "Varón de 27 años, deportista habitual, que re- fiere dolor en la pierna derecha tras la práctica de carrera continua. Ha acudido en varias oca- siones a un fisioterapeuta , siendo diagnosticado de una sobrecarga en gemelos. Han transcurri- do varios meses, no ha mejorado y refiere dolor intenso tras la actividad física que cede con el reposo en las siguientes horas del ejercicio. ¿Qué prueba puede ayudar en el diagnóstico?:",
+    "options": [
+      "Tomografía de emisión de positrones con 18 FDG.",
+      "Determinación de la presión del comparti- mento posterior inmediatamente tras activi- dad.",
+      "Ecografía-Doppler para descartar un trastorno circulatorio de la extremidad inferior.",
+      "Espectrometría por resonancia magnética."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 115 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-116",
+    "localNumber": 116,
+    "category": "Traumatología",
+    "stem": "Mujer de 95 años que v ive en una residencia, independiente para sus actividades básicas de la vida diaria, sale al jardín a pasear. Tiene ante- cedentes de HTA, dislipidemia, osteoporosis y deterioro cognitivo leve. Sufre una caída al levantarse por la noche al baño. La radiografía muestra una fractura subcapital desplazada de cadera derecha. ¿Cuál es el tratamiento reco- mendado?:",
+    "options": [
+      "Hemiartroplastia de cadera.",
+      "Fijación con clavo trocantérico.",
+      "Fijación con tornillos canulados.",
+      "Conservador: vida cama-sillón."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 116 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-117",
+    "localNumber": 117,
+    "category": "Pediatría",
+    "stem": "¿En relación con las fr acturas de la epitróclea en los niños señale la afirmación INCORREC- TA?:",
+    "options": [
+      "Se desencadenan por un mecanismo de valgo forzado del codo en la caída.",
+      "Están asociadas hasta en un 50 % de los casos con una luxación postero-lateral del codo.",
+      "Pueden presentar asociada una neurapraxia del nervio cubital.",
+      "Es más frecuente en niños de edades entre 4 y 6 años."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 117 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-118",
+    "localNumber": 118,
+    "category": "General",
+    "stem": "Varón de 41 años que consulta por gonalgia de varios días de evolución. En la exploración se realiza el test de Thessaly (dolor con los movi- mientos de rotación interna y externa con la rodilla flexionada) que resulta positivo. ¿Cuál de las siguientes lesiones es más probable?:",
+    "options": [
+      "Lesión meniscal.",
+      "Lesión por rotura del ligamento cruzado ante- rior.",
+      "Lesión por rotura del ligamento cruzado pos- terior.",
+      "Lesión por artropatía degenerativa."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 118 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-119",
+    "localNumber": 119,
+    "category": "General",
+    "stem": "Mujer de 13 años, sin antecedentes relevantes, con menarquia hace 3 meses, seguida desde los 10 años por escoliosis idiopática que ha empeo- rado. En la exploración física presenta una giba de 7 grados en el test de Adams y en el escolio- grama una curva toracolumbar T4-L1 de 35 grados de Cobb y un Risser 0. La actitud co- rrecta a tomar será:",
+    "options": [
+      "Recomendar natación y revisión en tres me- ses.",
+      "Prescribir una ortesis tipo corsé.",
+      "Derivar a fisioterapia para elastificación del raquis.",
+      "Revisar en 6 meses con una nueva radiogra- fía."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 119 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-120",
+    "localNumber": 120,
+    "category": "General",
+    "stem": "Sobre la fascitis plantar, señale la respuesta correcta:",
+    "options": [
+      "El dolor mejora al andar de puntillas.",
+      "Se asocia a la presencia de espolón calcáneo.",
+      "El tratamiento de elección es quirúrgico.",
+      "Provoca dolor en la zona del talón, más inten- so al empezar a caminar."
+    ],
+    "correctIndex": -1,
+    "explanation": "Pregunta oficial número 120 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-121",
+    "localNumber": 121,
+    "category": "Traumatología",
+    "stem": "Mujer de 79 años que ingresa por una fractura osteoporótica de cadera. Respecto a la preven- ción secundaria de las fracturas por fragilidad, señale la respuesta INCORRECTA:",
+    "options": [
+      "La baja adherencia al tratamiento se asocia a un incremento del riesgo de fractura.",
+      "Los marcadores de remodelado óseo pueden ser útiles para monitorizar de forma precoz la respuesta al tratamiento.",
+      "La vitamina D en monoterapia es eficaz en la reducción de dichas fracturas en personas mayores no institucionalizadas.",
+      "El aumento de calcio dietético o tomar su- plementos de calcio de forma aislada no pro- tegen frente a la aparición de fracturas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 121 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-122",
+    "localNumber": 122,
+    "category": "General",
+    "stem": "Paciente de 78 años sin antecedentes que con- sulta por astenia y disnea de 3 meses de evolu- ción, que ha progresado hasta hacerse de reposo en los últimos días. En los días previos refiere también dolor torácico d e características angi- nosas con pequeños esfuerzos. En la exploración destaca presión arterial de 110/80 mmHg, fre- cuencia cardíaca de 85 lpm y auscultación con un soplo sistólico áspero en segundo espacio intercostal derecho y crepitantes en ambas ba- ses pulmonares. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "options": [
+      "Insuficiencia mitral.",
+      "Estenosis aórtica.",
+      "Insuficiencia aórtica.",
+      "Miocardiopatía dilatada de origen isquémico. - 18 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 122 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-123",
+    "localNumber": 123,
+    "category": "General",
+    "stem": "¿Cuál de las siguientes afirmaciones es FALSA con relación al síndrome del QT largo?:",
+    "options": [
+      "Los betabloqueantes están contraindicados en el QT largo congénito.",
+      "Los antidepresivos tricíclicos pueden dar lu- gar a un QT largo adquirido.",
+      "Predispone a la taquicardia ventricular poli- mórfica.",
+      "Su fisiopatología se basa en una alteración de los canales iónicos responsables del potencial de acción transmembrana de la célula mio- cárdica."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 123 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-124",
+    "localNumber": 124,
+    "category": "Cardiología",
+    "stem": "Mujer de 82 años con fibrilación auricular cró- nica de 10 años de evolución y función sistólica biventricular conservada que presenta episodios de bloqueo aurículo-vent ricular completo sin- t o m á t i c o s , p o r l o q u e s e d e c i d e i m p l a n t a r u n sistema de estimulación cardiaco definitivo. ¿Cuál de los siguientes está indicado?:",
+    "options": [
+      "Marcapasos DDD (bicameral).",
+      "Marcapasos VVI (unicameral ventricular).",
+      "Marcapasos AAI (unicameral auricular).",
+      "Terapia de resincronización ventricular (TRC)."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 124 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-125",
+    "localNumber": 125,
+    "category": "Cardiología",
+    "stem": "Varón de 23 años diagnosticado de síndrome de Wolff-Parkinson-White que acude a urgencias por palpitaciones. El ECG muestra una taqui- cardia irregular de QRS ancho, con una fre- cuencia cardiaca de 205 lpm, compatible con fibrilación auricular preex citada. ¿Cuál de los siguientes fármacos considera adecuado admi- nistrar para detener la taquicardia?:",
+    "options": [
+      "Verapamilo.",
+      "Digoxina.",
+      "Adenosina.",
+      "Procainamida."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 125 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-126",
+    "localNumber": 126,
+    "category": "General",
+    "stem": "Varón de 58 años con antecedentes de hiperten- sión arterial de 6 años de evolución, que consul- ta por mal control de las cifras de presión arte- rial a pesar de recibir tratamiento con un inhi- bidor de la enzima convertidora de angiotensi- na, un diurético y un calcioantagonista. En consulta presenta cifras de 149/100 mmHg. Analítica: creatinina 1, 2 mg/dl, potasio 2,2 mEq/l y alcalosis metabólica compensada; resto del estudio bioquímico, hemograma, coagula- ción y sedimento urinario normal. Señale la afirmación correcta:",
+    "options": [
+      "El origen de la hipertensión en este caso es la secreción excesiva de aldosterona causada por una hiperfunción autónoma de la médula su- prarrenal.",
+      "En la mayoría de los casos el sustrato anató- mico es una hiperplasia bilateral de la corteza suprarrenal.",
+      "La TC forma parte del estudio diagnóstico en caso de haber una confirmación bioquímica.",
+      "La espironolactona está contraindicada en el manejo de esta patología."
+    ],
+    "correctIndex": -1,
+    "explanation": "Pregunta oficial número 126 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-127",
+    "localNumber": 127,
+    "category": "Cardiología",
+    "stem": "Entre las intervencion es sobre los factores de riesgo cardiovascular mostrados ¿cuál es la más rentable para reducir eventos coronarios en prevención secundaria?:",
+    "options": [
+      "Abandono del tabaco.",
+      "Aumento de los niveles de lipoproteínas de alta densidad (colesterol HDL).",
+      "Control adecuado de la glucemia en pacientes diabéticos.",
+      "Aumento de la actividad física."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 127 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-128",
+    "localNumber": 128,
+    "category": "Cardiología",
+    "stem": "Mujer de 75 años con antecedentes de insufi- ciencia cardiaca con fracción de eyección del 25 % q u e ac u d e a r e vi s i ón , e n c on t r án d os e e s t ab l e en clase funcional III de la NYHA. Tiene un desfibrilador cardiovers or implantado. La me- dicación actual consiste e n lisinopril, carvedilol y espironolactona en las dosis máximas tolera- das. En la exploración física tiene TA 118/74 mmHg, FC 78 lpm. En la a uscultación cardiaca se detecta un tercer tono, la auscultación pul- monar es normal y no p resenta edemas. ¿Cuál de los siguientes es el paso más apropiado en su manejo?:",
+    "options": [
+      "Añadir sacubitrilo/valsartan.",
+      "Añadir ivabradina.",
+      "Suspender el lisinopril e iniciar sacubitri- lo/valsartan.",
+      "Suspender el carvedilol e iniciar ivabradina. - 19 -"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 128 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-129",
+    "localNumber": 129,
+    "category": "General",
+    "stem": "Varón de 65 años que acude a urgencias por aparición de lesiones moteadas cianóticas en los dedos de ambos pies. Antecedentes personales: tabaquismo, hipertensión arterial y dislipemia. Rx tórax: ensanchamiento mediastínico. Angio- TC tóraco-abdómino-pélvica: aneurisma de aorta torácica descendente de 7 cm de diámetro, distal a arteria subclavia izquierda y con trom- bo mural. De las siguientes, señale la opción correcta:",
+    "options": [
+      "Está indicado el tratamiento con estatinas para estabilizar el trombo.",
+      "Es necesaria la realización de una aortografía diagnóstica urgente.",
+      "En la cirugía se sustituye el segmento aneu- rismático por una prótesis tubular con reim- plante de los troncos supraaórticos.",
+      "Está indicado el implante de una endoprótesis torácica."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 129 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-130",
+    "localNumber": 130,
+    "category": "Cardiología",
+    "stem": "Varón de 85 años en fibrilación auricular per- manente que consulta por sufrir un dolor brus- co y frialdad en el pie derecho desde hace 6 horas. En la exploración presenta cianosis plan- tar con déficit parcial de sensibilidad y movili- dad. El pulso femoral es palpable, estando au- sentes los pulsos poplíteo y distales de dicha extremidad. De las siguientes ¿cuál es la actitud terapéutica idónea?:",
+    "options": [
+      "Desestimar la cirugía de revascularización, por el tiempo prolongado de isquemia.",
+      "Aplicar calor y avisar al cirujano vascular de guardia.",
+      "Tratamiento quirúrgico urgente mediante tromboembolectomía.",
+      "Tratamiento médico urgente con prostaglan- dinas intravenosas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 130 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-131",
+    "localNumber": 131,
+    "category": "General",
+    "stem": "Varón de 30 años, de complexión delgada, que durante un partido de baloncesto sufre un epi- sodio de dolor torácico derecho agudo, acom- pañado de disnea de aparición brusca y respi- ración superficial por el que acude a urgencias. ¿Cuál de los siguientes signos exploratorios le parecería más probable encontrar en la auscul- tación pulmonar?:",
+    "options": [
+      "Soplo tubárico y crepitantes en base derecha.",
+      "Disminución del murmullo vesicular en la base derecha, disminución de las vibraciones vocales y matidez a la percusión.",
+      "Disminución/abolición de las vibraciones vocales y timpanismo en la percusión en he- mitorax derecho.",
+      "Roncus y sibilancias dispersas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 131 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-132",
+    "localNumber": 132,
+    "category": "Neumología",
+    "stem": "Varón de 75 años con antecedentes de EPOC que acude a urgencias por disnea progresiva de varios días de evolución y disminución del nivel de conciencia. En la gas ometría arterial respi- rando aire ambiente (FiO2 21%) se informan los siguientes valores: pH 7,25; pO2 45 mmHg; pCO2 70 mmHg; H2CO3 26 mmol/L; EB -0,1 mmol/L. Desde un punto de vista gasométrico presenta:",
+    "options": [
+      "Insuficiencia respiratoria global con acidosis respiratoria.",
+      "Insuficiencia respiratoria global con acidosis metabólica.",
+      "Insuficiencia respiratoria parcial con acidosis metabólica.",
+      "Insuficiencia respiratoria parcial con alcalosis respiratoria."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 132 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-133",
+    "localNumber": 133,
+    "category": "Neumología",
+    "stem": "Mujer de 78 años que consulta por disnea, diagnosticándosele una exacerbación de su EPOC. Tras ser evaluada se decide administrar prednisona. ¿Cuál de las siguientes afirmacio- nes es correcta?:",
+    "options": [
+      "En este caso es preferibl e administrar predni- s o n a v í a i n t r a v e n o s a y a q u e e s m á s e f e c t i v a que la administración oral.",
+      "Una buena opción sería administrar predniso- na 40 mg/día vía oral durante 5 días",
+      "La dosis de prednisona debe ser cómo míni- mo 1 mg/kg de peso al día.",
+      "La prednisona debe pautarse de tal forma que la disminución de la dosis se realice de forma paulatina durante 10 días."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 133 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-134",
+    "localNumber": 134,
+    "category": "Cardiología",
+    "stem": "Paciente de 71 años sin antecedentes cardiovas- culares que consulta por ronquido crónico y apneas presenciadas durante el sueño. En la exploración destaca un índice de masa corporal de 31 kg/m2. El grado de somnolencia diurna evaluado con la escala de Epworth es de 5. Se realiza una poligrafía res piratoria que eviden- cia un índice de apnea/hipopnea de 15 por hora de registro, con una saturación media de oxí- geno del 94 %. La primera intervención tera- péutica indicada es:",
+    "options": [
+      "Presión positiva continua en la vía aérea (CPAP).",
+      "Oxigenoterapia nocturna domiciliaria.",
+      "Presión positiva de doble nivel en la vía aé- rea.",
+      "Medidas higiénico-dietéticas generales. - 20 -"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 134 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-135",
+    "localNumber": 135,
+    "category": "General",
+    "stem": "Mujer de 66 años, no fumadora, con tos y dis- nea de un año de evolución. Se realiza TC torá- cica de alta resolución por sospecha de fibrosis pulmonar idiopática. ¿Cuál de los siguientes hallazgos radiológicos son típicos de esta enti- dad?:",
+    "options": [
+      "Quistes de panal y patrón reticular con pre- dominio basal.",
+      "Opacidades en vidrio deslustrado parcheadas o difusas, bilaterales y simétricas.",
+      "Consolidaciones múltiples, con distribución periférica en campos pulmonares inferiores.",
+      "Bronquiectasias por tracción y patrón noduli- llar subpleural en bases pulmonares."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 135 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-136",
+    "localNumber": 136,
+    "category": "Neumología",
+    "stem": "Paciente de 65 años , no fumador, que refiere que trabajó en su juventud en industria rela- cionada con la uralita. Consulta por un cuadro de disnea progresiva, sin fiebre. En la radiogra- fía de tórax se observan calcificaciones pleura- les izquierdas y un engrosamiento pleural dere- cho de características nodulares, que se confir- ma en la TC de tórax, sin adenopatías mediastí- nicas, nódulos, ni masas pulmonares o medias- tínicas. Con respecto a la actitud a seguir con este paciente, señale la afirmación correcta:",
+    "options": [
+      "La tomografía por emisión de positrones permite llegar al diagnóstico específico si se observa un gran hipermetabolismo a nivel pleural.",
+      "El diagnóstico más probable es el de carci- noma broncogénico, por lo que deberá reali- zarse, en primer lugar, una fibrobroncoscopia diagnóstica.",
+      "La primera maniobra diagnóstica debe ser una toracocentesis. En caso de que no se consiga un diagnóstico etiológico, debe plantearse una toracoscopia diagnóstica para toma de una biopsia pleural.",
+      "Al tratarse de un derrame pleural atípico, debe descartarse una causa infecciosa, por lo que deberá realizase una toracocentesis con análisis bioquímico y cultivo para indicar un posible drenaje pleural."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 136 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-137",
+    "localNumber": 137,
+    "category": "Aparato digestivo",
+    "stem": "Paciente de 55 años con cirrosis hepática al- cohólica, abstinente, sin datos de hipertensión portal. Análisis: AST 34 U/L (normal < 37 U/L); A L T 1 9 U / L ( n o r m a l < 4 1 U / L ) ; b i l i r r u b i n a t o t a l 0 , 7 8 m g / d l ( n o r m a l < 1 m g / d l ) ; a l f a - f e t o p r o t e í n a 7 n g / m l ( n o r m a l < 1 0 n g / m l ) . S e realiza una ecografía hepática que detecta una lesión ocupante de espacio hipoecogénica de 1,5 cm de diámetro. La resonancia magnética m u e s t r a u n a l e s i ó n c o n c a p t a c i ó n e n f a s e a r t e - rial y lavado en fase venosa. ¿Qué actitud de las siguientes es más correcta?:",
+    "options": [
+      "Realizar biopsia del nódulo, ya que el tamaño es inferior a 2 cm.",
+      "Repetir la ecografía a los 3 meses.",
+      "Indicar un trasplante hepático.",
+      "Solicitar estudio de extensión."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 137 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-138",
+    "localNumber": 138,
+    "category": "General",
+    "stem": "Mujer de 27 años que consulta por disfagia y odinofagia. En los últimos meses nota sensación de dificultad al tragar, más con líquidos que con sólidos, dolor centrotorácico, algún vómito ais- lado, sin esfuerzo y más parecido a una regurgi- tación. No refiere pérdida de peso ni de apetito. Exploración física normal. Analítica completa dentro de la normalidad. Endoscopia oral sin alteraciones estructurales ni lesiones mucosas. Manometría esofágica de alta resolución: acti- vidad vigorosa y ausencia de peristalsis en el cuerpo esofágico con relajación normal del esfínter esofágico inferi or. El diagnóstico más probable es:",
+    "options": [
+      "Espasmo esofágico distal.",
+      "Esófago hipercontráctil.",
+      "Acalasia tipo I.",
+      "Peristalsis fragmentada."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 138 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-139",
+    "localNumber": 139,
+    "category": "General",
+    "stem": "Mujer de 69 años que acude a urgencias por un cuadro de vómitos, estreñimiento, retortijones y distensión abdominal. En la exploración se ob- serva abdomen distendido, sin dolor a la palpa- ción, con ruidos intestinales metálicos. En la radiografía simple de abdomen en bipedesta- ción se observan múltiples niveles hidroaéreos y aerobilia. De los siguientes, el diagnóstico más probable es:",
+    "options": [
+      "Colecistitis enfisematosa.",
+      "Fitobezoar.",
+      "Íleo biliar.",
+      "Colitis isquémica."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 139 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-140",
+    "localNumber": 140,
+    "category": "Infecciosas",
+    "stem": "Con relación a la clasificación de las heridas quirúrgicas en función de la magnitud de la carga bacteriana estim a d a , u n a e n t e r o t o m í a durante una obstrucción intestinal se clasifica como:",
+    "options": [
+      "Herida sucia (clase IV).",
+      "Herida contaminada (clase III).",
+      "Herida limpia/contaminada (clase II).",
+      "Herida limpia (clase I). - 21 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 140 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-141",
+    "localNumber": 141,
+    "category": "General",
+    "stem": "Varón de 18 años que fue intervenido hace 10 días de una apendicitis gangrenosa por laparos- copia con peritonitis localizada pélvica. Acude a urgencias por un síndrome febril en agujas, distensión abdominal y deposiciones diarreicas de 48 h de evolución. ¿Cuál de los siguientes diagnósticos es más probable?:",
+    "options": [
+      "Absceso en fondo de saco de Douglas.",
+      "Infección de la herida quirúrgica.",
+      "Infección urinaria complicada.",
+      "Absceso hepático."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 141 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-142",
+    "localNumber": 142,
+    "category": "General",
+    "stem": "Un paciente con boc io tóxico difuso (enferme- dad de Graves) que rechace tratamiento con yodo radioactivo y que presente oftalmopatía grave debe someterse a:",
+    "options": [
+      "Lobectomía tiroidea.",
+      "Tiroidectomía total.",
+      "Tiroidectomía subtotal.",
+      "Enucleación del nódulo principal."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 142 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-143",
+    "localNumber": 143,
+    "category": "General",
+    "stem": "Mujer de 51 años que consulta, tras varios epi- sodios de diverticulitis sigmoidea leve tratados de forma conservadora, por presentar ahora estreñimiento pertinaz que mejora con el uso de laxantes. En ocasiones p resenta dolor abdomi- nal tipo retortijón que mejora con la expulsión de heces y gases. Se practica colonoscopia en- contrándose una estenosis sigmoidea que impi- de el paso del colonoscopio. Se toma muestra para estudio anatomopatológico que no es con- cluyente. En el enema opaco se encuentra una estenosis sigmoidea de unos 5 cm de longitud. La actitud terapéutica más adecuada sería:",
+    "options": [
+      "Sigmoidectomía laparoscópica.",
+      "Tratamiento conservador con fibra dietética y rifaximina.",
+      "Dilatación endoscópica.",
+      "Stent en zona de estenosis."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 143 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-144",
+    "localNumber": 144,
+    "category": "General",
+    "stem": "¿Cuál es el objetivo principal del tratamiento adyuvante del cáncer de mama?:",
+    "options": [
+      "Incremento de la supervivencia global.",
+      "Transformar tumores no resecables en reseca- bles para la cirugía.",
+      "Aumentar la supervivencia libre de progre- sión.",
+      "Mejorar el control de síntomas."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 144 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-145",
+    "localNumber": 145,
+    "category": "General",
+    "stem": "¿Cuál de las siguientes vacunas NO está reco- m e n d a d a p r e v i a m e n t e a u n a e s p l e n e c t o m í a electiva en un adulto?:",
+    "options": [
+      "Vacuna antineumococo PPV 23.",
+      "Vacuna antihaemophilus influenza B.",
+      "Vacuna antimeningocócica C.",
+      "Vacuna antitetánica."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 145 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-146",
+    "localNumber": 146,
+    "category": "General",
+    "stem": "Mujer de 40 años, sin antecedentes personales ni familiares de interés, que presenta diarrea de varios días de evolución de carácter acuoso, muy abundante, acompañ ada de pérdida de 10 kg de peso, rubor y enroj ecimiento facial, junto a lipotimias y dolor abdominal cólico y que en los datos de laboratorio presenta hipopotase- mia. En ecografía abdominal se encuentra masa de 1,5 cm de diámetro en cola pancreática. De entre las siguientes, su sospecha diagnóstica primaria es:",
+    "options": [
+      "Insulinoma.",
+      "PPoma.",
+      "VIPoma.",
+      "Glucagonoma."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 146 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-147",
+    "localNumber": 147,
+    "category": "General",
+    "stem": "En relación con la calprotectina, indique la respuesta correcta:",
+    "options": [
+      "Es una proteína secret ada por los neutrófilos que se determina en sangre para valorar la ac- tividad de la enfermedad inflamatoria intesti- nal.",
+      "Sus niveles tienen muy buena correlación con la actividad objetivada por endoscopia, sobre todo en la colitis ulcerosa.",
+      "En los pacientes con síndrome de intestino irritable se detecta en niveles anormalmente elevados.",
+      "No es de utilidad en el seguimiento de pacien- tes con enfermedad inflamatoria intestinal."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 147 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-148",
+    "localNumber": 148,
+    "category": "Nefrología",
+    "stem": "Paciente de 48 años remitido a consulta de ne- frología por un filtrado glomerular estimado (FGe) de 32 ml/min/1,72 m2. ¿Cuál de los si- g u i e n t e s d a t o s N O o r i e n t a r í a a p e n s a r e n u n a enfermedad renal crónica?:",
+    "options": [
+      "Riñones de pequeño tamaño.",
+      "Antecedentes familiares de nefropatía.",
+      "Niveles elevados de fósforo en sangre.",
+      "Buena diferenciación ecográfica de corteza y médula renales."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 148 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-149",
+    "localNumber": 149,
+    "category": "Nefrología",
+    "stem": "Mujer de 67 años con enfermedad renal crónica secundaria a nefropatía diabética. En la actua- lidad presenta una creatinina de 3,2 mg/dl con filtrado glomerular es timado (CKD-EPI) 14 ml/min. ¿Cuál de las siguientes afirmaciones es cierta?:",
+    "options": [
+      "Presenta una enfermedad renal crónica esta- dio 3 y debe iniciar quelantes del fósforo.",
+      "Presenta una enfermedad renal crónica esta- dio 5 y debe considerarse el tratamiento renal sustitutivo.",
+      "Un buen control glucémico puede revertir la insuficiencia renal.",
+      "Es poco probable que presente una proteinu- ria superior a 500 mg/24h. - 22 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 149 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-150",
+    "localNumber": 150,
+    "category": "Nefrología",
+    "stem": "Mujer de 47 años que consulta por síndrome miccional. Se le diagnostica de infección urina- ria no complicada y se le trata con ciprofloxa- cino durante 5 días. A la semana vuelve a con- sultar por mal estado general, artralgias y apa- rición de un rash cutáneo. En la analítica desta- ca un filtrado glomerular de 45 ml/min (CKD- EPI), siendo el de hace 6 meses de 100 ml/min. En el sedimento se identifican leucocitos, siendo negativo para nitritos. ¿De las siguientes, cuál es la causa más probable de su insuficiencia renal?:",
+    "options": [
+      "Glomerulonefritis postinfecciosa.",
+      "Nefrotoxicidad por ciprofloxacino.",
+      "Pielonefritis aguda.",
+      "Nefritis intersticial aguda."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 150 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-151",
+    "localNumber": 151,
+    "category": "Aparato digestivo",
+    "stem": "Varón de 22 años que acude a urgencias por presentar orina \"casi negra\" desde hace 12 horas. No tiene antecedentes de interés ni toma medicamentos. Refiere un cuadro catarral de vías altas desde hace 4-5 días para el que ha tomado paracetamol. Exploración: temperatura 37,3 ºC, PA 150/95, FC 8 5 lpm, ligero eritema faríngeo, resto normal. En analítica destaca: Hb 12,8 g/dl, Hcto 39 %, leucocitos 10.500 /mm3 con fórmula normal, plaquetas 250.000 /mm3, coagulación normal, urea 25 mg/dl, creatinina 0,8 mg/dl, iones, perfil hepático, lipídico, albú- mina y proteínas totales normales. Estudio de autoinmunidad normal y serología vírica nega- tiva. Orina de 24 h con proteinuria de 0,75 g/24h, sedimento con 10 eritrocitos por campo (90 % dismórficos), no l eucocituria. Ecografía renal normal. ¿Qué diagnóstico le parece más probable?:",
+    "options": [
+      "Nefropatía por cambios mínimos.",
+      "Glomerulonefritis post-infecciosa.",
+      "Nefropatía IgA.",
+      "Nefritis intersticial aguda."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 151 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-152",
+    "localNumber": 152,
+    "category": "Neurología",
+    "stem": "Varón de 24 años que presenta microhematuria dismórfica, proteinuria de 3 g/24 h, FGe (CKD- EPI) 85 ml/min e hipoacusia neurosensorial. Refiere que su abuela materna precisó diálisis a los 70 años y tanto su madre como su hermana pequeña presentan microhematuria aislada. ¿Cuál de las siguientes enfermedades es más probable?:",
+    "options": [
+      "Síndrome de Alport.",
+      "Nefropatía IgA.",
+      "Enfermedad de Fabry.",
+      "Poliquistosis renal autosómica dominante."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 152 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-153",
+    "localNumber": 153,
+    "category": "Nefrología",
+    "stem": "Varón de 19 años sin antecedentes de interés que acude a urgencias porque después de una infección respiratoria pr esenta astenia, males- tar general, oliguria y cefalea. Exploración física: TA 210/120 mmHg, fondo de ojo con retinopatía hipertensiva grado III. Analítica: Hb 7,4 g/dl, plaquetas 85.000/mm3, 2-3 esquis- tocitos en la extensión de sangre periférica, LDH 950 UI/ml, creatinina sérica 8,75 mg/dl. Sistemático de orina: proteinuria 300 mg/dl, sedimento 15 hematíes por campo. Niveles de ADAMTS-13 normales. A nte estos hallazgos ¿cuál sería su principal sospecha diagnóstica?:",
+    "options": [
+      "Púrpura trombótica trombocitopénica.",
+      "Síndrome hemolítico urémico atípico.",
+      "Coagulación intravascular diseminada.",
+      "Síndrome hemolítico urémico típico."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 153 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-154",
+    "localNumber": 154,
+    "category": "General",
+    "stem": "En cuanto a la obstru cción del flujo urinario, señale la respuesta FALSA:",
+    "options": [
+      "La intensidad del dolor es independiente de la velocidad con la que ocurre la distensión.",
+      "Son sitios frecuentes de obstrucción las unio- nes pieloureteral y ureterovesical, el cuello vesical y el meato uretral.",
+      "Los recursos diagnósticos para identificar la obstrucción anatómica incluyen la flujome- tría.",
+      "La obstrucción del flujo urinario aumenta la presión hidrostática proximal al sitio de oclu- sión, causando dolor, distensión del sistema colector renal y aumento de la presión intra- tubular."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 154 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-155",
+    "localNumber": 155,
+    "category": "General",
+    "stem": "¿Cuál de las siguientes es la complicación meta- bólica más frecuente en el cáncer?:",
+    "options": [
+      "Hiponatremia.",
+      "Hiperuricemia.",
+      "Hiperfosfatemia.",
+      "Hipercalcemia."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 155 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-156",
+    "localNumber": 156,
+    "category": "General",
+    "stem": "En relación con la compresión medular secun- daria a infiltración neoplásica de la médula espinal en pacientes con cáncer, señale la res- puesta INCORRECTA:",
+    "options": [
+      "La laminectomía quirúrgica y la radioterapia, sola o complementaria a la cirugía, consiguen una recuperación neurológica inferior al 20 %.",
+      "El tratamiento precoz con corticoides reduce el edema vasogénico y limita la progresión de la lesión medular.",
+      "Los síntomas más frecuentes son la parapare- sia y la reducción de la sensibilidad distal al segmento medular comprimido.",
+      "La resonancia magnética es la prueba diag- nóstica de elección para la confirmación diagnóstica y la identificación del nivel de compresión. - 23 -"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 156 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-157",
+    "localNumber": 157,
+    "category": "General",
+    "stem": "¿Cuál es la mejor combinación de tratamientos oncológicos en un paciente con el diagnóstico de carcinoma adenoide quístico de paladar duro T4N0M0?:",
+    "options": [
+      "Radioquimioterapia concomitante como pri- mera opción terapéutica.",
+      "Cirugía de la lesión seguida de radioterapia adyuvante sobre el lecho quirúrgico.",
+      "Radioterapia y posterior cirugía en ausencia de respuesta completa.",
+      "Es un tumor benigno y por tanto no precisa de tratamientos oncológicos complementarios."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 157 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-158",
+    "localNumber": 158,
+    "category": "General",
+    "stem": "Señale el tumor en el que la braquiterapia NO es una alternativa efectiva de tratamiento:",
+    "options": [
+      "Adenocarcinoma de endo metrio estadio I-B grado 2.",
+      "Carcinoma ductal infiltrante de mama tras intervención quirúrgica del lecho tumoral con margen cercano.",
+      "Glioblastoma multiforme resecado parcial- mente.",
+      "Adenocarcinoma de próstata T1N0M0 Gleason 6."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 158 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-159",
+    "localNumber": 159,
+    "category": "General",
+    "stem": "Además de las posibles complicaciones hemo- rrágicas ¿qué otro efecto adverso del tratamien- to parenteral con heparina puede ser grave y comprometer la vida del paciente?:",
+    "options": [
+      "Hipopotasemia extrema.",
+      "Trastornos gastrointestinales con diarrea abundante y deshidratación.",
+      "Alcalosis metabólica por toxicidad tubular renal.",
+      "Trombopenia grave acompañada de fenóme- nos trombóticos venosos o arteriales."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 159 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-160",
+    "localNumber": 160,
+    "category": "General",
+    "stem": "Mujer de 35 años, que toma anticonceptivos, acude a urgencias con síndrome febril y pares- tesias en hemicuerpo izquierdo. En la analítica d e s a n g r e s e o b s e r v a H b 7 , 5 g / d l , p l a q u e t a s 7.000/microl, leucocitos normales con recuento diferencial normal, LDH 1 .200 UI/l, reticuloci- t o s 1 0 % ( n o r m a l 0 , 5 - 2 % ) , h a p t o g l o b i n a e n suero indetectable, test de Coombs directo ne- gativo y frotis de sangre periférica con esquisto- citos. Coagulación (tiempo de protrombina y APTT) normal. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "options": [
+      "Anemia hemolítica autoinmune.",
+      "Púrpura trombótica trombocitopénica.",
+      "Síndrome de Evans (anemia hemolítica y trombopenia inmunes).",
+      "Trombocitopenia inmune idiopática."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 160 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-161",
+    "localNumber": 161,
+    "category": "General",
+    "stem": "En el diagnóstico de un proceso linfoproliferati- vo es fundamental el estudio molecular y del inmunofenotipo. La detección de la transloca- ción 11:14 con afectación de la ciclina D1 es característica de un:",
+    "options": [
+      "Linfoma folicular.",
+      "Linfoma de la zona marginal.",
+      "Linfoma linfoblástico.",
+      "Linfoma del manto."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 161 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-162",
+    "localNumber": 162,
+    "category": "General",
+    "stem": "¿Cuál de las siguientes escalas o instrumentos utilizados para valorar la condición de fragili- dad en un paciente mayor se basa en el juicio clínico del observador y es, por tanto, la más subjetiva?:",
+    "options": [
+      "El fenotipo de Fried.",
+      "La escala clínica de fragilidad (Clinical Frai- lty Scale).",
+      "SPPB (Short Physical Performance Battery).",
+      "Timed Up & Go."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 162 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-163",
+    "localNumber": 163,
+    "category": "General",
+    "stem": "Referente a la sar copenia, es cierto que:",
+    "options": [
+      "Es un síndrome geriátrico que aparece exclu- sivamente en pacientes de edad avanzada.",
+      "Se caracteriza por pérdida de la masa y la fuerza de la musculatura esquelética.",
+      "Es sinónimo de fragilidad.",
+      "Se trata con medicamentos que aumentan la masa muscular."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 163 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-164",
+    "localNumber": 164,
+    "category": "Nefrología",
+    "stem": "Varón de 78 años con hiperplasia benigna de próstata en tratamiento con finasterida y tamsulosina, independiente para las actividades básicas e instrumentales de la vida diaria y sin deterioro cognitivo. P resenta un creciente nú- mero de episodios de escapes de orina involun- tarios con sensación de urgencia miccional (ac- tualmente presenta 4-5 escapes durante el día). El sedimento de orina es normal. Tiene un resi- duo de orina post-miccional de 60 cc. ¿Cuál de las siguientes medidas es la más adecuada?:",
+    "options": [
+      "Iniciar tratamiento con oxibutinina.",
+      "Colocar una sonda urinaria.",
+      "Retirar el tratamiento con finasterida.",
+      "Iniciar medidas higiénicas miccionales con terapia conductual vesical. - 24 -"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 164 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-165",
+    "localNumber": 165,
+    "category": "Traumatología",
+    "stem": "Mujer de 88 años que presenta episodio de desorientación en espacio y tiempo, inquietud y alteración del nivel de conciencia fluctuante al regresar a casa tras ser dada alta del hospital, tras un ingreso por fractura de cadera. Entre sus antecedentes destacan HTA, hipoacusia leve, deterioro cognitivo leve y osteoporosis. Antes de la fractura era independiente para todas las actividades básicas de la vida diaria, y tras la cirugía ha iniciado la deambulación con andador y las transfere ncias las realiza con ayuda de una persona. ¿Cuál es el manejo ini- cial más adecuado del cuadro que presenta?:",
+    "options": [
+      "Valoración del dolor y descartar una impacta- ción fecal.",
+      "Iniciar haloperidol.",
+      "Iniciar diazepam.",
+      "Recomendar reposo en cama y sujeción me- cánica para que no se autolesione."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 165 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-166",
+    "localNumber": 166,
+    "category": "Nefrología",
+    "stem": "Mujer de 88 años de edad que consulta por caídas frecuentes, deterioro del estado general, hiporexia e insomnio. C omo antecedentes pre- senta deterioro cognitivo moderado, diabetes mellitus tipo 2 con última hemoglobina glicosi- lada de 8 %, hipertensión arterial, hipercoleste- rolemia con LDL de 121 mg/dl y enfermedad renal crónica con un filtrado glomerular de 42 mL/m. En tratamiento con sulfonilureas, simvastatina, benzodiacepinas y valsar- tan/amlodipino. Indique la actuación más co- rrecta:",
+    "options": [
+      "Habría que intensificar el tratamiento de la diabetes para reducir la hemoglobina glicada.",
+      "La hipercolesterolemia está mal controlada, por lo que añadiría ezetimiba.",
+      "Revisaría el tratamiento farmacológico para realizar una desprescripción priorizando fár- macos imprescindibles.",
+      "Aumentaría la dosis de benzodiacepinas para control del insomnio."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 166 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-167",
+    "localNumber": 167,
+    "category": "General",
+    "stem": "Uno de los siguientes componentes NO se consi- dera clave para conseguir la eficacia de los pro- gramas de valoración geriátrica integral:",
+    "options": [
+      "Liderazgo clínico.",
+      "Uso de escalas e instrumentos estandarizados.",
+      "Plan por objetivos con trabajo en equipo in- terdisciplinar.",
+      "Intervención intensa de forma temporal."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 167 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-168",
+    "localNumber": 168,
+    "category": "General",
+    "stem": "Varón de 58 años, obeso, asintomático, bebedor moderado, que presenta una primera glucemia basal de 153 mg/d con glucosuria negativa. En las semanas siguientes ha tenido otras dos cifras de glucemias basales de 118 y 136 mg/dl. ¿Cuál de las siguientes es la actitud más apropiada para confirmar el diagnóstico de diabetes melli- tus?:",
+    "options": [
+      "Practicar una curva de glucemia con 75 g de glucosa.",
+      "Reúne ya criterios diagnósticos de diabetes mellitus.",
+      "Solicitar una determinación de insulinemia basal o péptido C.",
+      "Solicitar una determinación de hemoglobina glicosilada."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 168 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-169",
+    "localNumber": 169,
+    "category": "General",
+    "stem": "¿Cuál de las siguientes neoplasias NO suele asociarse con un síndrome de neoplasia endo- crina múltiple tipo MEN-1?:",
+    "options": [
+      "Adenoma de hipófisis.",
+      "Feocromocitoma.",
+      "Insulinoma.",
+      "Glucagonoma."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 169 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-170",
+    "localNumber": 170,
+    "category": "General",
+    "stem": "Mujer de 75 años en tratamiento con sertralina que acude a urgencias por un cuadro confusio- nal. No se evidencian edemas y la tensión arte- rial es de 130/70 mmHg. En la analítica destaca Na 126 mEq/l y K 4 mEq/l, la natriuria es de 45 mEq/l y se ha descartado la ingesta de diuréti- cos. ¿De las siguientes cuál es la actitud más correcta?:",
+    "options": [
+      "Se trata de una enfermedad de Addison y deben administrarse corticoides de inmediato.",
+      "Administrar suero salino hipertónico a fin de restablecer cuanto antes la natremia.",
+      "Indicar restricción hídrica y si no se eleva la natremia pasar a infusión lenta de suero sa- lino.",
+      "Solicitar resonancia magnética cerebral, ya que seguramente se trata de una diabetes insí- pida."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 170 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-171",
+    "localNumber": 171,
+    "category": "General",
+    "stem": "Mujer de 38 años que consulta por astenia e hipotensión de seis meses de evolución. Después de una evaluación extensa, en la analítica úni- camente destaca cortisol 8 microg/dl (5-25 mi- crog/dl) y ACTH de 240 pg/ml (10-60 pg/ml). ¿Cuál de las siguientes afirmaciones es cierta?:",
+    "options": [
+      "Debe solicitarse test de estimulación con ACTH con la sospecha de insuficiencia su- prarrenal primaria.",
+      "Se trata de un síndrome de resistencia a la ACTH y debe solicitarse consejo genético.",
+      "Debe descartarse tumor hipofisario secretor de ACTH.",
+      "Se trata de una secreción ectópica de ACTH y debe buscarse una neoplasia. - 25 -"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 171 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-172",
+    "localNumber": 172,
+    "category": "General",
+    "stem": "En el síndrome de Klin efelter, ¿cuál de las si- guientes afirmaciones es correcta?:",
+    "options": [
+      "El tratamiento con testosterona potencia la fertilidad.",
+      "Los niveles de gonadotrofinas están dismi- nuidos en la mayoría de los pacientes.",
+      "El cariotipo X0 subyace en la mayoría de los casos.",
+      "La incidencia de lupus eritematoso es mayor que en los varones de la población general."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 172 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-173",
+    "localNumber": 173,
+    "category": "General",
+    "stem": "Mujer de 37 años, diagnosticada hace tres me- ses de enfermedad de Graves, en tratamiento con metimazol y propranolol, que consulta por fiebre y deglución dolorosa. En la exploración física tiene temperatura 38,7ºC y la orofaringe está eritematosa, sin exudados. ¿Cuál de los siguientes es el manejo más adecuado?:",
+    "options": [
+      "Iniciar un tratamiento empírico con penicilina V oral.",
+      "Obtener una prueba rápida de detección de antígenos para el estreptococo del grupo A.",
+      "Interrumpir el propranolol y obtener un culti- vo de orofaringe.",
+      "Interrumpir el metimazol y obtener un hemo- grama con recuento diferencial."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 173 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-174",
+    "localNumber": 174,
+    "category": "General",
+    "stem": "¿Cuál de los siguientes hallazgos semiológicos en un paciente con herpes zóster NO indica una especial gravedad?:",
+    "options": [
+      "Presencia de vesículas en el conducto auditi- vo externo.",
+      "Afectación multimetamérica.",
+      "Afectación del ala nasal.",
+      "Lesiones cutáneas en distintas fases evoluti- vas."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 174 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-175",
+    "localNumber": 175,
+    "category": "General",
+    "stem": "Paciente de 62 años que consulta por haber estado en contacto cercano en las últimas sema- nas con una persona co n una tuberculosis acti- va. El Mantoux es positivo (12 mm). Entre sus antecedentes destaca esta r en tratamiento con anticoagulantes orales (acenocumarol) por una trombosis venosa profunda hace unos meses. No refiere fiebre ni tos y se encuentra asintomático. La Rx de tórax es normal. ¿Cuál de los siguien- tes tratamientos es el más recomendable?:",
+    "options": [
+      "Isoniacida, durante nueve meses.",
+      "Rifampicina, durante cuatro meses.",
+      "Isoniacida y rifampicina, durante tres meses.",
+      "Isoniacida y rifapentina, durante tres meses."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 175 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-176",
+    "localNumber": 176,
+    "category": "General",
+    "stem": "Paciente de 73 años con antecedentes de hiper- tensión arterial y diabetes que sufre una neu- monía bilateral por SARS-CoV2. Tras recibir oxígeno en gafas nasales, enoxaparina a dosis profilácticas (60 mg/d SC), remdesivir y dexa- metasona (6 mg/d IV), la evolución clínica no está siendo favorable y en el cuarto día de hos- pitalización se encuentra taquipneico a 30 rpm, temperatura 38ºC y satu ración 92 %; comen- zando a recibir oxígeno con gafas nasales de alto flujo. Análisis: 12000 leucocitos (75 % neu- trófilos), PCR 80 (N<3 mg/L), ferritina 823 (N<350 ng/mL), dímero D 1800 (N <500 ng/mL), procalcitonina 0,45 (N< 0,3 ng/mL). La Rx de tórax muestra una progresión de la neu- monía bilateral. ¿Cuál es la actitud terapéutica más recomendable de las siguientes?:",
+    "options": [
+      "Aumentar la dosis de enoxaparina a dosis anticoagulantes (60 mg/12 h SC).",
+      "Aumentar la dosis de esteroides (metilpre- dnisolona, 80 mg/8 h IV).",
+      "Añadir tocilizumab.",
+      "Añadir meropenem."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 176 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-177",
+    "localNumber": 177,
+    "category": "Traumatología",
+    "stem": "Paciente de 33 años, residente en Valencia, que consulta por presentar en la me jilla derecha una placa eritemato-ana ranjada tras picadura de insecto que ha ido creciendo lentamente hasta alcanzar 1,5 cm y que en las últimas se- manas se ha ulcerado y cubierto de una esca- mocostra. La lesión solo le origina discretas molestias si se rasca. Entre sus antecedentes destaca psoriasis en placas en tratamiento con adalimumab subcutáneo. Tiene buen estado general y no toma otros fármacos ni refiere alergias a medicamentos. Indique el tratamiento que emplearía:",
+    "options": [
+      "Isotretinoina oral.",
+      "Antimoniato de meglumina intralesional.",
+      "Corticoesteroides sistémicos.",
+      "Amoxicilina oral."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 177 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-178",
+    "localNumber": 178,
+    "category": "General",
+    "stem": "Varón de 48 años que acude a su consulta por estreñimiento crónico resistente a medidas ha- bituales. Además, refiere palpitaciones y en las últimas semanas disnea de medianos esfuerzos. Señale, de las posibilidades que se ofrecen, cual le orientaría más para sospechar un diagnóstico etiológico específico:",
+    "options": [
+      "Realizar un ECG.",
+      "Realizar un enema opaco.",
+      "Realizar un ecocardiograma.",
+      "Preguntar por el país de procedencia. - 26 -"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 178 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-179",
+    "localNumber": 179,
+    "category": "Infecciosas",
+    "stem": "Paciente de 54 años c on antecedentes de alcoho- lismo crónico y deficientes condiciones de vi- vienda e higiene. Refiere un cuadro clínico de dos semanas de duración de astenia, febrícula y sudoración nocturna. En la Rx y la TC de tórax se observa una lesión única, cavitada, en el seg- mento superior del lóbulo inferior derecho, de 4 cm de diámetro, con un nivel hidroaéreo. El estudio microbiológico del esputo es negativo. Decide comenzar con un tratamiento antibiótico empírico. Indique cuál de los siguientes sería el tratamiento MENOS eficaz:",
+    "options": [
+      "Metronidazol IV.",
+      "Clindamicina IV.",
+      "La asociación de un betalactámico y betalac- tamasa IV.",
+      "Moxifloxacino oral."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 179 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-180",
+    "localNumber": 180,
+    "category": "Reumatología",
+    "stem": "Mujer de 26 años diagnosticada de lupus erite- matoso sistémico, en tra tamiento con hidroxi- cloroquina, que consulta por sensación de debi- lidad generalizada que se ha instaurado progre- sivamente en los últimos 15 días. En la explora- ción física se aprecia palidez cutánea y en la analítica destaca Hb 7,4 gr/dL, Hcto 31 %, VCM 108. ¿Cuál de las siguientes determina- ciones será más útil para decidir la actuación?:",
+    "options": [
+      "Haptoglobina.",
+      "Test de Coombs.",
+      "Vitamina B12.",
+      "Anticuerpos antinucleares."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 180 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-181",
+    "localNumber": 181,
+    "category": "Nefrología",
+    "stem": "Varón de 67 años que presenta un cuadro de 3 meses de duración de astenia y febrícula, a la que se añade en el último mes obstrucción nasal con emisión de moco con algunos coágulos. En los últimos días nota dolor en el ojo derecho y asimetría respecto al con tralateral. En la explo- ración física se objetiva proptosis del globo ocular derecho y la inspección de las fosas nasa- les constata una mucosa eritematosa con costras serohemáticas. El resto de la exploración es normal. Los análisis de sangre (hemograma, función renal y hepática) son normales, a ex- cepción de una VSG de 65 mm/h; en el análisis de orina se detecta microhematuria y proteinu- ria de 520 mg/24h. ¿Cuál es el diagnóstico ini- cial más probable?:",
+    "options": [
+      "Granulomatosis eosinofílica con poliangitis.",
+      "Poliangitis microscópica.",
+      "Granulomatosis con poliangitis.",
+      "Poliarteritis nudosa."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 181 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-182",
+    "localNumber": 182,
+    "category": "General",
+    "stem": "En el síndrome de Sjögren, uno de los factores pronósticos asociados a una peor evolución es:",
+    "options": [
+      "Poliartritis de grandes y pequeñas articulacio- nes.",
+      "Fenómeno de Raynaud.",
+      "Hepatoesplenomegalia.",
+      "Crio globulinemia."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 182 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-183",
+    "localNumber": 183,
+    "category": "Nefrología",
+    "stem": "Mujer de 45 años sin antecedentes de interés que consulta por presentar sensación disneica de unos 4 días de evolución. La exploración muestra taquicardia rítmica, sin soplos y la auscultación pulmonar es normal. La gasome- t r í a a r t e r i a l m u e s t r a u n a p O 2 d e 7 0 m m H g y una pCO2 32 mmHg. El hemograma, la fun- ción renal y hepática son normales. Tiempo de protrombina 90 %, tiempo de tromboplastina parcial activada (TTPA) con ratio de 2 respecto al control (N <1,2). ¿De los siguientes diagnósti- cos cuál es el más probable?:",
+    "options": [
+      "Síndrome antifosfolípido.",
+      "Factor V de Leiden.",
+      "Hemofilia.",
+      "Pericarditis aguda."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 183 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-184",
+    "localNumber": 184,
+    "category": "General",
+    "stem": "Mujer de 70 años que refiere desde hace 1 mes dolor y rigidez en cinturas escapular y pelviana, que predomina al levantarse y mejora con la movilización, sin fiebre, cefalea ni afectación del estado general. En la ex ploración física se ob- serva rigidez y dolor a la movilización de hom- bros y caderas. La analítica muestra una eleva- ción de la VSG y la proteína C reactiva. ¿Qué diagnóstico es más probable y qué tratamiento prescribiría?:",
+    "options": [
+      "Artritis reumatoide, iniciaría tratamiento con metotrexato.",
+      "Fibromialgia, iniciaría tratamiento con dulo- xetina.",
+      "Polimialgia reumática, iniciaría tratamiento con corticoides.",
+      "Espondilitis anquilosante, iniciaría tratamien- to con antiinflamatorios no esteroideos."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 184 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-185",
+    "localNumber": 185,
+    "category": "General",
+    "stem": "La interconsulta médica en pacientes hospitali- zados constituye una actividad habitual entre los especialistas de medic ina interna/geriatría, en especial en los servicios quirúrgicos. Indique cuál de las siguientes características NO corres- ponde al modelo asistencial de interconsulta denominado asistencia compartida:",
+    "options": [
+      "Responsabilidad compartida.",
+      "Atención a demanda.",
+      "Atención integral y global.",
+      "Comunicación fluida entre médicos."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 185 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-186",
+    "localNumber": 186,
+    "category": "General",
+    "stem": "La obligación moral de actuar en beneficio de los demás es un principio básico de la bioética que se denomina:",
+    "options": [
+      "Autonomía.",
+      "Beneficencia.",
+      "No maleficencia.",
+      "Justicia. - 27 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 186 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-187",
+    "localNumber": 187,
+    "category": "Neurología",
+    "stem": "En relación con el uso de gabapentina como analgésico complementario a los opioides en pacientes con dolor neuropático en cuidados paliativos, señale la respuesta INCORRECTA:",
+    "options": [
+      "Se inicia con dosis de 100 a 300 mg dos o tres veces al día.",
+      "La combinación de gabapentina y nortriptilina no es más eficaz que la gabapentina sola.",
+      "La confusión y la somnolencia son efectos secundarios, en particular en pacientes mayo- res.",
+      "Por lo común es eficaz una dosis de 900 a 3.600 mg/día."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 187 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-188",
+    "localNumber": 188,
+    "category": "General",
+    "stem": "¿Cuál de las siguientes características no es propia de los síntomas que presentan los pa- cientes con enfermedad crónica avanzada con pronóstico de vida limitada?:",
+    "options": [
+      "Múltiples.",
+      "Intensos.",
+      "Estables.",
+      "Multifactoriales."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 188 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-189",
+    "localNumber": 189,
+    "category": "Neurología",
+    "stem": "Al cumplimentar el certificado médico de de- función de una persona que ha fallecido como consecuencia de una hemorragia cerebral por traumatismo craneoencefálico tras caída casual en el domicilio, en el apartado I-d (causa inicial o fundamental), deberem os hacer constar que se ha producido por:",
+    "options": [
+      "Parada cardiorrespiratoria por lesión de cen- tros encefálicos.",
+      "Hemorragia intracraneal por traumatismo craneoencefálico.",
+      "Caída en el mismo nivel por deslizamiento, tropezón y traspié (Código W01 de CIE-10).",
+      "No se debe cumplimentar el certificado por tratarse de muerte violenta."
+    ],
+    "correctIndex": -1,
+    "explanation": "Pregunta oficial número 189 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-190",
+    "localNumber": 190,
+    "category": "General",
+    "stem": "Las heridas de disposición paralela y de dife- rente profundidad, que aparecen en ocasiones en la muñeca del miembro no dominante de una persona como consecuencia de la acción de un a r m a b l a n c a , s o n s u g e s t i v a s d e u n a d e l a s s i - guientes opciones:",
+    "options": [
+      "Heridas de lucha, producidas por el manejo de arma.",
+      "Heridas de defensa.",
+      "Heridas de tanteo (intención autolítica).",
+      "Heridas autoproducidas con finalidad de si- mulación."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 190 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-191",
+    "localNumber": 191,
+    "category": "Cardiología",
+    "stem": "Varón de 54 años de edad que acude a su centro de salud tras el alta hospitalaria por un infarto agudo de miocardio. Destacan como anteceden- tes ser fumador de 25 cigarrillos/día desde los 20 años, bebedor habitual de 6 UBE/día y en varios análisis de años anteriores cifras de co- lesterol total de 247-298 mg/dl, triglicéridos de 150-216 mg/dl, colesterol-HDL de entre 45-52 mg/dl. En sus antecedentes familiares tiene recogidos que sus padres (86 y 83 años) son diabéticos e hipertensos y que sus dos hermanos (58 y 60 años) están sanos, todos sin enfermeda- des cardiovasculares. ¿Qué tipo de dislipemia es más probable?:",
+    "options": [
+      "Disbetalipoproteinemia.",
+      "Hipercolesterolemia familiar heterocigota.",
+      "Hiperlipemia familiar combinada.",
+      "Hipercolesterolemia poligénica."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 191 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-192",
+    "localNumber": 192,
+    "category": "General",
+    "stem": "Una vez establecido el diagnóstico de diabetes mellitus tipo 2 y logrado un control bueno o aceptable, dentro de las actividades periódicas de seguimiento, ¿cuándo hay que solicitar una hemoglobina A1c?:",
+    "options": [
+      "Cada 3 meses.",
+      "Cada 6 meses.",
+      "Cada 9 meses.",
+      "Cada 12 meses."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 192 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-193",
+    "localNumber": 193,
+    "category": "Cardiología",
+    "stem": "Según las recomendaciones preventivas cardio- vasculares del Programa de Actividades Pre- v e n t i v a s y P r o m o c i ó n d e l a S a l u d ( P A P P S ) , indique la opción correcta sobre la periodicidad del cribado de hipertensión arterial en personas mayores de 40 años:",
+    "options": [
+      "Se recomienda tomar la presión arterial anualmente.",
+      "Se recomienda tomar la presión arterial cada dos años.",
+      "Se recomienda tomar la presión arterial cada tres años.",
+      "Se recomienda tomar la presión arterial cada cuatro años."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 193 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-194",
+    "localNumber": 194,
+    "category": "Cardiología",
+    "stem": "Respecto del síndrome cardiorrenal, señale la afirmación FALSA:",
+    "options": [
+      "Es de causa multifactorial.",
+      "Se observa galope S1- S2 y edemas periférico y pulmonar.",
+      "S u p r e s e n c i a e m p e o r a n o t a b l e m e n t e e l p r o - nóstico y los síntomas de la insuficiencia car- diaca y dificulta su tratamiento.",
+      "La anemia asociada a la insuficiencia renal puede agravar los síntomas de la insuficiencia cardiaca. - 28 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 194 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-195",
+    "localNumber": 195,
+    "category": "Nefrología",
+    "stem": "Mujer de 66 años con diabetes mellitus tipo 2. Valorando su función renal presenta un estadio G3a/A1. ¿A qué valores corresponde este esta- dío, el más frecuente en pacientes con nefropa- tía diabética?:",
+    "options": [
+      "Filtrado glomerular 45-59 ml/min/1,73 m2 y albuminuria < 30 mg/ml.",
+      "Filtrado glomerular 30-44 ml/min/1,73 m2 y albuminuria < 30 mg/ml.",
+      "Filtrado glomerular 45-59 ml/min/1,73 m2 y albuminuria 30-300 mg/ml.",
+      "Filtrado glomerular 15-29 ml/min/1,73 m2 y albuminuria < 30 mg/ml."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 195 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-196",
+    "localNumber": 196,
+    "category": "General",
+    "stem": "Mujer de 25 años en estudio por una hepatopa- tía de origen autoinmune, con importante coles- tasis. Refiere prurito intenso y aparición de lesiones cutáneas sugestivas de xantomas. Nive- les de colesterol total 800 mg/dL con colesterol LDL 395 mg/dL. Indique la respuesta correcta respecto a su enfermedad:",
+    "options": [
+      "Se trata de una hipercolesterolemia secunda- ria a colestasis.",
+      "Es imprescindible realizar un test genético para descartar una hipercolesterolemia fami- liar.",
+      "Dados los niveles de colesterol total y de co- lesterol LDL se trata de una hipercolestero- lemia familiar homocigota.",
+      "La eliminación del colesterol es fundamen- talmente renal, por lo que hay que excluir una causa primaria de hipercolesterolemia."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 196 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-197",
+    "localNumber": 197,
+    "category": "Neumología",
+    "stem": "Varón de 30 años que presenta una insuficien- cia respiratoria aguda grave que precisa de intubación orotraqueal a su llegada a urgencia y traslado a UCI para ventilación mecánica invasiva. Se realiza una radiografía de tórax compatible con un distrés respiratorio. ¿Cuál de las siguientes afirmaciones se ajusta mejor al caso clínico?:",
+    "options": [
+      "La causa más frecuente es infecciosa.",
+      "Durante los primeros siete días de evolución se produce normalmente la fase proliferativa.",
+      "Se caracteriza por un aumento de la distensi- bilidad del pulmón.",
+      "La relación entre la presión parcial de oxí- geno y la fracción inspirada de oxígeno es su- perior a 300."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 197 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-198",
+    "localNumber": 198,
+    "category": "Neurología",
+    "stem": "Mujer de 35 años, remitida a urgencias por traumatismo craneoencefálico por caída en patinete, sin pérdida de conciencia ni amnesia. En la exploración se trata de un traumatismo craneoencefálico cerrado con conmoción y cefa- lea leve sin presencia de náuseas y vómitos. La exploración neurológica es normal y presenta un índice de Glasgow de 15. Ante esta situación ¿qué prueba de imagen está indicada en primer lugar?:",
+    "options": [
+      "TC craneal sin contraste.",
+      "TC craneal con contraste.",
+      "Ninguna prueba de imagen.",
+      "Radiografía simple de cráneo."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 198 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-199",
+    "localNumber": 199,
+    "category": "General",
+    "stem": "En relación con el soporte hemodinámico en pacientes con shock séptico, señale la respuesta INCORRECTA:",
+    "options": [
+      "El control hemodinámico inmediato es fun- damental para el pronóstico.",
+      "Deben administrarse fluidos (cristaloides) a razón de 30 ml/kg en la primera hora de aten- ción.",
+      "Debe administrarse hidrocortisona si tras el primer litro de cristaloides no se ha logrado el control hemodinámico.",
+      "Debe iniciarse una perfusión con noradrenali- na si tras la administración de fluidos no se logra control hemodinámico (tensión arterial media superior a 65 mmHg)."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 199 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-200",
+    "localNumber": 200,
+    "category": "Cardiología",
+    "stem": "Varón de 83 años con antecedentes de hiperten- sión arterial, diabetes m ellitus e insuficiencia cardiaca que acude a urgencias del centro de salud por un cuadro de disnea de reposo, or- topnea, disnea paroxística nocturna y edemas maleolares de 24 horas de evolución. A su llega- da el ECG muestra una fibrilación auricular a 126 lpm y se objetiva TA 79/47 mmHg, SatO2 89 %, temperatura 36,7ºC y frecuencia respira- toria 26 rpm. En la auscultación se aprecian crepitantes bibasales bilaterales. Se administra oxigeno con mascarilla Venturi al 50 %, furo- semida 20 mg IV y morfina 2 mg IV Se le va a trasladar al hospital en un soporte vital avan- zado donde se administrará ventilación no inva- siva con presión positiva continua en la vía aérea (CPAP). ¿Cuál es la razón por la que aplicaría la CPAP en este caso?:",
+    "options": [
+      "Incrementa la capacidad residual funcional de sistema respiratorio.",
+      "Es especialmente eficaz en el paciente con hipotensión y alteraciones del ritmo cardiaco.",
+      "Produce un aumento de la presión intratoráci- ca que aumenta la precarga cardiaca.",
+      "Ocasiona un aumento de la presión transmu- ral del ventrículo izquierdo. - 29 -"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 200 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-201",
+    "localNumber": 201,
+    "category": "Cardiología",
+    "stem": "Señale de entre los siguientes aquel factor etio- lógico NO relacionado o i mplicado en la etiopa- togenia de la miocardiopatía por estrés o sín- drome de tako-tsubo:",
+    "options": [
+      "Disfunción microvascular.",
+      "Mayor susceptibilidad de los receptores cate- colaminérgicos en el miocardio.",
+      "Espasmo coronario.",
+      "Enfermedad coronaria obstructiva significati- va."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 201 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-202",
+    "localNumber": 202,
+    "category": "Neurología",
+    "stem": "¿Cuál de estos síntomas NO va a favor de un vértigo de origen central por lesión en el tronco cerebral?:",
+    "options": [
+      "La presencia de hipoacusia y acúfenos acom- pañando al vértigo.",
+      "La aparición de diplopia acompañando al vértigo",
+      "La descripción del vértigo como una sensa- ción de inestabilidad, siendo menos frecuente que sea un vértigo rotatorio",
+      "Que en la exploración se objetive un nistagmo vertical."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 202 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-203",
+    "localNumber": 203,
+    "category": "General",
+    "stem": "La distrofia fa scioescapulohumeral:",
+    "options": [
+      "Se transmite con carácter autosómico recesi- vo.",
+      "Afecta más frecuentemente a mujeres.",
+      "Afecta al músculo pectoral mayor en estadios precoces.",
+      "Acorta significativamente la esperanza de vida."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 203 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-204",
+    "localNumber": 204,
+    "category": "General",
+    "stem": "En relación con los aneurismas de aorta abdo- minal, señale la respuesta FALSA:",
+    "options": [
+      "Está indicada su reparación quirúrgica cuando el diámetro aneurismático supera los 5-5,5 cm de diámetro.",
+      "Suelen ser asintomáticos y de diagnóstico casual en el transcurso de pruebas de imagen hechas por otros motivos.",
+      "La complicación más frecuente es la trombo- sis aneurismática.",
+      "En caso de rotura está indicado el tratamiento quirúrgico urgente mediante cirugía abierta o endovascular."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 204 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-205",
+    "localNumber": 205,
+    "category": "Cardiología",
+    "stem": "Varón de 61 años, fumador e hipertenso, que acude a urgencias por pérdida súbita de fuerza y sensación de hormigueo en la mano derecha de unos 15 minutos de duración, con recupera- ción posterior casi completa. ECG: ritmo sinu- sal a 93 lpm. En relación con el diagnóstico más probable, señale la respuesta FALSA:",
+    "options": [
+      "Una causa probable es una embolia arterio- arterial por desprendimiento de una placa ca- rotídea.",
+      "El ecografía-doppler de troncos supraaórticos es poco útil para el diagnóstico.",
+      "Es necesario realizar una TC craneal para evaluar la repercusión sobre el parénquima cerebral.",
+      "El tratamiento quirúrgico está indicado si las pruebas de imagen revelan una estenosis ca- rotídea >70%."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 205 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-206",
+    "localNumber": 206,
+    "category": "Neumología",
+    "stem": "Ante un derrame pleural derecho con los si- guientes parámetros: p H 7,49; proteínas en líquido pleural 3,8 g/dl; LDH en líquido pleural 36 0 U I / L ; p r o t e í n as e n s u e r o 5 , 9 g/ d l ; L D H e n suero 210 UI/L. Podemos afirmar que nos en- contramos ante un:",
+    "options": [
+      "Derrame pleural tipo trasudado, por tanto es necesario tratar la causa subyacente.",
+      "Derrame pleural tipo exudado, probablemente secundario a insuficiencia cardíaca.",
+      "Derrame pleural tipo exudado del que se debe investigar la causa.",
+      "Los valores medidos no son creíbles y se re- quiere la toma de una nueva muestra."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta oficial número 206 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-207",
+    "localNumber": 207,
+    "category": "Neumología",
+    "stem": "En una crisis de asma bronquial, en la fase inicial la gasometría arterial suele mostrar:",
+    "options": [
+      "p H y P a C O 2 n o r m a l e s c o n d e s c e n s o d e l a PaO2.",
+      "PaO2 normal con descenso de la PaCO2 y aumento del pH.",
+      "Disminución de la PaCO2 y la PaO2 con au- mento del pH.",
+      "Aumento de la PaCO2 con descenso de la PaO2 y del pH."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 207 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-208",
+    "localNumber": 208,
+    "category": "General",
+    "stem": "Varón de 53 años sin antecedentes de interés que tras un mal movimiento en el gimnasio nota un dolor lumbar que al pasar las horas se irra- dia hacia la pierna derecha por la parte poste- rior y llega al borde lateral del pie. Presenta en la exploración maniobra de Lasègue positiva a 40º, reflejo aquíleo abolido y no se puede poner de puntillas. El diagnóstico etiológico más pro- bable es:",
+    "options": [
+      "Hernia discal L2-L3 derecha.",
+      "Hernia discal L3-L4 derecha.",
+      "Hernia discal L4-L5 derecha.",
+      "Hernia discal L5-S1 derecha. - 30 -"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta oficial número 208 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-209",
+    "localNumber": 209,
+    "category": "General",
+    "stem": "En la endoscopia oral de un paciente con pirosis de larga evolución se aprecia una mucosa rosa- da ascendente en llamas, sin erosiones ni úlce- ras. Se toman biopsias esofágicas que demues- tran la presencia de epitelio metaplásico, con 3- 4 eosinófilos por campo y sin displasia. El diag- nóstico más probable es:",
+    "options": [
+      "Esófago de Barrett.",
+      "Esofagitis eosinofílica.",
+      "Enfermedad por reflujo gastro-esofágico no erosiva.",
+      "Esofagitis grado B de Los Ángeles."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta oficial número 209 del examen MIR de la convocatoria FSE."
+  },
+  {
+    "id": "q-210",
+    "localNumber": 210,
+    "category": "General",
+    "stem": "Señale cuál de las sigu ientes NO es una manifes- tación usual de las metástasis leptomeníngeas de los carcinomas:",
+    "options": [
+      "Radiculopatía cervical.",
+      "Hemiparesia.",
+      "Neuropatía de pares craneales.",
+      "Encefalopatía por hidrocefalia. - 31 - - 32 -"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta oficial número 210 del examen MIR de la convocatoria FSE."
+  }
+]

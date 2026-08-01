@@ -1,0 +1,96 @@
+
+===== PÁGINA 3 =====
+  TEXTO:
+    '1         ' x0=547 top=798
+    '6         ' x0=553 top=798
+    '1         ' x0=1148 top=798
+  IMÁGENES (ordenadas por x0,y0):
+    #0: name=O0       x0=638 y0=82 y1=369 w=510 h=287
+    #1: name=O        x0=638 y0=467 y1=754 w=510 h=287
+
+===== PÁGINA 4 =====
+  TEXTO:
+    '2         ' x0=553 top=798
+    '1         ' x0=1143 top=798
+    '5         ' x0=1148 top=798
+  IMÁGENES (ordenadas por x0,y0):
+    #0: name=O0       x0=43 y0=80 y1=367 w=510 h=287
+    #1: name=O        x0=43 y0=467 y1=754 w=510 h=287
+
+===== PÁGINA 5 =====
+  TEXTO:
+    '1         ' x0=547 top=798
+    '4         ' x0=553 top=798
+    '3         ' x0=1148 top=798
+  IMÁGENES (ordenadas por x0,y0):
+    #0: name=O0       x0=638 y0=82 y1=369 w=510 h=287
+    #1: name=O        x0=638 y0=467 y1=754 w=510 h=287
+
+===== PÁGINA 6 =====
+  TEXTO:
+    '4         ' x0=553 top=798
+    '1         ' x0=1143 top=798
+    '3         ' x0=1148 top=798
+    'I         ' x0=883 top=33
+    'm         ' x0=886 top=33
+    'a         ' x0=897 top=33
+    'g         ' x0=904 top=33
+    'e         ' x0=911 top=33
+    'n         ' x0=918 top=33
+    '2         ' x0=928 top=33
+    '5         ' x0=935 top=33
+  IMÁGENES (ordenadas por x0,y0):
+    #0: name=O0       x0=43 y0=82 y1=369 w=510 h=287
+    #1: name=O        x0=43 y0=467 y1=754 w=510 h=287
+    #2: name=O        x0=638 y0=478 y1=765 w=510 h=287
+
+===== PÁGINA 7 =====
+  TEXTO:
+    '1         ' x0=547 top=798
+    '2         ' x0=553 top=798
+    '5         ' x0=1148 top=798
+  IMÁGENES (ordenadas por x0,y0):
+    #0: name=O        x0=42 y0=478 y1=765 w=510 h=287
+    #1: name=O0       x0=43 y0=82 y1=369 w=510 h=287
+    #2: name=O0       x0=638 y0=82 y1=369 w=510 h=287
+    #3: name=O        x0=638 y0=467 y1=754 w=510 h=287
+
+===== PÁGINA 8 =====
+  TEXTO:
+    '6         ' x0=553 top=798
+    'I         ' x0=82 top=114
+    'm         ' x0=88 top=114
+    'a         ' x0=106 top=114
+    'g         ' x0=117 top=114
+    'e         ' x0=128 top=114
+    'n         ' x0=139 top=114
+    '1         ' x0=156 top=114
+    '1         ' x0=168 top=114
+    '1         ' x0=1143 top=798
+    '1         ' x0=1148 top=798
+  IMÁGENES (ordenadas por x0,y0):
+    #0: name=O0       x0=43 y0=82 y1=369 w=510 h=287
+    #1: name=O        x0=43 y0=467 y1=754 w=510 h=287
+    #2: name=O        x0=638 y0=478 y1=765 w=510 h=287
+    #3: name=O0       x0=638 y0=82 y1=369 w=510 h=287
+
+===== PÁGINA 9 =====
+  TEXTO:
+    '1         ' x0=547 top=798
+    '0         ' x0=553 top=798
+    '7         ' x0=1148 top=798
+  IMÁGENES (ordenadas por x0,y0):
+    #0: name=O        x0=42 y0=478 y1=765 w=510 h=287
+    #1: name=O0       x0=43 y0=82 y1=369 w=510 h=287
+    #2: name=O0       x0=638 y0=82 y1=369 w=510 h=287
+    #3: name=O        x0=638 y0=467 y1=754 w=510 h=287
+
+===== PÁGINA 10 =====
+  TEXTO:
+    '8         ' x0=553 top=798
+    '9         ' x0=1148 top=798
+  IMÁGENES (ordenadas por x0,y0):
+    #0: name=O0       x0=43 y0=82 y1=369 w=510 h=287
+    #1: name=O        x0=43 y0=467 y1=754 w=510 h=287
+    #2: name=O0       x0=638 y0=82 y1=369 w=510 h=287
+    #3: name=O        x0=638 y0=467 y1=754 w=510 h=287

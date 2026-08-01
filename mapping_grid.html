@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mapping</title>
+    <style>
+        body { font-family: sans-serif; background: #ccc; }
+        .grid { display: flex; flex-wrap: wrap; gap: 10px; }
+        .card { background: white; padding: 10px; border: 1px solid #999; }
+        img { max-width: 400px; max-height: 400px; }
+        .filename { font-weight: bold; font-size: 20px; color: red; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="grid" id="grid"></div>
+    <script>
+        const grid = document.getElementById('grid');
+        for (let i = 1; i <= 25; i++) {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.innerHTML = `
+                <div class="filename">temp_img_${i}.png</div>
+                <img src="public/images/exams/2025/temp_img_${i}.png">
+            `;
+            grid.appendChild(card);
+        }
+    </script>
+</body>
+</html>

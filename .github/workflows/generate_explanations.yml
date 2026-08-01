@@ -1,0 +1,35 @@
+name: Actualización Diaria Explicaciones MIR
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Se ejecuta todos los días a las 04:00 AM UTC (06:00 AM de España)
+  workflow_dispatch: # Permite lanzar la ejecución manualmente desde GitHub
+
+jobs:
+  update-explanations:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permiso para hacer commits y push en el repositorio
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Ejecutar script de explicaciones (límite 1050 con Gemini)
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/generate_explanations.py auto 1050
+
+      - name: Commit y Push de los JSON actualizados
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add src/lib/data/*.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update MIR justifications (cron)" && git push)
