@@ -22,6 +22,14 @@ if os.path.exists(env_path):
             elif line.startswith("GROQ_API_KEY="):
                 groq_key = line.split("=", 1)[1].strip()
 
+# Si no se encuentran en .env.local, leer de las variables de entorno de GitHub
+if not openrouter_key:
+    openrouter_key = os.environ.get("OPENROUTER_API_KEY")
+if not gemini_key:
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+if not groq_key:
+    groq_key = os.environ.get("GROQ_API_KEY")
+
 # Prioridad de APIs:
 # 1. Groq (gratis, 14,400 req/día, funciona en España sin geobloqueo)
 # 2. Gemini (1500 req/día, requiere saltarse geobloqueo en local)
