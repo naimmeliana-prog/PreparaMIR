@@ -234,12 +234,10 @@ def process_questions(year: str, limit: int = 210) -> int:
         if modified >= limit:
             break
             
-        words = [x for x in q["stem"].split() if len(x) > 0]
-        has_letter_gaps = any(len(x) == 1 for x in words[:15])
-        has_broken_spaces = "  " in q["stem"] or any("  " in opt for opt in q["options"]) or has_letter_gaps
         is_generic = q["explanation"].startswith("Pregunta oficial número")
         
-        if not is_generic and not has_broken_spaces:
+        # Si la explicación ya ha sido generada (ya no es genérica), la saltamos
+        if not is_generic:
             continue
             
         print(f"  [{modified+1}/{limit}] Procesando Pregunta {q['localNumber']} en MIR {year}...")
