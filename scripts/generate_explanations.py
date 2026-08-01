@@ -11,6 +11,7 @@ env_path = os.path.join(base_dir, ".env.local")
 openrouter_key = None
 gemini_key = None
 groq_key = None
+nvidia_key = None
 
 if os.path.exists(env_path):
     with open(env_path, "r", encoding="utf-8") as f:
