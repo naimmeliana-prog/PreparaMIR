@@ -1,157 +1,159 @@
 import { NextRequest, NextResponse } from "next/server";
 import { db } from "@/db";
-import { conversations, messages } from "@/db/schema";
-<<<<<<< HEAD
-import { eq, inArray } from "@/db/mock_helpers";
-import { respondToText, gradeQuiz, deriveTitle, matchTopic } from "@/lib/tutor";
-=======
-import { eq } from "drizzle-orm";
-import { respondToText, gradeQuiz, deriveTitle } from "@/lib/tutor";
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
+import { messages, conversations } from "@/db/schema";
+import { eq, count } from "@/db/mock_helpers";
+import { topics, Topic } from "@/lib/knowledge-base";
 import type { MessageMetadata } from "@/lib/tutor";
-import type { ChatMessage } from "@/lib/types";
 
-export const dynamic = "force-dynamic";
-
-type MessageRow = {
+interface MessageRow {
   id: string;
   conversationId: string;
   role: string;
   content: string;
-  metadata: unknown;
+  metadata: MessageMetadata | null;
   createdAt: Date;
-};
+}
 
-function serialize(row: MessageRow): ChatMessage {
+function normalize(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+function matchTopic(text: string): Topic | null {
+  const normText = normalize(text);
+  let best: { topic: Topic; score: number } | null = null;
+  for (const topic of topics) {
+    let score = 0;
+    for (const kw of topic.keywords) {
+      if (normText.includes(normalize(kw))) score += kw.length > 4 ? 2 : 1;
+    }
+    if (topic.id === "diabetes" && normText.includes("diabet")) score += 2;
+    if (score > 0 && (!best || score > best.score)) best = { topic, score };
+  }
+  return best ? best.topic : null;
+}
+
+function serialize(row: MessageRow) {
   return {
-    id: row.id,
-    conversationId: row.conversationId,
-    role: row.role as "user" | "assistant",
-    content: row.content,
-    metadata: (row.metadata ?? null) as MessageMetadata | null,
+    ...row,
     createdAt: row.createdAt.toISOString(),
   };
 }
 
-interface ChatBody {
-  conversationId?: string;
-  content?: string;
-  answer?: { messageId: string; selectedIndex: number };
+// Fallback local offline de respuestas en caso de fallo total de APIs
+function respondToText(text: string): { content: string; metadata?: MessageMetadata | null }[] {
+  const matched = matchTopic(text);
+  if (!matched) {
+    return [
+      {
+        content: `Hola. Soy tu tutor de preparación del MIR. Como estamos en modo offline, mis respuestas están limitadas a temas clave.
+
+¿De qué especialidad o tema te gustaría hablar? Puedo darte resúmenes rápidos de Cardiología (IAMCEST), Endocrinología (Diabetes) o Nefrología (Injuria Renal).`,
+      },
+    ];
+  }
+
+  let content = `### ${matched.title}\n*Especialidad: ${matched.category}*\n\n${matched.summary}\n\n`;
+  content += `**Puntos clave:**\n` + matched.keyPoints.map((p) => `- ${p}`).join("\n") + "\n\n";
+  content += `**Alta rentabilidad (high-yield):**\n` + matched.highYield.map((h) => `- ${h}`).join("\n");
+
+  const question = matched.practiceQuestion;
+  const metadata: MessageMetadata = {
+    type: "quiz",
+    stem: question.stem,
+    options: question.options,
+    correctIndex: question.correctIndex,
+    explanation: question.explanation,
+    answered: null,
+  };
+
+  return [
+    { content },
+    {
+      content: `Aquí tienes una pregunta de autoevaluación oficial sobre **${matched.title}** para practicar:`,
+      metadata,
+    },
+  ];
 }
 
 export async function POST(req: NextRequest) {
-  let body: ChatBody;
-  try {
-    body = await req.json();
-  } catch {
-    return NextResponse.json({ error: "Invalid JSON" }, { status: 400 });
-  }
+  const body = await req.json();
+  const { answer } = body;
 
-  const content = (body.content ?? "").toString().trim();
-
-  // ---------------- Quiz answer path ----------------
-  if (body.answer) {
-    const { messageId, selectedIndex } = body.answer;
-    if (
-      typeof selectedIndex !== "number" ||
-      selectedIndex < 0 ||
-      selectedIndex > 3
-    ) {
-      return NextResponse.json({ error: "Invalid option" }, { status: 400 });
-    }
-
-    const [quizRow] = await db
+  // Lógica para responder a un test interactivo en el chat
+  if (answer) {
+    const { messageId, selectedIndex } = answer;
+    const [msgRow] = await db
       .select()
       .from(messages)
       .where(eq(messages.id, messageId));
-
-    if (!quizRow || quizRow.role !== "assistant") {
-      return NextResponse.json(
-        { error: "Quiz message not found" },
-        { status: 404 }
-      );
+    if (!msgRow) {
+      return NextResponse.json({ error: "Message not found" }, { status: 404 });
     }
 
-    const meta = (quizRow.metadata ?? {}) as MessageMetadata;
-    if (!meta.options || meta.correctIndex == null) {
+    const meta = msgRow.metadata as MessageMetadata | null;
+    if (!meta || meta.type !== "quiz") {
       return NextResponse.json({ error: "Invalid quiz" }, { status: 400 });
     }
-    if (meta.answered !== null && meta.answered !== undefined) {
-      return NextResponse.json(
-        { error: "Question already answered" },
-        { status: 409 }
-      );
-    }
 
-    const grade = gradeQuiz({
-      correctIndex: meta.correctIndex,
-      selectedIndex,
-      options: meta.options,
-      stem: meta.stem ?? "",
-      explanation: meta.explanation ?? "",
-      category: meta.category ?? "",
-    });
-
-    const conversationId = quizRow.conversationId;
-
-    // mark the quiz message as answered
+    meta.answered = selectedIndex;
     await db
       .update(messages)
-      .set({ metadata: { ...meta, answered: selectedIndex } as MessageMetadata })
+      .set({ metadata: meta })
       .where(eq(messages.id, messageId));
 
-    const [userMsg] = await db
-      .insert(messages)
-      .values({ conversationId, role: "user", content: grade.userContent })
-      .returning();
-    const [assistantMsg] = await db
+    const isCorrect = selectedIndex === meta.correctIndex;
+    const userMsgContent = `He respondido la opción: ${meta.options[selectedIndex]}`;
+    const assistantReply = isCorrect
+      ? `🎉 **¡Correcto!** Has seleccionado la respuesta adecuada.\n\n${meta.explanation}`
+      : `❌ **Incorrecto.** La respuesta correcta era la Opción ${String.fromCharCode(65 + meta.correctIndex)}: *${meta.options[meta.correctIndex]}*.\n\n${meta.explanation}`;
+
+    const [userMessage] = await db
       .insert(messages)
       .values({
-        conversationId,
-        role: "assistant",
-        content: grade.assistantContent,
+        conversationId: msgRow.conversationId,
+        role: "user",
+        content: userMsgContent,
       })
       .returning();
 
-    await db
-      .update(conversations)
-      .set({ updatedAt: new Date() })
-      .where(eq(conversations.id, conversationId));
+    const [assistantMessage] = await db
+      .insert(messages)
+      .values({
+        conversationId: msgRow.conversationId,
+        role: "assistant",
+        content: assistantReply,
+      })
+      .returning();
 
     return NextResponse.json({
-      conversationId,
-      answeredMessageId: messageId,
       answeredIndex: selectedIndex,
-      userMessage: serialize(userMsg as unknown as MessageRow),
-      assistantMessage: serialize(assistantMsg as unknown as MessageRow),
+      userMessage: serialize(userMessage as unknown as MessageRow),
+      assistantMessage: serialize(assistantMessage as unknown as MessageRow),
     });
   }
 
-  // ---------------- Text message path ----------------
-  if (!content) {
-    return NextResponse.json({ error: "Empty message" }, { status: 400 });
-  }
-
-  let conversationId = body.conversationId;
+  // Lógica de chat estándar
+  const { conversationId: bodyId, content } = body;
+  let conversationId = bodyId;
   let created = false;
+
   if (!conversationId) {
-    const [conv] = await db
+    const [convRow] = await db
       .insert(conversations)
-      .values({ title: deriveTitle(content) })
+      .values({ title: content.slice(0, 40) + (content.length > 40 ? "..." : "") })
       .returning();
-    conversationId = conv.id;
+    conversationId = convRow.id;
     created = true;
   } else {
-    // validate existence
     const [existing] = await db
       .select({ id: conversations.id })
       .from(conversations)
       .where(eq(conversations.id, conversationId));
     if (!existing) {
-      return NextResponse.json(
-        { error: "Conversation not found" },
-        { status: 404 }
-      );
+      return NextResponse.json({ error: "Conversation not found" }, { status: 404 });
     }
   }
 
@@ -160,32 +162,96 @@ export async function POST(req: NextRequest) {
     .values({ conversationId, role: "user", content })
     .returning();
 
-<<<<<<< HEAD
   let replies: { content: string; metadata?: MessageMetadata | null }[] = [];
   let apiSuccess = false;
 
+  const groqKey = process.env.GROQ_API_KEY;
   const geminiKey = process.env.GEMINI_API_KEY;
   const openrouterKey = process.env.OPENROUTER_API_KEY;
 
-  // 1. Prioridad: Google Gemini API Directo
-  if (geminiKey) {
-    try {
-      const historyRows = await db
-        .select()
-        .from(messages)
-        .where(eq(messages.conversationId, conversationId))
-        .orderBy(messages.createdAt);
+  // Obtener historial común para las APIs
+  let historyRows: any[] = [];
+  try {
+    historyRows = await db
+      .select()
+      .from(messages)
+      .where(eq(messages.conversationId, conversationId))
+      .orderBy(messages.createdAt);
+  } catch {}
 
-      const matchedTopic = matchTopic(content);
-      let systemPrompt = `Eres un tutor de preparación del examen MIR (Médico Interno Residente) en España.
+  const matchedTopic = matchTopic(content);
+  let systemPrompt = `Eres un tutor de preparación del examen MIR (Médico Interno Residente) en España.
 Tu objetivo es ayudar al usuario a repasar conceptos médicos y responder a sus dudas de forma clara, didáctica y estructurada, con enfoque en temas de alta rentabilidad (high-yield) para el examen.
 Usa terminología médica adecuada para España y adopta un tono profesional, motivador y directo.`;
 
-      if (matchedTopic) {
-        systemPrompt += `\n\nContexto de estudio relevante para la consulta del usuario:\nTema: ${matchedTopic.title}\nCategoría: ${matchedTopic.category}\nResumen: ${matchedTopic.summary}\nPuntos clave:\n${matchedTopic.keyPoints.map((p) => `- ${p}`).join("\n")}\nAlta rentabilidad:\n${matchedTopic.highYield.map((h) => `- ${h}`).join("\n")}`;
-      }
+  if (matchedTopic) {
+    systemPrompt += `\n\nContexto de estudio relevante para la consulta del usuario:\nTema: ${matchedTopic.title}\nCategoría: ${matchedTopic.category}\nResumen: ${matchedTopic.summary}\nPuntos clave:\n${matchedTopic.keyPoints.map((p) => `- ${p}`).join("\n")}\nAlta rentabilidad:\n${matchedTopic.highYield.map((h) => `- ${h}`).join("\n")}`;
+  }
 
-      // Convertir el historial al formato de Gemini (system prompt concatenado en el primer mensaje de usuario)
+  // 1. Prioridad: Groq API (Totalmente gratuito, 14,400 llamadas/día, sin geobloqueo en España)
+  if (!apiSuccess && groqKey) {
+    try {
+      const groqMessages = [
+        { role: "system", content: systemPrompt },
+        ...historyRows.slice(-15).map((row) => ({
+          role: row.role === "user" ? "user" : "assistant",
+          content: row.content,
+        })),
+      ];
+
+      const apiResponse = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${groqKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          model: "llama-3.3-70b-versatile",
+          messages: groqMessages,
+          temperature: 0.7,
+          max_tokens: 1200,
+        }),
+      });
+
+      if (apiResponse.ok) {
+        const responseData = await apiResponse.json();
+        const assistantText = responseData?.choices?.[0]?.message?.content;
+        if (assistantText) {
+          replies = [{ content: assistantText }];
+          apiSuccess = true;
+        }
+      } else {
+        // Fallback rápido a Llama 8B si el de 70B tiene saturación
+        const backupResponse = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+          method: "POST",
+          headers: {
+            "Authorization": `Bearer ${groqKey}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            model: "llama-3.1-8b-instant",
+            messages: groqMessages,
+            temperature: 0.7,
+            max_tokens: 1200,
+          }),
+        });
+        if (backupResponse.ok) {
+          const responseData = await backupResponse.json();
+          const assistantText = responseData?.choices?.[0]?.message?.content;
+          if (assistantText) {
+            replies = [{ content: assistantText }];
+            apiSuccess = true;
+          }
+        }
+      }
+    } catch (err) {
+      console.error("Failed to connect to Groq API:", err);
+    }
+  }
+
+  // 2. Prioridad: Google Gemini API Directo
+  if (!apiSuccess && geminiKey) {
+    try {
       const geminiContents = [];
       const historyList = historyRows.slice(-15);
       
@@ -201,7 +267,6 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
         });
       }
 
-      // Si el primer mensaje del historial no es de usuario, añadimos el system prompt al inicio
       if (geminiContents.length === 0 || geminiContents[0].role !== "user") {
         geminiContents.unshift({
           role: "user",
@@ -227,33 +292,16 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
         }
       } else {
         const errText = await apiResponse.text();
-        console.error("Gemini API returned error status:", apiResponse.status, errText);
+        console.error("Gemini API error inside Next.js:", apiResponse.status, errText);
       }
     } catch (err) {
       console.error("Failed to connect to Gemini API:", err);
     }
   }
 
-  // 2. Fallback: OpenRouter
+  // 3. Prioridad: OpenRouter (Capa gratuita)
   if (!apiSuccess && openrouterKey) {
     try {
-      // Get conversation history including the user message we just inserted
-      const historyRows = await db
-        .select()
-        .from(messages)
-        .where(eq(messages.conversationId, conversationId))
-        .orderBy(messages.createdAt);
-
-      // Build context from matched topics
-      const matchedTopic = matchTopic(content);
-      let systemPrompt = `Eres un tutor de preparación del examen MIR (Médico Interno Residente) en España.
-Tu objetivo es ayudar al usuario a repasar conceptos médicos y responder a sus dudas de forma clara, didáctica y estructurada, con enfoque en temas de alta rentabilidad (high-yield) para el examen.
-Usa terminología médica adecuada para España y adopta un tono profesional, motivador y directo.`;
-
-      if (matchedTopic) {
-        systemPrompt += `\n\nContexto de estudio relevante para la consulta del usuario:\nTema: ${matchedTopic.title}\nCategoría: ${matchedTopic.category}\nResumen: ${matchedTopic.summary}\nPuntos clave:\n${matchedTopic.keyPoints.map((p) => `- ${p}`).join("\n")}\nAlta rentabilidad:\n${matchedTopic.highYield.map((h) => `- ${h}`).join("\n")}`;
-      }
-
       const openRouterMessages = [
         { role: "system", content: systemPrompt },
         ...historyRows.slice(-15).map((row) => ({
@@ -285,22 +333,17 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
           replies = [{ content: assistantText }];
           apiSuccess = true;
         }
-      } else {
-        console.error("OpenRouter API returned error status:", apiResponse.status);
       }
     } catch (err) {
       console.error("Failed to connect to OpenRouter:", err);
     }
   }
 
-  // Fallback to offline tutor if both APIs fail or are not configured
+  // 4. Último Fallback: Offline local matching
   if (!apiSuccess) {
     replies = respondToText(content);
   }
 
-=======
-  const replies = respondToText(content);
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
   const assistantRows: MessageRow[] = [];
   for (const reply of replies) {
     const [row] = await db

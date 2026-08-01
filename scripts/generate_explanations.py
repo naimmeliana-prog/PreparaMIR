@@ -1,7 +1,7 @@
 """
 Genera explicaciones estructuradas para las preguntas del MIR utilizando
-ya sea Google AI Studio (Gemini API) o OpenRouter.
-Si se detecta GEMINI_API_KEY, se usará Gemini directamente con un límite de 1500 peticiones diarias gratuitas.
+Google AI Studio (Gemini), Groq (Llama), o OpenRouter.
+Si se detecta GROQ_API_KEY, se usará Groq con un límite de 14,400 peticiones diarias gratuitas.
 """
 import os, sys, json, urllib.request, urllib.parse, time
 
@@ -10,6 +10,7 @@ base_dir = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 env_path = os.path.join(base_dir, ".env.local")
 openrouter_key = None
 gemini_key = None
+groq_key = None
 
 if os.path.exists(env_path):
     with open(env_path, "r", encoding="utf-8") as f:
@@ -18,30 +19,67 @@ if os.path.exists(env_path):
                 openrouter_key = line.split("=", 1)[1].strip()
             elif line.startswith("GEMINI_API_KEY="):
                 gemini_key = line.split("=", 1)[1].strip()
+            elif line.startswith("GROQ_API_KEY="):
+                groq_key = line.split("=", 1)[1].strip()
 
-# Si no están en .env.local, leer de las variables de entorno del sistema (para GitHub Actions)
-if not openrouter_key:
-    openrouter_key = os.environ.get("OPENROUTER_API_KEY")
-if not gemini_key:
-    gemini_key = os.environ.get("GEMINI_API_KEY")
-
-# Prioridad: usar Gemini API directa si está disponible por su límite de 1500/día
+# Prioridad de APIs:
+# 1. Groq (gratis, 14,400 req/día, funciona en España sin geobloqueo)
+# 2. Gemini (1500 req/día, requiere saltarse geobloqueo en local)
+# 3. OpenRouter (capa gratuita de 50 req/día)
 api_mode = None
-if gemini_key:
+if groq_key:
+    api_mode = "groq"
+    print("⚡ Clave de Groq (Llama) detectada. Límite: 14,400 peticiones gratuitas al día.")
+elif gemini_key:
     api_mode = "gemini"
-    print("✨ Clave de Google AI Studio (Gemini) detectada. Límite diario: 1500 peticiones gratuitas.")
+    print("✨ Clave de Google AI Studio (Gemini) detectada. Límite diario: 1500 peticiones.")
 elif openrouter_key:
     api_mode = "openrouter"
-    print("🌐 Clave de OpenRouter detectada. Límite diario: 50 peticiones gratuitas.")
+    print("🌐 Clave de OpenRouter detectada. Límite diario: 50 peticiones.")
 else:
-    sys.exit("❌ Error: No se encontró ni GEMINI_API_KEY ni OPENROUTER_API_KEY en .env.local.")
+    sys.exit("❌ Error: No se encontró GROQ_API_KEY, GEMINI_API_KEY ni OPENROUTER_API_KEY en .env.local.")
+
+
+def call_groq(prompt: str) -> str:
+    url = "https://api.groq.com/openai/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {groq_key}",
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    data = {
+        "model": "llama-3.3-70b-versatile", # Modelo gratuito principal activo en Groq
+        "messages": [{"role": "user", "content": prompt}],
+        "response_format": {"type": "json_object"},
+        "temperature": 0.7
+    }
+    
+    req = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
+    try:
+        with urllib.request.urlopen(req) as response:
+            res_data = json.loads(response.read().decode("utf-8"))
+            return res_data["choices"][0]["message"]["content"]
+    except Exception as e:
+        print(f"  ❌ Error en Groq API: {e}")
+        if hasattr(e, 'read'):
+            print(e.read().decode("utf-8"))
+        # Si falla, reintentar con el modelo ligero de fallback activo (llama-3.1-8b-instant)
+        try:
+            data["model"] = "llama-3.1-8b-instant"
+            req2 = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
+            with urllib.request.urlopen(req2) as response2:
+                res_data2 = json.loads(response2.read().decode("utf-8"))
+                return res_data2["choices"][0]["message"]["content"]
+        except Exception as e2:
+            print(f"  ❌ Reintento con Llama 8B fallido: {e2}")
+            if hasattr(e2, 'read'):
+                print(e2.read().decode("utf-8"))
+        return None
 
 
 def call_gemini(prompt: str) -> str:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={gemini_key}"
     headers = {"Content-Type": "application/json"}
-    
-    # Payload para la API nativa de Google Gemini
     data = {
         "contents": [{
             "parts": [{"text": prompt}]
@@ -50,7 +88,6 @@ def call_gemini(prompt: str) -> str:
             "responseMimeType": "application/json"
         }
     }
-    
     req = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
     try:
         with urllib.request.urlopen(req) as response:
@@ -58,8 +95,6 @@ def call_gemini(prompt: str) -> str:
             return res_data["candidates"][0]["content"]["parts"][0]["text"]
     except Exception as e:
         print(f"  ❌ Error en Gemini API: {e}")
-        if hasattr(e, 'read'):
-            print(e.read().decode("utf-8"))
         return None
 
 
@@ -71,14 +106,12 @@ def call_openrouter(prompt: str) -> str:
         "HTTP-Referer": "http://localhost:3000",
         "X-Title": "MIR Preparador"
     }
-    
     data = {
         "model": "openrouter/free",
         "messages": [{"role": "user", "content": prompt}],
         "response_format": {"type": "json_object"},
         "max_tokens": 2000
     }
-    
     req = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
     try:
         with urllib.request.urlopen(req) as response:
@@ -86,8 +119,6 @@ def call_openrouter(prompt: str) -> str:
             return res_data["choices"][0]["message"]["content"]
     except Exception as e:
         print(f"  ❌ Error en OpenRouter API: {e}")
-        if hasattr(e, 'read'):
-            print(e.read().decode("utf-8"))
         return None
 
 
@@ -107,13 +138,11 @@ def process_questions(year: str, limit: int = 210) -> int:
         if modified >= limit:
             break
             
-        # Comprobar si hay letras sueltas al principio del enunciado
         words = [x for x in q["stem"].split() if len(x) > 0]
         has_letter_gaps = any(len(x) == 1 for x in words[:15])
         has_broken_spaces = "  " in q["stem"] or any("  " in opt for opt in q["options"]) or has_letter_gaps
         is_generic = q["explanation"].startswith("Pregunta oficial número")
         
-        # Si ya está limpia y tiene justificación real, la saltamos
         if not is_generic and not has_broken_spaces:
             continue
             
@@ -149,8 +178,13 @@ Devuelve EXCLUSIVAMENTE un objeto JSON válido con este formato exacto:
   "explanation": "Texto de la explicación estructurado con las viñetas de 🟢 y 🔴 y la perla MIR."
 }}
 """
-        # Seleccionar API según el modo activo
-        res_json_str = call_gemini(prompt) if api_mode == "gemini" else call_openrouter(prompt)
+        # Seleccionar API activa
+        if api_mode == "groq":
+            res_json_str = call_groq(prompt)
+        elif api_mode == "gemini":
+            res_json_str = call_gemini(prompt)
+        else:
+            res_json_str = call_openrouter(prompt)
         
         if res_json_str:
             try:
@@ -164,9 +198,11 @@ Devuelve EXCLUSIVAMENTE un objeto JSON válido con este formato exacto:
                 with open(json_path, "w", encoding="utf-8") as f:
                     json.dump(questions, f, ensure_ascii=False, indent=2)
                 
-                # Pequeña pausa en modo Gemini para respetar el límite de 15 peticiones por minuto
+                # Pausa para evitar límites por minuto
                 if api_mode == "gemini":
-                    time.sleep(4) # 4 segundos asegura max 15 req/min
+                    time.sleep(4)
+                elif api_mode == "groq":
+                    time.sleep(2) # Pausa corta para no saturar
             except Exception as e:
                 print(f"  ⚠️ Error procesando respuesta JSON de la IA: {e}")
         else:
@@ -177,8 +213,8 @@ Devuelve EXCLUSIVAMENTE un objeto JSON válido con este formato exacto:
 
 if __name__ == "__main__":
     y = sys.argv[1] if len(sys.argv) > 1 else "auto"
-    # Límite por defecto: 45 si es OpenRouter, 210 (año completo) si es Gemini
-    default_limit = 210 if api_mode == "gemini" else 45
+    # Límite por defecto según la API activa
+    default_limit = 210 if api_mode in ["gemini", "groq"] else 45
     lim = int(sys.argv[2]) if len(sys.argv) > 2 else default_limit
     
     letras = ["A", "B", "C", "D"]
