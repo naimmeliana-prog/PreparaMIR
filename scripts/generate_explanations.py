@@ -82,8 +82,8 @@ def call_groq(prompt: str) -> str:
                     pass
             
             if is_rate_limit and attempt < 3:
-                print(f"  ⏳ Límite de tokens de Groq alcanzado (TPM). Esperando 15 segundos para reintentar (Intento {attempt+1}/3)...")
-                time.sleep(15)
+                print(f"  ⏳ Límite de tokens de Groq alcanzado (TPM). Esperando 30 segundos para reintentar (Intento {attempt+1}/3)...")
+                time.sleep(30)
                 continue
                 
             print(f"  ❌ Error en Groq API: {e}")
@@ -226,7 +226,7 @@ Devuelve EXCLUSIVAMENTE un objeto JSON válido con este formato exacto:
                 if api_mode == "gemini":
                     time.sleep(4)
                 elif api_mode == "groq":
-                    time.sleep(7) # Pausa de 7 segundos para evitar límites de tokens por minuto (TPM) en la capa gratuita
+                    time.sleep(15) # Pausa segura de 15 segundos para evitar los 12,000 TPM (tokens por minuto) de la capa gratuita
             except Exception as e:
                 print(f"  ⚠️ Error procesando respuesta JSON de la IA: {e}")
         else:
