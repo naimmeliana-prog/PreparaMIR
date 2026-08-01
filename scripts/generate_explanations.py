@@ -71,22 +71,26 @@ def call_groq(prompt: str) -> str:
                 return res_data["choices"][0]["message"]["content"]
         except Exception as e:
             is_rate_limit = False
-            if hasattr(e, 'code') and e.code == 429:
-                is_rate_limit = True
-            elif hasattr(e, 'read'):
+            err_content = ""
+            if hasattr(e, 'read'):
                 try:
                     err_content = e.read().decode("utf-8")
-                    if "rate_limit_exceeded" in err_content or "429" in err_content:
-                        is_rate_limit = True
                 except:
                     pass
             
-            if is_rate_limit and attempt < 3:
-                print(f"  ⏳ Límite de tokens de Groq alcanzado (TPM). Esperando 30 segundos para reintentar (Intento {attempt+1}/3)...")
-                time.sleep(30)
-                continue
+            if hasattr(e, 'code') and e.code == 429:
+                is_rate_limit = True
+            elif "rate_limit_exceeded" in err_content or "429" in err_content:
+                is_rate_limit = True
+            
+            if is_rate_limit:
+                print(f"  ⚠️ Detalle del límite 429: {err_content}")
+                if attempt < 3:
+                    print(f"  ⏳ Esperando 30 segundos para reintentar (Intento {attempt+1}/3)...")
+                    time.sleep(30)
+                    continue
                 
-            print(f"  ❌ Error en Groq API: {e}")
+            print(f"  ❌ Error en Groq API: {e} | Detalle: {err_content}")
             # Si falla permanentemente el de 8B, intentar una vez con el modelo pesado Llama 3.3 70B
             try:
                 print("  🔄 Intentando fallback con Llama 3.3 70B...")
@@ -96,7 +100,13 @@ def call_groq(prompt: str) -> str:
                     res_data2 = json.loads(response2.read().decode("utf-8"))
                     return res_data2["choices"][0]["message"]["content"]
             except Exception as e2:
-                print(f"  ❌ Reintento con Llama 70B fallido: {e2}")
+                err_content2 = ""
+                if hasattr(e2, 'read'):
+                    try:
+                        err_content2 = e2.read().decode("utf-8")
+                    except:
+                        pass
+                print(f"  ❌ Reintento con Llama 70B fallido: {e2} | Detalle: {err_content2}")
             return None
     return None
 
