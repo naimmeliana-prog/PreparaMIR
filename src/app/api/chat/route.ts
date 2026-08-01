@@ -206,7 +206,7 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "llama-3.3-70b-versatile",
+          model: "llama-3.1-8b-instant",
           messages: groqMessages,
           temperature: 0.7,
           max_tokens: 1200,
@@ -221,7 +221,7 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
           apiSuccess = true;
         }
       } else {
-        // Fallback rápido a Llama 8B si el de 70B tiene saturación
+        // Fallback rápido a Llama 70B si el de 8B tiene saturación
         const backupResponse = await fetch("https://api.groq.com/openai/v1/chat/completions", {
           method: "POST",
           headers: {
@@ -229,7 +229,7 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
             "Content-Type": "application/json",
           },
           body: JSON.stringify({
-            model: "llama-3.1-8b-instant",
+            model: "llama-3.3-70b-versatile",
             messages: groqMessages,
             temperature: 0.7,
             max_tokens: 1200,

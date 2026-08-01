@@ -56,7 +56,7 @@ def call_groq(prompt: str) -> str:
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     data = {
-        "model": "llama-3.3-70b-versatile",
+        "model": "llama-3.1-8b-instant",
         "messages": [{"role": "user", "content": prompt}],
         "response_format": {"type": "json_object"},
         "temperature": 0.7
@@ -82,21 +82,21 @@ def call_groq(prompt: str) -> str:
                     pass
             
             if is_rate_limit and attempt < 3:
-                print(f"  ⏳ Límite de tokens de Groq alcanzado (TPM). Esperando 10 segundos para reintentar (Intento {attempt+1}/3)...")
-                time.sleep(10)
+                print(f"  ⏳ Límite de tokens de Groq alcanzado (TPM). Esperando 15 segundos para reintentar (Intento {attempt+1}/3)...")
+                time.sleep(15)
                 continue
                 
             print(f"  ❌ Error en Groq API: {e}")
-            # Si falla permanentemente el de 70B, intentar una vez con el modelo ligero Llama 3.1 8B (que tiene límites TPM mucho mayores)
+            # Si falla permanentemente el de 8B, intentar una vez con el modelo pesado Llama 3.3 70B
             try:
-                print("  🔄 Intentando fallback rápido con Llama 3.1 8B...")
-                data["model"] = "llama-3.1-8b-instant"
+                print("  🔄 Intentando fallback con Llama 3.3 70B...")
+                data["model"] = "llama-3.3-70b-versatile"
                 req2 = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
                 with urllib.request.urlopen(req2) as response2:
                     res_data2 = json.loads(response2.read().decode("utf-8"))
                     return res_data2["choices"][0]["message"]["content"]
             except Exception as e2:
-                print(f"  ❌ Reintento con Llama 8B fallido: {e2}")
+                print(f"  ❌ Reintento con Llama 70B fallido: {e2}")
             return None
     return None
 
