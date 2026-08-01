@@ -21,6 +21,8 @@ if os.path.exists(env_path):
                 gemini_key = line.split("=", 1)[1].strip()
             elif line.startswith("GROQ_API_KEY="):
                 groq_key = line.split("=", 1)[1].strip()
+            elif line.startswith("NVIDIA_API_KEY="):
+                nvidia_key = line.split("=", 1)[1].strip()
 
 # En GitHub Actions, si no se encuentran en .env.local, leer del entorno del sistema
 if not openrouter_key:
@@ -29,6 +31,40 @@ if not gemini_key:
     gemini_key = os.environ.get("GEMINI_API_KEY")
 if not groq_key:
     groq_key = os.environ.get("GROQ_API_KEY")
+if not nvidia_key:
+    nvidia_key = os.environ.get("NVIDIA_API_KEY")
+
+
+def call_nvidia(prompt: str) -> str:
+    if not nvidia_key:
+        return None
+    url = "https://integrate.api.nvidia.com/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {nvidia_key}",
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    data = {
+        "model": "meta/llama-3.1-8b-instruct",
+        "messages": [{"role": "user", "content": prompt}],
+        "response_format": {"type": "json_object"},
+        "temperature": 0.7
+    }
+    
+    req = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
+    try:
+        with urllib.request.urlopen(req) as response:
+            res_data = json.loads(response.read().decode("utf-8"))
+            return res_data["choices"][0]["message"]["content"]
+    except Exception as e:
+        err_msg = ""
+        if hasattr(e, 'read'):
+            try:
+                err_msg = e.read().decode("utf-8")
+            except:
+                pass
+        print(f"    ⚠️ NVIDIA falló: {e} | Detalle: {err_msg[:200]}")
+    return None
 
 
 def call_groq(prompt: str) -> str:
@@ -149,14 +185,20 @@ def call_openrouter(prompt: str) -> str:
 def call_any_api(prompt: str) -> str:
     # 1. Intentar con Groq
     if groq_key:
-        # print("    -> Intentando con Groq...")
         res = call_groq(prompt)
         if res:
-            # Pausa de cortesía tras éxito para no saturar TPM
             time.sleep(12)
             return res
             
-    # 2. Fallback a Gemini
+    # 2. Fallback a NVIDIA API (Excelente alternativa gratuita en la nube)
+    if nvidia_key:
+        print("    -> Fallback: Intentando con NVIDIA API...")
+        res = call_nvidia(prompt)
+        if res:
+            time.sleep(5)
+            return res
+            
+    # 3. Fallback a Gemini
     if gemini_key:
         print("    -> Fallback: Intentando con Gemini...")
         res = call_gemini(prompt)
@@ -164,7 +206,7 @@ def call_any_api(prompt: str) -> str:
             time.sleep(4)
             return res
             
-    # 3. Fallback a OpenRouter
+    # 4. Fallback a OpenRouter
     if openrouter_key:
         print("    -> Fallback: Intentando con OpenRouter...")
         res = call_openrouter(prompt)
