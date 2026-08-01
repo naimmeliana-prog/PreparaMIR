@@ -19,6 +19,12 @@ if os.path.exists(env_path):
             elif line.startswith("GEMINI_API_KEY="):
                 gemini_key = line.split("=", 1)[1].strip()
 
+# Si no están en .env.local, leer de las variables de entorno del sistema (para GitHub Actions)
+if not openrouter_key:
+    openrouter_key = os.environ.get("OPENROUTER_API_KEY")
+if not gemini_key:
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+
 # Prioridad: usar Gemini API directa si está disponible por su límite de 1500/día
 api_mode = None
 if gemini_key:
