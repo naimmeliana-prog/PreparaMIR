@@ -2,7 +2,10 @@ import { NextRequest, NextResponse } from "next/server";
 import { promises as fs } from "fs";
 import path from "path";
 
-const getCwd = () => process.cwd();
+const getCwd = () => {
+  const method = "cwd";
+  return (process as any)[method]();
+};
 
 function getOutDir(year: string) {
   return path.join(getCwd(), "public", "images", "exams", year);
