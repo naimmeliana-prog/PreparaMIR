@@ -997,71 +997,71 @@
     "id": "q-73",
     "localNumber": 73,
     "category": "General",
-    "stem": "Mujer de 51 años, menopaúsica desde hace un año y medio, que consulta por manchado vagi- nal de 2 semanas de evolución. Refiere que el manchado es menor que una regla. En la eco- grafía se objetiva un endometrio de 7 mm. Se- ñale la opción correcta:",
+    "stem": "Mujer de 51 años, menopáusica desde hace un año y medio, que consulta por manchado vaginal de 2 semanas de evolución. Refiere que el manchado es menor que una regla. En la ecografía se objetiva un endometrio de 7 mm.",
     "options": [
       "El endometrio está engrosado y ante la clínica de la paciente, toma una biopsia endometrial con cánula de Cornier.",
-      "El endometrio no está engrosado por lo que le pauta ácido tranexámico y seguimiento ambu- latorio.",
-      "Tiene indicación de hist eroscopia diagnóstica sin necesidad de toma de biopsia endometrial.",
+      "El endometrio no está engrosado por lo que le pauta ácido tranexámico y seguimiento ambulatorio.",
+      "Tiene indicación de histeroscopia diagnóstica sin necesidad de toma de biopsia endometrial.",
       "El endometrio no está engrosado, pero como tiene clínica de metrorragia está indicada la realización de una biopsia endometrial."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 73 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La paciente tiene una clínica de manchado vaginal menor que una regla, lo que sugiere una posible metrorragia. La ecografía muestra un endometrio de 7 mm, lo que indica que el endometrio está engrosado. En este caso, es necesario realizar una biopsia endometrial para determinar la causa del engrosamiento y, en consecuencia, la causa de la metrorragia. La biopsia endometrial con cánula de Cornier es la opción más adecuada para obtener una muestra adecuada del tejido endometrial. Es importante destacar que el endometrio no está mencionado como atrofiado, por lo que no se puede descartar una causa de metrorragia como el cáncer de endometrio o otras condiciones patológicas que requieren una evaluación histológica. Además, la paciente es menopáusica, lo que aumenta la sospecha de una causa subyacente que requiere una evaluación más exhaustiva. Por lo tanto, la opción A es la más adecuada en este caso, ya que permite una evaluación completa del endometrio y la causa de la metrorragia de la paciente. \n\n- **🔴 Opción B (Incorrecta):** La opción B no es adecuada porque el endometrio no está mencionado como atrofiado. Si el endometrio estuviera atrofiado, se podría considerar la opción de pautar ácido tranexámico y seguimiento ambulatorio. Sin embargo, en este caso, el endometrio está engrosado, lo que sugiere una causa subyacente que requiere una evaluación más exhaustiva. Además, la paciente tiene una clínica de metrorragia, lo que aumenta la sospecha de una causa subyacente que requiere una evaluación más completa. Por lo tanto, la opción B no es la más adecuada en este caso. \n\n- **🔴 Opción C (Incorrecta):** La opción C no es adecuada porque no se menciona que el endometrio esté atrofiado o que la paciente tenga una clínica de metrorragia. La histeroscopia diagnóstica puede ser útil en casos en los que se sospecha un cáncer de endometrio o otras condiciones patológicas, pero no es la opción más adecuada en este caso, ya que el endometrio no está mencionado como atrofiado y la paciente tiene una clínica de metrorragia. Además, la histeroscopia diagnóstica no permite obtener una muestra adecuada del tejido endometrial para una evaluación histológica. Por lo tanto, la opción C no es la más adecuada en este caso. \n\n- **🔴 Opción D (Incorrecta):** La opción D no es adecuada porque el endometrio no está mencionado como atrofiado. Si el endometrio estuviera atrofiado, se podría considerar la opción de realizar una biopsia endometrial. Sin embargo, en este caso, el endometrio está engrosado, lo que sugiere una causa subyacente que requiere una evaluación más exhaustiva. Además, la paciente tiene una clínica de metrorragia, lo que aumenta la sospecha de una causa subyacente que requiere una evaluación más completa. Por lo tanto, la opción D no es la más adecuada en este caso. \n\nLa perla MIR es: 'Si el endometrio está engrosado y la paciente tiene una clínica de metrorragia, siempre se debe realizar una biopsia endometrial con cánula de Cornier para determinar la causa del engrosamiento y la causa de la metrorragia.'"
   },
   {
     "id": "q-74",
     "localNumber": 74,
     "category": "General",
-    "stem": "Primigesta de 34 semanas que presenta cifras tensionales de 165/95 y cefalea de dos días de evolución. Analítica: hemoglobina 10,5 g/dL, plaquetas 98.000/mm3, AST 356 UI/L (0-31), ALT 234 UI/L (0-31), LDH 878 UI/L (125-243). Llaman del laboratorio por presencia de esquis- tocitos en el frotis de sangre periférica. Ha reci- bido la segunda dosis de corticoides para madu- ración fetal hace 24 h. En la ecografía obstétrica el peso fetal estimado está en el percentil 1 para la edad gestacional y el Doppler de arteria um- bilical presenta ausencia del flujo telediastólico. ¿Cuál de las siguientes es la actitud clínica más indicada?:",
+    "stem": "Primigesta de 34 semanas que presenta cifras tensionales de 165/95 y cefalea de dos días de evolución. Analítica: hemoglobina 10,5 g/dL, plaquetas 98.000/mm3, AST 356 UI/L (0-31), ALT 234 UI/L (0-31), LDH 878 UI/L (125-243). Llaman del laboratorio por presencia de esquistocitos en el frotis de sangre periférica. Ha recibido la segunda dosis de corticoides para maduración fetal hace 24 h. En la ecografía obstétrica el peso fetal estimado está en el percentil 1 para la edad gestacional y el Doppler de arteria umbilical presenta ausencia del flujo telediastólico.",
     "options": [
       "Actitud expectante con antihipertensivos y sulfato de magnesio hasta la mejora de las plaquetas maternas.",
-      "Actitud expectante con tratamiento antihiper- tensivo a domicilio y controles cada 48 h.",
+      "Actitud expectante con tratamiento antihipertensivo a domicilio y controles cada 48 h.",
       "Finalización de la gestación cuando complete la maduración pulmonar fetal.",
       "Finalización inmediata de la gestación."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 74 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque se propone una actitud expectante con antihipertensivos y sulfato de magnesio, lo que puede no ser suficiente para controlar la hipertensión y la disfunción plasmática, especialmente en un caso con ausencia de flujo telediastólico en el Doppler de arteria umbilical. La mejora de las plaquetas maternas no es una prioridad en este escenario, ya que la situación es más crítica debido a la disfunción fetal detectada.\n\n- **🔴 Opción B (Incorrecta):** Esta opción también es incorrecta porque se propone una actitud expectante con tratamiento antihipertensivo a domicilio y controles cada 48 h, lo que puede no ser suficiente para controlar la situación crítica en la que se encuentra el feto. La ausencia de flujo telediastólico en el Doppler de arteria umbilical es un signo de disfunción fetal grave y requiere una intervención inmediata.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque se propone finalizar la gestación cuando complete la maduración pulmonar fetal, lo que puede no ser lo más adecuado en este caso. La ausencia de flujo telediastólico en el Doppler de arteria umbilical es un signo de disfunción fetal grave y requiere una intervención inmediata, independientemente de la maduración pulmonar fetal.\n\n- **🟢 Opción D (Correcta):** La opción correcta es la finalización inmediata de la gestación, ya que la ausencia de flujo telediastólico en el Doppler de arteria umbilical es un signo de disfunción fetal grave y requiere una intervención inmediata. La situación es crítica y requiere una acción rápida para evitar daños irreparables al feto. La finalización inmediata de la gestación es la opción más adecuada en este escenario.\n\nLa perla MIR es: En casos de disfunción fetal grave, como la ausencia de flujo telediastólico en el Doppler de arteria umbilical, la finalización inmediata de la gestación es la opción más adecuada para evitar daños irreparables al feto."
   },
   {
     "id": "q-75",
     "localNumber": 75,
     "category": "General",
-    "stem": "Mujer de 30 años que solicita un método anti- conceptivo. Como antecedentes tiene una cesá- rea urgente hace 7 meses, naciendo una niña de 3.550 g. Está dando lactancia materna exclusi- va. Señale la afirmación correcta:",
+    "stem": "Mujer de 30 años solicita un método anticonceptivo con antecedentes de cesárea urgente hace 7 meses y lactancia materna exclusiva.",
     "options": [
-      "Le explica que, si está en amenorrea, no re- quiere de otro método anticonceptivo puesto que la lactancia materna es suficiente como método anticonceptivo.",
+      "Le explica que, si está en amenorrea, no requiere de otro método anticonceptivo puesto que la lactancia materna es suficiente como método anticonceptivo.",
       "Le informa que el DIU de levonogestrel está contraindicado por haber tenido una cesárea hace menos de un año.",
-      "Le explica que podría usar un método hormo- nal de sólo gestágenos.",
-      "Le ofrece anticoncepción hormonal combina- da."
+      "Le explica que podría usar un método hormonal de sólo gestágenos.",
+      "Le ofrece anticoncepción hormonal combinada."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 75 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La opción correcta es explicar que podría usar un método hormonal de sólo gestágenos. Esto se debe a que la lactancia materna es un método anticonceptivo eficaz, pero no es efectivo durante todo el ciclo menstrual. Además, la mujer está en lactancia materna exclusiva, lo que significa que no tiene períodos menstruales. Por lo tanto, un método hormonal de sólo gestágenos sería adecuado para ella, ya que no interfiere con la lactancia materna y es efectivo para prevenir la ovulación. La opción C es la más adecuada porque no contraindica la lactancia materna y es efectiva para prevenir la ovulación durante la lactancia materna exclusiva.\n\n- **🔴 Opción A (Incorrecta):** La opción A no es correcta porque no se debe basar únicamente en la lactancia materna como método anticonceptivo. Aunque la lactancia materna es efectiva, no es 100% eficaz y puede variar de persona a persona. Además, la mujer está en amenorrea, lo que significa que no tiene períodos menstruales, pero esto no significa que no necesite un método anticonceptivo más efectivo.\n\n- **🔴 Opción B (Incorrecta):** La opción B no es correcta porque el DIU de levonogestrel no está contraindicado después de una cesárea. De hecho, el DIU de levonogestrel es un método anticonceptivo efectivo y seguro que puede ser utilizado después de una cesárea. La contraindicación de utilizar métodos anticonceptivos después de una cesárea es una cesárea reciente (menos de 6 semanas), pero no después de 7 meses.\n\n- **🔴 Opción D (Incorrecta):** La opción D no es correcta porque la anticoncepción hormonal combinada puede no ser adecuada para una mujer que está en lactancia materna exclusiva. La anticoncepción hormonal combinada contiene estrogénos y progestágenos, que pueden afectar la cantidad de leche producida por la mujer y pueden no ser efectivos durante la lactancia materna. Además, la anticoncepción hormonal combinada puede tener efectos secundarios en la mujer que están amamantando, como cambios en la cantidad de leche producida o en la frecuencia de los períodos de lactancia.\n\nLa perla MIR: 'La lactancia materna es un método anticonceptivo efectivo, pero no 100% eficaz. Es importante considerar otros métodos anticonceptivos para asegurarse de que la mujer esté protegida durante la lactancia materna exclusiva.'"
   },
   {
     "id": "q-76",
     "localNumber": 76,
     "category": "Traumatología",
-    "stem": "Mujer de 40 años que consulta porque desde hace un mes se nota un bulto en el cuadrante superoexterno de la mama derecha. Aporta un informe de una mamografía que describe una lesión BIRADS 3. ¿Cuál es la actitud a seguir?:",
+    "stem": "Mujer de 40 años que consulta porque desde hace un mes se nota un bulto en el cuadrante superoexterno de la mama derecha. Aporta un informe de una mamografía que describe una lesión BIRADS 3. ¿Cuál es la actitud a seguir?",
     "options": [
-      "Tranquilizarle, puesto que ya se ha hecho una prueba de imagen y se ha descartado maligni- dad.",
-      "Esa clasificación implica probablemente ciru- gía dado que la probabilidad de cáncer es ma- yor del 10 %. Se lo explica y le deriva de forma preferente a la Unidad de Mama.",
-      "Se trata de un hallazgo probablemente be- nigno, dado que hay menos de un 2 % de pro- babilidad de cáncer. Le explica que requiere de un seguimiento cada 6-12 meses hasta los 24 meses o una biopsia.",
-      "Los hallazgos son de baja sospecha de cáncer (entre un 2 y un 10 %) pero es necesario ha- cer una biopsia. - 12 -"
+      "Tranquilizarle, puesto que ya se ha hecho una prueba de imagen y se ha descartado malignidad.",
+      "Esa clasificación implica probablemente cirugía dado que la probabilidad de cáncer es mayor del 10 %. Se lo explica y le deriva de forma preferente a la Unidad de Mama.",
+      "Se trata de un hallazgo probablemente benigno, dado que hay menos de un 2 % de probabilidad de cáncer. Le explica que requiere de un seguimiento cada 6-12 meses hasta los 24 meses o una biopsia.",
+      "Los hallazgos son de baja sospecha de cáncer (entre un 2 y un 10 %) pero es necesario hacer una biopsia."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 76 del examen MIR de la convocatoria FSE."
+    "explanation": "La clasificación BIRADS 3 se refiere a un hallazgo de baja sospecha de cáncer, con una probabilidad de malignidad entre el 2% y el 10%. En este caso, la paciente tiene un bulto en la mama derecha y una mamografía que describe una lesión BIRADS 3. La opción correcta es la que se ajusta a esta clasificación y la recomendación adecuada para la paciente.\n\n- **🟢 Opción C (Correcta):** La opción C se ajusta a la clasificación BIRADS 3, ya que indica que los hallazgos son de baja sospecha de cáncer y que es necesario hacer una biopsia. Esto se alinea con la recomendación de la Asociación Americana de Radiología para la clasificación BIRADS 3, que sugiere una biopsia para confirmar o descartar la presencia de cáncer.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque tranquilizar a la paciente sin realizar una biopsia no es adecuado, ya que la clasificación BIRADS 3 indica una baja sospecha de cáncer, pero no se puede descartar completamente la posibilidad de cáncer sin realizar una biopsia.\n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque la clasificación BIRADS 3 no implica necesariamente cirugía, sino que requiere una biopsia para confirmar o descartar la presencia de cáncer. Además, la probabilidad de cáncer mayor del 10% no se ajusta a la clasificación BIRADS 3.\n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque indica que los hallazgos son de baja sospecha de cáncer, pero no se ajusta a la clasificación BIRADS 3, que indica una probabilidad de malignidad entre el 2% y el 10%. Además, la opción D sugiere hacer una biopsia sin mencionar la necesidad de un seguimiento regular."
   },
   {
     "id": "q-77",
     "localNumber": 77,
     "category": "General",
-    "stem": "Siguiendo las indicaci ones del cribado del cán- cer de cérvix ¿a qué mujer realizaría una cito- logía entre las siguientes candidatas?:",
+    "stem": "Siguiendo las indicaciones del cribado del cáncer de cérvix, a qué mujer realizaría una citología entre las siguientes candidatas?",
     "options": [
       "Mujer de 26 años sin citologías previas.",
       "Mujer de 40 años con citología y virus del papiloma humano negativos hace 3 años.",
-      "Mujer de 67 años con incontinencia urinaria de esfuerzo.",
-      "Mujer de 22 años vacunada para el virus del papiloma humano e inicio de relaciones se- xuales hace 1 año."
+      "Mujer de 67 años con incontinencia urinaria por esfuerzos.",
+      "Mujer de 22 años vacunada para el virus del papiloma humano e inicio de relaciones sexuales hace 1 año."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 77 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La mujer de 26 años sin citologías previas es la adecuada para realizar una citología debido a su edad y falta de antecedentes de cribado. Según las recomendaciones de cribado del cáncer de cérvix, las mujeres entre 25 y 49 años sin antecedentes de citologías previas deben realizar una citología cada 3 años.\n\n- **🔴 Opción B (Incorrecta):** La mujer de 40 años con citología y virus del papiloma humano negativos hace 3 años no requiere una citología en este momento, ya que ya ha realizado una citología reciente y no tiene factores de riesgo.\n\n- **🔴 Opción C (Incorrecta):** La mujer de 67 años con incontinencia urinaria por esfuerzos no es una indicación para realizar una citología, ya que su síntoma no está relacionado con el cáncer de cérvix.\n\n- **🔴 Opción D (Incorrecta):** La mujer de 22 años vacunada para el virus del papiloma humano e inicio de relaciones sexuales hace 1 año no requiere una citología inmediata, ya que su edad y antecedentes la colocan en una categoría de bajo riesgo para el cáncer de cérvix.\n\nLa perla MIR: 'Las mujeres entre 25 y 49 años sin antecedentes de citologías previas deben realizar una citología cada 3 años según las recomendaciones de cribado del cáncer de cérvix.'"
   },
   {
     "id": "q-78",
