@@ -2173,7 +2173,7 @@
     "id": "q-157",
     "localNumber": 157,
     "category": "General",
-    "stem": "Varón de 24 años con ginecomastia bilateral, vello corporal escaso, testes de 3 cc, firmes, tes- tosterona total 257 n g/dL (N>350), LH 11 mUI/mL (N<10), FSH 2 4 mUI/mL (N<10). El siguiente paso en el diagnóstico es:",
+    "stem": "Varón de 24 años con ginecomastia bilateral, vello corporal escaso, testículos de 3 cc, firmes, testosterona total 257 ng/dL (N>350), LH 11 mUI/mL (N<10), FSH 24 mUI/mL (N<10). El siguiente paso en el diagnóstico es:",
     "options": [
       "Cariotipo.",
       "Biopsia testicular.",
@@ -2181,7 +2181,7 @@
       "Estudio del receptor de FSH."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 157 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La biopsia testicular es el siguiente paso adecuado en el diagnóstico, ya que la disminución de la testosterona y la elevación de la FSH sugieren hipogonadismo, y la biopsia permitirá evaluar la función gonadal y la presencia de gérmenes espermáticos. Además, la ginecomastia y el vello corporal escaso pueden estar relacionados con una disfunción testicular. La biopsia también puede ayudar a determinar la causa subyacente de la hipogonadismo, como una deficiencia de gérmenes espermáticos o una lesión testicular.\n\n- **🔴 Opción B (Incorrecta):** La biopsia testicular no es el siguiente paso adecuado en este momento, ya que no se han realizado pruebas para evaluar la función hipotalámica y pituitaria. Una biopsia testicular no proporcionaría información sobre la causa subyacente de la hipogonadismo y podría ser invasiva.\n\n- **🔴 Opción C (Incorrecta):** La resonancia magnética (RM) de la hipófisis puede ser útil en el futuro para evaluar la función hipotalámica y pituitaria, pero no es el siguiente paso adecuado en este momento. La disminución de la testosterona y la elevación de la FSH sugieren hipogonadismo, y una RM de la hipófisis no proporcionaría información sobre la causa subyacente de la hipogonadismo.\n\n- **🔴 Opción D (Incorrecta):** El estudio del receptor de FSH no es relevante en este caso, ya que la elevación de la FSH sugiere hipogonadismo, y no hay indicios de una disfunción del receptor de FSH. Además, un estudio del receptor de FSH no proporcionaría información sobre la causa subyacente de la hipogonadismo.\n\nLa perla MIR: La biopsia testicular es el siguiente paso adecuado en el diagnóstico de un varón con hipogonadismo y ginecomastia, ya que permite evaluar la función gonadal y la presencia de gérmenes espermáticos."
   },
   {
     "id": "q-158",
@@ -2190,18 +2190,18 @@
     "stem": "En relación con la hiperprolactinemia, señale la afirmación INCORRECTA:",
     "options": [
       "La hiperprolactinemia puede estar ocasionada por fármacos.",
-      "El hipertiroidismo provoca elevación de pro- lactina.",
-      "El tratamiento médico de elección son los ago- nistas dopaminérgicos.",
+      "El hipertiroidismo provoca elevación de prolactina.",
+      "El tratamiento médico de elección son los agonistas dopaminérgicos.",
       "Causa amenorrea hipogonadotropa."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 158 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El hipertiroidismo no provoca elevación de prolactina. De hecho, el hipertiroidismo puede estar asociado con una disminución de la producción de prolactina, ya que la estimulación del tiroides puede inhibir la producción de prolactina por parte de la hipófisis. Por lo tanto, esta afirmación es incorrecta en relación con la hiperprolactinemia.\n\n- **🔴 Opción A (Incorrecta):** La hiperprolactinemia puede estar causada por varios factores, incluyendo la toma de ciertos fármacos, como los antipsicóticos, los antidepresivos y los antieméticos. Por lo tanto, esta afirmación es correcta.\n\n- **🔴 Opción C (Incorrecta):** Los agonistas dopaminérgicos son un tratamiento efectivo para la hiperprolactinemia, ya que estimulan la producción de dopamina en la hipófisis, lo que a su vez inhibe la producción de prolactina. Por lo tanto, esta afirmación es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** La hiperprolactinemia puede causar amenorrea hipogonadotrópica, que se caracteriza por la disminución de la producción de hormonas sexuales en respuesta a la estimulación de la hipófisis. Por lo tanto, esta afirmación es incorrecta.\n\nLa perla MIR: La hiperprolactinemia es una condición en la que se produce una cantidad excesiva de prolactina en la sangre. Es importante distinguir entre las diferentes causas y tratamientos de esta condición para proporcionar un diagnóstico y tratamiento precisos."
   },
   {
     "id": "q-159",
     "localNumber": 159,
     "category": "General",
-    "stem": "Mu jer de 63 años con diabetes mellitus tipo 2 de siete años de evolución, en tratamiento con met- formina. HbA1c 7,6 %, índice de masa corporal 41,3 k g/m2. Para el tratamiento de la obesidad en esta paciente ¿cuál es la me jor opción de las siguientes?:",
+    "stem": "Una mujer de 63 años con diabetes mellitus tipo 2 de siete años de evolución, en tratamiento con metformina. HbA1c 7,6 %, índice de masa corporal 41,3 kg/m2. Para el tratamiento de la obesidad en esta paciente ¿cuál es la mejor opción de las siguientes?",
     "options": [
       "Pioglitazona.",
       "Empagliflozina.",
@@ -2209,13 +2209,13 @@
       "Alogliptina."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 159 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La semaglutida es una opción adecuada para tratar la obesidad en una paciente con diabetes mellitus tipo 2. Esta medicación es un agonista del receptor GLP-1, que ayuda a reducir el apetito y aumentar la sensibilidad a la insulina. Además, la semaglutida ha demostrado ser efectiva en la pérdida de peso y mejora de la glucosa en sangre.\n\n- **🔴 Opción A (Incorrecta):** La pioglitazona es un medicamento que se utiliza para tratar la diabetes mellitus tipo 2, pero no es efectivo para la pérdida de peso. De hecho, puede aumentar el riesgo de obesidad en algunas personas. Además, la pioglitazona tiene efectos secundarios como hipertensión y edema, lo que la hace una opción menos atractiva para el tratamiento de la obesidad.\n\n- **🔴 Opción B (Incorrecta):** La empagliflozina es una medicación que se utiliza para tratar la diabetes mellitus tipo 2, pero no es efectiva para la pérdida de peso. De hecho, puede aumentar el riesgo de obesidad en algunas personas. La empagliflozina tiene efectos secundarios como hipertensión y edema, lo que la hace una opción menos atractiva para el tratamiento de la obesidad.\n\n- **🔴 Opción D (Incorrecta):** La alogliptina es un medicamento que se utiliza para tratar la diabetes mellitus tipo 2, pero no es efectivo para la pérdida de peso. De hecho, puede aumentar el riesgo de obesidad en algunas personas. La alogliptina tiene efectos secundarios como hipertensión y edema, lo que la hace una opción menos atractiva para el tratamiento de la obesidad.\n\nLa perla MIR es que en el tratamiento de la obesidad en pacientes con diabetes mellitus tipo 2, es importante considerar medicamentos que no solo mejoren la glucosa en sangre, sino que también promuevan la pérdida de peso de manera segura y efectiva."
   },
   {
     "id": "q-160",
     "localNumber": 160,
     "category": "General",
-    "stem": "Mu jer de 24 años que consulta por odinofa gia intensa de dos días de duración. Indica que tuvo mialgias y t o s s e c a u n o s d i e z d í a s a n t e s , q u e s e alivió la semana pasada. Se siente temblorosa y con sudoración. La exploración no muestra eri- tema o exudado faríngeo, pero sí dolor a la pal- pación en región anterior cervical baja, sin nódu- los, masas ni adenopatías. En la exploración física tiene pulso 110 lpm, temperatura 38,2 ºC y un ligero temblor en reposo. ¿Cuál es el diagnós- tico más probable?:",
+    "stem": "Una mujer de 24 años que consulta por dolor de cabeza intenso de dos días de duración. Indica que tuvo dolores musculares y secaución de días anteriores, que se alivió la semana pasada. Se siente temblorosa y con sudoración. La exploración no muestra eritema o exudado faríngeo, pero sí dolor a la palpación en región anterior cervical baja, sin nódulos, masas ni adenopatías. En la exploración física tiene pulso 110 lpm, temperatura 38,2 °C y un ligero temblor en reposo. ¿Cuál es el diagnóstico más probable?",
     "options": [
       "Tiroiditis subaguda.",
       "Tiroiditis linfocitaria focal.",
@@ -2223,21 +2223,21 @@
       "Enfermedad de Graves-Basedow."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 160 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La opción correcta es la tiroiditis subaguda debido a los síntomas presentados por la paciente. La odinofagia intensa, el dolor en la región anterior cervical baja y el temblor en reposo sugieren una inflamación de la glándula tiroides. La temperatura elevada y el pulso acelerado también apoyan esta diagnosis. La tiroiditis subaguda es una condición común que se caracteriza por una inflamación de la glándula tiroides, lo que puede causar dolor, inflamación y alteraciones en la función tiroidea. En este caso, la paciente tiene síntomas compatibles con esta condición, por lo que es la opción más probable. \n\n- **🔴 Opción B (Incorrecta):** La tiroiditis linfocitaria focal es una condición rara que se caracteriza por una inflamación focal de la glándula tiroides. Sin embargo, no se presentan síntomas compatibles con esta condición en la paciente, como nódulos o masas en la región tiroides. Por lo tanto, esta opción no es la adecuada en este caso. \n\n- **🔴 Opción C (Incorrecta):** La tiroiditis aguda o infecciosa es una condición grave que se caracteriza por una inflamación aguda de la glándula tiroides, lo que puede causar dolor intenso, fiebre alta y alteraciones en la función tiroidea. Sin embargo, la paciente no presenta síntomas graves como dolor intenso, fiebre alta o alteraciones en la función tiroidea, por lo que esta opción no es la adecuada. \n\n- **🔴 Opción D (Incorrecta):** La enfermedad de Graves-Basedow es una condición autoinmune que se caracteriza por una hiperactividad tiroidea, lo que puede causar síntomas como temblores, sudoración y odinofagia. Sin embargo, la paciente no presenta síntomas compatibles con esta condición, como nódulos o masas en la región tiroides o alteraciones en la función tiroidea, por lo que esta opción no es la adecuada. \n\nLa perla MIR es recordar que la odinofagia intensa, el dolor en la región anterior cervical baja y el temblor en reposo son síntomas compatibles con la tiroiditis subaguda, lo que hace que sea la opción más probable en este caso."
   },
   {
     "id": "q-161",
     "localNumber": 161,
     "category": "General",
-    "stem": "Mu jer de 83 años in gresada desde hace 20 días por diverticulitis aguda complicada. Como parte de su tratamiento ha p recisado una sigmoidec- tomía y recibe antibioterapia intravenosa con ertapenem desde hace 8 días. Presenta en los últimos días diarrea sin productos patoló gicos, ingestas del 25 % de lo recomendado y pérdida d e 9 k g d e s d e e l m o m e n t o d e l i n g r e s o ; a c t u a l - mente pesa 75 k g y mide 1,55 m, IMC 31,2 kg/m2. Respecto a su estado nutricional ¿cuál es el diagnóstico más probable?:",
+    "stem": "Una mujer de 83 años ingresada desde hace 20 días por diverticulitis aguda complicada. Como parte de su tratamiento ha precisado una sigmoidecotomía y recibe antibióterapia intravenosa con ertapenem desde hace 8 días. Presenta en los últimos días diarrea sin productos patológicos, ingestas del 25% de lo recomendado y pérdida de 9 kg de peso desde el momento de ingreso, actualmente pesa 75 kg y mide 1,55 m, IMC 31,2 kg/m2. Respecto a su estado nutricional, ¿cuál es el diagnóstico más probable?",
     "options": [
       "No presenta alteración del estado nutricional.",
-      "Desnutrición grave relacionada con la enfer- medad aguda.",
+      "Desnutrición grave relacionada con la enfermedad aguda.",
       "Fallo intestinal por síndrome de intestino corto.",
       "Obesidad grado II."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 161 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La desnutrición grave relacionada con la enfermedad aguda es el diagnóstico más probable en este caso. La paciente ha presentado diarrea sin productos patológicos, ingestas reducidas y pérdida significativa de peso, lo que sugiere una alteración del estado nutricional relacionada con la enfermedad aguda. La presencia de diverticulitis aguda complicada y la necesidad de una sigmoidecotomía aumentan el riesgo de desnutrición. Además, la edad avanzada de la paciente también contribuye a la predisposición a la desnutrición. Por lo tanto, la opción B es la más adecuada en este caso. \n\n- **🔴 Opción A (Incorrecta):** No presenta alteración del estado nutricional no es una opción adecuada en este caso. La paciente ha presentado una pérdida significativa de peso y reducción de ingestas, lo que sugiere una alteración del estado nutricional. \n\n- **🔴 Opción C (Incorrecta):** Fallo intestinal por síndrome de intestino corto no es una opción adecuada en este caso. El síndrome de intestino corto se caracteriza por una disminución de la longitud del intestino, lo que lleva a una malabsorción de nutrientes. Sin embargo, en este caso, la paciente no presenta signos de malabsorción ni una historia de enfermedad crónica que sugiera una condición similar. \n\n- **🔴 Opción D (Incorrecta):** Obesidad grado II no es una opción adecuada en este caso. Aunque la paciente tiene un IMC elevado, la pérdida significativa de peso y la reducción de ingestas sugieren una alteración del estado nutricional relacionada con la enfermedad aguda, más que una obesidad."
   },
   {
     "id": "q-162",
