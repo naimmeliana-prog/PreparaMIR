@@ -2117,7 +2117,7 @@
     "id": "q-153",
     "localNumber": 153,
     "category": "Nefrología",
-    "stem": "Varón de 19 años sin antecedentes de interés que acude a urgencias porque después de una infección respiratoria pr esenta astenia, males- tar general, oliguria y cefalea. Exploración física: TA 210/120 mmHg, fondo de ojo con retinopatía hipertensiva grado III. Analítica: Hb 7,4 g/dl, plaquetas 85.000/mm3, 2-3 esquis- tocitos en la extensión de sangre periférica, LDH 950 UI/ml, creatinina sérica 8,75 mg/dl. Sistemático de orina: proteinuria 300 mg/dl, sedimento 15 hematíes por campo. Niveles de ADAMTS-13 normales. A nte estos hallazgos ¿cuál sería su principal sospecha diagnóstica?:",
+    "stem": "Varón de 19 años sin antecedentes de interés que acude a urgencias porque después de una infección respiratoria presenta astenia, males-tar general, oliguria y cefalea. Exploración física: TA 210/120 mmHg, fondo de ojo con retinopatía hipertensiva grado III. Analítica: Hb 7,4 g/dl, plaquetas 85.000/mm3, 2-3 esquistocitos en la extensión de sangre periférica, LDH 950 UI/ml, creatinina sérica 8,75 mg/dl. Sistemático de orina: proteinuria 300 mg/dl, sedimento 15 hematíes por campo. Niveles de ADAMTS-13 normales. A nte estos hallazgos ¿cuál sería su principal sospecha diagnóstica?",
     "options": [
       "Púrpura trombótica trombocitopénica.",
       "Síndrome hemolítico urémico atípico.",
@@ -2125,27 +2125,27 @@
       "Síndrome hemolítico urémico típico."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 153 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El síndrome hemolítico urémico atípico (SHUA) es una condición que se caracteriza por la destrucción de glóbulos rojos y nefritis aguda. En este caso, el paciente presenta anemia (Hb 7,4 g/dl), plaquetopenia (85.000/mm3), elevada creatinina sérica (8,75 mg/dl) y proteinuria (300 mg/dl), lo que sugiere una lesión renal aguda. Además, la presencia de esquistocitos en la extensión de sangre periférica y la hipertensión (TA 210/120 mmHg) apuntan hacia una coagulación intravascular diseminada secundaria a una infección, lo que es consistente con el diagnóstico de SHUA. La normalidad de los niveles de ADAMTS-13 también es compatible con esta condición, ya que la disfunción de esta proteína no es un requisito para el diagnóstico de SHUA. Por lo tanto, la principal sospecha diagnóstica en este caso es el síndrome hemolítico urémico atípico.\n\n- **🔴 Opción A (Incorrecta):** La púrpura trombótica trombocitopénica (PTT) es una condición que se caracteriza por la destrucción de plaquetas, lo que lleva a una coagulación anormal. Sin embargo, en este caso, la plaquetopenia (85.000/mm3) no es lo suficientemente baja como para sugerir PTT. Además, la presencia de esquistocitos y la hipertensión sugieren una coagulación intravascular diseminada secundaria a una infección, lo que no es consistente con el diagnóstico de PTT.\n\n- **🔴 Opción C (Incorrecta):** La coagulación intravascular diseminada (CID) es una condición que se caracteriza por la coagulación de los vasos sanguíneos, lo que lleva a una trombosis generalizada. Sin embargo, en este caso, la presencia de esquistocitos y la hipertensión sugieren una coagulación intravascular diseminada secundaria a una infección, lo que no es consistente con el diagnóstico de CID. Además, la normalidad de los niveles de ADAMTS-13 también es incompatible con este diagnóstico.\n\n- **🔴 Opción D (Incorrecta):** El síndrome hemolítico urémico típico (SHUT) es una condición que se caracteriza por la destrucción de glóbulos rojos y nefritis aguda, pero se asocia con una deficiencia de ADAMTS-13. En este caso, los niveles de ADAMTS-13 son normales, lo que hace que el diagnóstico de SHUT no sea consistente.\n\nLa perla MIR: Recuerda que en casos de infección y coagulación intravascular diseminada, es importante buscar esquistocitos y plaquetopenia para sospechar de SHUA."
   },
   {
     "id": "q-154",
     "localNumber": 154,
     "category": "General",
-    "stem": "En cuanto a la obstru cción del flujo urinario, señale la respuesta FALSA:",
+    "stem": "En cuanto a la obstrucción del flujo urinario, señale la respuesta FALSA",
     "options": [
       "La intensidad del dolor es independiente de la velocidad con la que ocurre la distensión.",
-      "Son sitios frecuentes de obstrucción las unio- nes pieloureteral y ureterovesical, el cuello vesical y el meato uretral.",
-      "Los recursos diagnósticos para identificar la obstrucción anatómica incluyen la flujome- tría.",
-      "La obstrucción del flujo urinario aumenta la presión hidrostática proximal al sitio de oclu- sión, causando dolor, distensión del sistema colector renal y aumento de la presión intra- tubular."
+      "Son sitios frecuentes de obstrucción las uniones pieloureteral y ureterovesical, el cuello vesical y el meato uretral.",
+      "Los recursos diagnósticos para identificar la obstrucción anatómica incluyen la flujo-metría.",
+      "La obstrucción del flujo urinario aumenta la presión hidrostática proximal al sitio de oclusión, causando dolor, distensión del sistema colector renal y aumento de la presión intra-tubular."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 154 del examen MIR de la convocatoria FSE."
+    "explanation": "La explicación de cada opción se presenta a continuación:\n\n- **🟢 Opción A (Correcta):** Esta opción es incorrecta porque la intensidad del dolor en la obstrucción del flujo urinario no es independiente de la velocidad con la que ocurre la distensión. De hecho, la velocidad de la distensión puede influir en la intensidad del dolor, ya que una distensión rápida puede causar dolor agudo y severo, mientras que una distensión lenta puede causar dolor crónico y menos intenso.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es correcta. Las uniones pieloureteral y ureterovesical, el cuello vesical y el meato uretral son sitios frecuentes de obstrucción del flujo urinario. La obstrucción en estas áreas puede causar dolor, distensión y otros síntomas.\n\n- **🟢 Opción C (Correcta):** Esta opción es correcta. La flujo-metría es un recurso diagnóstico utilizado para identificar la obstrucción anatómica del flujo urinario. La flujo-metría mide la velocidad y la presión del flujo urinario para identificar cualquier obstrucción.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es correcta. La obstrucción del flujo urinario aumenta la presión hidrostática proximal al sitio de oclusión, causando dolor, distensión del sistema colector renal y aumento de la presión intra-tubular. Esto es debido a la acumulación de líquido en el sistema colector renal y la necesidad de que el sistema urinario se ejerza para eliminar el líquido acumulado.\n\n**Perla MIR:** La obstrucción del flujo urinario puede causar dolor, distensión y otros síntomas debido a la acumulación de líquido en el sistema colector renal. La identificación y tratamiento temprano de la obstrucción son cruciales para prevenir complicaciones y aliviar los síntomas."
   },
   {
     "id": "q-155",
     "localNumber": 155,
     "category": "General",
-    "stem": "¿Cuál de las siguientes es la complicación meta- bólica más frecuente en el cáncer?:",
+    "stem": "¿Cuál de las siguientes es la complicación metabólica más frecuente en el cáncer?",
     "options": [
       "Hiponatremia.",
       "Hiperuricemia.",
@@ -2153,35 +2153,35 @@
       "Hipercalcemia."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 155 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La hipercalcemia es la complicación metabólica más frecuente en el cáncer. Esto se debe a que ciertos tipos de cáncer, como el cáncer de próstata, el cáncer de mama y el cáncer de tiroides, pueden producir hormonas que estimulan la absorción de calcio en el intestino, lo que lleva a un aumento de los niveles de calcio en la sangre. Además, algunos cánceres pueden también producir parathormona relacionada con el cáncer (PTHrP), que también puede causar hipercalcemia.\n\n- **🔴 Opción A (Incorrecta):** La hiponatremia es una condición en la que los niveles de sodio en la sangre son más bajos de lo normal. Aunque puede ocurrir en pacientes con cáncer, no es la complicación metabólica más frecuente en esta población. La hiponatremia puede estar relacionada con la diarrea, la vómito, la hidroelectrolitosis, entre otros.\n\n- **🔴 Opción B (Incorrecta):** La hiperuricemia es una condición en la que los niveles de ácido úrico en la sangre son más altos de lo normal. Aunque puede ocurrir en pacientes con cáncer, especialmente en aquellos que están recibiendo tratamiento con metotrexato, no es la complicación metabólica más frecuente en esta población.\n\n- **🔴 Opción C (Incorrecta):** La hiperfosfatemia es una condición en la que los niveles de fosfato en la sangre son más altos de lo normal. Aunque puede ocurrir en pacientes con cáncer, especialmente en aquellos que están recibiendo tratamiento con cetoacidosis diabética, no es la complicación metabólica más frecuente en esta población.\n\nLa hipercalcemia es la complicación metabólica más frecuente en el cáncer debido a la producción de hormonas y parathormonas relacionadas con el cáncer que estimulan la absorción de calcio en el intestino. Esto lleva a un aumento de los niveles de calcio en la sangre."
   },
   {
     "id": "q-156",
     "localNumber": 156,
     "category": "General",
-    "stem": "En relación con la compresión medular secun- daria a infiltración neoplásica de la médula espinal en pacientes con cáncer, señale la res- puesta INCORRECTA:",
+    "stem": "En relación con la compresión medular secundaria a infiltración neoplásica de la médula espinal en pacientes con cáncer, señale la respuesta INCORRECTA:",
     "options": [
       "La laminectomía quirúrgica y la radioterapia, sola o complementaria a la cirugía, consiguen una recuperación neurológica inferior al 20 %.",
       "El tratamiento precoz con corticoides reduce el edema vasogénico y limita la progresión de la lesión medular.",
-      "Los síntomas más frecuentes son la parapare- sia y la reducción de la sensibilidad distal al segmento medular comprimido.",
-      "La resonancia magnética es la prueba diag- nóstica de elección para la confirmación diagnóstica y la identificación del nivel de compresión. - 23 -"
+      "Los síntomas más frecuentes son la paraparesia y la reducción de la sensibilidad distal al segmento medular comprimido.",
+      "La resonancia magnética es la prueba diagnóstica de elección para la confirmación diagnóstica y la identificación del nivel de compresión."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 156 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Incorrecta):** La recuperación neurológica después de la laminectomía quirúrgica y la radioterapia no es inferior al 20 %. De hecho, con un tratamiento adecuado, la recuperación neurológica puede ser significativamente mejor. La opción A es incorrecta porque subestima el potencial de recuperación con un tratamiento adecuado.\n- **🔴 Opción B (Incorrecta):** El tratamiento precoz con corticoides puede reducir el edema vasogénico, pero no siempre limita la progresión de la lesión medular. La eficacia del tratamiento con corticoides depende de varios factores, incluyendo la gravedad de la lesión y la respuesta del paciente. La opción B es incorrecta porque sobreestima la efectividad de los corticoides en este contexto.\n- **🔴 Opción C (Incorrecta):** Los síntomas más frecuentes de la compresión medular incluyen la paraparesia, pero también pueden incluir la paraplejia, la sensibilidad alterada y la disfunción autónoma. La reducción de la sensibilidad distal al segmento medular comprimido es un síntoma posible, pero no el más frecuente. La opción C es incorrecta porque no describe con precisión los síntomas más frecuentes.\n- **🔴 Opción D (Incorrecta):** La resonancia magnética es una herramienta útil para la confirmación diagnóstica y la identificación del nivel de compresión, pero no es la prueba diagnóstica de elección. La ecografía y la tomografía computarizada también pueden ser útiles en la evaluación de la compresión medular. La opción D es incorrecta porque sugiere que la resonancia magnética es la única herramienta necesaria para la evaluación.\nLa perla MIR es: 'La recuperación neurológica después de la compresión medular depende de varios factores, incluyendo la gravedad de la lesión y la respuesta del paciente.'"
   },
   {
     "id": "q-157",
     "localNumber": 157,
     "category": "General",
-    "stem": "¿Cuál es la mejor combinación de tratamientos oncológicos en un paciente con el diagnóstico de carcinoma adenoide quístico de paladar duro T4N0M0?:",
+    "stem": "¿Cuál es la mejor combinación de tratamientos oncológicos en un paciente con el diagnóstico de carcinoma adenoide quístico de paladar duro T4N0M0?",
     "options": [
-      "Radioquimioterapia concomitante como pri- mera opción terapéutica.",
+      "Radioquimioterapia concomitante como primera opción terapéutica.",
       "Cirugía de la lesión seguida de radioterapia adyuvante sobre el lecho quirúrgico.",
       "Radioterapia y posterior cirugía en ausencia de respuesta completa.",
       "Es un tumor benigno y por tanto no precisa de tratamientos oncológicos complementarios."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 157 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La mejor combinación de tratamientos en un paciente con carcinoma adenoide quístico de paladar duro T4N0M0 es la cirugía de la lesión seguida de radioterapia adyuvante sobre el lecho quirúrgico. Esto se debe a que la cirugía permite la eliminación de la mayor parte de la lesión, mientras que la radioterapia adyuvante ayuda a controlar cualquier residuo de células cancerosas que puedan haber quedado después de la cirugía. Esta combinación reduce la probabilidad de recurrencia y mejora la supervivencia del paciente. Además, la clasificación de T4 indica que la lesión es grande y se ha extendido a estructuras cercanas, por lo que la cirugía es fundamental para eliminar la lesión lo más posible. La radioterapia adyuvante es crucial para controlar cualquier residuo de células cancerosas que puedan haber quedado después de la cirugía y reducir la probabilidad de recurrencia. \n\n- **🔴 Opción A (Incorrecta):** La radioquimioterapia concomitante como primera opción terapéutica no es la mejor opción para un paciente con carcinoma adenoide quístico de paladar duro T4N0M0. La radioquimioterapia concomitante se utiliza más comúnmente en casos de cáncer de cabeza y cuello en etapas avanzadas o en pacientes que no son candidatos a la cirugía. En este caso, la lesión es grande (T4) y no hay metástasis (N0M0), por lo que la cirugía es la opción más adecuada. \n\n- **🔴 Opción C (Incorrecta):** La radioterapia y posterior cirugía en ausencia de respuesta completa no es la mejor opción para un paciente con carcinoma adenoide quístico de paladar duro T4N0M0. La radioterapia es una opción terapéutica importante, pero no debe ser utilizada como primera opción en este caso. La cirugía es fundamental para eliminar la mayor parte de la lesión, y la radioterapia adyuvante puede ser utilizada para controlar cualquier residuo de células cancerosas que puedan haber quedado después de la cirugía. \n\n- **🔴 Opción D (Incorrecta):** El carcinoma adenoide quístico de paladar duro es un tipo de cáncer maligno, no benigno. Por tanto, no es un tumor que no precise de tratamientos oncológicos complementarios. La mejor opción terapéutica para este paciente es la cirugía de la lesión seguida de radioterapia adyuvante sobre el lecho quirúrgico. \n\nLa perla MIR: Recuerda que en el tratamiento del cáncer, la cirugía es fundamental para eliminar la mayor parte de la lesión, y la radioterapia adyuvante puede ser utilizada para controlar cualquier residuo de células cancerosas que puedan haber quedado después de la cirugía."
   },
   {
     "id": "q-158",
