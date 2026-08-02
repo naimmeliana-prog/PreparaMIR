@@ -92,18 +92,25 @@ function countRequested(text: string): number {
   return 1;
 }
 
-<<<<<<< HEAD
 export function matchTopic(text: string): Topic | null {
-=======
-function matchTopic(text: string): Topic | null {
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
+  const normText = normalize(text);
   let best: { topic: Topic; score: number } | null = null;
   for (const topic of topics) {
     let score = 0;
     for (const kw of topic.keywords) {
-      if (text.includes(normalize(kw))) score += kw.length > 4 ? 2 : 1;
+      const normalizedKw = normalize(kw);
+      if (normalizedKw.length <= 3) {
+        const regex = new RegExp(`\\b${normalizedKw}\\b`, "i");
+        if (regex.test(normText)) {
+          score += 1;
+        }
+      } else {
+        if (normText.includes(normalizedKw)) {
+          score += kw.length > 4 ? 2 : 1;
+        }
+      }
     }
-    if (topic.id === "diabetes" && text.includes("diabet")) score += 2;
+    if (topic.id === "diabetes" && normText.includes("diabet")) score += 2;
     if (score > 0 && (!best || score > best.score)) best = { topic, score };
   }
   return best ? best.topic : null;

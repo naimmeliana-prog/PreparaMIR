@@ -6,13 +6,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-<<<<<<< HEAD
     "typecheck": "tsc --noEmit",
     "db:push": "drizzle-kit push",
     "db:studio": "drizzle-kit studio"
-=======
-    "typecheck": "tsc --noEmit"
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
   },
   "dependencies": {
     "dotenv": "17.3.1",
@@ -20,12 +16,8 @@
     "next": "16.2.6",
     "pg": "8.20.0",
     "react": "19.2.6",
-<<<<<<< HEAD
     "react-dom": "19.2.6",
     "tesseract.js": "^7.0.0"
-=======
-    "react-dom": "19.2.6"
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
   },
   "devDependencies": {
     "@tailwindcss/postcss": "4.1.17",

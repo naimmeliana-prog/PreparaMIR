@@ -881,6 +881,31 @@ const _extraTopics: Topic[] = [
       "El signo de Rovsing (dolor en FID al palpar FII) es positivo en apendicitis.",
     ],
   },
+  {
+    id: "necrosis-metastatica-higado",
+    title: "Necrosis metastática del hígado",
+    category: "Aparato digestivo",
+    keywords: [
+      "necrosis metastatica",
+      "necrosis hepatica",
+      "metastasis",
+      "higado",
+      "metástasis hepáticas",
+      "hígado"
+    ],
+    summary:
+      "La necrosis tumoral central es común en las metástasis hepáticas de rápido crecimiento, especialmente de adenocarcinomas (colorrectal, mama o pulmón). Se produce cuando la masa tumoral sobrepasa su aporte sanguíneo arterial.",
+    keyPoints: [
+      "El hígado es el segundo órgano más frecuentemente afectado por metástasis metastáticas tras los ganglios linfáticos.",
+      "Clínica: Dolor sordo en hipocondrio derecho, hepatomegalia nodular, ictericia obstructiva y síndrome constitucional.",
+      "Diagnóstico: Marcadores elevados (Fosfatasa alcalina, GGT, transaminasas). Ecografía, TAC o RM demuestran lesiones focales múltiples con centro necrótico/hipodenso.",
+    ],
+    highYield: [
+      "La necrosis central o licuefacción dentro de una lesión hepática sólida es altamente sugestiva de metástasis maligna.",
+      "El patrón ecográfico clásico de 'ojo de buey' o 'diana' es característico de las metástasis de adenocarcinoma colorrectal.",
+      "La resección quirúrgica (metastasectomía) mejora drásticamente la supervivencia en pacientes con metástasis hepáticas colorrectales limitadas (oligometastásicas).",
+    ],
+  },
 ];
 
 // Merge extra topics into the main topics array

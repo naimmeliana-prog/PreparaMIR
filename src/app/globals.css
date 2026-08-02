@@ -42,7 +42,6 @@ body {
 
 * {
   scrollbar-width: thin;
-<<<<<<< HEAD
   scrollbar-color: rgba(99, 102, 241, 0.2) transparent;
 }
 *::-webkit-scrollbar {
@@ -102,17 +101,6 @@ body {
   background: rgba(15, 23, 42, 0.85);
   backdrop-filter: blur(16px);
   border: 1px solid rgba(255, 255, 255, 0.05);
-=======
-  scrollbar-color: #cbd5e1 transparent;
-}
-*::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
-*::-webkit-scrollbar-thumb {
-  background-color: #cbd5e1;
-  border-radius: 9999px;
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
 }
 
 @media print {

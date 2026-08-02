@@ -28,7 +28,6 @@ export interface LocalExamQuestion extends ExamQuestion {
   originId: string;
 }
 
-<<<<<<< HEAD
 import mir2025 from "./data/mir_2025.json";
 import mir2024 from "./data/mir_2024.json";
 import mir2023 from "./data/mir_2023.json";
@@ -42,9 +41,6 @@ const REAL_EXAMS: Record<string, any[]> = {
   "2022": mir2022,
   "2021": mir2021,
 };
-
-=======
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
 export const EXAM_SOURCE = {
   name: "Ministerio de Sanidad",
   label: "Convocatorias y documentación FSE — Ministerio de Sanidad",
@@ -256,7 +252,6 @@ function stableRotate<T>(arr: T[], shift: number) {
 }
 
 export function buildLocalExam(year: string): LocalExamQuestion[] {
-<<<<<<< HEAD
   // Check if we have the real official exam loaded in JSON
   const realQuestions = REAL_EXAMS[year] || [];
   if (realQuestions.length > 0) {
@@ -279,14 +274,11 @@ export function buildLocalExam(year: string): LocalExamQuestion[] {
   }
 
   // Fallback to rotated mock questions if JSON is empty/not extracted yet
-=======
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
   const base = examQuestions.filter((q) => !q.refYear || q.refYear === year);
   const pool = base.length > 0 ? base : examQuestions;
   const yearShift = Number(year) % Math.max(1, pool.length);
   const rotated = stableRotate(pool, yearShift);
   const result: LocalExamQuestion[] = [];
-<<<<<<< HEAD
   
   for (let i = 0; i < EXAM_FORMAT.totalQuestions; i += 1) {
     const q = rotated[i % rotated.length];
@@ -299,20 +291,13 @@ export function buildLocalExam(year: string): LocalExamQuestion[] {
       caption: `Imagen asociada a la pregunta ${i + 1} de la convocatoria ${year}.`
     } : q.image;
 
-=======
-  for (let i = 0; i < EXAM_FORMAT.totalQuestions; i += 1) {
-    const q = rotated[i % rotated.length];
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
     result.push({
       ...q,
       id: `${year}-${q.id}-${i + 1}`,
       originId: q.id,
       localNumber: i + 1,
       refYear: year,
-<<<<<<< HEAD
       image: imageRef,
-=======
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
     });
   }
   return result;

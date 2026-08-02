@@ -186,7 +186,6 @@ export const hardTopics: HardTopic[] = [
     example: "Si hay síntomas psicóticos persistentes fuera de la depresión, no es solo depresión psicótica.",
     bucket: "razonamiento",
   },
-<<<<<<< HEAD
   {
     id: "hard-gasometria",
     icon: "🧪",
@@ -245,7 +244,3 @@ export const hardTopics: HardTopic[] = [
     bucket: "urgencias",
   },
 ];
-
-=======
-];
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8

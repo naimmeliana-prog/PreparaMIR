@@ -130,7 +130,6 @@ export const trapPatterns: TrapPattern[] = [
     example: "ECG con cambios inespecíficos + dolor torácico típico e inestabilidad → manda la clínica.",
     level: "media",
   },
-<<<<<<< HEAD
   {
     id: "trap-hsa-tac-normal",
     icon: "🧠",
@@ -182,7 +181,3 @@ export const trapPatterns: TrapPattern[] = [
     level: "media",
   },
 ];
-
-=======
-];
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8

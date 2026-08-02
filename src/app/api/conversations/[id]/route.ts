@@ -1,11 +1,7 @@
 import { NextResponse } from "next/server";
 import { db } from "@/db";
 import { conversations, messages } from "@/db/schema";
-<<<<<<< HEAD
 import { eq, asc } from "@/db/mock_helpers";
-=======
-import { asc, eq } from "drizzle-orm";
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
 import type { ChatMessage, MessageMetadata } from "@/lib/types";
 import type { MessageMetadata as TutorMeta } from "@/lib/tutor";
 

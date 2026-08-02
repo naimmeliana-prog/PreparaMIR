@@ -1,10 +1,6 @@
 import { db } from "@/db";
 import { conversations, messages } from "@/db/schema";
-<<<<<<< HEAD
 import { count, sql } from "@/db/mock_helpers";
-=======
-import { count, sql } from "drizzle-orm";
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
 import type { Stats, CategoryStat } from "@/lib/types";
 
 export const dynamic = "force-dynamic";

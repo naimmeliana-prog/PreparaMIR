@@ -18,13 +18,9 @@ export const viewport = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="es">
-<<<<<<< HEAD
       <body className="bg-slate-100 text-slate-900 antialiased">
         <UiProvider>{children}</UiProvider>
       </body>
-=======
-      <body className="bg-slate-100 text-slate-900 antialiased">{children}</body>
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8
     </html>
   );
 }

@@ -115,7 +115,6 @@ export const flashcards: Flashcard[] = [
   { id: "fc-o1", deck: "Oftalmología", front: "Glaucoma agudo de ángulo cerrado", back: "Dolor ocular intenso + ojo rojo + midriasis + hipertensión ocular. Urgencia oftalmológica." },
   { id: "fc-o2", deck: "Oftalmología", front: "Retinopatía diabética no proliferativa", back: "Microaneurismas, hemorragias, exudados duros. La proliferativa se define por neovascularización." },
   { id: "fc-o3", deck: "Oftalmología", front: "Cribado de retinopatía diabética", back: "Fondo de ojo anual desde el diagnóstico de DM2; desde los 5 años en DM1." },
-<<<<<<< HEAD
   { id: "fc-o4", deck: "Oftalmología", front: "Desprendimiento de retina", back: "Moscas volantes (miodesopsias) + fotopsias (destellos) + «sombra de cortina». No duele." },
 
   // ─── NEUROLOGÍA ────────────────────────────────────────────────────────
@@ -133,13 +132,9 @@ export const flashcards: Flashcard[] = [
 
   // ─── NEFROLOGÍA ────────────────────────────────────────────────────────
   { id: "fc-nef1", deck: "Nefrología", front: "Tríada del Síndrome Nefrótico", back: "Proteinuria >3,5 g/24h + Hipoalbuminemia (<3 g/dL) + Edemas perféricos ± Hiperlipidemia." },
-  { id: "fc-nef2", deck: "Nefrología", front: "Nefritis por IgA (Enfermedad de Berger)", back: "Hematuria macroscópica recurrente co coincidiendo con infección respiratoria alta (sin latencia)." },
+  { id: "fc-nef2", deck: "Nefrología", front: "Nfritis por IgA (Enfermedad de Berger)", back: "Hematuria macroscópica recurrente co coincidiendo con infección respiratoria alta (sin latencia)." },
 
   // ─── HEMATOLOGÍA ───────────────────────────────────────────────────────
   { id: "fc-hem1", deck: "Hematología", front: "Mieloma Múltiple: Criterios CRAB", back: "C (Calcio alto), R (Renal / Insuficiencia), A (Anemia), B (Bone / Lesiones líticas)." },
   { id: "fc-hem2", deck: "Hematología", front: "Leucemia Mieloide Crónica (LMC)", back: "Translocación t(9;22) → Cromosoma Filadelfia (BCR-ABL1). Tratamiento: Imatinib (ITK)." },
 ];
-
-=======
-];
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8

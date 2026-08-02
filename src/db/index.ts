@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 import fs from "fs";
 import path from "path";
 import { cookies } from "next/headers";
+import * as schema from "./schema";
 
-// Archivo local de almacenamiento
+// Archivo local de almacenamiento (fallback offline)
 const DB_FILE = path.join(process.cwd(), "public", "local_db.json");
 
 interface Conversation {
@@ -30,12 +30,11 @@ async function getUserId(): Promise<string | undefined> {
     const cookieStore = await cookies();
     return cookieStore.get("userId")?.value;
   } catch {
-    // Si se llama fuera de un contexto de request (ej: scripts locales)
     return undefined;
   }
 }
 
-// Carga inicial/creación del archivo
+// Carga inicial/creación del archivo local
 function loadData(): { conversations: Conversation[]; messages: Message[]; users?: any[] } {
   if (!fs.existsSync(DB_FILE)) {
     const initial = { conversations: [], messages: [], users: [] };
@@ -66,12 +65,39 @@ function generateUUID(): string {
   });
 }
 
-// Mock de Drizzle ORM con filtrado automático por usuario
-class MockQueryBuilder {
+function getTableName(tableObj: any): string {
+  if (!tableObj) return "";
+  if (typeof tableObj === "string") return tableObj;
+  if (tableObj.name) return tableObj.name;
+  if (tableObj._?.name) return tableObj._.name;
+  return "";
+}
+
+// Conexión reutilizable a PostgreSQL en producción
+let pgDbInstance: any = null;
+let pgPoolInstance: any = null;
+
+function getPgDb() {
+  if (!process.env.DATABASE_URL) return null;
+  if (!pgDbInstance) {
+    const { drizzle } = require("drizzle-orm/node-postgres");
+    const { Pool } = require("pg");
+    pgPoolInstance = new Pool({
+      connectionString: process.env.DATABASE_URL,
+      max: 10,
+      idleTimeoutMillis: 30000,
+    });
+    pgDbInstance = drizzle(pgPoolInstance, { schema });
+  }
+  return pgDbInstance;
+}
+
+// Query builder unificado para Postgres (Drizzle) y JSON local
+class HybridQueryBuilder {
   private table: string;
+  private selectFields: any;
   private whereClause: any = null;
   private orderClause: any = null;
-  private selectFields: any = null;
 
   constructor(table: string, selectFields: any = null) {
     this.table = table;
@@ -89,53 +115,90 @@ class MockQueryBuilder {
   }
 
   async then(onfulfilled?: (value: any) => any) {
-    const data = loadData();
     const activeUserId = await getUserId();
+    const pgDb = getPgDb();
 
-    let rows = this.table === "conversations" ? [...data.conversations] : [...data.messages];
+    if (pgDb) {
+      // MODO POSTGRESQL (PRODUCCIÓN)
+      const { eq, and, inArray, asc, desc } = require("drizzle-orm");
+      const tableObj = (schema as any)[this.table];
 
-    // FILTRADO DE SEGURIDAD CRÍTICO: Cada usuario solo ve sus propios datos
-    if (activeUserId) {
-      rows = rows.filter((r: any) => r.userId === activeUserId);
-    } else {
-      // Si no hay sesión, devolvemos vacío para proteger privacidad
-      rows = [];
-    }
-
-    // Aplicar filtros básicos de búsqueda
-    if (this.whereClause) {
-      const { field, value, operator } = this.whereClause;
-      if (operator === "eq") {
-        rows = rows.filter((r: any) => r[field] === value);
-      } else if (operator === "inArray") {
-        const valSet = new Set(value);
-        rows = rows.filter((r: any) => valSet.has(r[field]));
+      let query: any;
+      if (this.selectFields) {
+        query = pgDb.select(this.selectFields).from(tableObj);
+      } else {
+        query = pgDb.select().from(tableObj);
       }
+
+      const conditions: any[] = [];
+      if (activeUserId && this.table !== "users") {
+        conditions.push(eq(tableObj.userId, activeUserId));
+      }
+
+      if (this.whereClause) {
+        const { field, value, operator } = this.whereClause;
+        const col = tableObj[field];
+        if (operator === "eq") {
+          conditions.push(eq(col, value));
+        } else if (operator === "inArray") {
+          conditions.push(inArray(col, value));
+        }
+      }
+
+      if (conditions.length > 0) {
+        query = query.where(and(...conditions));
+      }
+
+      if (this.orderClause) {
+        const { field, direction } = this.orderClause;
+        const col = tableObj[field];
+        query = query.orderBy(direction === "desc" ? desc(col) : asc(col));
+      }
+
+      const rows = await query;
+      return onfulfilled ? onfulfilled(rows) : rows;
+    } else {
+      // MODO OFFLINE LOCAL (JSON)
+      const data = loadData();
+      let rows = this.table === "conversations" ? [...data.conversations] : [...data.messages];
+
+      if (activeUserId) {
+        rows = rows.filter((r: any) => r.userId === activeUserId);
+      } else {
+        rows = [];
+      }
+
+      if (this.whereClause) {
+        const { field, value, operator } = this.whereClause;
+        if (operator === "eq") {
+          rows = rows.filter((r: any) => r[field] === value);
+        } else if (operator === "inArray") {
+          const valSet = new Set(value);
+          rows = rows.filter((r: any) => valSet.has(r[field]));
+        }
+      }
+
+      let resultRows = rows.map((r: any) => ({
+        ...r,
+        createdAt: new Date(r.createdAt),
+        updatedAt: r.updatedAt ? new Date(r.updatedAt) : undefined,
+      }));
+
+      if (this.orderClause) {
+        const { field, direction } = this.orderClause;
+        resultRows.sort((a: any, b: any) => {
+          const valA = a[field] instanceof Date ? a[field].getTime() : 0;
+          const valB = b[field] instanceof Date ? b[field].getTime() : 0;
+          return direction === "desc" ? valB - valA : valA - valB;
+        });
+      }
+
+      if (this.selectFields && this.selectFields.value) {
+        return onfulfilled ? onfulfilled([{ value: resultRows.length }]) : [{ value: resultRows.length }];
+      }
+
+      return onfulfilled ? onfulfilled(resultRows) : resultRows;
     }
-
-    // Mapear a tipos de fecha correctos para que Next.js/Drizzle los serialice
-    let resultRows = rows.map((r: any) => ({
-      ...r,
-      createdAt: new Date(r.createdAt),
-      updatedAt: r.updatedAt ? new Date(r.updatedAt) : undefined,
-    }));
-
-    // Ordenar
-    if (this.orderClause) {
-      const { field, direction } = this.orderClause;
-      resultRows.sort((a: any, b: any) => {
-        const valA = a[field] instanceof Date ? a[field].getTime() : 0;
-        const valB = b[field] instanceof Date ? b[field].getTime() : 0;
-        return direction === "desc" ? valB - valA : valA - valB;
-      });
-    }
-
-    // Si se seleccionaron campos específicos (como el count)
-    if (this.selectFields && this.selectFields.value) {
-      return onfulfilled ? onfulfilled([{ value: resultRows.length }]) : [{ value: resultRows.length }];
-    }
-
-    return onfulfilled ? onfulfilled(resultRows) : resultRows;
   }
 }
 
@@ -143,7 +206,7 @@ export const db = {
   select(fields?: any) {
     return {
       from(tableObj: any) {
-        return new MockQueryBuilder(tableObj.name, fields);
+        return new HybridQueryBuilder(getTableName(tableObj), fields);
       },
     };
   },
@@ -155,32 +218,51 @@ export const db = {
           returning() {
             return {
               async then(onfulfilled?: (value: any) => any) {
-                const data = loadData();
                 const activeUserId = await getUserId();
-                
-                const newRow: any = {
-                  id: generateUUID(),
-                  createdAt: new Date().toISOString(),
-                  userId: activeUserId, // Asignar automáticamente al usuario actual
-                  ...payload,
-                };
-                
-                if (tableObj.name === "conversations") {
-                  newRow.updatedAt = new Date().toISOString();
-                  data.conversations.push(newRow);
+                const pgDb = getPgDb();
+                const tableName = getTableName(tableObj);
+
+                if (pgDb) {
+                  // MODO POSTGRESQL (PRODUCCIÓN)
+                  const tableSchemaObj = (schema as any)[tableName];
+                  const insertPayload = {
+                    userId: activeUserId,
+                    ...payload,
+                  };
+                  const [row] = await pgDb
+                    .insert(tableSchemaObj)
+                    .values(insertPayload)
+                    .returning();
+                  return onfulfilled ? onfulfilled([row]) : [row];
                 } else {
-                  data.messages.push(newRow);
+                  // MODO OFFLINE LOCAL (JSON)
+                  const data = loadData();
+                  const newRow: any = {
+                    id: generateUUID(),
+                    createdAt: new Date().toISOString(),
+                    userId: activeUserId,
+                    ...payload,
+                  };
+                  
+                  if (tableName === "conversations") {
+                    newRow.updatedAt = new Date().toISOString();
+                    data.conversations.push(newRow);
+                  } else if (tableName === "users") {
+                    if (!data.users) data.users = [];
+                    data.users.push(newRow);
+                  } else {
+                    data.messages.push(newRow);
+                  }
+                  
+                  saveData(data);
+
+                  const returnRow = {
+                    ...newRow,
+                    createdAt: new Date(newRow.createdAt),
+                    updatedAt: newRow.updatedAt ? new Date(newRow.updatedAt) : undefined,
+                  };
+                  return onfulfilled ? onfulfilled([returnRow]) : [returnRow];
                 }
-                
-                saveData(data);
-                
-                // Retornar en el mismo formato de Drizzle
-                const returnRow = {
-                  ...newRow,
-                  createdAt: new Date(newRow.createdAt),
-                  updatedAt: newRow.updatedAt ? new Date(newRow.updatedAt) : undefined,
-                };
-                return onfulfilled ? onfulfilled([returnRow]) : [returnRow];
               }
             };
           }
@@ -196,23 +278,40 @@ export const db = {
           where(clause: any) {
             return {
               async then(onfulfilled?: (value: any) => any) {
-                const data = loadData();
                 const activeUserId = await getUserId();
-                
-                const rows = tableObj.name === "conversations" ? data.conversations : data.messages;
+                const pgDb = getPgDb();
+                const tableName = getTableName(tableObj);
                 const { field, value } = clause;
-                
-                for (const r of rows as any[]) {
-                  // Solo actualiza si pertenece al usuario activo
-                  if (r[field] === value && r.userId === activeUserId) {
-                    Object.assign(r, payload);
-                    if (tableObj.name === "conversations") {
-                      r.updatedAt = new Date().toISOString();
+
+                if (pgDb) {
+                  // MODO POSTGRESQL (PRODUCCIÓN)
+                  const { eq, and } = require("drizzle-orm");
+                  const tableSchemaObj = (schema as any)[tableName];
+                  const conditions = [eq(tableSchemaObj[field], value)];
+                  if (activeUserId && tableName !== "users") {
+                    conditions.push(eq(tableSchemaObj.userId, activeUserId));
+                  }
+                  await pgDb
+                    .update(tableSchemaObj)
+                    .set(payload)
+                    .where(and(...conditions));
+                  return onfulfilled ? onfulfilled(null) : null;
+                } else {
+                  // MODO OFFLINE LOCAL (JSON)
+                  const data = loadData();
+                  const rows = tableName === "conversations" ? data.conversations : data.messages;
+                  
+                  for (const r of rows as any[]) {
+                    if (r[field] === value && (!activeUserId || r.userId === activeUserId)) {
+                      Object.assign(r, payload);
+                      if (tableName === "conversations") {
+                        r.updatedAt = new Date().toISOString();
+                      }
                     }
                   }
+                  saveData(data);
+                  return onfulfilled ? onfulfilled(null) : null;
                 }
-                saveData(data);
-                return onfulfilled ? onfulfilled(null) : null;
               }
             };
           }
@@ -226,26 +325,39 @@ export const db = {
       where(clause: any) {
         return {
           async then(onfulfilled?: (value: any) => any) {
-            const data = loadData();
             const activeUserId = await getUserId();
+            const pgDb = getPgDb();
+            const tableName = getTableName(tableObj);
             const { field, value } = clause;
-            
-            if (tableObj.name === "conversations") {
-              // Validar pertenencia del usuario antes de borrar en cascada
-              data.conversations = data.conversations.filter(
-                (c) => !(c.id === value && c.userId === activeUserId)
-              );
-              data.messages = data.messages.filter(
-                (m) => !(m.conversationId === value && m.userId === activeUserId)
-              );
+
+            if (pgDb) {
+              // MODO POSTGRESQL (PRODUCCIÓN)
+              const { eq, and } = require("drizzle-orm");
+              const tableSchemaObj = (schema as any)[tableName];
+              const conditions = [eq(tableSchemaObj[field], value)];
+              if (activeUserId && tableName !== "users") {
+                conditions.push(eq(tableSchemaObj.userId, activeUserId));
+              }
+              await pgDb.delete(tableSchemaObj).where(and(...conditions));
+              return onfulfilled ? onfulfilled(null) : null;
             } else {
-              data.messages = data.messages.filter(
-                (m: any) => !(m[field] === value && m.userId === activeUserId)
-              );
+              // MODO OFFLINE LOCAL (JSON)
+              const data = loadData();
+              if (tableName === "conversations") {
+                data.conversations = data.conversations.filter(
+                  (c) => !(c.id === value && (!activeUserId || c.userId === activeUserId))
+                );
+                data.messages = data.messages.filter(
+                  (m) => !(m.conversationId === value && (!activeUserId || m.userId === activeUserId))
+                );
+              } else {
+                data.messages = data.messages.filter(
+                  (m: any) => !(m[field] === value && (!activeUserId || m.userId === activeUserId))
+                );
+              }
+              saveData(data);
+              return onfulfilled ? onfulfilled(null) : null;
             }
-            
-            saveData(data);
-            return onfulfilled ? onfulfilled(null) : null;
           }
         };
       }
@@ -255,49 +367,30 @@ export const db = {
   execute(sqlObj: any) {
     return {
       async then(onfulfilled?: (value: any) => any) {
-        const data = loadData();
         const activeUserId = await getUserId();
-        
-        // Contar cuestionarios respondidos filtrando por usuario activo
-        const quizResults = data.messages
-          .filter(
-            m =>
-              m.role === "assistant" &&
-              m.metadata?.type === "quiz" &&
-              m.metadata?.answered != null &&
-              m.userId === activeUserId
-          )
-          .map(m => ({ metadata: m.metadata }));
-          
-        const result = { rows: quizResults };
-        return onfulfilled ? onfulfilled(result) : result;
+        const pgDb = getPgDb();
+
+        if (pgDb) {
+          // MODO POSTGRESQL (PRODUCCIÓN)
+          const result = await pgDb.execute(sqlObj);
+          return onfulfilled ? onfulfilled(result) : result;
+        } else {
+          // MODO OFFLINE LOCAL (JSON)
+          const data = loadData();
+          const quizResults = data.messages
+            .filter(
+              m =>
+                m.role === "assistant" &&
+                m.metadata?.type === "quiz" &&
+                m.metadata?.answered != null &&
+                (!activeUserId || m.userId === activeUserId)
+            )
+            .map(m => ({ metadata: m.metadata }));
+            
+          const result = { rows: quizResults };
+          return onfulfilled ? onfulfilled(result) : result;
+        }
       }
     };
   }
 };
-=======
-import { drizzle } from "drizzle-orm/node-postgres";
-import { Pool } from "pg";
-
-const databaseUrl = process.env.DATABASE_URL;
-
-if (!databaseUrl) {
-  throw new Error("DATABASE_URL is required");
-}
-
-const globalForDb = globalThis as typeof globalThis & {
-  __arenaNextJsPostgresqlPool?: Pool;
-};
-
-export const pool =
-  globalForDb.__arenaNextJsPostgresqlPool ??
-  new Pool({
-    connectionString: databaseUrl,
-  });
-
-if (process.env.NODE_ENV !== "production") {
-  globalForDb.__arenaNextJsPostgresqlPool = pool;
-}
-
-export const db = drizzle(pool);
->>>>>>> 1256ef975a9f2d43e80bb7b5543bd3902a7f17c8

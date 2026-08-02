@@ -1,8 +1,6 @@
 name: Actualización Diaria Explicaciones MIR
 
 on:
-  schedule:
-    - cron: '0 4 * * *' # Se ejecuta todos los días a las 04:00 AM UTC (06:00 AM de España)
   workflow_dispatch: # Permite lanzar la ejecución manualmente desde GitHub
 
 jobs:

@@ -14,26 +14,7 @@ interface MessageRow {
   createdAt: Date;
 }
 
-function normalize(text: string): string {
-  return text
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "");
-}
-
-function matchTopic(text: string): Topic | null {
-  const normText = normalize(text);
-  let best: { topic: Topic; score: number } | null = null;
-  for (const topic of topics) {
-    let score = 0;
-    for (const kw of topic.keywords) {
-      if (normText.includes(normalize(kw))) score += kw.length > 4 ? 2 : 1;
-    }
-    if (topic.id === "diabetes" && normText.includes("diabet")) score += 2;
-    if (score > 0 && (!best || score > best.score)) best = { topic, score };
-  }
-  return best ? best.topic : null;
-}
+import { matchTopic } from "@/lib/tutor";
 
 function serialize(row: MessageRow) {
   return {
@@ -60,6 +41,11 @@ function respondToText(text: string): { content: string; metadata?: MessageMetad
   content += `**Alta rentabilidad (high-yield):**\n` + matched.highYield.map((h) => `- ${h}`).join("\n");
 
   const question = matched.practiceQuestion;
+  if (!question) {
+    return [
+      { content },
+    ];
+  }
   const metadata: MessageMetadata = {
     type: "quiz",
     stem: question.stem,
@@ -168,6 +154,8 @@ export async function POST(req: NextRequest) {
   const groqKey = process.env.GROQ_API_KEY;
   const geminiKey = process.env.GEMINI_API_KEY;
   const openrouterKey = process.env.OPENROUTER_API_KEY;
+  const nvidiaKey = process.env.NVIDIA_API_KEY;
+  const cohereKey = process.env.COHERE_API_KEY;
 
   // Obtener historial común para las APIs
   let historyRows: any[] = [];
@@ -182,7 +170,12 @@ export async function POST(req: NextRequest) {
   const matchedTopic = matchTopic(content);
   let systemPrompt = `Eres un tutor de preparación del examen MIR (Médico Interno Residente) en España.
 Tu objetivo es ayudar al usuario a repasar conceptos médicos y responder a sus dudas de forma clara, didáctica y estructurada, con enfoque en temas de alta rentabilidad (high-yield) para el examen.
-Usa terminología médica adecuada para España y adopta un tono profesional, motivador y directo.`;
+Usa terminología médica adecuada para España y adopta un tono profesional, motivador y directo.
+
+INSTRUCCIONES CRÍTICAS:
+- Responde DIRECTAMENTE a la consulta o duda médica del usuario.
+- NO saludes, no te presentes, ni des la bienvenida en cada mensaje si el usuario ya está discutiendo un caso o haciendo una pregunta específica.
+- Si el usuario te hace una pregunta sobre una patología, aborda el tema de inmediato de forma estructurada sin rodeos ni mensajes introductorios de bienvenida.`;
 
   if (matchedTopic) {
     systemPrompt += `\n\nContexto de estudio relevante para la consulta del usuario:\nTema: ${matchedTopic.title}\nCategoría: ${matchedTopic.category}\nResumen: ${matchedTopic.summary}\nPuntos clave:\n${matchedTopic.keyPoints.map((p) => `- ${p}`).join("\n")}\nAlta rentabilidad:\n${matchedTopic.highYield.map((h) => `- ${h}`).join("\n")}`;
@@ -198,6 +191,8 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
           content: row.content,
         })),
       ];
+
+      console.log("[TUTOR IA] Enviando a Groq:", JSON.stringify({ model: "llama-3.1-8b-instant", messages: groqMessages }, null, 2));
 
       const apiResponse = await fetch("https://api.groq.com/openai/v1/chat/completions", {
         method: "POST",
@@ -216,11 +211,15 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
       if (apiResponse.ok) {
         const responseData = await apiResponse.json();
         const assistantText = responseData?.choices?.[0]?.message?.content;
+        console.log("[TUTOR IA] Respuesta Groq 8B:", assistantText);
         if (assistantText) {
           replies = [{ content: assistantText }];
           apiSuccess = true;
         }
       } else {
+        const errText = await apiResponse.text();
+        console.log("[TUTOR IA] Error Groq 8B:", apiResponse.status, errText);
+        
         // Fallback rápido a Llama 70B si el de 8B tiene saturación
         const backupResponse = await fetch("https://api.groq.com/openai/v1/chat/completions", {
           method: "POST",
@@ -238,10 +237,14 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
         if (backupResponse.ok) {
           const responseData = await backupResponse.json();
           const assistantText = responseData?.choices?.[0]?.message?.content;
+          console.log("[TUTOR IA] Respuesta Groq 70B:", assistantText);
           if (assistantText) {
             replies = [{ content: assistantText }];
             apiSuccess = true;
           }
+        } else {
+          const backupErrText = await backupResponse.text();
+          console.log("[TUTOR IA] Error Groq 70B:", backupResponse.status, backupErrText);
         }
       }
     } catch (err) {
@@ -249,7 +252,94 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
     }
   }
 
-  // 2. Prioridad: Google Gemini API Directo
+  // 2. Prioridad: NVIDIA API (meta/llama-3.1-8b-instruct)
+  if (!apiSuccess && nvidiaKey) {
+    try {
+      const nvidiaMessages = [
+        { role: "system", content: systemPrompt },
+        ...historyRows.slice(-15).map((row) => ({
+          role: row.role === "user" ? "user" : "assistant",
+          content: row.content,
+        })),
+      ];
+
+      console.log("[TUTOR IA] Enviando a NVIDIA:", JSON.stringify({ model: "meta/llama-3.1-8b-instruct", messages: nvidiaMessages }, null, 2));
+
+      const apiResponse = await fetch("https://integrate.api.nvidia.com/v1/chat/completions", {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${nvidiaKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          model: "meta/llama-3.1-8b-instruct",
+          messages: nvidiaMessages,
+          temperature: 0.7,
+          max_tokens: 1200,
+        }),
+      });
+
+      if (apiResponse.ok) {
+        const responseData = await apiResponse.json();
+        const assistantText = responseData?.choices?.[0]?.message?.content;
+        console.log("[TUTOR IA] Respuesta NVIDIA:", assistantText);
+        if (assistantText) {
+          replies = [{ content: assistantText }];
+          apiSuccess = true;
+        }
+      } else {
+        const errText = await apiResponse.text();
+        console.log("[TUTOR IA] Error NVIDIA:", apiResponse.status, errText);
+      }
+    } catch (err) {
+      console.error("Failed to connect to NVIDIA API:", err);
+    }
+  }
+
+  // 3. Prioridad: Cohere API (command-r-plus)
+  if (!apiSuccess && cohereKey) {
+    try {
+      const cohereMessages = [
+        { role: "system", content: systemPrompt },
+        ...historyRows.slice(-15).map((row) => ({
+          role: row.role === "user" ? "user" : "assistant",
+          content: row.content,
+        })),
+      ];
+
+      console.log("[TUTOR IA] Enviando a Cohere:", JSON.stringify({ model: "command-r-plus", messages: cohereMessages }, null, 2));
+
+      const apiResponse = await fetch("https://api.cohere.com/v2/chat", {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${cohereKey}`,
+          "Content-Type": "application/json",
+          "accept": "application/json",
+        },
+        body: JSON.stringify({
+          model: "command-r-plus",
+          messages: cohereMessages,
+        }),
+      });
+
+      if (apiResponse.ok) {
+        const responseData = await apiResponse.json();
+        const assistantText = responseData?.message?.content?.[0]?.text;
+        console.log("[TUTOR IA] Respuesta Cohere:", assistantText);
+        if (assistantText) {
+          replies = [{ content: assistantText }];
+          apiSuccess = true;
+        }
+      } else {
+        const errText = await apiResponse.text();
+        console.log("[TUTOR IA] Error Cohere:", apiResponse.status, errText);
+      }
+    } catch (err) {
+      console.error("Failed to connect to Cohere API:", err);
+    }
+  }
+
+  // 4. Prioridad: Google Gemini API Directo
   if (!apiSuccess && geminiKey) {
     try {
       const geminiContents = [];
@@ -275,6 +365,8 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
       }
 
       const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${geminiKey}`;
+      console.log("[TUTOR IA] Enviando a Gemini:", JSON.stringify({ contents: geminiContents }, null, 2));
+
       const apiResponse = await fetch(url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -286,20 +378,21 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
       if (apiResponse.ok) {
         const responseData = await apiResponse.json();
         const assistantText = responseData?.candidates?.[0]?.content?.parts?.[0]?.text;
+        console.log("[TUTOR IA] Respuesta Gemini:", assistantText);
         if (assistantText) {
           replies = [{ content: assistantText }];
           apiSuccess = true;
         }
       } else {
         const errText = await apiResponse.text();
-        console.error("Gemini API error inside Next.js:", apiResponse.status, errText);
+        console.error("[TUTOR IA] Error Gemini:", apiResponse.status, errText);
       }
     } catch (err) {
       console.error("Failed to connect to Gemini API:", err);
     }
   }
 
-  // 3. Prioridad: OpenRouter (Capa gratuita)
+  // 5. Prioridad: OpenRouter (Capa gratuita)
   if (!apiSuccess && openrouterKey) {
     try {
       const openRouterMessages = [
@@ -309,6 +402,8 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
           content: row.content,
         })),
       ];
+
+      console.log("[TUTOR IA] Enviando a OpenRouter:", JSON.stringify({ model: "openrouter/free", messages: openRouterMessages }, null, 2));
 
       const apiResponse = await fetch("https://openrouter.ai/api/v1/chat/completions", {
         method: "POST",
@@ -329,10 +424,14 @@ Usa terminología médica adecuada para España y adopta un tono profesional, mo
       if (apiResponse.ok) {
         const responseData = await apiResponse.json();
         const assistantText = responseData?.choices?.[0]?.message?.content;
+        console.log("[TUTOR IA] Respuesta OpenRouter:", assistantText);
         if (assistantText) {
           replies = [{ content: assistantText }];
           apiSuccess = true;
         }
+      } else {
+        const errText = await apiResponse.text();
+        console.log("[TUTOR IA] Error OpenRouter:", apiResponse.status, errText);
       }
     } catch (err) {
       console.error("Failed to connect to OpenRouter:", err);
