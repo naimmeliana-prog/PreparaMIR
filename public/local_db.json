@@ -130,6 +130,11 @@
       "id": "user-p3xdpby08lo",
       "username": "farid",
       "password": "123456"
+    },
+    {
+      "id": "user-hb3rnlv59f8",
+      "username": "testuser",
+      "password": "testpassword"
     }
   ]
 }

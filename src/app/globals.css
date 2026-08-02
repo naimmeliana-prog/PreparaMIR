@@ -4,17 +4,17 @@
   --app-text-scale: 1;
 }
 
+html {
+  font-size: calc(16px * var(--app-text-scale)) !important;
+}
+
 html,
 body {
   height: 100%;
 }
 
-body {
-  font-size: calc(16px * var(--app-text-scale));
-}
-
 .app-scale {
-  font-size: 1rem;
+  font-size: inherit;
 }
 
 .flip-card {
