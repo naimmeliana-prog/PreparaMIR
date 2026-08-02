@@ -493,7 +493,7 @@
     "id": "q-36",
     "localNumber": 36,
     "category": "General",
-    "stem": "Las células T re guladoras (CD4+, CD25+, FoxP3+) se encuentran con frecuencia en el infil- trado de tumores sólidos. Estas células:",
+    "stem": "Las células T regulatorias (CD4+, CD25+, FoxP3+) se encuentran con frecuencia en el infiltrado de tumores sólidos. Estas células:",
     "options": [
       "Se consideran marcadores de buen pronóstico en el desarrollo del tumor.",
       "Contribuyen a la defensa inmune antitumoral.",
@@ -501,63 +501,63 @@
       "Producen interleucina-10 que contribuye a un microambiente tumoral inmunosupresor."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 36 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta se refiere a las células T regulatorias (Tregs), que juegan un papel importante en el control del sistema inmune y en la supervivencia de los tumores. A continuación, se presentan las opciones y sus respectivas justificaciones:\n\n- **🟢 Opción D (Correcta):** Las células T regulatorias (Tregs) producen interleucina-10 (IL-10), que contribuye a crear un microambiente tumoral inmunosupresor. Esto significa que las Tregs ayudan a inhibir la respuesta inmune del cuerpo contra el tumor, lo que permite que el tumor crezca y prospere. Esta función de las Tregs es clave para entender por qué los tumores pueden ser resistentes a la terapia inmunológica y por qué es importante desarrollar estrategias para inhibir la actividad de las Tregs en el contexto del cáncer.\n\n- **🔴 Opción A (Incorrecta):** Las células T regulatorias (Tregs) no se consideran marcadores de buen pronóstico en el desarrollo del tumor. De hecho, las Tregs suelen asociarse con un peor pronóstico y una mayor resistencia a la terapia en pacientes con cáncer.\n\n- **🔴 Opción B (Incorrecta):** Las células T regulatorias (Tregs) no contribuyen a la defensa inmune antitumoral. En realidad, las Tregs pueden inhibir la respuesta inmune del cuerpo contra el tumor, lo que puede permitir que el tumor crezca y prospere.\n\n- **🔴 Opción C (Incorrecta):** Las células T regulatorias (Tregs) no producen interferón gamma (IFN-γ) que contribuya a la activación de linfocitos citotóxicos. Si bien las Tregs pueden producir ciertas citocinas, su función principal es inhibir la respuesta inmune, en lugar de activarla.\n\nPerla MIR: Las células T regulatorias (Tregs) son una parte importante del sistema inmune que puede contribuir a la supervivencia de los tumores. Es importante entender su función para desarrollar estrategias efectivas contra el cáncer."
   },
   {
     "id": "q-37",
     "localNumber": 37,
     "category": "General",
-    "stem": "El síndrome de hiper-IgM, una inmunodeficien- cia primaria asociada a diferentes mutaciones en las moléculas CD40 o su ligando CD40L, se ca- racteriza porque:",
+    "stem": "El síndrome de hiper-IgM, una inmunodeficiencia primaria asociada a diferentes mutaciones en las moléculas CD40 o su ligando CD40L, se caracteriza porque:",
     "options": [
       "Los pacientes presentan niveles elevados de IgM mientras que mantienen niveles normales de IgG e IgA en suero.",
-      "Presentan un defecto de la diferenciación de los linfocitos B en la médula ósea con aumento de linfocitos B inmaduros que expresan la ca- dena mu intracitoplasmática.",
-      "Existe un defecto en el proceso de colabora- ción entre linfocitos T y B necesario para el cambio de isotipo de las inmunoglobulinas.",
-      "Existe un defecto en el proceso de reordena- miento de los genes V de las inmunoglobuli- nas."
+      "Presentan un defecto de la diferenciación de los linfocitos B en la médula ósea con aumento de linfocitos B inmaduros que expresan la cadena mu intracitoplasmática.",
+      "Existe un defecto en el proceso de colaboración entre linfocitos T y B necesario para el cambio de isotipo de las inmunoglobulinas.",
+      "Existe un defecto en el proceso de reordenamiento de los genes V de las inmunoglobulinas."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 37 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque el síndrome de hiper-IgM se caracteriza por la presencia de niveles elevados de IgM, pero no necesariamente por la presencia de niveles normales de IgG e IgA en suero. Los pacientes con este síndrome pueden presentar déficits en varias clases de inmunoglobulinas, no solo en IgG e IgA.\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque el defecto en la diferenciación de los linfocitos B no es la característica principal del síndrome de hiper-IgM. Aunque los linfocitos B pueden ser afectados, el déficit principal se encuentra en la colaboración entre linfocitos T y B.\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque el síndrome de hiper-IgM no se caracteriza por un defecto en el proceso de reordenamiento de los genes V de las inmunoglobulinas. Este proceso es importante para la diversificación de las inmunoglobulinas, pero no está directamente relacionado con el síndrome de hiper-IgM.\n- **🟢 Opción C (Correcta):** El síndrome de hiper-IgM se caracteriza por un defecto en el proceso de colaboración entre linfocitos T y B necesario para el cambio de isotipo de las inmunoglobulinas. Esto impide que los linfocitos B cambien de clase de inmunoglobulina, lo que conduce a la producción excesiva de IgM y déficits en otras clases de inmunoglobulinas. Este defecto se debe a mutaciones en las moléculas CD40 o su ligando CD40L, lo que impide la señalización adecuada entre linfocitos T y B.\nLa perla MIR: 'CD40L, la clave para el cambio de isotipo'."
   },
   {
     "id": "q-38",
     "localNumber": 38,
     "category": "General",
-    "stem": "Entre los avances en inmunoterapia antitumoral se inclu ye el uso de linfocitos T modificados para que expresen un receptor CAR ( chimeric antigen receptor, receptor quimérico para el antí geno), denominados CAR-T. En relación con las células CAR-T para el tratamiento de linfomas y leuce- mias que expresan CD19, señale la respuesta INCORRECTA:",
+    "stem": "Entre los avances en inmunoterapia antitumoral se incluye el uso de linfocitos T modificados para que expresen un receptor CAR (receptor quimérico para el antígeno), denominados CAR-T. En relación con las células CAR-T para el tratamiento de linfomas y leucemias que expresan CD19, señale la respuesta INCORRECTA:",
     "options": [
-      "El elemento de reconocimiento del receptor CAR está basado en fragmentos variables de anticuerpos anti-CD19 ( single-chain variable fragments, scFvs).",
+      "El elemento de reconocimiento del receptor CAR está basado en fragmentos variables de anticuerpos anti-CD19 (single-chain variable fragments, scFvs).",
       "El receptor CAR posee un dominio intracelular responsable de la transmisión de señales.",
-      "Entre los efectos secundarios graves de este tratamiento se encuentra el síndrome de libera- ción de citocinas.",
-      "El reconocimiento del antígeno por el receptor CAR depende de las moléculas de histocompa- tibilidad (HLA) clase I en la célula tumoral."
+      "Entre los efectos secundarios graves de este tratamiento se encuentra el síndrome de liberación de citocinas.",
+      "El reconocimiento del antígeno por el receptor CAR depende de las moléculas de histocompatibilidad (HLA) clase I en la célula tumoral."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 38 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** El elemento de reconocimiento del receptor CAR está basado en fragmentos variables de anticuerpos anti-CD19 (single-chain variable fragments, scFvs). Esta afirmación es correcta. Los CAR-T se diseñan específicamente para reconocer y atacar células que expresan CD19, y los scFvs son una forma de unir estos fragmentos variables para crear un receptor de alta afinidad. Por tanto, esta opción es incorrecta porque es la respuesta correcta.\n\n- **🔴 Opción B (Incorrecta):** El receptor CAR posee un dominio intracelular responsable de la transmisión de señales. Esta afirmación es correcta. Los CAR-T contienen un dominio intracelular que es responsable de la transmisión de señales que llevan a la activación y proliferación de las células T. Por tanto, esta opción es incorrecta porque es la respuesta correcta.\n\n- **🔴 Opción C (Incorrecta):** Entre los efectos secundarios graves de este tratamiento se encuentra el síndrome de liberación de citocinas. Esta afirmación es correcta. El síndrome de liberación de citocinas es un efecto secundario grave del tratamiento con CAR-T, que se debe a la liberación de citocinas por parte de las células T activadas. Por tanto, esta opción es incorrecta porque es la respuesta correcta.\n\n- **🟢 Opción D (Correcta):** El reconocimiento del antígeno por el receptor CAR depende de las moléculas de histocompatibilidad (HLA) clase I en la célula tumoral. Esta afirmación es incorrecta. El reconocimiento del antígeno por el receptor CAR no depende de las moléculas de histocompatibilidad (HLA) clase I en la célula tumoral. En realidad, el reconocimiento del antígeno por el receptor CAR es independiente de las moléculas de histocompatibilidad y se basa en la unión específica del scFv con el antígeno objetivo. Por tanto, esta opción es la correcta.\n\nLa perla MIR para memorizar el concepto clave es: Los CAR-T se diseñan específicamente para reconocer y atacar células que expresan CD19, y su elemento de reconocimiento está basado en fragmentos variables de anticuerpos anti-CD19 (single-chain variable fragments, scFvs)."
   },
   {
     "id": "q-39",
     "localNumber": 39,
     "category": "General",
-    "stem": "Apicultor de 50 años que presenta reacciones sistémicas graves (anafilaxia) tras picaduras de abe jas y en quien se demuestra positividad al veneno de Apis mellifera mediante pruebas cutá- neas en intradermorreacción e I gE específica en suero. ¿Qué tratamiento etiológico está indica- do?:",
+    "stem": "Apicultor de 50 años que presenta reacciones sistémicas graves tras picaduras de abejas y en quien se demuestra positividad al veneno de Apis mellifera mediante pruebas cutáneas en intradermorreacción e IgE específica en suero. ¿Qué tratamiento etiológico está indicado?",
     "options": [
       "Entrenamiento del paciente en el empleo de autoinyectores de adrenalina.",
-      "Educación del paciente en el uso de antihista- mínicos bucodispersables, broncodilatadores en aerosol presurizado y corticoides orales.",
-      "Inmunoterapia específica subcutánea con ex- tracto de Apis mellifera al 100%.",
+      "Educación del paciente en el uso de antihistamínicos bucodispersables, broncodilatadores en aerosol presurizado y corticoides orales.",
+      "Inmunoterapia específica subcutánea con extracto de Apis mellifera al 100%.",
       "Empleo de fármacos inmunomodulares tipo ciclosporina oral."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 39 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La inmunoterapia específica subcutánea con extracto de Apis mellifera es el tratamiento etiológico indicado para el paciente con reacciones sistémicas graves tras picaduras de abejas. Esta terapia consiste en la administración subcutánea de extractos de abejas en forma de inyecciones, lo que permite al sistema inmunológico del paciente aprender a tolerar el veneno de las abejas y prevenir reacciones anafilácticas futuras. La opción C es la correcta porque se basa en la causa subyacente de la reacción anafiláctica, que es la hipersensibilidad al veneno de las abejas. Además, esta terapia ha demostrado ser efectiva en la prevención de reacciones anafilácticas graves en pacientes con historia de picaduras de abejas.\n\n- **🔴 Opción A (Incorrecta):** El entrenamiento del paciente en el empleo de autoinyectores de adrenalina es importante para tratar la reacción anafiláctica en el momento, pero no es el tratamiento etiológico indicado para prevenir reacciones futuras. La opción A se centra en la síntoma, no en la causa subyacente de la reacción anafiláctica.\n\n- **🔴 Opción B (Incorrecta):** La educación del paciente en el uso de antihistamínicos, broncodilatadores y corticoides orales es importante para tratar los síntomas de la reacción anafiláctica, pero no es el tratamiento etiológico indicado para prevenir reacciones futuras. La opción B se centra en la síntoma, no en la causa subyacente de la reacción anafiláctica.\n\n- **🔴 Opción D (Incorrecta):** El empleo de fármacos inmunomodulares tipo ciclosporina oral no es un tratamiento comúnmente indicado para la hipersensibilidad al veneno de las abejas. La opción D es incorrecta porque no se basa en la causa subyacente de la reacción anafiláctica y no ha demostrado ser efectiva en la prevención de reacciones anafilácticas graves en pacientes con historia de picaduras de abejas.\n\nLa perla MIR: La inmunoterapia específica subcutánea con extracto de Apis mellifera es el tratamiento etiológico indicado para pacientes con reacciones sistémicas graves tras picaduras de abejas. Esta terapia permite al sistema inmunológico del paciente aprender a tolerar el veneno de las abejas y prevenir reacciones anafilácticas futuras."
   },
   {
     "id": "q-40",
     "localNumber": 40,
     "category": "General",
-    "stem": "En relación con la esofa gitis eosinofílica, señale la afirmación INCORRECTA:",
+    "stem": "En relación con la esofagitis eosinófila, señale la afirmación INCORRECTA:",
     "options": [
       "El diagnóstico de certeza se realiza mediante endoscopia digestiva alta y biopsia.",
       "El tratamiento inicial es recomendar dieta de eliminación de aquellos alimentos en los que se demuestran reacciones positivas in vivo o in vitro.",
-      "La inflamación subyacente indica un meca- nismo patogénico de hipersensibilidad Th1.",
-      "La inmunoterapia específica frente a los alér- genos respiratorios y alimentarios a los que se ha demostrado sensibilización es una práctica habitual."
+      "La inflamación subyacente indica un mecanismo patogénico de hipersensibilidad Th1.",
+      "La inmunoterapia específica frente a los alérgenos respiratorios y alimentarios a los que se ha demostrado sensibilización es una práctica habitual."
     ],
     "correctIndex": -1,
-    "explanation": "Pregunta oficial número 40 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** El diagnóstico de certeza en esofagitis eosinófila no solo se realiza mediante endoscopia digestiva alta y biopsia. Si bien la endoscopia es fundamental para visualizar la lesión y obtener muestras para biopsia, el diagnóstico también puede ser apoyado por pruebas de inmunoglobulina E (IgE) específica en sangre o por pruebas de eliminación dietética que identifican los alimentos responsables de la reacción. Por lo tanto, esta afirmación es incompleta.\n- **🔴 Opción B (Incorrecta):** La dieta de eliminación puede ser una herramienta útil en el tratamiento de la esofagitis eosinófila, pero no es el tratamiento inicial recomendado. El tratamiento inicial debe enfocarse en la reducción de la inflamación y el manejo de los síntomas, que puede incluir medicamentos como los antiinflamatorios no esteroideos (AINE) o los corticosteroides. La dieta de eliminación es más adecuada como medida complementaria una vez que se han identificado los alimentos responsables.\n- **🔴 Opción C (Incorrecta):** La hipersensibilidad Th1 no es el mecanismo patogénico subyacente en la esofagitis eosinófila. En realidad, la esofagitis eosinófila se asocia con una respuesta inmunológica Th2, lo que implica la liberación de citocinas como la interleucina-5 (IL-5) y la eosinofilia. Por lo tanto, esta afirmación no describe con precisión el mecanismo patogénico de la esofagitis eosinófila.\n- **🟢 Opción D (Correcta):** La inmunoterapia específica frente a los alérgenos respiratorios y alimentarios a los que se ha demostrado sensibilización es una práctica habitual en el manejo de la esofagitis eosinófila. La identificación y el tratamiento de los alérgenos responsables pueden ayudar a reducir la inflamación y a mejorar los síntomas en pacientes con esta condición. La inmunoterapia puede incluir la administración de inmunoterapia específica, como la inyección de alérgenos para desensibilizar a los pacientes."
   },
   {
     "id": "q-41",
