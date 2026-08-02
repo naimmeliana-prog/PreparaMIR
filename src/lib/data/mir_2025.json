@@ -2885,7 +2885,7 @@
     "id": "q-207",
     "localNumber": 207,
     "category": "General",
-    "stem": "Una paciente de 87 años acude a la con- sulta de su médico de Atención Primaria en el contexto de una evaluación geriátrica. Al cuantificar el SPPB (Short Physical Perfor- mance Battery o Prueba corta de desem- peño físico) observamos que en el test de equilibrio aguanta más de 10 segundos en cada una de las tres pruebas (con los pies juntos, en semitándem y tándem). Además, al medir la velocidad de la marcha tarda me- nos de 4,82 segundos en recorrer 4 metros y en el test de levantarse de la silla 5 veces tarda menos de 11,2 segundos. Calcule su resultado en el SPPB:",
+    "stem": "Una paciente de 87 años acude a la consulta de su médico de Atención Primaria en el contexto de una evaluación geriátrica. Al cuantificar el SPPB (Short Physical Performance Battery o Prueba corta de desempeño físico) observamos que en el test de equilibrio aguanta más de 10 segundos en cada una de las tres pruebas (con los pies juntos, en semitándem y tándem). Además, al medir la velocidad de la marcha tarda menos de 4,82 segundos en recorrer 4 metros y en el test de levantarse de la silla 5 veces tarda menos de 11,2 segundos. Calcule su resultado en el SPPB:",
     "options": [
       "12 puntos.",
       "10 puntos.",
@@ -2893,13 +2893,13 @@
       "6 puntos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 207 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El SPPB es una prueba que evalúa la capacidad física de una persona, especialmente en personas mayores. La puntuación se calcula sumando los resultados de tres pruebas: equilibrio, velocidad de marcha y levantarse de la silla. En esta paciente, aguanta más de 10 segundos en cada prueba de equilibrio, lo que le da 4 puntos. La velocidad de marcha es menos de 4,82 segundos, lo que le da 3 puntos. En el test de levantarse de la silla, tarda menos de 11,2 segundos, lo que le da 5 puntos. Sumando todos estos puntos, la paciente obtiene un total de 12 puntos.\n\n- **🔴 Opción B (Incorrecta):** Esta opción no es correcta porque la paciente aguanta más de 10 segundos en cada prueba de equilibrio, lo que le da 4 puntos, pero no se considera la velocidad de marcha y el test de levantarse de la silla para calcular la puntuación total.\n\n- **🔴 Opción C (Incorrecta):** Esta opción no es correcta porque la paciente aguanta más de 10 segundos en cada prueba de equilibrio, lo que le da 4 puntos, pero se descuenta un punto en la velocidad de marcha y no se considera el test de levantarse de la silla.\n\n- **🔴 Opción D (Incorrecta):** Esta opción no es correcta porque la paciente aguanta más de 10 segundos en cada prueba de equilibrio, lo que le da 4 puntos, pero se descuentan dos puntos en la velocidad de marcha y no se considera el test de levantarse de la silla.\n\nLa perla MIR es que el SPPB es una prueba que evalúa la capacidad física de una persona, especialmente en personas mayores, y se calcula sumando los resultados de tres pruebas: equilibrio, velocidad de marcha y levantarse de la silla."
   },
   {
     "id": "q-208",
     "localNumber": 208,
     "category": "Aparato digestivo",
-    "stem": "Mujer de 67 años diagnosticada de cirrosis hepática, con antecedentes de descompen- saciones ascíticas en tratamiento con espi- ronolactona y furosemida. Su familia la trae a urgencias por alteración del nivel de con- ciencia. La paciente se encuentra ligera- mente desorientada en tiempo y espacio y somnolienta. Tiene asterixis franca. ¿Cuál de las siguientes medidas NO se encuentra indicada a su ingreso?:",
+    "stem": "Mujer de 67 años diagnosticada de cirrosis hepática, con antecedentes de descompensaciones ascíticas en tratamiento con espironolactona y furosemida. Su familia la trae a urgencias por alteración del nivel de conciencia. La paciente se encuentra ligeramente desorientada en tiempo y espacio y somnolienta. Tiene asterixis franca. ¿Cuál de las siguientes medidas NO se encuentra indicada a su ingreso?",
     "options": [
       "Paracentesis diagnóstica.",
       "Medición de los niveles plasmáticos de amoniaco.",
@@ -2907,13 +2907,13 @@
       "Antibioterapia de amplio espectro."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 208 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La paracentesis diagnóstica no es la medida adecuada en este caso. La paciente ya está en tratamiento con espioronolactona y furosemida, lo que sugiere que su ascitis está siendo controlada. La paracentesis puede ser necesaria en casos de ascitis refractaria o incontrolada, pero en este caso no es la medida más adecuada. Además, la paracentesis puede ser peligrosa en pacientes con coagulopatías o con signos de insuficiencia hepática avanzada, lo que puede ser el caso en una paciente con cirrosis hepática avanzada. Por lo tanto, la paracentesis diagnóstica no es la opción más adecuada en este escenario. \n\n- **🔴 Opción B (Incorrecta):** La medición de los niveles plasmáticos de amoniaco es una medida importante en pacientes con cirrosis hepática. El amoniaco es un metabolito del alcohol que se acumula en sangre en pacientes con insuficiencia hepática. La medición de los niveles de amoniaco puede ayudar a diagnosticar la encefalopatia hepática y a monitorizar la respuesta al tratamiento. Por lo tanto, esta medida es adecuada en este caso. \n\n- **🔴 Opción C (Incorrecta):** La administración de lactulosa por vía oral es una medida adecuada en pacientes con ascitis debido a cirrosis hepática. La lactulosa es un disacárido que se convierte en ácidos grasos en el intestino, lo que ayuda a reducir la absorción de sodio y agua en el intestino. Esto puede ayudar a reducir la presión ascítica y a mejorar la función hepática. Por lo tanto, esta medida es adecuada en este caso. \n\n- **🔴 Opción D (Incorrecta):** La antibiótica de amplio espectro puede ser necesaria en pacientes con cirrosis hepática que desarrollan infecciones, especialmente si se sospecha una infección por bacterias Gram negativas. Sin embargo, en este caso no hay indicios de infección, y la administración de antibióticos de amplio espectro puede ser perjudicial debido a la posibilidad de selección de bacterias resistentes. Por lo tanto, esta medida no es la más adecuada en este escenario. \n\nLa perla MIR es: 'La paracentesis diagnóstica no es la medida adecuada en pacientes con cirrosis hepática que ya están en tratamiento con espioronolactona y furosemida'."
   },
   {
     "id": "q-209",
     "localNumber": 209,
     "category": "Traumatología",
-    "stem": "En el abordaje terapéutico de un paciente adulto con lesión medular y presencia de espasticidad generalizada en la explora- ción, ¿cuál de estos fármacos NO utilizaría como tratamiento?:",
+    "stem": "En el abordaje terapéutico de un paciente adulto con lesión medular y presencia de espasticidad generalizada en la exploración, ¿cuál de estos fármacos NO utilizaría como tratamiento?",
     "options": [
       "Diazepam.",
       "Lacosamida.",
@@ -2921,20 +2921,20 @@
       "Baclofeno."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 209 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La lacosamida no es adecuada como tratamiento para la espasticidad en pacientes con lesión medular. Esto se debe a que la lacosamida es un agente antiepiléptico que actúa como un antagonista de los receptores de glutamato, y aunque puede tener efectos beneficiosos en la reducción de la excitabilidad neuronal, no es el tratamiento de elección para la espasticidad en este contexto. La espasticidad en pacientes con lesión medular se trata habitualmente con fármacos que actúan en la vía de la neurotransmisión inhibidora, como la baclofeno, la tizanidina y el diazepam, que son más efectivos en la reducción de la espasticidad muscular.\n\n- **🔴 Opción A (Incorrecta):** El diazepam es un benzodiacepina que se utiliza comúnmente para tratar la ansiedad, la insomnio y la espasticidad. Puede ser utilizado en pacientes con lesión medular para reducir la espasticidad muscular, aunque no es el tratamiento de elección en este contexto.\n\n- **🔴 Opción C (Incorrecta):** La tizanidina es un antagonista de los receptores alfa-2 adrenérgicos que se utiliza para tratar la espasticidad en pacientes con lesión medular. Es efectiva en la reducción de la espasticidad muscular y puede ser utilizada como tratamiento en este contexto.\n\n- **🔴 Opción D (Incorrecta):** El baclofeno es un agonista de los receptores de la serotonina que se utiliza para tratar la espasticidad en pacientes con lesión medular. Es efectivo en la reducción de la espasticidad muscular y puede ser utilizado como tratamiento en este contexto.\n\nLa espasticidad en pacientes con lesión medular se trata habitualmente con fármacos que actúan en la vía de la neurotransmisión inhibidora, como la baclofeno, la tizanidina y el diazepam, que son más efectivos en la reducción de la espasticidad muscular. La lacosamida no es adecuada como tratamiento para la espasticidad en este contexto."
   },
   {
     "id": "q-210",
     "localNumber": 210,
     "category": "General",
-    "stem": "En relación con el pseudotumor cerebri o hipertensión intracraneal idiopática (HII), ¿cuál de las siguientes afirmaciones es co- rrecta?:",
+    "stem": "En relación con el pseudotumor cerebri o hipertensión intracraneal idiopática (HII), ¿cuál de las siguientes afirmaciones es correcta?",
     "options": [
       "Es más frecuente en hombres ancianos con índice de masa corporal (IMC) bajo.",
       "Se caracteriza por aumento de la presión de apertura del LCR con composición anormal.",
       "Afecta preferentemente a mujeres jóvenes obesas y puede causar pérdida visual.",
-      "El tratamiento inicial consiste en corticoi- des a dosis altas y restricción hídrica es- tricta."
+      "El tratamiento inicial consiste en corticosteroides a dosis altas y restricción hídrica estricta."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 210 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La pseudotumor cerebri o hipertensión intracraneal idiopática (HII) no es más frecuente en hombres ancianos con índice de masa corporal (IMC) bajo. De hecho, es más común en mujeres jóvenes con índice de masa corporal (IMC) alto. Esta condición se asocia con obesidad y no con un IMC bajo. Por lo tanto, esta afirmación es incorrecta clínicamente.\n\n- **🔴 Opción B (Incorrecta):** La pseudotumor cerebri o hipertensión intracraneal idiopática (HII) no se caracteriza por aumento de la presión de apertura del LCR con composición anormal. La pseudotumor cerebri se caracteriza por un aumento de la presión intracraneal sin una causa aparente, no por un cambio en la composición del líquido cefalorraquídeo (LCR). Por lo tanto, esta afirmación es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** El tratamiento inicial de la pseudotumor cerebri o hipertensión intracraneal idiopática (HII) no consiste en corticosteroides a dosis altas y restricción hídrica estricta. El tratamiento inicial suele consistir en la reducción de la presión intracraneal mediante la restricción de líquidos y la aplicación de acetazolamida, un diurético que reduce la producción de líquido cefalorraquídeo. Los corticosteroides pueden ser utilizados en algunos casos, pero no son el tratamiento inicial. Por lo tanto, esta afirmación es incorrecta.\n\n- **🟢 Opción C (Correcta):** La pseudotumor cerebri o hipertensión intracraneal idiopática (HII) afecta preferentemente a mujeres jóvenes obesas y puede causar pérdida visual. Esta condición se asocia con obesidad y es más común en mujeres jóvenes con un índice de masa corporal (IMC) alto. La pseudotumor cerebri puede causar pérdida visual debido a la aumento de la presión intracraneal, lo que puede dañar los nervios ópticos. Por lo tanto, esta afirmación es correcta clínicamente.\n\nLa pseudotumor cerebri o hipertensión intracraneal idiopática (HII) es una condición médica grave que requiere atención inmediata. Es importante reconocer los síntomas y el tratamiento adecuado para evitar complicaciones y pérdida visual."
   }
 ]
