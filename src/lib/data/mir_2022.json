@@ -563,7 +563,7 @@
     "id": "q-41",
     "localNumber": 41,
     "category": "General",
-    "stem": "En una enfermedad genética con un patrón de herencia autosómico recesi vo el riesgo de la en- fermedad en una futura descendencia cuando ambos padres son portadores es:",
+    "stem": "En una enfermedad genética con un patrón de herencia autosómico recesivo el riesgo de la enfermedad en una futura descendencia cuando ambos padres son portadores es",
     "options": [
       "25 % en cada embarazo independiente del sexo de la descendencia.",
       "50 % en cada embarazo de un hijo varón.",
@@ -571,63 +571,63 @@
       "50 % en cada embarazo independiente del sexo de la descendencia."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 41 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** En una enfermedad genética con un patrón de herencia autosómico recesivo, el riesgo de que la descendencia presente la enfermedad es del 25% en cada embarazo, independientemente del sexo de la descendencia. Esto se debe a que los genes recesivos se combinan en una forma que produce la enfermedad en cada descendiente de cada par de padres portadores. La probabilidad de que la descendencia presente la enfermedad es la misma para varones y hembras debido a la naturaleza autosómica de la enfermedad, que se transmite a través de todos los cromosomas (no solo los sexuales). Por lo tanto, la opción A es la correcta ya que refleja la probabilidad correcta de la enfermedad en la descendencia de padres portadores en un patrón de herencia autosómico recesivo.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque no se basa en la probabilidad correcta de la enfermedad en la descendencia. La probabilidad de la enfermedad no depende del sexo del hijo, ya que la enfermedad se transmite a través de todos los cromosomas. Por lo tanto, la opción B no es una descripción precisa del riesgo de la enfermedad en una futura descendencia.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque no se basa en la probabilidad correcta de la enfermedad en la descendencia. La probabilidad de la enfermedad no depende del sexo del hijo, ya que la enfermedad se transmite a través de todos los cromosomas. Además, la opción C sugiere que la probabilidad de la enfermedad es del 50% en cada embarazo de una hija mujer, lo que no es una descripción precisa del riesgo de la enfermedad en una futura descendencia.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque no se basa en la probabilidad correcta de la enfermedad en la descendencia. La probabilidad de la enfermedad no depende del sexo del hijo, ya que la enfermedad se transmite a través de todos los cromosomas. Además, la opción D sugiere que la probabilidad de la enfermedad es del 50% en cada embarazo independiente del sexo de la descendencia, lo que no es una descripción precisa del riesgo de la enfermedad en una futura descendencia.\n\n**Perla MIR:** En un patrón de herencia autosómico recesivo, el riesgo de que la descendencia presente la enfermedad es del 25% en cada embarazo, independientemente del sexo de la descendencia."
   },
   {
     "id": "q-42",
     "localNumber": 42,
     "category": "General",
-    "stem": "En un determinado gen la secuencia de ADN se transcribe para formar el ARN maduro y e s t e ARN maduro se traduce para formar la proteí- na. ¿A qué re gión (secuencia) de la estructura de un gen se denomina intrón?:",
+    "stem": "En un determinado gen la secuencia de ADN se transcribe para formar el ARN maduro y este ARN maduro se traduce para formar la proteína. ¿A qué región (secuencia) de la estructura de un gen se denomina intrón?",
     "options": [
       "A la que inicia la transcripción para formar el ARN",
-      "A la que no está presente en el ARN maduro.",
-      "A la que se transcribe para estar presente en el ARN maduro y dar lugar a la proteína.",
-      "A la que regula la expresión del gen."
+      "A la que no está presente en el ARN maduro",
+      "A la que se transcribe para estar presente en el ARN maduro y dar lugar a la proteína",
+      "A la que regula la expresión del gen"
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 42 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La opción B es la correcta porque un intrón es una secuencia de ADN que se encuentra en un gen y que no se incluye en el ARN maduro. Los intrones se eliminan durante la transcripción del ARN a partir del ADN, ya que son reconocidos por enzimas que los degradan. Por lo tanto, la opción B es la única que describe con precisión la función de un intrón en la estructura de un gen.\n\n- **🔴 Opción A (Incorrecta):** La opción A no es correcta porque la secuencia de ADN que inicia la transcripción para formar el ARN es el promotor, no el intrón. El promotor es una región específica del ADN que se encuentra cerca del gen y que es reconocida por la enzima RNA polimerasa, que comienza la transcripción del ARN.\n\n- **🔴 Opción C (Incorrecta):** La opción C no es correcta porque los intrones son eliminados durante la transcripción del ARN a partir del ADN, por lo que no se incluyen en el ARN maduro. Por lo tanto, esta opción no describe con precisión la función de un intrón.\n\n- **🔴 Opción D (Incorrecta):** La opción D no es correcta porque los intrones no regulan la expresión del gen. La regulación de la expresión del gen se realiza a través de mecanismos como la epigenética, la transcripción y la traducción, pero no a través de los intrones.\n\nLa perla MIR para recordar la definición de intrón es: 'Intrón, intrón, no está presente, es eliminado durante la transcripción'."
   },
   {
     "id": "q-43",
     "localNumber": 43,
     "category": "General",
-    "stem": "Para establecer si el consumo habitual de ali- mentos ultraprocesados (e.g. embutidos) se aso- cia a mayor riesgo del síndrome de fra gilidad en adultos ma yores, se selecciona a 5.000 personas mayores de 70 años que viven en sus domicilios, se les pregunta por su dieta habitual y se identi- fica el consumo de ultraprocesados en cada uno de ellos. Se realiza un se guimiento durante 3 años para identificar quiénes desarrollan el sín- drome de fra gilidad por primera vez. Señale la respuesta correcta sobre el diseño de este estu- dio:",
+    "stem": "Para establecer si el consumo habitual de alimentos ultraprocesados (por ejemplo, embutidos) se asocia a mayor riesgo del síndrome de fragilidad en adultos mayores, se selecciona a 5.000 personas mayores de 70 años que viven en sus domicilios, se les pregunta por su dieta habitual y se identifica el consumo de ultraprocesados en cada uno de ellos. Se realiza un seguimiento durante 3 años para identificar quiénes desarrollan el síndrome de fragilidad por primera vez.",
     "options": [
       "Es un estudio de cohortes, porque se sigue a sujetos clasificados según su exposición para identificar el riesgo de un problema de salud.",
       "Es un ensayo de campo, porque se realiza con personas que no son pacientes.",
       "Es un estudio ecológico, porque incluye a un grupo muy amplio de población.",
-      "Es un estudio de casos y controles, en el que los casos toman muchos alimentos ultraproce- sados y los controles toman muy pocos."
+      "Es un estudio de casos y controles, en el que los casos toman muchos alimentos ultraprocesados y los controles toman muy pocos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 43 del examen MIR de la convocatoria FSE."
+    "explanation": "La respuesta correcta es la siguiente:\n\n- **🟢 Opción A (Correcta):** Este estudio se ajusta a la definición de un estudio de cohortes, ya que se sigue a un grupo de personas (5.000 personas mayores de 70 años) que comparten una característica en común (consumo de alimentos ultraprocesados) durante un período de tiempo (3 años) para identificar quiénes desarrollan un problema de salud específico (síndrome de fragilidad).\n\n- **🔴 Opción B (Incorrecta):** Un ensayo de campo se refiere a un estudio que se realiza en un entorno natural, sin controlar los factores de confusión. En este caso, el estudio se realiza en un entorno controlado (seguimiento durante 3 años) y con sujetos específicos (personas mayores de 70 años).\n\n- **🔴 Opción C (Incorrecta):** Un estudio ecológico se refiere a un estudio que analiza los patrones de salud y enfermedad en un grupo muy amplio de población, a menudo a nivel de grupo o comunidad. En este caso, el estudio se enfoca en un grupo específico de personas (5.000 personas mayores de 70 años) y no analiza patrones a nivel de grupo.\n\n- **🔴 Opción D (Incorrecta):** Un estudio de casos y controles se refiere a un estudio que compara a personas con una enfermedad específica (casos) con personas que no tienen la enfermedad (controles) para identificar factores de riesgo. En este caso, el estudio no compara a casos y controles, sino que sigue a un grupo de personas durante un período de tiempo para identificar quiénes desarrollan un problema de salud específico.\n\n**Perla MIR:** 'Estudio de cohortes' es un concepto clave en epidemiología que se refiere a un estudio que sigue a un grupo de personas durante un período de tiempo para identificar factores de riesgo y patrones de salud y enfermedad."
   },
   {
     "id": "q-44",
     "localNumber": 44,
     "category": "General",
-    "stem": "Sobre los errores sistemáticos en los estudios observacionales, señale la afirmación INCO- RRECTA:",
+    "stem": "Sobre los errores sistemáticos en los estudios observacionales, señale la afirmación INCORRECTA:",
     "options": [
-      "Se clasifican en sesgos de selección, de infor- mación y de análisis.",
-      "Se pueden evitar aumentando el tamaño mues- tral.",
-      "Pueden modificar la magnitud del efecto inves- tigado.",
+      "Se clasifican en sesgos de selección, de información y de análisis.",
+      "Se pueden evitar aumentando el tamaño muestral.",
+      "Pueden modificar la magnitud del efecto investigado.",
       "Pueden afectar a la validez interna del estudio."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 44 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Esta afirmación es incorrecta porque los errores sistemáticos en los estudios observacionales no se pueden evitar simplemente aumentando el tamaño muestral. Aunque un mayor tamaño muestral puede reducir el riesgo de errores sistemáticos, no es una garantía de que no existan. Los errores sistemáticos pueden surgir debido a la naturaleza del estudio observacional, como sesgos de selección, de información y de análisis, entre otros.\n- **🔴 Opción A (Incorrecta):** Esta afirmación es incorrecta porque los errores sistemáticos no se clasifican en sesgos de selección, de información y de análisis. Si bien estos son tipos de sesgos, los errores sistemáticos son conceptos más amplios que incluyen a estos sesgos y otros.\n- **🔴 Opción C (Incorrecta):** Esta afirmación es incorrecta porque los errores sistemáticos no pueden modificar la magnitud del efecto investigado. La magnitud del efecto investigado se refiere al tamaño del efecto que se está estudiando, y los errores sistemáticos no pueden alterar esta magnitud.\n- **🔴 Opción D (Incorrecta):** Esta afirmación es incorrecta porque los errores sistemáticos pueden afectar la validez interna del estudio, pero no exclusivamente. La validez interna se refiere a la capacidad del estudio para medir lo que pretende medir, y los errores sistemáticos pueden afectar esta validez. Sin embargo, también pueden afectar la validez externa, que se refiere a la capacidad del estudio para generalizarse a la población objetivo.\nLa perla MIR: 'Los errores sistemáticos en los estudios observacionales son conceptos complejos que requieren un enfoque cuidadoso para su identificación y control.'"
   },
   {
     "id": "q-45",
     "localNumber": 45,
     "category": "General",
-    "stem": "El valor predictivo negativo de una prueba diag- nóstica es del 92 %. ¿Cómo debe interpretarse dicho resultado?:",
+    "stem": "El valor predictivo negativo de una prueba diagnóstica es del 92%. ¿Cómo debe interpretarse dicho resultado?",
     "options": [
-      "De cada 100 resultados negativos, 92 corres- ponderán a personas sanas.",
+      "De cada 100 resultados negativos, 92 corresponden a personas sanas.",
       "De cada 100 personas sanas, en 92 de ellos el resultado de la prueba será negativo.",
-      "De cada 100 enfermos, en 8 de ellos el resulta- do de la prueba será negativo.",
+      "De cada 100 enfermos, en 8 de ellos el resultado de la prueba será negativo.",
       "De cada 100 resultados positivos, 8 de ellos corresponderán a enfermos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 45 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El valor predictivo negativo de una prueba diagnóstica se refiere a la proporción de resultados negativos que corresponden a personas verdaderamente sanas. En este caso, un valor predictivo negativo del 92% significa que de cada 100 resultados negativos, 92 corresponden a personas sanas. Esta opción es correcta porque está refiriéndose a la relación entre resultados negativos y personas sanas.\n\n- **🔴 Opción B (Incorrecta):** Esta opción está mal redactada y confunde la idea de valor predictivo negativo con la sensibilidad de la prueba. La sensibilidad se refiere a la proporción de personas verdaderamente enfermas que tienen un resultado positivo, no a la proporción de resultados negativos que corresponden a personas sanas.\n\n- **🔴 Opción C (Incorrecta):** Esta opción está mal redactada y confunde la idea de valor predictivo negativo con la especificidad de la prueba. La especificidad se refiere a la proporción de personas verdaderamente sanas que tienen un resultado negativo, no a la proporción de resultados negativos que corresponden a personas sanas.\n\n- **🔴 Opción D (Incorrecta):** Esta opción está mal redactada y confunde la idea de valor predictivo negativo con la relación entre resultados positivos y personas enfermas. El valor predictivo negativo se refiere a la relación entre resultados negativos y personas sanas, no a la relación entre resultados positivos y personas enfermas.\n\nLa perla MIR: 'El valor predictivo negativo se refiere a la proporción de resultados negativos que corresponden a personas sanas, no a la proporción de personas enfermas con resultados negativos.'"
   },
   {
     "id": "q-46",
