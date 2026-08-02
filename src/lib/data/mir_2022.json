@@ -1193,49 +1193,49 @@
     "id": "q-87",
     "localNumber": 87,
     "category": "General",
-    "stem": "Indique que fármaco NO está indicado en el tratamiento de mantenimiento del trastorno bipolar:",
+    "stem": "Indique que fármaco NO está indicado en el tratamiento de mantenimiento del trastorno bipolar",
     "options": [
-      "Litio.",
-      "Valproato.",
-      "Carbamazepina.",
-      "Clorazepato."
+      "Litio",
+      "Valproato",
+      "Carbamazepina",
+      "Clorazepato"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 87 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El clorazepato no está indicado en el tratamiento de mantenimiento del trastorno bipolar. Esto se debe a que el clorazepato es un benzodiacepina, que puede causar dependencia y no es efectivo a largo plazo en el tratamiento de este trastorno. En cambio, los medicamentos como el litio, el valproato y la carbamazepina son considerados terapia de primera línea para el tratamiento de mantenimiento del trastorno bipolar.\n\n- **🔴 Opción A (Incorrecta):** El litio es un medicamento comúnmente utilizado en el tratamiento de mantenimiento del trastorno bipolar. Es efectivo para prevenir los episodios maníacos y depresivos, y es considerado una de las opciones terapéuticas de primera línea.\n\n- **🔴 Opción B (Incorrecta):** El valproato es otro medicamento que se utiliza comúnmente en el tratamiento de mantenimiento del trastorno bipolar. Es efectivo para prevenir los episodios maníacos y depresivos, y es considerado una de las opciones terapéuticas de primera línea.\n\n- **🔴 Opción C (Incorrecta):** La carbamazepina es un medicamento anticonvulsivante que también se utiliza en el tratamiento de mantenimiento del trastorno bipolar. Es efectivo para prevenir los episodios maníacos y depresivos, y es considerada una de las opciones terapéuticas de primera línea.\n\nLa perla MIR para recordar este concepto es: \"Litio, Valproato y Carbamazepina son los fármacos de elección para el tratamiento de mantenimiento del trastorno bipolar, mientras que el Clorazepato no es una opción adecuada\"."
   },
   {
     "id": "q-88",
     "localNumber": 88,
     "category": "General",
-    "stem": "Varón de 26 años que ha presentado un primer episodio depresivo con remisión completa de la sintomatolo gía con un primer antidepresivo en monoterapia. ¿Cuánto tiempo se recomienda mantener el tratamiento?:",
+    "stem": "Varón de 26 años que ha presentado un primer episodio depresivo con remisión completa de la sintomatología con un primer antidepresivo en monoterapia. ¿Cuánto tiempo se recomienda mantener el tratamiento?",
     "options": [
-      "En un primer episodio en pacientes jóvenes con buena respuesta se puede suspender el tra- tamiento al cabo de un mes.",
+      "En un primer episodio en pacientes jóvenes con buena respuesta se puede suspender el tratamiento al cabo de un mes.",
       "Se recomienda mantener el tratamiento durante un mínimo de tres meses tras la remisión.",
       "Se recomienda mantener el tratamiento durante un mínimo de seis meses tras la remisión.",
       "Se recomienda mantener el tratamiento durante un mínimo de dos años para prevenir recaídas."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 88 del examen MIR de la convocatoria FSE."
+    "explanation": "La respuesta correcta a esta pregunta es crucial para evitar recaídas en pacientes con depresión. Aquí se presentan las opciones y sus justificaciones:\n\n* **🟢 Opción C (Correcta):** Se recomienda mantener el tratamiento durante un mínimo de seis meses tras la remisión. Esto se debe a que la depresión puede ser una condición crónica, y la suspensión prematura del tratamiento puede aumentar el riesgo de recaídas. La mayoría de los expertos recomiendan un período de seguimiento de seis meses para asegurarse de que el paciente se recupere completamente.\n\n* **🔴 Opción A (Incorrecta):** Suspender el tratamiento al cabo de un mes puede no ser suficiente para prevenir recaídas. La depresión puede ser una condición crónica, y la suspensión prematura del tratamiento puede aumentar el riesgo de recaídas.\n\n* **🔴 Opción B (Incorrecta):** Mantener el tratamiento durante tres meses puede no ser suficiente para prevenir recaídas en pacientes con depresión. La mayoría de los expertos recomiendan un período de seguimiento de seis meses para asegurarse de que el paciente se recupere completamente.\n\n* **🔴 Opción D (Incorrecta):** Mantener el tratamiento durante dos años puede no ser necesario para prevenir recaídas en pacientes con depresión. La mayoría de los expertos recomiendan un período de seguimiento de seis meses para asegurarse de que el paciente se recupere completamente.\n\n* La perla MIR: 'Seis meses es el tiempo que se necesita para asegurarse de que un paciente con depresión se recupere completamente.'"
   },
   {
     "id": "q-89",
     "localNumber": 89,
     "category": "General",
-    "stem": "Varón de 71 años sin antecedentes psiquiátricos que presenta un cuadro de tres semanas de evo- lución caracterizado por déficit de memoria, inatención, insomnio, pérdida de peso, inquietud, angustia de predominio matutino e ideas deliran- tes de culpa y p e rjuicio. De los si guientes, el diagnóstico más probable es:",
+    "stem": "Varón de 71 años sin antecedentes psiquiátricos que presenta un cuadro de tres semanas de evolución caracterizado por déficit de memoria, inatención, insomnio, pérdida de peso, inquietud, angustia de predominio matutino e ideas delirantes de culpa y persecución. De los siguientes, el diagnóstico más probable es:",
     "options": [
       "Catalepsia.",
       "Esquizofrenia de inicio tardío.",
       "Enfermedad de Alzheimer.",
-      "E p i s o d i o d e p r e s i v o g r a v e c o n s í n t o m a s p s i c ó - ticos."
+      "Episodio de presión grave con síntomas psicóticos."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 89 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El paciente presenta un cuadro caracterizado por déficit de memoria, inatención, insomnio, pérdida de peso, inquietud y angustia, así como ideas delirantes de culpa y persecución. Estos síntomas se han desarrollado en un período de tres semanas, lo que sugiere un episodio agudo. La presencia de síntomas psicóticos (ideas delirantes de culpa y persecución) y la gravedad del cuadro (pérdida de peso, inquietud y angustia) apuntan hacia un episodio de presión grave con síntomas psicóticos. Esta condición es característica de la esquizofrenia, pero también puede estar presente en otros trastornos psiquiátricos. Sin embargo, en este caso, la edad del paciente y la presentación clínica sugieren que la esquizofrenia es el diagnóstico más probable. La esquizofrenia de inicio tardío es una forma de esquizofrenia que se desarrolla en adultos mayores, y los síntomas pueden ser similares a los de la esquizofrenia en adultos más jóvenes. La enfermedad de Alzheimer es una enfermedad neurodegenerativa que se caracteriza por un declive progresivo de la función cognitiva, pero no suele estar asociada con síntomas psicóticos. La catalepsia es un síntoma característico de la esquizofrenia, pero no es el diagnóstico más probable en este caso, ya que el paciente no presenta esta característica. Por lo tanto, la opción D es la correcta."
   },
   {
     "id": "q-90",
     "localNumber": 90,
     "category": "Psiquiatría",
-    "stem": "La depresión mayor, especialmente si tiene ca- rácter endógeno/melancólico, se caracteriza por una de las siguientes alteraciones:",
+    "stem": "La depresión mayor, especialmente si tiene carácter endógeno/melancólico, se caracteriza por una de las siguientes alteraciones:",
     "options": [
       "Incremento del apetito.",
       "Disminución de la secreción de cortisol.",
@@ -1243,13 +1243,13 @@
       "Empeoramiento matutino."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 90 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El empeoramiento matutino es una característica clásica de la depresión mayor, especialmente en su forma endógena/melancólica. Esta manifestación se debe a la alteración del ritmo circadiano y la secreción de hormonas que regulan el estado de ánimo, como la serotonina y la melatonina. El empeoramiento matutino puede ser un síntoma importante para el diagnóstico y el tratamiento de la depresión mayor.\n\n- **🔴 Opción A (Incorrecta):** El incremento del apetito no es una característica típica de la depresión mayor. De hecho, la pérdida de apetito y el cambio en el gusto son síntomas comunes en este trastorno.\n\n- **🔴 Opción B (Incorrecta):** La disminución de la secreción de cortisol no es una característica de la depresión mayor. La secreción de cortisol puede estar alterada en diversas condiciones, pero no es un síntoma característico de la depresión.\n\n- **🔴 Opción C (Incorrecta):** La dificultad para despertarse por la mañana puede ser un síntoma de la depresión, pero no es una característica exclusiva de esta condición. La somnolencia matutina es un síntoma común en diversas condiciones, incluyendo la depresión, pero no es suficiente para diagnosticarla.\n\nLa perla MIR: 'Empeoramiento matutino' es un concepto clave en la depresión mayor, especialmente en su forma endógena/melancólica."
   },
   {
     "id": "q-91",
     "localNumber": 91,
     "category": "Psiquiatría",
-    "stem": "Indique cuál de los siguientes trastornos NO es un trastorno de ansiedad según el DSM-5:",
+    "stem": "Indique cuál de los siguientes trastornos no es un trastorno de ansiedad según el DSM-5.",
     "options": [
       "Trastorno obsesivo-compulsivo.",
       "Mutismo selectivo.",
@@ -1257,7 +1257,7 @@
       "Trastorno de pánico."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 91 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El trastorno obsesivo-compulsivo es un trastorno de ansiedad caracterizado por pensamientos o comportamientos recurrentes y persistentes que causan sufrimiento, ansiedad o interferencias significativas en la vida diaria.\n\n- **🔴 Opción B (Incorrecta):** El mutismo selectivo es un trastorno de inicio en la infancia que implica la incapacidad de hablar en ciertas situaciones o con personas específicas, pero no es considerado un trastorno de ansiedad según el DSM-5.\n\n- **🔴 Opción C (Incorrecta):** La fobia situacional es un trastorno de ansiedad caracterizado por una respuesta exagerada y persistente de miedo a una situación o lugar específico, lo que la convierte en una opción incorrecta según el DSM-5.\n\n- **🔴 Opción D (Incorrecta):** El trastorno de pánico es un trastorno de ansiedad caracterizado por episodios repentinos de miedo intenso, ansiedad o sensación de peligro, lo que lo convierte en una opción incorrecta según el DSM-5.\n\nLa **perla MIR**: Recuerda que el DSM-5 es un manual de diagnóstico y no un tratado de psiquiatría, por lo que es importante distinguir entre trastornos de ansiedad y otros trastornos que pueden presentar síntomas similares."
   },
   {
     "id": "q-92",
