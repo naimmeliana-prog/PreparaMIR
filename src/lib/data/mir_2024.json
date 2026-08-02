@@ -1403,7 +1403,7 @@
     "id": "q-101",
     "localNumber": 101,
     "category": "General",
-    "stem": "¿Cuál de las siguientes complicaciones es más frecuente en el reemplazo valvular aórtico transcatéter (TAVI) respecto del reemplazo valvular quirúrgico?:",
+    "stem": "¿Cuál de las siguientes complicaciones es más frecuente en el reemplazo valvular aórtico transcatéter (TAVI) respecto del reemplazo valvular quirúrgico?",
     "options": [
       "Atelectasia pulmonar.",
       "Bloqueo aurículo-ventricular completo.",
@@ -1411,13 +1411,13 @@
       "Hemorragia grave."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 101 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El Bloqueo aurículo-ventricular completo es una complicación más frecuente en el reemplazo valvular aórtico transcatéter (TAVI) respecto del reemplazo valvular quirúrgico. Esto se debe a que el procedimiento de TAVI puede causar inflamación y lesiones en el tejido cardiac, lo que puede llevar a bloqueos aurículo-ventriculares. Además, la manipulación de la válvula aórtica durante el procedimiento de TAVI puede causar daños en los tejidos cardiacos y provocar bloqueos aurículo-ventriculares completos. Por lo tanto, esta complicación es más frecuente en el TAVI en comparación con el reemplazo valvular quirúrgico. \n\n- **🔴 Opción A (Incorrecta):** La Atelectasia pulmonar es una complicación potencial en el TAVI, pero no es más frecuente que en el reemplazo valvular quirúrgico. La inflamación y la lesión pulmonar pueden ocurrir en ambos procedimientos, por lo que esta opción no es la correcta. \n\n- **🔴 Opción C (Incorrecta):** El Derrame pericárdico es una complicación potencial en ambos procedimientos, pero no es más frecuente en el TAVI en comparación con el reemplazo valvular quirúrgico. La inflamación y la lesión pericárdica pueden ocurrir en ambos procedimientos, por lo que esta opción no es la correcta. \n\n- **🔴 Opción D (Incorrecta):** La Hemorragia grave es una complicación potencial en ambos procedimientos, pero no es más frecuente en el TAVI en comparación con el reemplazo valvular quirúrgico. La hemorragia puede ocurrir en ambos procedimientos debido a la manipulación de la válvula aórtica y la lesión de los tejidos cardiacos, por lo que esta opción no es la correcta.\n\nLa perla MIR es: En el reemplazo valvular aórtico transcatéter (TAVI), el Bloqueo aurículo-ventricular completo es una complicación más frecuente que en el reemplazo valvular quirúrgico debido a la inflamación y lesión del tejido cardiac."
   },
   {
     "id": "q-102",
     "localNumber": 102,
     "category": "Infecciosas",
-    "stem": "Señale cuál de las siguientes situaciones se considera indicación de cirugía para el tratamiento de endocarditis infecciosa (EI):",
+    "stem": "Señale cuál de las siguientes situaciones se considera indicación de cirugía para el tratamiento de endocarditis infecciosa.",
     "options": [
       "Aparición de insuficiencia renal aguda.",
       "Hallazgo por imagen de émbolos esplénicos o renales en el momento del diagnóstico.",
@@ -1425,27 +1425,27 @@
       "Hemocultivos positivos persistentes durante 7 -10 días tras pauta antibiótica adecuada."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 102 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La indicación de cirugía para el tratamiento de endocarditis infecciosa se considera en casos donde se han realizado hemocultivos positivos persistentes durante 7-10 días tras pauta antibiótica adecuada. Esto sugiere una infección bacteriana resistente a los antibióticos, lo que puede requerir una intervención quirúrgica para eliminar el foco infeccioso y evitar complicaciones como la insuficiencia cardíaca o la muerte. La cirugía puede incluir la resección de la válvula afectada o la colocación de un protesis valvular artificial. En este caso, la opción D es la correcta porque indica una situación en la que la cirugía es necesaria para controlar la infección y evitar complicaciones graves. \n\n- **🔴 Opción A (Incorrecta):** La aparición de insuficiencia renal aguda no es una indicación inmediata de cirugía para el tratamiento de endocarditis infecciosa. Si bien la insuficiencia renal puede ser una complicación de la endocarditis, la cirugía no es la primera opción de tratamiento en este caso. La prioridad es controlar la infección con antibióticos y estabilizar el paciente antes de considerar la cirugía. \n\n- **🔴 Opción B (Incorrecta):** El hallazgo de émbolos esplénicos o renales en el momento del diagnóstico es una complicación grave de la endocarditis, pero no es una indicación inmediata de cirugía. La mayoría de los pacientes con endocarditis pueden ser tratados con antibióticos y no requieren cirugía inmediata. La cirugía puede ser necesaria en casos donde la infección es resistente a los antibióticos o en pacientes con complicaciones graves. \n\n- **🔴 Opción C (Incorrecta):** La presencia de vegetaciones mayores de 8 mm en válvula tricúspide en la EI derecha puede ser una indicación de cirugía en algunos casos, pero no es una regla general. La decisión de realizar cirugía depende de la gravedad de la infección, la presencia de complicaciones y la respuesta del paciente a los antibióticos. En general, la cirugía se considera en casos donde la infección es resistente a los antibióticos o en pacientes con complicaciones graves."
   },
   {
     "id": "q-103",
     "localNumber": 103,
     "category": "Cardiología",
-    "stem": "Hombre de 68 años, hipertenso y fumador que acude a urgencias por dolor torácico y disnea desde hace 3 horas. Presenta mal estado general, presión arterial 118/45 mmHg, FC 105 lpm, saturación O2 96%. En la auscultación crepitantes basales finos, tonos cardíacos atenuados, que no permiten identificar soplos. Dímero D 16 .000 ng/mL. El ECG muestra taquicardia sinusal y signos de hipertrofia ventricular izquierda. Un ecocardiograma urgente revela un ventrículo izquierdo hipertrófico, no dilatado, con disfunción sistólica global ligera, insuficiencia aórtica moderada, no conocida previamente y derrame pericárdico moderado -grave. Con estos datos, ¿qué patología debe descartar?:",
+    "stem": "Hombre de 68 años, hipertenso y fumador que acude a urgencias por dolor torácico y disnea desde hace 3 horas. Presenta mal estado general, presión arterial 118/45 mmHg, FC 105 lpm, saturación O2 96%. En la auscultación crepitantes basales finos, tonos cardíacos atenuados, que no permiten identificar soplos. Dímero D 16.000 ng/mL. El ECG muestra taquicardia sinusal y signos de hipertrofia ventricular izquierda. Un ecocardiograma urgente revela un ventrículo izquierdo hipertrófico, no dilatado, con disfunción sistólica global ligera, insuficiencia aórtica moderada, no conocida previamente y derrame pericárdico moderado-grave.",
     "options": [
-      "Disección de aorta proximal.",
-      "Infarto agudo de miocardio complicado con rotura de músculo papilar.",
-      "Tromboembolismo pulmonar masivo.",
-      "Pericarditis efusivo-constrictiva."
+      "Disección de aorta proximal",
+      "Infarto agudo de miocardio complicado con rotura de músculo papilar",
+      "Tromboembolismo pulmonar masivo",
+      "Pericarditis efusivo-constrictiva"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 103 del examen MIR de la convocatoria FSE."
+    "explanation": "### Pregunta Clínica: \n\nUn hombre de 68 años, hipertenso y fumador, acude a urgencias con dolor torácico y disnea. Se le realiza un ecocardiograma que muestra un ventrículo izquierdo hipertrófico con disfunción sistólica global ligera, insuficiencia aórtica moderada y derrame pericárdico moderado-grave. Se le pregunta qué patología debe descartar.\n\n#### 🟢 Opción A (Correcta): \n\nLa opción correcta es la **Disección de aorta proximal**. La razón es que el ecocardiograma muestra un derrame pericárdico moderado-grave, lo que sugiere la presencia de sangre en el espacio pericárdico. Esto puede estar causado por una disección de la aorta proximal, que es una emergencia médica que requiere atención inmediata. La presencia de insuficiencia aórtica moderada y disfunción sistólica global ligera también sugiere que el paciente puede tener una enfermedad cardiovascular subyacente.\n\n#### 🔴 Opción B (Incorrecta): \n\nLa opción **Infarto agudo de miocardio complicado con rotura de músculo papilar** no es la opción correcta. Aunque el paciente tiene dolor torácico y disnea, el ecocardiograma no muestra signos de infarto agudo de miocardio, como un ventrículo izquierdo dilatado o una reducción significativa de la función sistólica.\n\n#### 🔴 Opción C (Incorrecta): \n\nLa opción **Tromboembolismo pulmonar masivo** no es la opción correcta. Aunque el paciente tiene disnea, el ecocardiograma no muestra signos de tromboembolismo pulmonar, como un ventrículo derecho dilatado o una reducción significativa de la función ventricular derecha.\n\n#### 🔴 Opción D (Incorrecta): \n\nLa opción **Pericarditis efusivo-constrictiva** no es la opción correcta. Aunque el paciente tiene un derrame pericárdico moderado-grave, el ecocardiograma no muestra signos de pericarditis constrictiva, como una reducción significativa de la función ventricular o un aumento de la presión pericárdica.\n\n### Perla MIR: \n\nRecuerda que la presencia de un derrame pericárdico moderado-grave en un paciente con dolor torácico y disnea puede sugerir una disección de la aorta proximal. Esto requiere atención inmediata y puede ser una emergencia médica."
   },
   {
     "id": "q-104",
     "localNumber": 104,
     "category": "Cardiología",
-    "stem": "Hombre de 71 años portador de un marcapasos bicameral por bloqueo AV completo. Está en ritmo sinusal a 85 lpm con ritmo ventricular estimulado por el marcapasos. La interrogación del marcapasos muestra un porcentaje de estimulación ventricular del 99%. En el ecocardiograma tiene dilatación y disfunción sistólica de ambos ventrículos. La fracción de eyección del ventrículo izquierdo es del 30% y tiene insuficiencia mitral funcional grave. No tiene lesiones obstructivas en la coronariografía. Está en clase fu ncional III NYHA a pesar de tratamiento médico óptimo para la insuficiencia cardíaca con fracción de eyección reducida. ¿Cuál de las siguientes es la primera opción de tratamiento?:",
+    "stem": "Hombre de 71 años portador de un marcapasos bicameral por bloqueo AV completo. Está en ritmo sinusal a 85 lpm con ritmo ventricular estimulado por el marcapasos. La interrogación del marcapasos muestra un porcentaje de estimulación ventricular del 99%. En el ecocardiograma tiene dilatación y disfunción sistólica de ambos ventrículos. La fracción de eyección del ventrículo izquierdo es del 30% y tiene insuficiencia mitral funcional grave. No tiene lesiones obstructivas en la coronariografía. Está en clase funcional III NYHA a pesar de tratamiento médico óptimo para la insuficiencia cardíaca con fracción de eyección reducida. ¿Cuál de las siguientes es la primera opción de tratamiento?",
     "options": [
       "Cirugía de reparación valvular.",
       "Cirugía de sustitución valvular.",
@@ -1453,7 +1453,7 @@
       "Mitra-Clip."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 104 del examen MIR de la convocatoria FSE."
+    "explanation": "El paciente describe tiene un marcapasos bicameral con un porcentaje de estimulación ventricular del 99%, lo que sugiere una disfunción del sistema de estimulación del marcapasos. Además, tiene una disfunción sistólica de ambos ventrículos con una fracción de eyección del ventrículo izquierdo del 30% y una insuficiencia mitral funcional grave. La clase funcional III NYHA indica una incapacidad para realizar esfuerzos grandes sin síntomas de insuficiencia cardíaca. Considerando estas características, las opciones de tratamiento pueden evaluarse de la siguiente manera:\n\n- **🟢 Opción C (Correcta):** La terapia de resincronización cardíaca es la primera opción de tratamiento en este caso. La disfunción del sistema de estimulación del marcapasos y la disfunción sistólica de ambos ventrículos sugieren una desincronización cardíaca, que puede ser tratada con terapia de resincronización cardíaca. Esta terapia puede mejorar la función ventricular y reducir la insuficiencia cardíaca.\n\n- **🔴 Opción A (Incorrecta):** La cirugía de reparación valvular no es la primera opción de tratamiento en este caso. Aunque el paciente tiene insuficiencia mitral funcional grave, la principal preocupación es la disfunción del sistema de estimulación del marcapasos y la disfunción sistólica de ambos ventrículos.\n\n- **🔴 Opción B (Incorrecta):** La cirugía de sustitución valvular no es la primera opción de tratamiento en este caso. Aunque el paciente tiene insuficiencia mitral funcional grave, la principal preocupación es la disfunción del sistema de estimulación del marcapasos y la disfunción sistólica de ambos ventrículos.\n\n- **🔴 Opción D (Incorrecta):** El Mitra-Clip no es la primera opción de tratamiento en este caso. Aunque el paciente tiene insuficiencia mitral funcional grave, la principal preocupación es la disfunción del sistema de estimulación del marcapasos y la disfunción sistólica de ambos ventrículos.\n\nEn resumen, la terapia de resincronización cardíaca es la primera opción de tratamiento en este caso debido a la disfunción del sistema de estimulación del marcapasos y la disfunción sistólica de ambos ventrículos."
   },
   {
     "id": "q-105",
@@ -1464,10 +1464,10 @@
       "Iniciar perfusión continua con prostaglandinas E1.",
       "Administrar tratamiento con ibuprofeno.",
       "Plantear cirugía de carácter emergente.",
-      "Realizar cateterismo y atrioseptostomía de Rashking urgente. Página: 17 de 33"
+      "Realizar cateterismo y atrioseptostomía de Rashkind urgente."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 105 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La perfusión continua con prostaglandinas E1 es el primer tratamiento adecuado en este caso. Las prostaglandinas E1, como la epoprostenol, actúan como vasodilatadores y también tienen un efecto inotrópico positivo, lo que puede ayudar a mejorar la hemodinámica en un paciente con shock cardiogénico debido a coartación de aorta preductal crítica. Esta medida es crucial para estabilizar al paciente antes de considerar la cirugía. \n\n- **🔴 Opción B (Incorrecta):** El ibuprofeno es un antiinflamatorio no esteroideo que puede ser utilizado en casos de hipertensión o dolor, pero no es el tratamiento adecuado para mejorar la hemodinámica en un paciente con shock cardiogénico. \n\n- **🔴 Opción C (Incorrecta):** Plantear cirugía de carácter emergente puede ser necesario, pero no es el primer tratamiento adecuado. En primer lugar, es importante estabilizar al paciente con medidas como la perfusión continua con prostaglandinas E1. \n\n- **🔴 Opción D (Incorrecta):** El cateterismo y la atrioseptostomía de Rashkind son procedimientos que pueden ser útiles en casos de coartación de aorta, pero no son el primer tratamiento para mejorar la hemodinámica en un paciente con shock cardiogénico. \n\nLa perla MIR es que en casos de coartación de aorta preductal crítica, la perfusión continua con prostaglandinas E1 es un tratamiento esencial para estabilizar al paciente antes de considerar la cirugía."
   },
   {
     "id": "q-106",
