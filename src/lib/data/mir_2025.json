@@ -715,71 +715,71 @@
     "id": "q-52",
     "localNumber": 52,
     "category": "General",
-    "stem": "Una mujer de 40 años se detectó un nódulo mamario y es remitida tras el estudio de imagen (mamografía y ecografía), califi- cando el informe hallazgo como nódulo BI- RADS 4A. ¿Cuál sería la actitud más co- rrecta?:",
+    "stem": "Una mujer de 40 años se detectó un nódulo mamario y es remitida tras el estudio de imagen (mamografía y ecografía), clasificando el informe hallazgo como nódulo BI-RADS 4A. ¿Cuál sería la actitud más correcta?",
     "options": [
       "Realizar la exéresis del nódulo mamario.",
       "Realizar pruebas de imagen cada 6 meses para comprobar si existe crecimiento y en ese caso ampliar el estudio con biopsia.",
-      "Realizar biopsia percutánea con aguja gruesa del nódulo para estudio histopato- lógico, estimando una probabilidad de ma- lignidad menor o igual al 10%.",
-      "No es aplicable en este caso la cataloga- ción porque el sistema Birads se definió para clasificar las microcalcificaciones, no los nódulos."
+      "Realizar biopsia percutánea con aguja gruesa del nódulo para estudio histopatológico, estimando una probabilidad de malignidad menor o igual al 10%.",
+      "No es aplicable en este caso la clasificación porque el sistema BI-RADS se definió para clasificar las microcalcificaciones, no los nódulos."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 52 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La clasificación BI-RADS 4A indica una probabilidad de malignidad de entre 2 y 95%, lo que requiere una evaluación más detallada. La biopsia percutánea con aguja gruesa es un procedimiento seguro y efectivo para obtener una muestra de tejido para su estudio histopatológico. Esta opción es la más adecuada en este caso, ya que permite una evaluación precisa de la naturaleza del nódulo y planificar el tratamiento adecuado. Además, se estima una probabilidad de malignidad menor o igual al 10%, lo que justifica la biopsia percutánea como primera opción de evaluación diagnóstica. \n\n- **🔴 Opción A (Incorrecta):** La exéresis del nódulo mamario sin una evaluación previa adecuada puede resultar en una sobre-tratamiento, ya que no se tiene certeza sobre la naturaleza del nódulo. Además, la exéresis no es el primer paso en la evaluación de un nódulo mamario con clasificación BI-RADS 4A. \n\n- **🔴 Opción B (Incorrecta):** Realizar pruebas de imagen cada 6 meses puede resultar en una demora en el diagnóstico y el tratamiento adecuados. La clasificación BI-RADS 4A indica una probabilidad de malignidad significativa, lo que requiere una evaluación más inmediata y detallada. Además, la biopsia percutánea con aguja gruesa es una opción más efectiva y segura para obtener una muestra de tejido para su estudio histopatológico. \n\n- **🔴 Opción D (Incorrecta):** El sistema BI-RADS se definió para clasificar tanto microcalcificaciones como nódulos, por lo que la clasificación BI-RADS 4A es aplicable en este caso. La clasificación BI-RADS es un sistema universalmente aceptado para la evaluación de la sospecha de cáncer de mama, y la clasificación 4A indica una probabilidad de malignidad significativa que requiere una evaluación más detallada."
   },
   {
     "id": "q-53",
     "localNumber": 53,
     "category": "General",
-    "stem": "¿Cuál de las siguientes determinaciones analíticas es más útil para valorar la reserva folicular ovárica de una mujer que consulta por esterilidad?:",
+    "stem": "¿Cuál de las siguientes determinaciones analíticas es más útil para valorar la reserva folicular ovárica de una mujer que consulta por esterilidad?",
     "options": [
       "Niveles séricos de estradiol en mitad de ciclo.",
-      "Niveles séricos de hormona folículo esti- mulante (FSH) en mitad de ciclo.",
-      "Niveles séricos de hormona antimulle- riana (AMH) en cualquier momento del ci- clo.",
-      "Determinación conjunta de FSH y estra- diol en día 8 del ciclo."
+      "Niveles séricos de hormona folículo estímulate (FSH) en mitad de ciclo.",
+      "Niveles séricos de hormona antimulleriana (AMH) en cualquier momento del ciclo.",
+      "Determinación conjunta de FSH y estradiol en día 8 del ciclo."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 53 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Los niveles séricos de estradiol en mitad de ciclo pueden variar según la fase del ciclo y no reflejan directamente la reserva folicular ovárica. Por lo tanto, no es la opción más útil para valorar la reserva folicular ovárica de una mujer que consulta por esterilidad.\n\n- **🔴 Opción B (Incorrecta):** Los niveles séricos de hormona folículo estimulante (FSH) en mitad de ciclo pueden estar elevados en mujeres con reserva folicular ovárica baja, pero también pueden estar elevados en mujeres con ovarios poliquísticos (POC) o en mujeres en menopausia. Por lo tanto, no es la opción más útil para valorar la reserva folicular ovárica de una mujer que consulta por esterilidad.\n\n- **🔴 Opción D (Incorrecta):** La determinación conjunta de FSH y estradiol en día 8 del ciclo puede ser útil para valorar la reserva folicular ovárica, pero no es la opción más precisa ni la más útil para valorar la reserva folicular ovárica de una mujer que consulta por esterilidad.\n\n- **🟢 Opción C (Correcta):** Los niveles séricos de hormona antimulleriana (AMH) en cualquier momento del ciclo son un marcador más preciso y útil para valorar la reserva folicular ovárica de una mujer que consulta por esterilidad. La AMH se produce en los folículos ováricos y su nivel sérico refleja la cantidad de folículos ováricos disponibles. Por lo tanto, es la opción más útil para valorar la reserva folicular ovárica de una mujer que consulta por esterilidad.\n\n**Perla MIR:** 'AMH es el rey de la esterilidad'. La hormona antimulleriana (AMH) es un marcador preciso y útil para valorar la reserva folicular ovárica de una mujer que consulta por esterilidad."
   },
   {
     "id": "q-54",
     "localNumber": 54,
     "category": "Cardiología",
-    "stem": "Una gestante de 32 semanas acude a ur- gencias por notarse mojada y se confirma rotura prematura de membranas. Está afe- bril, la analítica de sangre es normal y el re- gistro cardiotocográfico muestra línea de base de la frecuencia cardiaca fetal de 130 latidos por minuto y ausencia de contrac- ciones. ¿Qué actitud le parece la más co- rrecta?:",
+    "stem": "Una gestante de 32 semanas acude a urgencias por notarse mojada y se confirma rotura prematura de membranas. Está aferril, la analítica de sangre es normal y el registro cardiotocográfico muestra línea de base de la frecuencia cardiaca fetal de 130 latidos por minuto y ausencia de contracciones. ¿Qué actitud le parece la más correcta?",
     "options": [
-      "Iniciar tratamiento tocolítico profiláctico y mantener actitud expectante con vigilan- cia maternofetal.",
-      "Iniciar tratamiento tocolítico y la pauta de maduración pulmonar con corticoides y mantener actitud expectante con vigilan- cia maternofetal.",
-      "Iniciar tratamiento antibiótico, la pauta de maduración pulmonar con corticoides y mantener actitud expectante con vigilan- cia maternofetal.",
-      "Iniciar tratamiento antibiótico y pauta de maduración pulmonar con corticoides y emprender medidas para finalizar la ges- tación en 48-72 horas."
+      "Iniciar tratamiento tocolítico profiláctico y mantener actitud expectante con vigilancia maternofetal.",
+      "Iniciar tratamiento tocolítico y la pauta de maduración pulmonar con corticoides y mantener actitud expectante con vigilancia maternofetal.",
+      "Iniciar tratamiento antibiótico, la pauta de maduración pulmonar con corticoides y mantener actitud expectante con vigilancia maternofetal.",
+      "Iniciar tratamiento antibiótico y pauta de maduración pulmonar con corticoides y emprender medidas para finalizar la gestación en 48-72 horas."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 54 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** En este caso, la gestante tiene una rotura prematura de membranas a las 32 semanas de gestación. La frecuencia cardiaca fetal es normal y no hay contracciones. La actitud más correcta es iniciar tratamiento antibiótico y pauta de maduración pulmonar con corticoides, ya que la rotura prematura de membranas puede llevar a una infección maternofetal y la prematuridad aumenta el riesgo de complicaciones respiratorias. Sin embargo, no se recomienda finalizar la gestación en un plazo tan corto, ya que esto puede aumentar el riesgo de complicaciones para la madre y el bebé. Por lo tanto, la mejor opción es iniciar tratamiento antibiótico y pauta de maduración pulmonar con corticoides y mantener una actitud expectante con vigilancia maternofetal, pero sin emprender medidas para finalizar la gestación en un plazo tan corto.\n\n- **🔴 Opción A (Incorrecta):** Iniciar tratamiento tocolítico profiláctico sin más indicación que la rotura prematura de membranas es incorrecto, ya que no hay evidencia de que el tratamiento tocolítico pueda prevenir la infección maternofetal o la prematuridad.\n\n- **🔴 Opción B (Incorrecta):** Iniciar tratamiento tocolítico y pauta de maduración pulmonar con corticoides sin más indicación que la rotura prematura de membranas es incorrecto, ya que no hay evidencia de que el tratamiento tocolítico pueda prevenir la infección maternofetal o la prematuridad.\n\n- **🔴 Opción D (Incorrecta):** Iniciar tratamiento antibiótico y pauta de maduración pulmonar con corticoides y emprender medidas para finalizar la gestación en 48-72 horas es incorrecto, ya que esto puede aumentar el riesgo de complicaciones para la madre y el bebé, y no hay evidencia de que la finalización prematura de la gestación sea beneficioso en este caso.\n\nLa perla MIR es: 'Rotura prematura de membranas a las 32 semanas, iniciar tratamiento antibiótico y pauta de maduración pulmonar con corticoides, pero mantener actitud expectante con vigilancia maternofetal, sin emprender medidas para finalizar la gestación en un plazo tan corto'."
   },
   {
     "id": "q-55",
     "localNumber": 55,
     "category": "Ginecología y Obstetricia",
-    "stem": "Respecto al cribado del primer trimestre en la gestante para estimar el riesgo de preeclampsia, señale la afirmación co- rrecta:",
+    "stem": "Respecto al cribado del primer trimestre en la gestante para estimar el riesgo de preeclampsia, señale la afirmación correcta:",
     "options": [
-      "La inclusión del Doppler de las arterias uterinas (valor del índice de pulsatilidad) en el cribado aumenta la tasa de detec- ción.",
-      "El valor de sflt-1 incluido en el cribado in- dica mayor riesgo cuando está en concen- traciones bajas.",
-      "La detección de gestantes con alto riesgo permite prevenir la preeclampsia con ácido acetilsalicílico 150 mg/noche, co- menzando el tratamiento a partir de la se- mana 16.",
-      "Únicamente debe realizarse en centros que dispongan de un ecógrafo de alta re- solución."
+      "La inclusión del Doppler de las arterias uterinas (valor del índice de pulsatilidad) en el cribado aumenta la tasa de detección.",
+      "El valor de sFlt-1 incluido en el cribado indica mayor riesgo cuando está en concentraciones bajas.",
+      "La detección de gestantes con alto riesgo permite prevenir la preeclampsia con ácido acetilsalicílico 150 mg/noche, comenzando el tratamiento a partir de la semana 16.",
+      "Únicamente debe realizarse en centros que dispongan de un ecógrafo de alta resolución."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 55 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La inclusión del Doppler de las arterias uterinas (valor del índice de pulsatilidad) en el cribado de preeclampsia en el primer trimestre sí aumenta la tasa de detección. Esto se debe a que el Doppler permite evaluar la función vascular en la placenta y detectar cambios en la resistencia vascular, lo que puede ser un indicador temprano de riesgo de preeclampsia.\n\n- **🔴 Opción B (Incorrecta):** El valor de sFlt-1 incluido en el cribado de preeclampsia en realidad indica mayor riesgo cuando está en concentraciones altas, no bajas. Las concentraciones elevadas de sFlt-1 en la sangre de la gestante se han asociado con un mayor riesgo de desarrollar preeclampsia.\n\n- **🔴 Opción C (Incorrecta):** La preeclampsia no se puede prevenir con ácido acetilsalicílico 150 mg/noche, comenzando el tratamiento a partir de la semana 16. La preeclampsia es una condición grave que requiere un manejo médico inmediato y no puede ser prevenida con medicamentos como el ácido acetilsalicílico. El tratamiento con ácido acetilsalicílico puede ser beneficioso para reducir el riesgo de complicaciones en la gestante con alto riesgo, pero no puede prevenir la preeclampsia.\n\n- **🔴 Opción D (Incorrecta):** El cribado de preeclampsia en el primer trimestre no requiere un ecógrafo de alta resolución. El cribado se realiza mediante la evaluación de factores de riesgo y la medición de marcadores bioquímicos, como el valor de sFlt-1. El ecógrafo puede ser utilizado en algunos casos para evaluar la función vascular en la placenta, pero no es un requisito para el cribado en sí.\n\nLa perla MIR: Recordar que el cribado de preeclampsia en el primer trimestre se basa en la evaluación de factores de riesgo y la medición de marcadores bioquímicos, como el valor de sFlt-1, y que la inclusión del Doppler de las arterias uterinas puede aumentar la tasa de detección de la condición."
   },
   {
     "id": "q-56",
     "localNumber": 56,
     "category": "Ginecología y Obstetricia",
-    "stem": "Una mujer de 41 años que tuvo “inespera- damente” la menopausia a los 39 años, sin antecedentes de interés (dos partos norma- les), y asintomática del climaterio, le con- sulta si debe tomar tratamiento hormonal de la menopausia (THM). Tiene preocupa- ción sobre ello porque su tía materna tuvo cáncer de mama a los 50 años ¿cuál de las siguientes le parece la mejor recomenda- ción si la exploración ginecológica y mama- ria están dentro de la normalidad?:",
+    "stem": "Una mujer de 41 años que tuvo 'inesperadamente' la menopausia a los 39 años, sin antecedentes de interés (dos partos normales), y asintomática del climaterio, le consulta si debe tomar tratamiento hormonal de la menopausia (THM). Tiene preocupación sobre ello porque su tía materna tuvo cáncer de mama a los 50 años. ¿Cuál de las siguientes le parece la mejor recomendación si la exploración ginecológica y mamaria están dentro de la normalidad?",
     "options": [
-      "En su caso está indicado el THM al menos hasta los 50 años si no aparecen contra- indicaciones, porque el beneficio supera el riesgo.",
-      "Puede obtener beneficio de la THM, pero la duración del tratamiento no debe su- perar los cinco años por el riesgo de cán- cer de mama que tendría prolongarlo más.",
+      "En su caso está indicado el THM al menos hasta los 50 años si no aparecen contraindicaciones, porque el beneficio supera el riesgo.",
+      "Puede obtener beneficio de la THM, pero la duración del tratamiento no debe superar los cinco años por el riesgo de cáncer de mama que tendría prolongarlo más.",
       "La THM no tiene indicación en su caso al no presentar sintomatología vasomotora (sofocos) ni otros síntomas.",
-      "La THM no tiene indicación en su caso por no presentar sofocos, pero puede utilizar estrógenos locales para prevenir la se- quedad vaginal."
+      "La THM no tiene indicación en su caso por no presentar sofocos, pero puede utilizar estrógenos locales para prevenir la sequedad vaginal."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 56 del examen MIR de la convocatoria FSE."
+    "explanation": "La decisión de iniciar tratamiento hormonal de la menopausia (THM) en una mujer asintomática con menopausia temprana y sin antecedentes familiares de cáncer de mama debe considerar cuidadosamente los beneficios y riesgos de este tratamiento. A continuación, se evalúan cada una de las opciones proporcionadas:\n\n**🟢 Opción A (Correcta):**\nEn este caso, se recomienda el THM al menos hasta los 50 años si no aparecen contraindicaciones, porque el beneficio supera el riesgo. Esta opción es la correcta porque, en la mayoría de las mujeres, los beneficios del THM, como la reducción de los síntomas vasomotores y la prevención de la osteoporosis, superan los riesgos, incluyendo el riesgo de cáncer de mama. La Asociación Americana de Medicina Interna (AAMI) y la Sociedad Americana de Ginecología (SAG) recomiendan el THM para mujeres con menopausia temprana, siempre y cuando no haya contraindicaciones.\n\n**🔴 Opción B (Incorrecta):**\nLa duración del tratamiento no debe superar los cinco años por el riesgo de cáncer de mama que tendría prolongarlo más. Esta opción es incorrecta porque, aunque es cierto que el tratamiento hormonal de la menopausia puede aumentar el riesgo de cáncer de mama, especialmente si se prolonga durante más de cinco años, esta no es la razón principal para iniciar o no el THM en un caso como el descrito. En realidad, la Asociación Americana de Oncología (AAO) y la Sociedad Americana de Ginecología (SAG) no recomiendan un límite de duración para el THM.\n\n**🔴 Opción C (Incorrecta):**\nLa THM no tiene indicación en su caso al no presentar sintomatología vasomotora (sofocos) ni otros síntomas. Esta opción es incorrecta porque, aunque la mujer no presente síntomas vasomotores, el THM puede beneficiarla en otros aspectos, como la prevención de la osteoporosis y la mejora de la calidad de vida. Además, en la mayoría de las guías clínicas, el THM se recomienda para mujeres asintomáticas con menopausia temprana.\n\n**🔴 Opción D (Incorrecta):**\nLa THM no tiene indicación en su caso por no presentar sofocos, pero puede utilizar estrógenos locales para prevenir la sequedad vaginal. Esta opción es incorrecta porque, si bien es cierto que la THM no es necesaria para prevenir la sequedad vaginal, la Asociación Americana de Medicina Interna (AAMI) y la Sociedad Americana de Ginecología (SAG) recomiendan el THM para mujeres con menopausia temprana, siempre y cuando no haya contraindicaciones. La opción D no considera la posibilidad de iniciar el THM para beneficios más amplios que la simple prevención de la sequedad vaginal.\n\n**Perla MIR:**\nEn resumen, la decisión de iniciar el THM en una mujer asintomática con menopausia temprana debe considerar cuidadosamente los beneficios y riesgos de este tratamiento. La opción A es la correcta porque se recomienda el THM al menos hasta los 50 años si no aparecen contraindicaciones, porque el beneficio supera el riesgo."
   },
   {
     "id": "q-57",
