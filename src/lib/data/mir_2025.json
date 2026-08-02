@@ -2255,71 +2255,71 @@
     "id": "q-162",
     "localNumber": 162,
     "category": "Neumología",
-    "stem": "¿En cuál de las siguientes situaciones se debe realizar prioritariamente un estudio etiológico completo en un paciente con neumonía adquirida en la comunidad (NAC)?:",
+    "stem": "¿En cuál de las siguientes situaciones se debe realizar prioritariamente un estudio etiológico completo en un paciente con neumonía adquirida en la comunidad (NAC)?",
     "options": [
-      "En pacientes con NAC grave, hospitaliza- dos o que no responden al tratamiento empírico.",
+      "En pacientes con NAC grave, hospitalizados o que no responden al tratamiento empírico.",
       "En pacientes jóvenes sin comorbilidades para evitar el uso de antibióticos de amplio espectro.",
       "En todos los pacientes con diagnóstico de NAC para guiar el tratamiento inicial.",
-      "Únicamente en pacientes con factores de riesgo epidemiológico, como viajes re- cientes."
+      "Únicamente en pacientes con factores de riesgo epidemiológico, como viajes recientes."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 162 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Es importante realizar un estudio etiológico completo en pacientes con neumonía adquirida en la comunidad (NAC) graves, hospitalizados o que no responden al tratamiento empírico. Esto se debe a que estos pacientes pueden tener una infección causada por un patógeno resistente a los antibióticos comunes, lo que requiere un tratamiento específico y adecuado. Un estudio etiológico completo puede ayudar a identificar el agente causal y a elegir el tratamiento más efectivo. Por lo tanto, la opción A es la correcta en este caso.\n\n- **🔴 Opción B (Incorrecta):** La opción B sugiere que se debe realizar un estudio etiológico completo en pacientes jóvenes sin comorbilidades para evitar el uso de antibióticos de amplio espectro. Sin embargo, esto no es una razón clínica válida para realizar un estudio etiológico completo. La decisión de realizar un estudio etiológico completo debe basarse en la gravedad de la enfermedad y la respuesta del paciente al tratamiento empírico, no en la edad o la presencia de comorbilidades.\n\n- **🔴 Opción C (Incorrecta):** La opción C sugiere que se debe realizar un estudio etiológico completo en todos los pacientes con diagnóstico de NAC para guiar el tratamiento inicial. Esto no es necesario en la mayoría de los casos, ya que la mayoría de las neumonías adquiridas en la comunidad se tratan con antibióticos de amplio espectro y la respuesta al tratamiento es buena. Un estudio etiológico completo puede ser costoso y no es necesario en pacientes con neumonía leve o moderada.\n\n- **🔴 Opción D (Incorrecta):** La opción D sugiere que se debe realizar un estudio etiológico completo únicamente en pacientes con factores de riesgo epidemiológico, como viajes recientes. Si bien los factores de riesgo epidemiológico pueden aumentar la probabilidad de una infección causada por un patógeno específico, no es una razón clínica válida para realizar un estudio etiológico completo. La decisión de realizar un estudio etiológico completo debe basarse en la gravedad de la enfermedad y la respuesta del paciente al tratamiento empírico, no en la presencia de factores de riesgo epidemiológico.\n\n**Perla MIR:** 'Estudio etiológico completo en pacientes con NAC grave o sin respuesta al tratamiento empírico'."
   },
   {
     "id": "q-163",
     "localNumber": 163,
     "category": "General",
-    "stem": "¿En cuál de las siguientes enfermedades el lavado broncoalveolar NO tiene un papel re- levante para el diagnóstico?:",
+    "stem": "¿En cuál de las siguientes enfermedades el lavado broncoalveolar no tiene un papel relevante para el diagnóstico?",
     "options": [
-      "Histiocitosis de células de Langerhans pulmonar.",
-      "Neumonía eosinofílica crónica.",
-      "Neumonía intersticial usual idiopática.",
-      "Sarcoidosis."
+      "Histiocitosis de células de Langerhans pulmonar",
+      "Neumonía eosinofílica crónica",
+      "Neumonía intersticial usual idiopática",
+      "Sarcoidosis"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 163 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La Neumonía intersticial usual idiopática (NIUI) es una enfermedad crónica caracterizada por la inflamación de los espacios intersticiales pulmonares. El lavado broncoalveolar (LBA) puede ayudar a diagnosticar otras enfermedades pulmonares, pero en el caso de la NIUI, el LBA no es particularmente útil para el diagnóstico, ya que los hallazgos pueden ser inconsistentes y no específicos de esta enfermedad. En cambio, el diagnóstico de NIUI se basa en la historia clínica, la exploración física y pruebas de imagen como la resonancia magnética pulmonar (RM). Por lo tanto, en la NIUI, el LBA no tiene un papel relevante para el diagnóstico.\n\n- **🔴 Opción A (Incorrecta):** La Histiocitosis de células de Langerhans pulmonar (HL) es una enfermedad rara que afecta las células del sistema inmunológico llamadas células de Langerhans. El LBA puede ser útil en el diagnóstico de la HL, ya que puede mostrar una acumulación de células de Langerhans en los líquidos broncoalveolares. Por lo tanto, el LBA tiene un papel relevante en el diagnóstico de la HL.\n\n- **🔴 Opción B (Incorrecta):** La Neumonía eosinofílica crónica (NEC) es una enfermedad inflamatoria crónica del parénquima pulmonar. El LBA puede ser útil en el diagnóstico de la NEC, ya que puede mostrar una alta concentración de eosinófilos en los líquidos broncoalveolares. Por lo tanto, el LBA tiene un papel relevante en el diagnóstico de la NEC.\n\n- **🔴 Opción D (Incorrecta):** La Sarcoidosis es una enfermedad inflamatoria de origen desconocido que afecta a las glándulas linfáticas y los pulmones. El LBA puede ser útil en el diagnóstico de la sarcoidosis, ya que puede mostrar una acumulación de células inflamatorias en los líquidos broncoalveolares. Por lo tanto, el LBA tiene un papel relevante en el diagnóstico de la sarcoidosis.\n\nLa perla MIR es que el lavado broncoalveolar no es útil en el diagnóstico de la Neumonía intersticial usual idiopática, pero sí lo es en el diagnóstico de otras enfermedades pulmonares como la Histiocitosis de células de Langerhans pulmonar, la Neumonía eosinofílica crónica y la Sarcoidosis."
   },
   {
     "id": "q-164",
     "localNumber": 164,
     "category": "General",
-    "stem": "¿Cuál de los siguientes hallazgos en el lí- quido cefalorraquídeo (LCR) hace cuestio- nar el diagnóstico de esclerosis múltiple?:",
+    "stem": "¿Cuál de los siguientes hallazgos en el líquido cefalorraquídeo (LCR) hace cuestionar el diagnóstico de esclerosis múltiple?",
     "options": [
       "Presencia de bandas oligoclonales.",
       "Pleocitosis leve linfocitaria.",
-      "Hiperproteinorraquia>100 mg/dl.",
+      "Hiperproteinorraquia mayor de 100 mg/dl.",
       "Índice IgG elevado."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 164 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La presencia de hiperproteinorraquia mayor de 100 mg/dl en el líquido cefalorraquídeo es una anomalía que puede sugerir la presencia de una lesión en la barrera hematoencefálica, como la que se encuentra en la esclerosis múltiple. Esta condición puede causar una disminución de la capacidad de la barrera hematoencefálica para restringir la entrada de proteínas al líquido cefalorraquídeo, lo que lleva a un aumento de la proteína en el LCR. Por lo tanto, esta opción es la correcta clínicamente porque sugiere la presencia de una lesión en la barrera hematoencefálica que puede estar relacionada con la esclerosis múltiple.\n\n- **🔴 Opción A (Incorrecta):** La presencia de bandas oligoclonales en el líquido cefalorraquídeo es un hallazgo que se asocia con la inflamación en el sistema nervioso central, lo que puede estar presente en la esclerosis múltiple. Sin embargo, esta anomalía no es exclusiva de la esclerosis múltiple y puede estar presente en otras condiciones inflamatorias del SNC. Por lo tanto, esta opción no es la adecuada en este caso.\n\n- **🔴 Opción B (Incorrecta):** La pleocitosis leve linfocitaria en el líquido cefalorraquídeo es un hallazgo que se asocia con la inflamación en el sistema nervioso central, lo que puede estar presente en la esclerosis múltiple. Sin embargo, esta anomalía no es exclusiva de la esclerosis múltiple y puede estar presente en otras condiciones inflamatorias del SNC. Por lo tanto, esta opción no es la adecuada en este caso.\n\n- **🔴 Opción D (Incorrecta):** El índice IgG elevado en el líquido cefalorraquídeo es un hallazgo que se asocia con la inflamación en el sistema nervioso central, lo que puede estar presente en la esclerosis múltiple. Sin embargo, esta anomalía no es exclusiva de la esclerosis múltiple y puede estar presente en otras condiciones inflamatorias del SNC. Por lo tanto, esta opción no es la adecuada en este caso.\n\n- **Perla MIR:** Recuerda que la presencia de hiperproteinorraquia mayor de 100 mg/dl en el líquido cefalorraquídeo es una anomalía que sugiere la presencia de una lesión en la barrera hematoencefálica, lo que puede estar relacionado con la esclerosis múltiple."
   },
   {
     "id": "q-165",
     "localNumber": 165,
     "category": "General",
-    "stem": "¿Cuál es la tríada clínica característica de la hidrocefalia normotensiva del adulto?:",
+    "stem": "¿Cuál es la tríada clínica característica de la hidrocefalia normotensiva del adulto?",
     "options": [
-      "Trastorno de la marcha, incontinencia uri- naria y deterioro cognitivo.",
+      "Trastorno de la marcha, incontinencia urinaria y deterioro cognitivo.",
       "Cefalea, vómitos y rigidez de nuca.",
       "Diplopía, papiledema y tinnitus pulsátil.",
       "Vómitos, bradicardia y alteración del nivel de conciencia."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 165 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La tríada clínica característica de la hidrocefalia normotensiva del adulto incluye trastorno de la marcha, incontinencia urinaria y deterioro cognitivo. Estos síntomas se deben a la acumulación de líquido cefalorraquídeo en el espacio subaracnoideo, lo que puede causar presión sobre la médula espinal y los nervios craneales. El trastorno de la marcha se debe a la afectación de los nervios que controlan la coordinación y el equilibrio. La incontinencia urinaria se debe a la afectación de los nervios que controlan la vejiga. El deterioro cognitivo se debe a la afectación de los nervios que controlan la función cerebral. La tríada clínica de la hidrocefalia normotensiva del adulto es una consecuencia directa de la acumulación de líquido cefalorraquídeo en el espacio subaracnoideo y su impacto en la función nerviosa.\n\n- **🔴 Opción B (Incorrecta):** La tríada clínica de la hidrocefalia normotensiva del adulto no incluye cefalea, vómitos y rigidez de nuca. Estos síntomas se asocian con la hidrocefalia obstructiva, que es una condición diferente en la que el líquido cefalorraquídeo se acumula debido a una obstrucción en el sistema de drenaje del líquido cefalorraquídeo. La hidrocefalia obstructiva se caracteriza por una presión intracraneal alta y una acumulación de líquido cefalorraquídeo en el espacio subaracnoideo, lo que puede causar una variedad de síntomas, incluyendo cefalea, vómitos y rigidez de nuca. Sin embargo, estos síntomas no son característicos de la hidrocefalia normotensiva del adulto.\n\n- **🔴 Opción C (Incorrecta):** La tríada clínica de la hidrocefalia normotensiva del adulto no incluye diplopía, papiledema y tinnitus pulsátil. Estos síntomas se asocian con la enfermedad de Graves, que es una condición autoinmune que afecta la glándula tiroidea y puede causar una variedad de síntomas, incluyendo diplopía, papiledema y tinnitus pulsátil. La enfermedad de Graves se caracteriza por una hiperactividad tiroidea y una inflamación de la glándula tiroidea, lo que puede causar una variedad de síntomas, incluyendo diplopía, papiledema y tinnitus pulsátil. Sin embargo, estos síntomas no son característicos de la hidrocefalia normotensiva del adulto.\n\n- **🔴 Opción D (Incorrecta):** La tríada clínica de la hidrocefalia normotensiva del adulto no incluye vómitos, bradicardia y alteración del nivel de conciencia. Estos síntomas se asocian con la intoxicación por drogas o sustancias, que es una condición en la que el cuerpo se ve afectado por la presencia de drogas o sustancias tóxicas. La intoxicación por drogas o sustancias puede causar una variedad de síntomas, incluyendo vómitos, bradicardia y alteración del nivel de conciencia. Sin embargo, estos síntomas no son característicos de la hidrocefalia normotensiva del adulto.\n\nLa hidrocefalia normotensiva del adulto se caracteriza por una tríada clínica específica que incluye trastorno de la marcha, incontinencia urinaria y deterioro cognitivo. Estos síntomas se deben a la acumulación de líquido cefalorraquídeo en el espacio subaracnoideo y su impacto en la función nerviosa. Es importante tener en cuenta que la hidrocefalia normotensiva del adulto es una condición rara y su diagnóstico y tratamiento requieren una atención médica especializada."
   },
   {
     "id": "q-166",
     "localNumber": 166,
     "category": "General",
-    "stem": "En relación con la narcolepsia tipo 1, ¿cuál de las siguientes afirmaciones es co- rrecta?:",
+    "stem": "En relación con la narcolepsia tipo 1, ¿cuál de las siguientes afirmaciones es correcta?",
     "options": [
       "Se asocia a deficiencia de hipocretina (orexina) en el líquido cefalorraquídeo.",
       "No cursa con cataplejía ni alteraciones del sueño REM.",
       "Es más frecuente en mujeres y se asocia a exceso de serotonina.",
-      "No se relaciona con ningún alelo HLA es- pecífico."
+      "No se relaciona con ningún alelo HLA específico."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 166 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La narcolepsia tipo 1 se caracteriza por la deficiencia de hipocretina (también conocida como orexina) en el líquido cefalorraquídeo. Esto se debe a una mutación en el gen de la hipocretina, lo que afecta la producción de esta hormona. La hipocretina juega un papel crucial en el control del sueño, y su deficiencia conduce a los síntomas característicos de la narcolepsia tipo 1.\n- **🔴 Opción B (Incorrecta):** La narcolepsia tipo 1 sí cursa con cataplejía y alteraciones del sueño REM. La cataplejía es un episodio de parálisis muscular que puede ocurrir en cualquier momento, incluso durante la vigilia. Las alteraciones del sueño REM también son comunes, y pueden incluir ataques de somnolencia excesiva, trastornos de la respiración y movimientos anormales durante el sueño.\n- **🔴 Opción C (Incorrecta):** La narcolepsia tipo 1 es más frecuente en hombres que en mujeres, y no se asocia con un exceso de serotonina. De hecho, la serotonina es una hormona que regula el estado de ánimo y el apetito, y su nivel puede estar alterado en personas con narcolepsia tipo 1.\n- **🔴 Opción D (Incorrecta):** La narcolepsia tipo 1 se relaciona con un alelo HLA específico, llamado HLA-DQB1*0602. Esta asociación genética se ha demostrado en varias investigaciones y es un factor importante en la predisposición a la narcolepsia tipo 1.\n**Perla MIR:** La narcolepsia tipo 1 se caracteriza por la deficiencia de hipocretina en el líquido cefalorraquídeo y se asocia con cataplejía, alteraciones del sueño REM y una predisposición genética específica."
   },
   {
     "id": "q-167",
