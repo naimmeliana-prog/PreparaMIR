@@ -1963,7 +1963,7 @@
     "id": "q-141",
     "localNumber": 141,
     "category": "General",
-    "stem": "¿A cuál de las siguientes proteínas presentes en la superficie celular se une el fármaco pembrolizumab?:",
+    "stem": "¿A qué proteína presente en la superficie celular se une el fármaco pembrolizumab?",
     "options": [
       "PD-1.",
       "PD-L1.",
@@ -1971,41 +1971,41 @@
       "HER2."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 141 del examen MIR de la convocatoria FSE."
+    "explanation": "Los checkpoint inmunológicos son proteínas que normalmente ayudan a regular la respuesta inmunológica. El fármaco pembrolizumab es un inmunoterápico que se utiliza para estimular la respuesta inmunológica y combatir el cáncer.\n\n   - **🟢 Opción A (Correcta):** El fármaco pembrolizumab se une a PD-1, que es un receptor presente en las células inmunes. Cuando se activa, PD-1 suprime la respuesta inmunológica. El pembrolizumab se une a PD-1 y lo inhibe, lo que permite que las células inmunes ataquen a las células cancerígenas.\n   - **🔴 Opción B (Incorrecta):** PD-L1 es una proteína que se expresa en las células cancerígenas y puede engañar a las células inmunes para que crean que no hay nada que atacar. El pembrolizumab está diseñado para unirse a PD-1, no a PD-L1.\n   - **🔴 Opción C (Incorrecta):** CTLA-4 también es un receptor presente en las células inmunes y es importante para regular la respuesta inmunológica. Sin embargo, el pembrolizumab no se une a CTLA-4.\n   - **🔴 Opción D (Incorrecta):** HER2 es una proteína que se expresa en algunas células cancerígenas y es un objetivo común para la terapia dirigida. Sin embargo, el pembrolizumab no se une a HER2.\n\n   La perla MIR es que el pembrolizumab se une a PD-1 para estimular la respuesta inmunológica y combatir el cáncer. Esto es importante para recordar para cualquier pregunta futura relacionada con inmunoterapia y checkpoint inmunológicos."
   },
   {
     "id": "q-142",
     "localNumber": 142,
     "category": "General",
-    "stem": "¿Cuál de estos pacientes en tratamiento con quimioterapia cumple criterios de neutropenia febril?:",
+    "stem": "¿Cuál de estos pacientes en tratamiento con quimioterapia cumple criterios de neutropenia febril?",
     "options": [
-      "Mujer de 38 años intervenida de cáncer de mama en curso de quimioterapia adyuvante que acude a urgencias por temperatura de 38,5ºC, odinofagia, rinorrea y buen est ado general. Neutrófilos 400/mm3.",
+      "Mujer de 38 años intervenida de cáncer de mama en curso de quimioterapia adyuvante que acude a urgencias por temperatura de 38,5ºC, odinofagia, rinorrea y buen estado general. Neutrófilos 400/mm3.",
       "Mujer de 68 años intervenida de cáncer de colon estadio IV en curso de quimioterapia de primera línea que acude a urgencias por temperatura de 37,8ºC, diarrea y mucositis grado 2. Hemodinamicamente estable. Neutrófilos 300/mm3.",
       "Hombre de 50 años intervenido de adenocarcinoma gástrico en curso de quimioterapia adyuvante que acude a urgencias por escalofríos y temperatura de 37,5ºC sin otra sintomatología acompañante. Neutrófilos 600/mm3.",
       "Hombre de 65 años afecto de adenocarcinoma gástrico metastásico en curso de quimioterapia de segunda línea con ECOG 1 que acude a urgencias por temperatura de 38,6 ºC y diarrea grado 1. Neutrófilos 700/mm3."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 142 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Esta paciente cumple criterios de neutropenia febril debido a su temperatura de 38,5ºC y neutrófilos bajos (400/mm3), lo que sugiere infección. Además, presenta síntomas como odinofagia y rinorrea, que pueden estar relacionados con la infección. La buena condición general de la paciente se debe a que aún no ha presentado síntomas graves de infección.\n\n- **🔴 Opción B (Incorrecta):** Aunque esta paciente tiene neutrófilos bajos (300/mm3), su temperatura es sólo de 37,8ºC, lo que no es suficiente para considerarla febril. Además, su condición hemodinámica es estable y no presenta síntomas graves de infección.\n\n- **🔴 Opción C (Incorrecta):** Esta paciente no cumple criterios de neutropenia febril debido a que su temperatura es de 37,5ºC, que no es considerado febril. Además, no presenta síntomas graves de infección y su condición general es buena.\n\n- **🔴 Opción D (Incorrecta):** Aunque esta paciente tiene temperatura de 38,6ºC, su neutrófilos son de 700/mm3, lo que no es considerado bajo. Además, su condición general es buena y solo presenta diarrea grado 1, lo que no es suficiente para considerarla febril.\n\nPerla MIR: La neutropenia febril se define por una temperatura mayor o igual a 38,5ºC y neutrófilos menores de 500/mm3 en un paciente en tratamiento con quimioterapia."
   },
   {
     "id": "q-143",
     "localNumber": 143,
     "category": "General",
-    "stem": "En un paciente con cáncer colorrectal metastásico irresecable RAS nativo y con pérdida de expresión de proteínas reparadoras del ADN (MSI -H). ¿Cuál debe ser el tratamiento de elección de primera línea?:",
+    "stem": "En un paciente con cáncer colorrectal metastásico irresecable RAS nativo y con pérdida de expresión de proteínas reparadoras del ADN (MSI-H), ¿cuál debe ser el tratamiento de elección de primera línea?",
     "options": [
       "Quimioterapia + Anti-EGFR.",
       "Inmunoterapia.",
       "Quimioterapia.",
-      "Quimioterapia + Anti-VEGFR. Página: 23 de 33"
+      "Quimioterapia + Anti-VEGFR."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 143 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** En pacientes con cáncer colorrectal metastásico irresecable y pérdida de expresión de proteínas reparadoras del ADN (MSI-H), la inmunoterapia es el tratamiento de elección de primera línea. Esto se debe a que la pérdida de expresión de proteínas reparadoras del ADN hace que el cáncer sea más susceptible a la inmunoterapia, ya que el mecanismo de reparación del ADN está comprometido, lo que permite que los anticuerpos inmunoterápicos puedan reconocer y atacar más fácilmente las células cancerosas.\n\n- **🔴 Opción A (Incorrecta):** La quimioterapia + Anti-EGFR no es la opción más adecuada en este caso, ya que el cáncer colorrectal metastásico irresecable con pérdida de expresión de proteínas reparadoras del ADN (MSI-H) no responde mejor a la quimioterapia asociada con inhibidores de EGFR. En realidad, los inhibidores de EGFR pueden no ser efectivos en este subtipo de cáncer.\n\n- **🔴 Opción C (Incorrecta):** La quimioterapia sola no es la opción más adecuada en este caso, ya que los pacientes con cáncer colorrectal metastásico irresecable y pérdida de expresión de proteínas reparadoras del ADN (MSI-H) requieren un tratamiento más agresivo que la quimioterapia sola.\n\n- **🔴 Opción D (Incorrecta):** La quimioterapia + Anti-VEGFR no es la opción más adecuada en este caso, ya que, aunque puede ser efectiva en la reducción del tamaño de los tumores, no es la mejor opción para pacientes con cáncer colorrectal metastásico irresecable y pérdida de expresión de proteínas reparadoras del ADN (MSI-H), ya que este tipo de cáncer es más susceptible a la inmunoterapia.\n\nLa perla MIR: 'MSI-H' significa 'microsatélites inestables', que es un indicador de la pérdida de expresión de proteínas reparadoras del ADN en el cáncer colorrectal."
   },
   {
     "id": "q-144",
     "localNumber": 144,
     "category": "Nefrología",
-    "stem": "Hombre de 48 años, exfumador hasta el 2 .020, con antecedente de nefrectomía parcial izquierda en el 2.020 por carcinoma de células renales, tipo célula clara, grado 2/4, pT1b, que acude por autopalparse una adenopatía laterocervical alta hace 4 meses. En la ecografía de cuello se identifican 2 lesiones nodulares submaxilares y en el TC de cuello se informa de una lesión nodular de partes blandas derecha que corresponde probablemente a una adenopatía sospechosa. Se indica biopsia de la lesión donde se observa una proliferación neoplásica constituida por células con marcada atipia citológica que se disponen con un patrón de crecimiento difuso. El estudio inmunohistoquímico es positivo para CD20, y negativo para CD3, CD30, CD15 y CKAE1 -AE3. En estos casos se completa el estudio con CD10, Bcl6 y MUM1 para indicar el fenotipo de la neoplasia. ¿Cuál es el diagnóstico anatomo - patológico?:",
+    "stem": "Hombre de 48 años, ex fumador hasta el 2020, con antecedente de nefrectomía parcial izquierda en el 2020 por carcinoma de células renales, tipo célula clara, grado 2/4, pT1b, que acude por autopalparse una adenopatía laterocervical alta hace 4 meses. En la ecografía de cuello se identifican 2 lesiones nodulares submaxilares y en el TC de cuello se informa de una lesión nodular de partes blandas derecha que corresponde probablemente a una adenopatía sospechosa. Se indica biopsia de la lesión donde se observa una proliferación neoplásica constituida por células con marcada atipia citológica que se disponen con un patrón de crecimiento difuso. El estudio inmunohistoquímico es positivo para CD20, y negativo para CD3, CD30, CD15 y CKAE1-AE3. En estos casos se completa el estudio con CD10, Bcl6 y MUM1 para indicar el fenotipo de la neoplasia.",
     "options": [
       "Linfoma Hodgkin variante clásica.",
       "Linfoma B difuso de célula grande.",
@@ -2013,7 +2013,7 @@
       "Metástasis de carcinoma."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 144 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El diagnóstico correcto es Linfoma B difuso de célula grande debido a la positividad para CD20, lo que indica una neoplasia de células B. La negatividad para CD3, CD30, CD15 y CKAE1-AE3 ayuda a excluir otras opciones. La presencia de una proliferación neoplásica con marcada atipia citológica y un patrón de crecimiento difuso en la biopsia también es consistente con un linfoma B difuso. Además, la realización de un estudio inmunohistoquímico adicional con CD10, Bcl6 y MUM1 ayuda a determinar el fenotipo de la neoplasia y a confirmar el diagnóstico de linfoma B difuso.\n\n- **🔴 Opción A (Incorrecta):** La variante clásica del linfoma de Hodgkin no se caracteriza por la positividad para CD20, sino por la positividad para CD30 y CD15. Además, el patrón de crecimiento de la neoplasia en la biopsia no es consistente con la variante clásica del linfoma de Hodgkin.\n\n- **🔴 Opción C (Incorrecta):** El linfoma T periférico se caracteriza por la positividad para CD3 y CD30, lo que no es el caso en esta muestra. Además, la neoplasia en esta biopsia tiene un patrón de crecimiento difuso, lo que es incompatibilidad con el linfoma T periférico.\n\n- **🔴 Opción D (Incorrecta):** La metástasis de carcinoma no se puede excluir por completo sin más información, pero la positividad para CD20 y la presencia de una proliferación neoplásica con marcada atipia citológica y un patrón de crecimiento difuso en la biopsia sugiere que la neoplasia es más probablemente un linfoma que una metástasis de carcinoma.\n\nLa perla MIR: Recuerda que la positividad para CD20 es clave para determinar si la neoplasia es de células B o T, y que el patrón de crecimiento de la neoplasia en la biopsia es fundamental para distinguir entre diferentes tipos de linfoma."
   },
   {
     "id": "q-145",
@@ -2027,7 +2027,7 @@
       "Factor VII activado recombinante."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 145 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La desmopresina es un medicamento que estimula la liberación de vasopresina, que a su vez aumenta la concentración de vasoconstricciones en la piel. Sin embargo, no es efectivo para controlar la hemorragia en pacientes con hemofilia A.\n\n- **🔴 Opción B (Incorrecta):** El Emicizumab es un monoclonal de anticuerpos que se utiliza para prevenir episodios de sangrado en pacientes con hemofilia A. Sin embargo, no es adecuado para controlar la hemorragia aguda.\n\n- **🔴 Opción C (Incorrecta):** El Ácido tranexámico es un antifibrinolítico que se utiliza para prevenir y tratar la sangrada. Sin embargo, en pacientes con hemofilia A, es inadecuado ya que no sustituye la carencia de factor VIII.\n\n- **🟢 Opción D (Correcta):** El Factor VII activado recombinante es un medicamento que se utiliza para tratar la hemorragia en pacientes con hemofilia A. En este caso concreto, dado que el paciente tiene una inhibición de alto título frente al factor VIII, es imposible utilizar el factor VIII como tratamiento. Por lo tanto, el factor VII activado recombinante es la mejor opción para controlar la hemorragia aguda de este paciente.\n La perla MIR: En pacientes con hemofilia A y inhibición frente al factor VIII, la mejor opción para controlar la hemorragia aguda es el factor VII activado recombinante."
   },
   {
     "id": "q-146",
