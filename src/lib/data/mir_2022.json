@@ -773,21 +773,21 @@
     "id": "q-56",
     "localNumber": 56,
     "category": "Cardiología",
-    "stem": "En un paciente con una úlcera duodenal y a l t o riesgo cardiovascular por cardiopatía isquémica, en caso de requerir tratamiento con un AINE, ¿cuál de los si guientes le recomendaría como más seguro?:",
+    "stem": "En un paciente con una úlcera duodenal y alto riesgo cardiovascular por cardiopatía isquémica, en caso de requerir tratamiento con un AINE, ¿cuál de los siguientes le recomendaría como más seguro?",
     "options": [
-      "Naproxeno.",
-      "Celecoxib.",
-      "Ketorolaco.",
-      "Ibuprofeno."
+      "Naproxeno",
+      "Celecoxib",
+      "Ketorolaco",
+      "Ibuprofeno"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 56 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Naproxeno es una buena opción debido a su efecto antiagregante plaquetario más débil en comparación con otros AINE, lo que reduce el riesgo de eventos cardiovasculares. Además, es un AINE no selectivo que puede ser más seguro que los selectivos en pacientes con alto riesgo cardiovascular. Sin embargo, es importante mencionar que la evidencia no es concluyente y la elección del medicamento dependerá de la evaluación individual del paciente y la consideración de otros factores clínicos.\n\n- **🔴 Opción B (Incorrecta):** Celecoxib es un AINE selectivo que inhibe la COX-2, lo que reduce el riesgo de eventos gastrointestinales. Sin embargo, en pacientes con alto riesgo cardiovascular, la selección de COX-2 puede no ser la mejor opción, ya que aún puede aumentar el riesgo de eventos cardiovasculares en comparación con los AINE no selectivos.\n\n- **🔴 Opción C (Incorrecta):** Ketorolaco es un AINE potente que puede ser inapropiado en pacientes con alto riesgo cardiovascular debido a su efecto antiagregante plaquetario y su potencial para aumentar el riesgo de eventos cardiovasculares.\n\n- **🔴 Opción D (Incorrecta):** Ibuprofeno es un AINE no selectivo que puede ser seguro en pacientes con alto riesgo cardiovascular, pero su efecto antiagregante plaquetario es similar al de otros AINE no selectivos, por lo que no es la mejor opción en comparación con el Naproxeno."
   },
   {
     "id": "q-57",
     "localNumber": 57,
     "category": "General",
-    "stem": "Varón de 68 años con antecedentes de obesidad y diabetes mellitus tipo 2, en tratamiento con met- formina. Ingresa por un primer episodio de insu- ficiencia cardiaca. Tiene una hemoglobina glica- da de 8,5 %. Para optimiza r el tratamiento de la diabetes al alta, ¿cuál de los si guientes fármacos está contraindicado?:",
+    "stem": "Varón de 68 años con antecedentes de obesidad y diabetes mellitus tipo 2, en tratamiento con metformina. Ingresa por un primer episodio de insuficiencia cardiaca. Tiene una hemoglobina glucada de 8,5 %. Para optimizar el tratamiento de la diabetes al alta, ¿cuál de los siguientes fármacos está contraindicado?",
     "options": [
       "Linagliptina.",
       "Canagliflozina.",
@@ -795,49 +795,49 @@
       "Pioglitazona."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 57 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La pioglitazona está contraindicada en este paciente debido a su antecedente de insuficiencia cardiaca. La pioglitazona puede causar retención de líquidos y aumento de la presión arterial, lo que puede empeorar la insuficiencia cardiaca. Además, la pioglitazona puede interactuar con otros fármacos que se utilizan para tratar la insuficiencia cardiaca, como los inhibidores de la enzima convertidora de angiotensina (ECA) y los bloqueadores de los receptores de los péptidos del sistema renina-angiotensina-aldosterona (RAAS). Por lo tanto, la pioglitazona no es una opción segura en este paciente y se considera contraindicada.\n\n- **🔴 Opción A (Incorrecta):** La linagliptina es una dipeptidil peptidasa-4 (DPP-4) inhibitoria que no tiene efectos adversos significativos en la insuficiencia cardiaca. De hecho, las DPP-4 inhibitorias pueden ayudar a reducir la presión arterial y mejorar la función cardiaca en pacientes con insuficiencia cardiaca. Por lo tanto, la linagliptina no es una opción contraindicada en este paciente.\n\n- **🔴 Opción B (Incorrecta):** La canagliflozina es un inhibidor del transportador de sodio-glucosa 2 (SGLT2) que no tiene efectos adversos significativos en la insuficiencia cardiaca. De hecho, los inhibidores del SGLT2 pueden ayudar a reducir la presión arterial y mejorar la función cardiaca en pacientes con insuficiencia cardiaca. Por lo tanto, la canagliflozina no es una opción contraindicada en este paciente.\n\n- **🔴 Opción C (Incorrecta):** El dulaglutide es un análogo de glucagón que no tiene efectos adversos significativos en la insuficiencia cardiaca. De hecho, los análogos de glucagón pueden ayudar a reducir la presión arterial y mejorar la función cardiaca en pacientes con insuficiencia cardiaca. Por lo tanto, el dulaglutide no es una opción contraindicada en este paciente.\n\n**Perla MIR:** La pioglitazona es contraindicada en pacientes con insuficiencia cardiaca debido a su potencial para causar retención de líquidos y aumento de la presión arterial."
   },
   {
     "id": "q-58",
     "localNumber": 58,
     "category": "Pediatría",
-    "stem": "Niño de 5 años que sufrió un accidente de bicicle- t a c o n t r a u m a t i s m o f a c i a l s i n p é r d i d a d e c o n - ciencia, objetivándose en urgencias únicamente una herida en el mentón, realizándose sutura de la misma. Es remitido a consulta 5 días después del traumatismo por presentar limitación y des- viación de la apertura bucal. ¿Cuál es el diagnós- tico más probable?:",
+    "stem": "Niño de 5 años que sufrió un accidente de bicicleta con traumatismo facial sin pérdida de conciencia, objetivándose en urgencias únicamente una herida en el mentón, realizándose sutura de la misma. Es remitido a consulta 5 días después del traumatismo por presentar limitación y desviación de la apertura bucal.",
     "options": [
       "Fractura tipo LeFort.",
-      "Fractura combinada de m andíbula y maxilar superior.",
+      "Fractura combinada de mandíbula y maxilar superior.",
       "Fractura de cóndilo mandibular.",
-      "Fractura de sínfisis y rama horizontal de la mandíbula. 5 9 . D e l o s s i guientes tumores mali gnos que pueden afectar a la lengua, ¿cuál es el tipo más frecuente y dónde metastatiza habitualmente?: 1. El sarcoma y metastatiza en los ganglios linfá- ticos cervicales. 2. El carcinoma epidermoide y metastatiza en los ganglios linfáticos cervicales. 3. El sarcoma y metastatiza en tejido óseo a dis- tancia. 4. El carcinoma epidermoi de y metastatiza en tejido hepático. 60. ¿Cuál de las si guientes descripciones define el estadio II de una úlcera por presión se gún el sistema de estadiaje del National Pressure In jury Advisory Panel?: 1. Eritema no blanqueable. 2. Pérdida de espesor total de la piel con exposi- ción del tejido celular subcutáneo. 3. Pérdida de epidermis con exposición de la dermis. 4. Aparición de tejido de granulación en el lecho del defecto. 61. Con respecto a los in jertos cutáneos, señale la respuesta INCORRECTA: 1. Unos de los lechos considerados injertables por su rica vascularización es el tejido de gra- nulación. 2. Podemos clasificarlos en injertos de piel par- cial (si presentan sólo la epidermis) o injertos de piel total (si presen tan la epidermis y la dermis subyacente). 3. Suelen presentar un proceso de contracción, que aparece tanto a la hora de ser extraídos como después de haber sido injertados. 4. Dentro de las comorbilidades médicas asocia- das a la pérdida del injerto podemos destacar la diabetes, el tabaquismo y la vasculopatía peri- férica. 62. Mu jer de 38 años que desde hace unas semanas nota en ambos ojos sensación de arenilla y que- mazón, que empeora a lo lar go del día, cuando hace viento y con el aire acondicionado. ¿Cuál de los siguientes es el diagnóstico más probable?:"
+      "Fractura de sínfisis y rama horizontal de la mandíbula."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 58 del examen MIR de la convocatoria FSE."
+    "explanation": "Para resolver este problema, debemos analizar la descripción del caso clínico y relacionarla con las opciones disponibles.\n\n**🟢 Opción C (Correcta):** La fractura de sínfisis y rama horizontal de la mandíbula es el diagnóstico más probable en este caso. La limitación y desviación de la apertura bucal pueden indicar una fractura de la mandíbula, específicamente en la sínfisis y la rama horizontal. Esta lesión es común en niños que sufren traumatismos faciales.\n\n**🔴 Opción A (Incorrecta):** La fractura tipo LeFort es una lesión grave que afecta a la maxila y la mandíbula. Sin embargo, en este caso, no hay indicios de fractura de la maxila.\n\n**🔴 Opción B (Incorrecta):** La fractura combinada de mandíbula y maxilar superior es una lesión grave que no se ajusta a la descripción del caso clínico.\n\n**🔴 Opción D (Incorrecta):** La fractura de cóndilo mandibular es una lesión específica que no se ajusta a la descripción del caso clínico.\n\nLa perla MIR para recordar esta información es: 'La desviación de la apertura bucal es un signo de fractura de la mandíbula'."
   },
   {
     "id": "q-60",
     "localNumber": 60,
     "category": "General",
-    "stem": "¿Cuál de las si guientes descripciones define el estadio II de una úlcera por presión se gún el sistema de estadiaje del National Pressure In jury Advisory Panel?:",
+    "stem": "¿Cuál de las siguientes descripciones define el estadio II de una úlcera por presión según el sistema de estadije del National Pressure Injury Advisory Panel?",
     "options": [
       "Eritema no blanqueable.",
-      "Pérdida de espesor total de la piel con exposi- ción del tejido celular subcutáneo.",
+      "Pérdida de espesor total de la piel con exposición del tejido celular subcutáneo.",
       "Pérdida de epidermis con exposición de la dermis.",
       "Aparición de tejido de granulación en el lecho del defecto."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 60 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** El eritema no blanqueable es un signo temprano de la úlcera por presión, pero no define el estadio II. El estadio II se caracteriza por una pérdida de espesor de la piel más profunda que el eritema. Por lo tanto, esta opción no es la correcta en este caso.\n\n- **🔴 Opción B (Incorrecta):** La pérdida de espesor total de la piel con exposición del tejido celular subcutáneo es característica del estadio III de la úlcera por presión, no del estadio II. En el estadio II, la pérdida de espesor de la piel es menor y no se expone el tejido celular subcutáneo. Por lo tanto, esta opción no es la correcta en este caso.\n\n- **🔴 Opción D (Incorrecta):** La aparición de tejido de granulación en el lecho del defecto es característica del estadio IV de la úlcera por presión, no del estadio II. En el estadio II, el tejido de granulación no se ha formado aún. Por lo tanto, esta opción no es la correcta en este caso.\n\n- **🟢 Opción C (Correcta):** La pérdida de epidermis con exposición de la dermis es característica del estadio II de la úlcera por presión según el sistema de estadije del National Pressure Injury Advisory Panel. En este estadio, la pérdida de espesor de la piel es mayor que el eritema, pero menor que la exposición del tejido celular subcutáneo. La exposición de la dermis es un signo importante de la progresión de la úlcera por presión y la necesidad de un manejo adecuado.\n\nLa perla MIR: Recuerda que la progresión de la úlcera por presión se puede evaluar según el sistema de estadije del National Pressure Injury Advisory Panel, que define cuatro estadios: I (eritema), II (pérdida de epidermis), III (pérdida de espesor total de la piel) y IV (tejido de granulación y posible infección)."
   },
   {
     "id": "q-61",
     "localNumber": 61,
     "category": "General",
-    "stem": "Con respecto a los in jertos cutáneos, señale la respuesta INCORRECTA:",
+    "stem": "Con respecto a los injertos cutáneos, señale la respuesta INCORRECTA:",
     "options": [
-      "Unos de los lechos considerados injertables por su rica vascularización es el tejido de gra- nulación.",
-      "Podemos clasificarlos en injertos de piel par- cial (si presentan sólo la epidermis) o injertos de piel total (si presen tan la epidermis y la dermis subyacente).",
+      "Unos de los lechos considerados injertables por su rica vascularización es el tejido de granulación.",
+      "Podemos clasificarlos en injertos de piel parcial (si presentan sólo la epidermis) o injertos de piel total (si presentan tan la epidermis y la dermis subyacente).",
       "Suelen presentar un proceso de contracción, que aparece tanto a la hora de ser extraídos como después de haber sido injertados.",
-      "Dentro de las comorbilidades médicas asocia- das a la pérdida del injerto podemos destacar la diabetes, el tabaquismo y la vasculopatía peri- férica."
+      "Dentro de las comorbilidades médicas asociadas a la pérdida del injerto podemos destacar la diabetes, el tabaquismo y la vasculopatía periférica."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 61 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Esta opción es correcta porque los injertos de piel parcial y total se clasifican según la cantidad de capas de piel que se injertan. Los injertos de piel parcial solo incluyen la epidermis, mientras que los injertos de piel total incluyen tanto la epidermis como la dermis subyacente. Esto es importante para determinar la cantidad de tejido que se necesita para realizar un injerto exitoso y minimizar el riesgo de complicaciones.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque el tejido de granulación no es un lecho injertable por su rica vascularización. El tejido de granulación es un tipo de tejido cicatricial que se forma en respuesta a la lesión o la infección, y no es adecuado para injertos.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque los injertos cutáneos no suelen presentar un proceso de contracción significativo después de haber sido injertados. La contracción puede ocurrir durante la cicatrización inicial, pero no es un proceso característico de los injertos cutáneos.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque la vasculopatía periférica no es una comorbilidad médica asociada a la pérdida del injerto. La diabetes y el tabaquismo son factores de riesgo conocidos para la pérdida del injerto, pero la vasculopatía periférica no es un factor relevante en este contexto.\n\nLa perla MIR es la siguiente: 'Recuerda que los injertos de piel parcial y total se clasifican según la cantidad de capas de piel que se injertan'."
   },
   {
     "id": "q-62",
