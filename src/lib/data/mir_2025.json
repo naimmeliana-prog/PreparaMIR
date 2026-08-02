@@ -1625,71 +1625,71 @@
     "id": "q-117",
     "localNumber": 117,
     "category": "General",
-    "stem": "¿Cuál de las siguientes afirmaciones es FALSA en relación con los anticoagulantes orales de acción directa (ACODs)?:",
+    "stem": "¿Cuál de las siguientes afirmaciones es FALSA en relación con los anticoagulantes orales de acción directa (ACODs)?",
     "options": [
-      "Existen algunos ensayos clínicos que ava- lan su uso en pacientes en hemodiálisis.",
-      "Tienen menos riesgo de hemorragia intra- craneal que los antagonistas de la vita- mina K.",
+      "Existen algunos ensayos clínicos que avalan su uso en pacientes en hemodiálisis.",
+      "Tienen menos riesgo de hemorragia intracraneal que los antagonistas de la vitamina K.",
       "Pueden administrarse en pacientes con valvulopatías y portadores de todo tipo de prótesis cardíacas.",
-      "Son igual o más eficaces que los antago- nistas de la vitamina K para prevenir ictus isquémicos."
+      "Son igual o más eficaces que los antagonistas de la vitamina K para prevenir ictus isquémicos."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 117 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Los anticoagulantes orales de acción directa (ACODs) como el rivaroxabán y el apixabán tienen una mayor relación entre la dosis y la efectividad, lo que los hace más propensos a causar hemorragia intracraneal que los antagonistas de la vitamina K. Por lo tanto, esta afirmación es falsa en relación con los ACODs.\n\n- **🔴 Opción A (Incorrecta):** Existen algunos ensayos clínicos que avalan el uso de los anticoagulantes orales de acción directa (ACODs) en pacientes en hemodiálisis. Por lo tanto, esta afirmación es verdadera.\n\n- **🔴 Opción B (Incorrecta):** Los anticoagulantes orales de acción directa (ACODs) no tienen menos riesgo de hemorragia intracraneal que los antagonistas de la vitamina K. De hecho, tienen un mayor riesgo de hemorragia intracraneal. Por lo tanto, esta afirmación es falsa.\n\n- **🔴 Opción D (Incorrecta):** Los anticoagulantes orales de acción directa (ACODs) no son igual o más eficaces que los antagonistas de la vitamina K para prevenir ictus isquémicos. Por lo tanto, esta afirmación es falsa.\n\nLa perla MIR para recordar este concepto es: Los ACODs tienen un mayor riesgo de hemorragia intracraneal que los antagonistas de la vitamina K, por lo que deben ser utilizados con precaución en pacientes con antecedentes de hemorragia intracraneal."
   },
   {
     "id": "q-118",
     "localNumber": 118,
     "category": "General",
-    "stem": "Respecto a la estenosis aórtica severa, ¿cuál de las siguientes afirmaciones es FALSA?:",
+    "stem": "Respecto a la estenosis aortica severa, ¿cuál de las siguientes afirmaciones es FALSA?",
     "options": [
-      "Si en la auscultación existe un desdobla- miento normal del segundo ruido car- diaco, descartaremos una estenosis aór- tica severa con bastante probabilidad.",
+      "Si en la auscultación existe un desdoblamiento normal del segundo ruido cardiaco, descartaremos una estenosis aortica severa con bastante probabilidad.",
       "En pacientes más jóvenes, la etiología más frecuente de la misma es la válvula unicúspide.",
       "Si es sintomática y el paciente tiene más de 70 años se recomienda una prótesis percutánea tipo Transcatheter Aortic Valve Implantation (TAVI).",
-      "La estenosis aórtica severa de bajo flujo y bajo gradiente el TAC cardíaco con valo- ración del calcio valvular es de utilidad."
+      "La estenosis aortica severa de bajo flujo y bajo gradiente el TAC cardiaco con valoración del calcio valvular es de utilidad."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 118 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La afirmación sobre la recomendación de una prótesis percutánea tipo TAVI para pacientes con estenosis aortica severa sintomática y mayores de 70 años es verdadera. Sin embargo, la indicación de TAVI no se limita únicamente a esta población, ya que también se considera en pacientes con enfermedad renal grave o que presenten riesgos quirúrgicos altos para una cirugía abierta de reemplazo de válvula. Por lo tanto, esta afirmación no es FALSA en sí misma, pero es incompleta en el contexto del MIR.\n\n- **🔴 Opción A (Incorrecta):** La auscultación puede no siempre ser concluyente para descartar una estenosis aortica severa. Un desdoblamiento normal del segundo ruido cardiaco no elimina la posibilidad de una estenosis aortica severa, especialmente en pacientes con válvulas bicúspides. Por lo tanto, esta afirmación es FALSA.\n\n- **🔴 Opción B (Incorrecta):** La etiología más frecuente de la estenosis aortica en pacientes más jóvenes no es la válvula unicúspide. La estenosis aortica en jóvenes se asocia más comúnmente con la endocarditis infecciosa, la síndrome de Marfan o la enfermedad de Ehlers-Danlos. Por lo tanto, esta afirmación es FALSA.\n\n- **🔴 Opción D (Incorrecta):** El TAC cardiaco con valoración del calcio valvular puede ser útil en la evaluación de la estenosis aortica severa, pero no es la herramienta más importante para diagnosticar esta condición. La ecocardiografía transesofágica (ECHO) es la prueba de elección para evaluar la estenosis aortica severa y determinar la gravedad de la lesión valvular. Por lo tanto, esta afirmación es FALSA.\n\nLa perla MIR: Recuerda que la estenosis aortica severa es una condición que requiere una evaluación cuidadosa y una abordaje individualizado, dependiendo de la edad y la condición del paciente."
   },
   {
     "id": "q-119",
     "localNumber": 119,
     "category": "Cardiología",
-    "stem": "¿Cuál de los siguientes síncopes NO ingre- saría en cardiología para completar estu- dio?:",
+    "stem": "¿Cuál de los siguientes síncopes NO ingresa en cardiología para completar estudio?",
     "options": [
       "Varón de 45 años con tres episodios de síncope precedido de cortejo vegetativo y recuperación lenta en el último año.",
-      "Varón de 75 años con fracción de eyec- ción del ventrículo izquierdo del 40%.",
+      "Varón de 75 años con fracción de eyección del ventrículo izquierdo del 40%.",
       "Varón de 75 años con ECG con bloqueo completo de rama izquierda del haz de His.",
       "Mujer de 37 años con síncope en reposo precedido de palpitaciones."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 119 del examen MIR de la convocatoria FSE."
+    "explanation": "\n- **🟢 Opción A (Correcta):** Esta opción se refiere a un varón de 45 años con tres episodios de síncope precedidos de cortejo vegetativo y recuperación lenta. El cortejo vegetativo puede incluir síntomas como nausea, sudoración y sensación de debilidad, lo que sugiere un síncope vasovagal o neurally mediado, que no necesariamente requiere una evaluación cardiología intensiva. \n- **🔴 Opción B (Incorrecta):** Un varón de 75 años con fracción de eyección del ventrículo izquierdo del 40% tiene una disfunción ventricular izquierda, lo que lo pone en riesgo de síncope cardiogénico, especialmente si el síncope está relacionado con la disfunción ventricular. Esto justifica una evaluación cardiología.\n- **🔴 Opción C (Incorrecta):** Un varón de 75 años con ECG que muestra bloqueo completo de rama izquierda del haz de His puede tener un riesgo aumentado de bloqueo cardiaco completo o arritmias, lo que podría explicar el síncope y requiere evaluación cardiología.\n- **🔴 Opción D (Incorrecta):** Una mujer de 37 años con síncope en reposo precedido de palpitaciones sugiere una posible causa cardíaca para el síncope, como una arritmia. Esto justifica una evaluación cardiología para determinar la causa exacta del síncope.\n\nEn resumen, la **perla MIR** es que los síncopes con cortejo vegetativo y recuperación lenta suelen tener causas no cardiogénicas, mientras que aquellos con factores de riesgo cardiaco o síntomas sugestivos de enfermedad cardiaca requieren una evaluación cardiología exhaustiva."
   },
   {
     "id": "q-120",
     "localNumber": 120,
     "category": "General",
-    "stem": "En lo que respecta al diagnóstico de la es- tenosis aórtica, ¿qué afirmación es FALSA?:",
+    "stem": "En lo que respecta al diagnóstico de la estenosis aórtica, ¿qué afirmación es FALSA?",
     "options": [
-      "La ergometría con intercambio de gases es una prueba que ha de realizarse a to- dos los pacientes con síntomas.",
+      "La ergometría con intercambio de gases es una prueba que ha de realizarse a todos los pacientes con síntomas.",
       "La ecocardiografía transesofágica puede ser útil si existen dudas de la severidad.",
-      "El TAC cardíaco es una prueba indispen- sable previa al implante de una prótesis biológica aórtica percutánea tipo Trans- catheter Aortic Valve Implantation (TAVI).",
-      "En pacientes con estenosis aórtica de bajo flujo y bajo gradiente con función ven- tricular izquierda deprimida, la ecocardio- grafía de estrés con dobutamina estaría indicada."
+      "El TAC cardíaco es una prueba indispensable previa al implante de una prótesis biológica aórtica percutánea tipo Transcatheter Aortic Valve Implantation (TAVI).",
+      "En pacientes con estenosis aórtica de bajo flujo y bajo gradiente con función ventricular izquierda deprimida, la ecocardiografía de estrés con dobutamina estaría indicada."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 120 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La afirmación es cierta en el sentido de que la ergometría con intercambio de gases es una prueba útil para evaluar la tolerancia al esfuerzo y la capacidad cardiovascular en pacientes con síntomas de estenosis aórtica. Sin embargo, no es necesaria para todos los pacientes, especialmente aquellos con estenosis aórtica asintomática o leve. La indicación de la prueba dependerá de la evaluación individual del paciente y de la presencia de factores de riesgo o síntomas específicos. **🔴 Opción B (Incorrecta):** La afirmación es cierta en el sentido de que la ecocardiografía transesofágica puede ser útil para evaluar la severidad de la estenosis aórtica, especialmente en casos en los que la ecocardiografía transthorácica no proporciona información suficiente. **🔴 Opción C (Incorrecta):** La afirmación es falsa en el sentido de que el TAC cardíaco no es una prueba indispensable previa al implante de una prótesis biológica aórtica percutánea tipo TAVI. De hecho, la mayoría de los pacientes con estenosis aórtica grave se evalúan mediante ecocardiografía transthorácica y angiografía coronaria, y el TAC cardíaco se reserva para casos en los que se requiere una evaluación más detallada de la anatomía aórtica. **🔴 Opción D (Incorrecta):** La afirmación es falsa en el sentido de que la ecocardiografía de estrés con dobutamina no es indicada en pacientes con estenosis aórtica de bajo flujo y bajo gradiente con función ventricular izquierda deprimida. En estos casos, la ecocardiografía de estrés puede ser contraindicada debido al riesgo de aumentar la sobrecarga cardíaca y empeorar la función ventricular izquierda. En su lugar, se recomienda una evaluación más conservadora, como la ecocardiografía transthorácica y la angiografía coronaria, para determinar la severidad de la estenosis aórtica y planificar el tratamiento adecuado. **Perla MIR:** La estenosis aórtica es una enfermedad cardiovascular grave que requiere una evaluación y tratamiento oportunos. La ecocardiografía transthorácica y la angiografía coronaria son pruebas fundamentales para diagnosticar y evaluar la severidad de la estenosis aórtica. La indicación de la ecocardiografía de estrés y otras pruebas depende de la evaluación individual del paciente y de la presencia de factores de riesgo o síntomas específicos."
   },
   {
     "id": "q-121",
     "localNumber": 121,
     "category": "Cardiología",
-    "stem": "Varón de 56 años fumador sin otros facto- res de riesgo cardiovascular que acude a urgencias por dolor torácico opresivo desde hace 4 horas con un electrocardio- grama inicial que muestra elevación del segmento ST en derivaciones II, II y aVF de 2 mm. A su ll egada además se objetiva en la exploración física: tensión arterial 80/40 mmHg, frecuencia cardíaca 40 lpm e ingur- gitación de la vena yugular, saturación de O2 basal del 95%. Auscultación cardíaca sin soplos destacables ni edemas. ¿Cuál es el diagnóstico más probable?:",
+    "stem": "Varón de 56 años fumador sin otros factores de riesgo cardiovascular que acude a urgencias por dolor torácico opresivo desde hace 4 horas con un electrocardiograma inicial que muestra elevación del segmento ST en derivaciones II, III y aVF de 2 mm. A su llegada además se objetiva en la exploración física: tensión arterial 80/40 mmHg, frecuencia cardíaca 40 lpm e ingurgitación de la vena yugular, saturación de O2 basal del 95%. Auscultación cardíaca sin soplos destacables ni edemas.",
     "options": [
       "Infarto agudo de miocardio con elevación del segmento ST inferior.",
       "Infarto agudo de miocardio con elevación del segmento ST inferior con rotura del músculo papilar posterior-medial.",
       "Infarto agudo de miocardio con elevación del segmento ST inferior y de ventrículo derecho.",
-      "Infarto con elevación del segmento ST in- ferior con rotura del septo interventricular."
+      "Infarto con elevación del segmento ST inferior con rotura del septo interventricular."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 121 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Esta opción es la correcta porque el paciente presenta elevación del segmento ST en derivaciones II, III y aVF, lo que sugiere un infarto agudo de miocardio con afectación del ventrículo inferior. Además, la ingurgitación de la vena yugular y la hipotensión sugieren que el infarto puede haber causado una shock cardiogénico, lo que se combina con la afectación del ventrículo derecho. La presencia de un infarto agudo de miocardio con afectación del ventrículo inferior y del ventrículo derecho se conoce como infarto agudo de miocardio con elevación del segmento ST inferior y de ventrículo derecho, por lo que esta opción es la correcta.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque no se menciona la afectación del ventrículo derecho, solo se menciona la elevación del segmento ST en derivaciones II, III y aVF, lo que sugiere un infarto agudo de miocardio con afectación del ventrículo inferior, pero no se menciona la afectación del ventrículo derecho.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque no se menciona la afectación del ventrículo derecho y tampoco se menciona la ingurgitación de la vena yugular y la hipotensión, que sugieren que el infarto puede haber causado un shock cardiogénico.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque se menciona la rotura del septo interventricular, que no se menciona en el escenario clínico proporcionado.\n\nLa perla MIR para recordar este concepto es: 'Infarto agudo de miocardio con elevación del segmento ST inferior y de ventrículo derecho se caracteriza por la afectación del ventrículo inferior y del ventrículo derecho, con ingurgitación de la vena yugular y hipotensión'."
   },
   {
     "id": "q-122",
