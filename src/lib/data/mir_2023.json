@@ -2621,7 +2621,7 @@
     "id": "q-188",
     "localNumber": 188,
     "category": "General",
-    "stem": "¿Cuál de l os si guientes fárm acos d eberíamos EVITAR en un paciente ma yor c on diabetes mellitus?:",
+    "stem": "¿Cuál de los siguientes fármacos deberíamos EVITAR en un paciente mayor con diabetes mellitus?",
     "options": [
       "Sitagliptina.",
       "Empagliflozina.",
@@ -2629,63 +2629,63 @@
       "Semaglutida."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 188 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La Sitagliptina es un inhibidor del DPP-4, que puede aumentar la secreción de insulina en respuesta a la ingesta de alimentos, lo que puede ser beneficioso para los pacientes con diabetes mellitus. Sin embargo, en pacientes mayores, especialmente aquellos con comorbilidades, la Sitagliptina puede aumentar el riesgo de hipoglucemia, ya que puede disminuir la glucemia en un entorno de estrés fisiológico, como una infección o una enfermedad. Por lo tanto, es importante monitorizar la glucemia en pacientes mayores que reciben Sitagliptina.\n\n- **🔴 Opción B (Incorrecta):** La Empagliflozina es un inhibidor de la SGLT-2, que puede reducir la secreción de glucosa por la orina y aumentar la glucemia. Aunque puede ser beneficioso para los pacientes con diabetes mellitus, no es el fármaco que deberíamos evitar en pacientes mayores.\n\n- **🔴 Opción C (Incorrecta):** La Glibenclamida es un hipoglucemiantes orales, que puede ser beneficioso para los pacientes con diabetes mellitus, especialmente aquellos con hiperglucemia severa. No es el fármaco que deberíamos evitar en pacientes mayores.\n\n- **🔴 Opción D (Incorrecta):** La Semaglutida es un agonista del GLP-1, que puede aumentar la secreción de insulina y disminuir la secreción de glucosa por la orina. Aunque puede ser beneficioso para los pacientes con diabetes mellitus, no es el fármaco que deberíamos evitar en pacientes mayores.\n\nEn resumen, la perla MIR para memorizar el concepto clave es: 'En pacientes mayores con diabetes mellitus, la Sitagliptina puede aumentar el riesgo de hipoglucemia, por lo que es importante monitorizar la glucemia en este grupo de pacientes'."
   },
   {
     "id": "q-189",
     "localNumber": 189,
     "category": "General",
-    "stem": "En rela ción co n el índice tobillo-brazo, señale la respuesta correcta:",
+    "stem": "En relación con el índice tobillo-brazo, señale la respuesta correcta:",
     "options": [
-      "Se obtiene calculando la relación entre la presión diastólica en el to billo y la presión d iastólica braquial.",
+      "Se obtiene calculando la relación entre la presión diastólica en el tobillo y la presión diastólica braquial.",
       "Se considera normal si se obtienen valores entre 1 y 1,5.",
-      "Tiene una sen sibilidad del 95 % y una especificidad del 60 % para el diagnóstico de enfermedad arterial periférica.",
-      "Se c onsidera un indicador por sí mismo de enfermedad arteriosclerótica."
+      "Tiene una sensibilidad del 95 % y una especificidad del 60 % para el diagnóstico de enfermedad arterial periférica.",
+      "Se considera un indicador por sí mismo de enfermedad arteriosclerótica."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 189 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El índice tobillo-brazo se refiere a la relación entre la presión arterial en el tobillo y la presión arterial en el brazo. Esta relación se utiliza para evaluar la circulación arterial en las extremidades inferiores. La opción A describe correctamente cómo se calcula el índice tobillo-brazo, lo que lo hace la respuesta correcta.\n\n- **🔴 Opción B (Incorrecta):** La normalidad del índice tobillo-brazo no se define por valores entre 1 y 1,5. En realidad, un índice tobillo-brazo normal se considera entre 1 y 1,3. Valores más altos pueden indicar enfermedad arterial periférica. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción C (Incorrecta):** La sensibilidad y la especificidad del índice tobillo-brazo no se han establecido con precisión en el 95 % y el 60 %, respectivamente. Si bien el índice tobillo-brazo puede ser útil para el diagnóstico de enfermedad arterial periférica, no se han establecido con certeza estas cifras específicas. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** El índice tobillo-brazo no se considera un indicador por sí mismo de enfermedad arteriosclerótica. En lugar de eso, se utiliza como una herramienta para evaluar la circulación arterial en las extremidades inferiores. Si se detectan problemas en el índice tobillo-brazo, se deben realizar más pruebas para determinar la causa subyacente. Por lo tanto, esta opción es incorrecta.\n\nLa perla MIR es: El índice tobillo-brazo se calcula dividiendo la presión arterial en el tobillo por la presión arterial en el brazo. Un valor normal se considera entre 1 y 1,3, mientras que valores más altos pueden indicar enfermedad arterial periférica."
   },
   {
     "id": "q-190",
     "localNumber": 190,
     "category": "Cardiología",
-    "stem": "¿Cuál de los si guientes fárm acos o grupos terapéuticos son de indic ación prefer ente en un paciente co n diabetes mellitus y obesi dad ( IMC mayor de 30) en preve nción secundaria cardiovascular?:",
+    "stem": "¿Cuál de los siguientes fármacos o grupos terapéuticos es de indicación preferente en un paciente con diabetes mellitus y obesidad (IMC mayor de 30) en prevención secundaria cardiovascular?",
     "options": [
-      "Inhibidores del enzima di peptidil peptidasa 4 (iDPP4).",
+      "Inhibidores del enzima dipeptidil peptidasa 4 (iDPP4).",
       "Glitazonas.",
       "Sulfonilureas.",
-      "Análogos del receptor Glucagon Like Pe ptid 1 (arGLP1)."
+      "Análogos del receptor Glucagon Like Peptid 1 (arGLP1)."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 190 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Los análogos del receptor Glucagon Like Peptid 1 (arGLP1) son una excelente opción en pacientes con diabetes mellitus y obesidad (IMC mayor de 30) en prevención secundaria cardiovascular. Estos medicamentos combinan la acción de la insulina con efectos beneficiosos sobre el peso corporal y la función cardiovascular, lo que los convierte en una opción preferente en este contexto. Además, la evidencia clínica ha demostrado que los análogos de GLP-1 reducen el riesgo de eventos cardiovasculares en pacientes con diabetes mellitus tipo 2 con factores de riesgo cardiovascular elevados.\n\n- **🔴 Opción A (Incorrecta):** Los inhibidores del enzima dipeptidil peptidasa 4 (iDPP4) son una opción terapéutica efectiva para controlar la glucemia en pacientes con diabetes mellitus, pero no son la opción preferente en pacientes con obesidad y factores de riesgo cardiovascular elevados. Si bien pueden tener efectos beneficiosos sobre la función cardiovascular, no son tan efectivos como los análogos de GLP-1 en este sentido.\n\n- **🔴 Opción B (Incorrecta):** Las glitazonas son una clase de medicamentos que se utilizan para tratar la diabetes mellitus tipo 2, pero no son la opción preferente en pacientes con obesidad y factores de riesgo cardiovascular elevados. Las glitazonas pueden tener efectos beneficiosos sobre la función cardiovascular, pero también pueden aumentar el riesgo de enfermedades cardiovasculares en ciertos pacientes.\n\n- **🔴 Opción C (Incorrecta):** Las sulfonilureas son una clase de medicamentos que se utilizan para tratar la diabetes mellitus tipo 2, pero no son la opción preferente en pacientes con obesidad y factores de riesgo cardiovascular elevados. Las sulfonilureas pueden aumentar el riesgo de hipoglucemia y no tienen efectos beneficiosos sobre la función cardiovascular en pacientes con obesidad y factores de riesgo cardiovascular elevados."
   },
   {
     "id": "q-191",
     "localNumber": 191,
     "category": "General",
-    "stem": "Según el P rograma de Ac tividades Preventivas y Promoción de la Salud de la semFyC, así como de la US Preventive Task F orce y la American Cancer Society, ¿a partir de qué edad se recomienda, con una recomendación tipo A, iniciar l as pruebas de cribado de cáncer colorrectal, en población general asintomática?:",
+    "stem": "Según el Programa de Actividades Preventivas y Promoción de la Salud de la SemFYC, así como de la US Preventive Task Force y la American Cancer Society, ¿a partir de qué edad se recomienda, con una recomendación tipo A, iniciar las pruebas de cribado de cáncer colorrectal, en población general asintomática?",
     "options": [
       "A partir de los 40 años.",
       "A partir de los 50 años.",
       "A partir de los 60 años.",
-      "A partir de los 65 años. (--MEDICINA-0--30/36) Pagina: 28 de 34"
+      "A partir de los 65 años."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 191 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Según las recomendaciones de la SemFYC, la US Preventive Task Force y la American Cancer Society, se recomienda iniciar las pruebas de cribado de cáncer colorrectal a partir de los 50 años en población general asintomática. Esto se debe a que la mayoría de los cánceres colorrectales se desarrollan en esta edad y las pruebas de cribado pueden detectarlos en etapas tempranas, lo que mejora las posibilidades de tratamiento y curación. Además, estas organizaciones recomiendan una screening regular cada 10 años a partir de los 50 años para población general asintomática. Por lo tanto, la opción A es la correcta. \n\n- **🔴 Opción B (Incorrecta):** A partir de los 50 años no es lo suficientemente temprano para iniciar las pruebas de cribado de cáncer colorrectal. La mayoría de los cánceres colorrectales se desarrollan en esta edad, pero es importante iniciar las pruebas de cribado antes de que el cáncer se haya desarrollado. \n\n- **🔴 Opción C (Incorrecta):** A partir de los 60 años es demasiado tarde para iniciar las pruebas de cribado de cáncer colorrectal. La mayoría de los cánceres colorrectales se desarrollan antes de esta edad y las pruebas de cribado pueden detectarlos en etapas tempranas. \n\n- **🔴 Opción D (Incorrecta):** A partir de los 65 años es demasiado tarde para iniciar las pruebas de cribado de cáncer colorrectal. La mayoría de los cánceres colorrectales se desarrollan antes de esta edad y las pruebas de cribado pueden detectarlos en etapas tempranas. \n\nLa perla MIR: '50 años es la edad adecuada para iniciar las pruebas de cribado de cáncer colorrectal'."
   },
   {
     "id": "q-192",
     "localNumber": 192,
     "category": "General",
-    "stem": "En el abordaje del tabaquismo com o factor de riesgo y como primera causa prevenible de muerte, enfermedad e incapacidad en las sociedades industrializadas, es imp ortante tener e n cuenta muchos as pectos. Se ñale la afirmación INCORRECTA:",
+    "stem": "En el abordaje del tabaquismo como factor de riesgo y como primera causa prevenible de muerte, enfermedad e incapacidad en las sociedades industrializadas, es importante tener en cuenta muchos aspectos. Señale la afirmación INCORRECTA:",
     "options": [
       "La atención primaria es el entorno más favorable para detectar el consumo de tabaco, proporcionar consejo breve, facilitar la deshabituación tabáquica y promover estrategias de abandono.",
-      "La detección y el tratamiento de la dependencia del tabac o se considera una intervenci ón con coste-efectividad favora ble, sin re percusión e n términos de coste por año de vida ganado.",
-      "En la ayuda para d ejar d e fu mar, la evidencia avala tant o l as estrate gias no farmac ológicas (intervención breve o apoyo motivacional) como las estrategi as fa rmacológicas, siendo la combinación de ambas lo más efectivo.",
-      "Los fuma dores que no desea n intentar el abandono d el tabaco pu eden care cer de la información adecuada sobre sus efectos nocivos, tener c reencias erróneas o e star de smoralizados por haber tenido recaídas."
+      "La detección y el tratamiento de la dependencia del tabaco se considera una intervención con coste-efectividad favorable, sin repercusión en términos de coste por año de vida ganado.",
+      "En la ayuda para dejar de fumar, la evidencia avala tanto las estrategias no farmacológicas (intervención breve o apoyo motivacional) como las estrategias farmacológicas, siendo la combinación de ambas lo más efectivo.",
+      "Los fumadores que no desean intentar el abandono del tabaco pueden carecer de la información adecuada sobre sus efectos nocivos, tener creencias erróneas o estar desmoralizados por haber tenido recaídas."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 192 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La atención primaria es fundamental para detectar el consumo de tabaco, proporcionar consejo breve y promover estrategias de abandono. Los médicos de atención primaria pueden realizar una evaluación inicial, ofrecer consejos y referir a los pacientes a servicios de deshabituación tabáquica si es necesario. Además, la atención primaria es el punto de contacto inicial con el sistema de salud, por lo que es crucial para detectar y tratar el consumo de tabaco en sus primeras etapas. La detección temprana y la intervención temprana pueden aumentar las posibilidades de éxito en la deshabituación tabáquica. Por lo tanto, la atención primaria es el entorno más favorable para detectar el consumo de tabaco y promover estrategias de abandono.\n\n- **🔴 Opción B (Incorrecta):** La detección y el tratamiento de la dependencia del tabaco no siempre son una intervención con coste-efectividad favorable. Aunque la detección y el tratamiento pueden ser beneficiosos para la salud, también pueden ser costosos y no siempre resulten en un cambio significativo en el comportamiento del paciente. La efectividad de la intervención depende de muchos factores, como la gravedad de la dependencia, la motivación del paciente y la calidad de la intervención. Por lo tanto, no siempre es una intervención con coste-efectividad favorable.\n\n- **🔴 Opción C (Incorrecta):** La evidencia no avala necesariamente la combinación de estrategias no farmacológicas y farmacológicas como la más efectiva para la deshabituación tabáquica. Aunque ambas tipos de estrategias pueden ser efectivas, la mejor opción depende del paciente y de su situación individual. Algunos pacientes pueden responder mejor a una estrategia u otra, por lo que es importante considerar las necesidades y preferencias individuales del paciente. Además, la combinación de estrategias puede ser más costosa y compleja de implementar que una sola estrategia.\n\n- **🔴 Opción D (Incorrecta):** Los fumadores que no desean intentar el abandono del tabaco no siempre carecen de información adecuada sobre sus efectos nocivos. Muchos fumadores son conscientes de los riesgos asociados con el consumo de tabaco, pero siguen fumando debido a la adicción o a otros factores. La falta de información no es siempre la causa principal del consumo de tabaco. Por lo tanto, esta afirmación no es necesariamente incorrecta, pero no es la afirmación más adecuada en este contexto.\n\nLa perla MIR es: La atención primaria es fundamental para detectar y tratar el consumo de tabaco y promover estrategias de abandono."
   },
   {
     "id": "q-193",
