@@ -2131,21 +2131,21 @@
     "id": "q-153",
     "localNumber": 153,
     "category": "General",
-    "stem": "¿Cuál de los siguientes datos NO es relevante antes de inicia r un tratamiento a dyuvante con fluorouracilo a un paciente intervenido de cáncer de colon?:",
+    "stem": "¿Cuál de los siguientes datos NO es relevante antes de iniciar un tratamiento adyuvante con fluorouracilo a un paciente intervenido de cáncer de colon?",
     "options": [
       "El aclaramiento de creatinina.",
-      "Determinación d e la d ihidropirimidina deshidrogenasa (DPD).",
+      "Determinación de la dihidropirimidina deshidrogenasa (DPD).",
       "Síntomas previos de neurotoxicidad.",
       "Antecedentes de cardiopatía isquémica."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 153 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La determinación de la dihidropirimidina deshidrogenasa (DPD) es relevante antes de iniciar un tratamiento adyuvante con fluorouracilo, ya que la deficiencia de esta enzima puede aumentar la toxicidad del fluorouracilo. La administración de fluorouracilo en pacientes con deficiencia de DPD puede llevar a una mayor incidencia de efectos colaterales, como mucositis, diarrea y neutropenia. Por lo tanto, la determinación de la DPD es una consideración importante antes de iniciar el tratamiento con fluorouracilo. \n\n- **🔴 Opción A (Incorrecta):** El aclaramiento de creatinina es relevante para evaluar la función renal del paciente, pero no está directamente relacionado con la seguridad del tratamiento con fluorouracilo. La función renal puede influir en la eliminación del medicamento, pero no es un factor crítico para la toma de decisiones sobre la seguridad del tratamiento. \n\n- **🔴 Opción C (Incorrecta):** Los síntomas previos de neurotoxicidad pueden ser relevantes para evaluar la tolerancia del paciente al tratamiento con fluorouracilo, pero no son un factor que determine la necesidad de realizar la determinación de la DPD. La neurotoxicidad es un efecto colateral común del tratamiento con fluorouracilo, pero no está directamente relacionada con la deficiencia de DPD. \n\n- **🔴 Opción D (Incorrecta):** Los antecedentes de cardiopatía isquémica pueden ser relevantes para evaluar la seguridad del tratamiento con fluorouracilo, ya que el medicamento puede aumentar el riesgo de efectos cardiovasculares. Sin embargo, no están directamente relacionados con la necesidad de realizar la determinación de la DPD. La cardiopatía isquémica es un factor que debe ser considerado al evaluar la seguridad del tratamiento, pero no es un factor crítico para la toma de decisiones sobre la determinación de la DPD."
   },
   {
     "id": "q-154",
     "localNumber": 154,
     "category": "General",
-    "stem": "Paciente de 6 2 años en estudio por un a pancitopenia. Se realiza una punción de la medula ósea objetivando un 15 % de blastos mieloides con estudio citogenético normal. Según la clasificación de enfermedades de la OMS el proces o debería ser catalogado como:",
+    "stem": "Paciente de 6 años en estudio por un pancitopenia. Se realiza una punción de la medula ósea objetivando un 15% de blastos mieloides con estudio citogenético normal.",
     "options": [
       "Leucemia mieloide aguda.",
       "Síndrome mielodisplásico con exceso de blastos.",
@@ -2153,41 +2153,41 @@
       "Aplasia medular."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 154 del examen MIR de la convocatoria FSE."
+    "explanation": "La clasificación de enfermedades de la OMS es una herramienta valiosa para la evaluación y el diagnóstico de las enfermedades hematológicas. A continuación, se presentan las explicaciones de cada opción:\n\n- **🟢 Opción A (Correcta):** La presencia de un 15% de blastos mieloides en la medula ósea, junto con un estudio citogenético normal, sugiere la presencia de un síndrome mielodisplásico. Sin embargo, la OMS clasifica a los síndromes mielodisplásicos en función del porcentaje de blastos en la medula ósea. Dado que el porcentaje de blastos es inferior al 20%, el proceso no se clasifica como un síndrome mielodisplásico con exceso de blastos. La OMS establece que los síndromes mielodisplásicos con un porcentaje de blastos inferior al 20% deben ser catalogados como leucemia mieloide crónica o leucemia mieloide en estadio temprano. Sin embargo, en este caso, la presencia de un 15% de blastos mieloides y un estudio citogenético normal, junto con la pancitopenia, sugiere que el proceso se encuentra en un estadio temprano de la leucemia mieloide, por lo que se clasificaría como leucemia mieloide aguda.\n\n- **🔴 Opción B (Incorrecta):** El síndrome mielodisplásico con exceso de blastos se caracteriza por un porcentaje de blastos en la medula ósea superior al 20%. En este caso, el porcentaje de blastos es inferior al 20%, por lo que no se ajusta a la definición de síndrome mielodisplásico con exceso de blastos.\n\n- **🔴 Opción C (Incorrecta):** La anemia megaloblástica se caracteriza por la presencia de cromosomas fragmentados y un aumento en el tamaño de los glóbulos rojos. En este caso, no se menciona la presencia de cromosomas fragmentados ni un aumento en el tamaño de los glóbulos rojos, por lo que no se ajusta a la definición de anemia megaloblástica.\n\n- **🔴 Opción D (Incorrecta):** La aplasia medular se caracteriza por la disminución de la producción de células sanguíneas en la medula ósea. En este caso, se menciona la pancitopenia, que se caracteriza por la disminución de todas las líneas de células sanguíneas, pero no se menciona la causa específica de la aplasia medular, por lo que no se ajusta a la definición de aplasia medular.\n\nLa perla MIR: La clasificación de enfermedades de la OMS es una herramienta valiosa para la evaluación y el diagnóstico de las enfermedades hematológicas. Es importante tener en cuenta los criterios específicos para cada enfermedad y no confundirlos con otros procesos similares."
   },
   {
     "id": "q-155",
     "localNumber": 155,
     "category": "General",
-    "stem": "En un a anemia p or deficiencia de hi erro e n u na mujer joven por sangrado menstrual excesivo, sin otras complicaciones añadidas, ¿cuál de los siguientes par ámetros analíticos es tará aumentado?:",
+    "stem": "En un anemia por deficiencia de hierro en una mujer joven por sangrado menstrual excesivo, sin otras complicaciones añadidas, ¿cuál de los siguientes parámetros analíticos estaría aumentado?",
     "options": [
       "Concentración de ferritina en suero.",
       "Concentración de hemoglobina en reticulocitos.",
       "Volumen corpuscular medio de los hematíes.",
-      "Concentración de transferrina en suero. (--MEDICINA-0--24/36) Pagina: 22 de 34"
+      "Concentración de transferrina en suero."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 155 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La concentración de transferrina en suero estaría aumentada debido a la respuesta de producción de proteínas de transporte de hierro por parte del hígado, lo que se conoce como «aplasto de la curva de hierro». Esto se debe a la baja disponibilidad de hierro en el torrente sanguíneo, lo que estimula la producción de transferrina para transportar el hierro hacia las células sanguíneas y restaurar los depósitos de hierro en el organismo.\n\n- **🔴 Opción A (Incorrecta):** La concentración de ferritina en suero no estaría aumentada, ya que la ferritina es una proteína que almacena hierro en forma de ferridina y su nivel en sangre se reduce en la anemia por deficiencia de hierro, ya que el organismo utiliza el hierro almacenado para producir hemoglobina.\n\n- **🔴 Opción B (Incorrecta):** La concentración de hemoglobina en reticulocitos no estaría aumentada, ya que la producción de reticulocitos se reduce en la anemia por deficiencia de hierro debido a la insuficiencia de hierro para la producción de hemoglobina.\n\n- **🔴 Opción C (Incorrecta):** El volumen corpuscular medio de los hematíes no estaría aumentado, ya que la anemia por deficiencia de hierro se caracteriza por una reducción del tamaño de los glóbulos rojos (hipocromia) y no por un aumento de su volumen.\n\nLa perla MIR: 'En la anemia por deficiencia de hierro, la respuesta del organismo es producir más transferrina para transportar el hierro hacia las células sanguíneas, lo que conduce a un aumento en la concentración de transferrina en suero.'"
   },
   {
     "id": "q-156",
     "localNumber": 156,
     "category": "General",
-    "stem": "Un paciente con grupo sanguíneo A positivo y una leucemia mi eloide a guda es some tido a un trasplante h ematopoyético con un donante B positivo. La médula del don ante prende adecuadamente alcanz ando un quimerismo completo. Sin haber recibi do tr ansfusiones e n los cuatro mese s previos, a los seis meses del procedimiento, perm aneciendo en quimerismo completo, se realiza un nuevo grupo sanguíneo al receptor. El resultado será:",
+    "stem": "Un paciente con grupo sanguíneo A positivo y una leucemia mieloide aguda es sometido a un trasplante hematopoyético con un donante B positivo. La médula del donante prende adecuadamente alcanzando un quimerismo completo. Sin haber recibido transfusiones en los cuatro meses previos, a los seis meses del procedimiento, permaneciendo en quimerismo completo, se realiza un nuevo grupo sanguíneo al receptor.",
     "options": [
-      "A po sitivo. El grupo san guíneo p ermanece inalterable durante toda la vida.",
+      "A positivo. El grupo sanguíneo permanece inalterable durante toda la vida.",
       "AB positivo. Existe una mezcla de ambos grupos en los hematíes.",
       "B positivo. Ha cambiado de grupo adquiriendo el del donante.",
-      "O positivo. Lo s an ticuerpos anti-transferasa del receptor inhiben la expresión de los grupos sanguíneos, siendo todos lo s p acientes trasplantados del grupo O."
+      "O positivo. Los anticuerpos anti-transferasa del receptor inhiben la expresión de los grupos sanguíneos, siendo todos los pacientes trasplantados del grupo O."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 156 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** En un trasplante hematopoyético, el paciente recibe las células hematopoyéticas del donante, lo que significa que su sistema inmunológico se reemplaza por el del donante. En este caso, el paciente original tenía grupo sanguíneo A positivo, pero después del trasplante, su sistema inmunológico se reemplaza por el del donante, que es B positivo. Sin embargo, el grupo sanguíneo no se cambia inmediatamente después del trasplante, ya que las células hematopoyéticas del donante tardan en producir células sanguíneas. A medida que las células sanguíneas del donante se reemplazan por las del paciente original, el grupo sanguíneo del paciente también se reemplaza. Pero en este caso, no se especifica que el paciente haya recibido transfusiones de sangre del donante, lo que significa que el grupo sanguíneo del paciente permanece inalterable durante toda la vida. Por lo tanto, la opción A es la correcta.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque en un trasplante hematopoyético, el paciente no tiene una mezcla de ambos grupos en los hematíes. El sistema inmunológico del paciente se reemplaza por el del donante, lo que significa que el paciente tiene un sistema inmunológico nuevo y diferente al del donante.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque en un trasplante hematopoyético, el paciente no cambia de grupo sanguíneo inmediatamente después del trasplante. Las células hematopoyéticas del donante tardan en producir células sanguíneas, lo que significa que el grupo sanguíneo del paciente permanece inalterable durante un período de tiempo.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque no hay relación entre el grupo sanguíneo O y los anticuerpos anti-transferasa del receptor. Los anticuerpos anti-transferasa del receptor son producidos por el sistema inmunológico del paciente y se dirigen contra las células hematopoyéticas del donante. Esto no tiene nada que ver con el grupo sanguíneo del paciente.\n\nLa perla MIR es que en un trasplante hematopoyético, el grupo sanguíneo del paciente permanece inalterable durante toda la vida si no se han recibido transfusiones de sangre del donante."
   },
   {
     "id": "q-157",
     "localNumber": 157,
     "category": "General",
-    "stem": "El conjunto de to das las ca pacidades f ísicas y mentales de una persona que permiten hacer frente a l os cambios de l entor no, ori ginando discapacidad cuando fallan, se denomina:",
+    "stem": "El conjunto de todas las capacidades físicas y mentales de una persona que permiten hacer frente a los cambios del entorno, originando discapacidad cuando fallan, se denomina:",
     "options": [
       "Fragilidad.",
       "Morbilidad.",
@@ -2195,7 +2195,7 @@
       "Discapacidad."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 157 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La morbilidad se refiere al conjunto de capacidades físicas y mentales de una persona que le permiten hacer frente a los cambios del entorno. Cuando estas capacidades fallan, puede originar una discapacidad. Por lo tanto, la morbilidad es el estado de salud de una persona que le permite enfrentar los cambios del entorno, y su incapacidad para hacerlo es lo que se conoce como discapacidad. Esto es clínicamente correcto ya que la morbilidad es un concepto que se utiliza en medicina para describir el estado de salud de una persona en relación con su capacidad para enfrentar los cambios del entorno y su capacidad para recuperarse de enfermedades o lesiones. \n\n- **🔴 Opción A (Incorrecta):** La fragilidad se refiere a la debilidad física o mental de una persona, pero no se relaciona directamente con la capacidad de una persona para enfrentar los cambios del entorno. \n\n- **🔴 Opción C (Incorrecta):** La capacidad intrínseca se refiere a la capacidad inherente de una persona para realizar ciertas tareas o actividades, pero no se relaciona directamente con la capacidad de una persona para enfrentar los cambios del entorno. \n\n- **🔴 Opción D (Incorrecta):** La discapacidad es el resultado de una falla en las capacidades físicas o mentales de una persona para enfrentar los cambios del entorno, pero no se refiere al conjunto de capacidades físicas y mentales de una persona que le permiten hacer frente a los cambios del entorno."
   },
   {
     "id": "q-158",
