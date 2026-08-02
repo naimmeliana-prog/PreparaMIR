@@ -1893,21 +1893,21 @@
     "id": "q-136",
     "localNumber": 136,
     "category": "Nefrología",
-    "stem": "Hombre de 53 años acude a urgencias por anuria de 48 horas de evolución. Presenta dolor abdominal difuso de varios días de evolución que no se modifica con la posición ni con la ingesta. No ha presentado fiebre pero sí náuseas con dos vómitos escasos biliosos sin productos patológicos, además de estreñimiento. En la analítica sanguínea presenta ligera leucocitosis con desviación izquierda, creatinina 7 mg/dL con FG<15mL/min, sodio 132 mmol/L y potasio 5,7 mmol/L, bilirrubina 1 mg/dL, amilasa 100 U/L, AST 30 U/L, ALT 45 U/L, fosfatasa alcalina 60 U/L, y GGT 70 U/L. En el sedimento de orina únicamente se evidencian 5 -10 hematíes/campo y leve piuria. En la ecografía abdominal dilatación pielocalicial y ureteral moderada -severa bilateral con leve disminución del parénquima en el riñón izquierdo y múltiples imágenes hiperecoicas con sombra acústica posterior en todos los grupos caliciales así como en el uréter proximal izquierdo. ¿Cuál es la actitud más correcta a seguir?:",
+    "stem": "Hombre de 53 años acude a urgencias por anuria de 48 horas de evolución. Presenta dolor abdominal difuso de varios días de evolución que no se modifica con la posición ni con la ingesta. No ha presentado fiebre pero sí náuseas con dos vómitos escasos biliosos sin productos patológicos, además de estreñimiento. En la analítica sanguínea presenta ligera leucocitosis con desviación izquierda, creatinina 7 mg/dL con FG<15mL/min, sodio 132 mmol/L y potasio 5,7 mmol/L, bilirrubina 1 mg/dL, amilasa 100 U/L, AST 30 U/L, ALT 45 U/L, fosfatasa alcalina 60 U/L, y GGT 70 U/L. En el sedimento de orina únicamente se evidencian 5 -10 hematíes/campo y leve piuria. En la ecografía abdominal dilatación pielocalicial y ureteral moderada -severa bilateral con leve disminución del parénquima en el riñón izquierdo y múltiples imágenes hiperecoicas con sombra acústica posterior en todos los grupos caliciales así como en el uréter proximal izquierdo. ¿Cuál es la actitud más correcta a seguir?",
     "options": [
       "Analgesia iv y sueroterapia intensiva para forzar diuresis.",
       "Diuréticos intravenosos.",
       "Derivación de la vía urinaria de forma bilateral.",
-      "Solicitar TC ante la sospecha de abdomen agudo. Página: 22 de 33"
+      "Solicitar TC ante la sospecha de abdomen agudo."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 136 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La derivación de la vía urinaria de forma bilateral es la actitud más correcta a seguir en este caso. La causa subyacente de la anuria es la obstrucción de los conductos bilaterales, lo que se confirma con la ecografía abdominal. La derivación de la vía urinaria permite aliviar la obstrucción y mejorar la función renal. Esta opción es la más adecuada ya que la anuria es un signo de obstrucción urinaria que requiere tratamiento inmediato.\n- **🔴 Opción A (Incorrecta):** La analgesia iv y sueroterapia intensiva para forzar diuresis no es la opción más adecuada en este caso. Aunque la analgesia puede ser útil para aliviar el dolor, no aborda la causa subyacente de la anuria. Además, la sueroterapia intensiva puede no ser efectiva en la presencia de obstrucción urinaria.\n- **🔴 Opción B (Incorrecta):** Los diuréticos intravenosos pueden ser útiles en algunos casos de anuria, pero no son la opción más adecuada en este caso. La obstrucción urinaria es la causa subyacente de la anuria, y los diuréticos no pueden aliviar esta obstrucción.\n- **🔴 Opción D (Incorrecta):** Solicitar una TC puede ser útil para confirmar la causa de la anuria, pero no es la opción más adecuada en este caso. La causa de la anuria ya se ha confirmado con la ecografía abdominal y la derivación de la vía urinaria es la mejor opción para aliviar la obstrucción.\n- La perla MIR: en casos de anuria, siempre es importante evaluar la posibilidad de obstrucción urinaria y tomar medidas para aliviarla lo antes posible."
   },
   {
     "id": "q-137",
     "localNumber": 137,
     "category": "General",
-    "stem": "Hombre de 28 años que consulta por haberse despertado por dolor en la región genital y tumefacción en el pene. No recuerda con detalle lo sucedido en las últimas 12 horas. En las últimas 48 h ha consumido alto volumen de alcohol, varias drogas (mefedrona, cocaína, anfetamina), junto con sildenafilo y se ha autoinyectado en el pene 20 µg de alprostadil. A la exploración destaca, pene flácido, glande no visible en su totalidad por edema y hematoma expansivo de partes blandas. Presenta restos hemáticos en el meato uretral. ¿Cuál de las siguientes opciones NO formaría parte de su plan terapéutico?:",
+    "stem": "Hombre de 28 años que consulta por haberse despertado con dolor en la región genital y tumefacción en el pene. No recuerda con detalle lo sucedido en las últimas 12 horas. En las últimas 48 horas ha consumido un alto volumen de alcohol, varias drogas (mefedrona, cocaína, anfetamina), junto con sildenafilo y se ha autoinyectado en el pene 20 μg de alprostadil. A la exploración destaca, pene flácido, glande no visible en su totalidad por edema y hematoma expansivo de partes blandas. Presenta restos hemáticos en el meato uretral.",
     "options": [
       "Gasometría obtenida mediante punción del cuerpo cavernoso.",
       "Revisión quirúrgica urgente.",
@@ -1915,13 +1915,13 @@
       "Ecografía de pene."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 137 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Es incorrecta la gasometría obtenida mediante punción del cuerpo cavernoso, ya que no es una técnica adecuada para este caso y puede provocar complicaciones adicionales. La punción del cuerpo cavernoso es una técnica utilizada en la evaluación de la disfunción eréctil, pero no es aplicable en un caso de hemorragia peniana con restos hemáticos en el meato uretral. \n\n- **🔴 Opción B (Incorrecta):** La revisión quirúrgica urgente puede ser necesaria en casos de hemorragia peniana severa, pero debe ser evaluada de manera cuidadosa y no se debe realizar sin considerar la posible causa subyacente, como una infección o una complicación de la autoinyección.\n\n- **🔴 Opción C (Incorrecta):** Evitar el sondaje vesical es una medida razonable en un caso de hemorragia peniana, ya que puede provocar una complicación adicional, como la infección del tracto urinario. Sin embargo, no es una opción correcta en este contexto, ya que se debe considerar la posibilidad de una lesión uretral y la necesidad de una evaluación adecuada.\n\n- **🔴 Opción D (Incorrecta):** La ecografía de pene puede ser útil en la evaluación de la hemorragia peniana, ya que permite visualizar la distribución de la hemorragia y la posible causa subyacente. Sin embargo, no es la opción correcta en este caso, ya que se debe priorizar una evaluación más invasiva para determinar la causa de la hemorragia.\n\n**Perla MIR:** En casos de hemorragia peniana, es importante priorizar una evaluación cuidadosa y no realizar procedimientos invasivos sin considerar la posible causa subyacente."
   },
   {
     "id": "q-138",
     "localNumber": 138,
     "category": "Urología",
-    "stem": "Hombre de 51 años que consulta preocupado por la aparición de leve goteo postmiccional. Tiene dislipemia, hipertensión arterial y alopecia androgénica incipiente. Sigue tratamiento con simvastatina, enalapril, minoxidil y dutasteride. Padre y hermano fallecidos por cáncer de próstata. En los reconocimientos de salud laboral realizados en 2 .021 y 2 .023 se observa PSA de 0,3 y de 3,8 ng/mL respectivamente (valores de referencia <4 ng/mL). Una RMN prostática multiparamétrica muestra una próstata de 55 mL y en secuencia T2 un nódulo hipointenso moderado y homogéneo de 1,7 cm, con restricción de la difusión y realce precoz en perfusión en el límite entre el estroma fibromuscular anterior y la zona transicional del lóbulo izquierdo prostático. Repetimos una nueva determinación de PSA 3,5 ng/mL. A la vista de estos hallazgos, ¿qué recomendación propondría al paciente como la más adecuada?:",
+    "stem": "Hombre de 51 años que consulta preocupado por la aparición de leve goteo postmiccional. Tiene dislipemia, hipertensión arterial y alopecia androgénica incipiente. Sigue tratamiento con simvastatina, enalapril, minoxidil y dutasteride. Padre y hermano fallecidos por cáncer de próstata. En los reconocimientos de salud laboral realizados en 2021 y 2023 se observa PSA de 0,3 y de 3,8 ng/mL respectivamente (valores de referencia <4 ng/mL). Una RMN prostática multiparamétrica muestra una próstata de 55 mL y en secuencia T2 un nódulo hipointenso moderado y homogéneo de 1,7 cm, con restricción de la difusión y realce precoz en perfusión en el límite entre el estroma fibromuscular anterior y la zona transicional del lóbulo izquierdo prostático. Repetimos una nueva determinación de PSA 3,5 ng/mL. A la vista de estos hallazgos, ¿qué recomendación propondría al paciente como la más adecuada?",
     "options": [
       "Biopsia prostática transrectal sistemática.",
       "Iniciar un tratamiento antibiótico empírico durante 10 días y realizar una biopsia prostática sistemática al finalizar.",
@@ -1929,13 +1929,13 @@
       "Biopsia prostática transperineal sistemática y dirigida mediante fusión de imágenes RMN."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 138 del examen MIR de la convocatoria FSE."
+    "explanation": "### Análisis de la pregunta\n\n- **🟢 Opción D (Correcta):** La biopsia prostática transperineal sistemática y dirigida mediante fusión de imágenes RMN es la recomendación más adecuada en este caso. El paciente tiene un historial familiar de cáncer de próstata, un aumento significativo de PSA en los reconocimientos de salud laboral y signos en la RMN prostática multiparamétrica que sugieren un nódulo prostático sospechoso. La biopsia transperineal dirigida mediante fusión de imágenes RMN ofrece una mayor precisión en la biopsia del nódulo sospechoso, lo que reduce el riesgo de falsos negativos y permitirá una evaluación más precisa del tumor.\n\n- **🔴 Opción A (Incorrecta):** La biopsia prostática transrectal sistemática puede ser insuficiente en este caso debido a la presencia de un nódulo prostático sospechoso en la RMN. La biopsia sistemática puede no alcanzar el nódulo y dar un resultado falso negativo, lo que puede retrasar el diagnóstico y el tratamiento.\n\n- **🔴 Opción B (Incorrecta):** Iniciar un tratamiento antibiótico empírico durante 10 días y realizar una biopsia prostática sistemática al finalizar no es una recomendación adecuada. El tratamiento antibiótico no aborda la causa subyacente del aumento de PSA y puede no ser efectivo en la eliminación de bacterias en la próstata. Además, la biopsia sistemática puede no ser lo suficientemente precisa en este caso.\n\n- **🔴 Opción C (Incorrecta):** Tranquilizar al paciente, ofrecer tratamiento sintomático alfa-bloqueante y seguimiento no es una recomendación adecuada. El paciente tiene un historial familiar de cáncer de próstata y un aumento significativo de PSA, lo que sugiere una mayor probabilidad de cáncer de próstata. Negar la posibilidad de cáncer de próstata puede llevar a un retraso en el diagnóstico y el tratamiento.\n\n### Perla MIR\nLa biopsia prostática transperineal dirigida mediante fusión de imágenes RMN es una herramienta útil en el diagnóstico de cáncer de próstata, especialmente en casos con un nódulo prostático sospechoso y un historial familiar de cáncer de próstata."
   },
   {
     "id": "q-139",
     "localNumber": 139,
     "category": "General",
-    "stem": "¿Cuál de estas afirmaciones es cierta sobre los subtipos moleculares de cáncer de mama?:",
+    "stem": "¿Cuál de estas afirmaciones es cierta sobre los subtipos moleculares de cáncer de mama?",
     "options": [
       "El cáncer de mama triple negativo es el subtipo más frecuente.",
       "El cáncer de mama HER2+ es el subtipo menos agresivo.",
@@ -1943,13 +1943,13 @@
       "El cáncer de mama triple negativo es el subtipo más agresivo."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 139 del examen MIR de la convocatoria FSE."
+    "explanation": ""
   },
   {
     "id": "q-140",
     "localNumber": 140,
     "category": "Nefrología",
-    "stem": "Mujer de 60 años con diagnóstico reciente de cáncer de mama metastásico con alta carga tumoral. Acude a Urgencias 48 horas después de haber recibido el primer ciclo de tratamiento, con cuadro de náuseas, vómitos, diarrea , dolor abdominal, astenia intensa y letargia. En la analítica sanguínea presenta alteración de la función renal. ¿Cuál de las siguientes alteraciones analíticas esperaría encontrar también?:",
+    "stem": "Mujer de 60 años con diagnóstico reciente de cáncer de mama metastásico con alta carga tumoral acude a Urgencias 48 horas después de haber recibido el primer ciclo de tratamiento, con cuadro de náuseas, vómitos, diarrea, dolor abdominal, astenia intensa y letargia. En la analítica sanguínea presenta alteración de la función renal.",
     "options": [
       "Hipouricemia.",
       "Hiperpotasemia.",
@@ -1957,7 +1957,7 @@
       "Hipercalcemia."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 140 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La hiperpotasemia es una alteración analítica esperada en este contexto. Las terapias con quimioterapia pueden causar una pérdida de potasio a través de la diarrea y las vómitos, además de una redistribución de potasio en los tejidos debido a la alteración renal. En este caso, la paciente presenta una alta carga tumoral y alteración de la función renal, lo que aumenta la probabilidad de hiperpotasemia.\n\n- **🔴 Opción A (Incorrecta):** La hipouricemia no es una alteración analítica esperada en este contexto. La quimioterapia y la alteración renal no suelen causar una disminución significativa de los niveles de ácido úrico.\n\n- **🔴 Opción C (Incorrecta):** La hipofosfatemia no es una alteración analítica directamente relacionada con la quimioterapia o la alteración renal en este contexto. La hipofosfatemia puede estar relacionada con enfermedades renales crónicas o la deficiencia de vitamina D, pero no es una complicación directa de la quimioterapia.\n\n- **🔴 Opción D (Incorrecta):** La hipercalcemia no es una alteración analítica esperada en este contexto. La quimioterapia y la alteración renal no suelen causar un aumento significativo de los niveles de calcio.\n\n**Perla MIR:** La hiperpotasemia es una complicación común de la quimioterapia y la alteración renal. Es importante realizar controles de potasio frecuentes en pacientes que reciben quimioterapia y tienen alteración renal."
   },
   {
     "id": "q-141",
