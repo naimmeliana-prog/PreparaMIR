@@ -2397,35 +2397,35 @@
     "id": "q-173",
     "localNumber": 173,
     "category": "General",
-    "stem": "Mujer de 37 años, diagnosticada hace tres me- ses de enfermedad de Graves, en tratamiento con metimazol y propranolol, que consulta por fiebre y deglución dolorosa. En la exploración física tiene temperatura 38,7ºC y la orofaringe está eritematosa, sin exudados. ¿Cuál de los siguientes es el manejo más adecuado?:",
+    "stem": "Mujer de 37 años diagnosticada hace tres meses de enfermedad de Graves en tratamiento con metimazol y propranolol que consulta por fiebre y deglución dolorosa. En la exploración física tiene temperatura 38,7°C y la orofaringe está eritematosa sin exudados.",
     "options": [
       "Iniciar un tratamiento empírico con penicilina V oral.",
       "Obtener una prueba rápida de detección de antígenos para el estreptococo del grupo A.",
-      "Interrumpir el propranolol y obtener un culti- vo de orofaringe.",
-      "Interrumpir el metimazol y obtener un hemo- grama con recuento diferencial."
+      "Interrumpir el propranolol y obtener un cultivo de orofaringe.",
+      "Interrumpir el metimazol y obtener un hemograma con recuento diferencial."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 173 del examen MIR de la convocatoria FSE."
+    "explanation": "La paciente presenta fiebre y deglución dolorosa, lo que sugiere una posible infección de la orofaringe. La eritematosis de la orofaringe sin exudados puede ser un signo de estreptococosis del grupo A. Para determinar el agente infeccioso, se deben realizar pruebas de detección de antígenos para el estreptococo del grupo A. Interrumpir el tratamiento actual con metimazol y propranolol no es necesario, ya que estos medicamentos no están directamente relacionados con la infección de la orofaringe. Iniciar un tratamiento empírico con penicilina V oral podría ser adecuado si se sospecha una infección bacteriana, pero primero se deben realizar pruebas para determinar el agente infeccioso. Interrumpir el propranolol podría ser necesario si se sospecha una reacción adversa, pero no está directamente relacionado con la infección de la orofaringe. Interrumpir el metimazol podría ser necesario si se sospecha una reacción adversa, pero no está directamente relacionado con la infección de la orofaringe. Por lo tanto, la opción más adecuada es obtener una prueba rápida de detección de antígenos para el estreptococo del grupo A."
   },
   {
     "id": "q-174",
     "localNumber": 174,
     "category": "General",
-    "stem": "¿Cuál de los siguientes hallazgos semiológicos en un paciente con herpes zóster NO indica una especial gravedad?:",
+    "stem": "¿Cuál de los siguientes hallazgos semiológicos en un paciente con herpes zóster no indica una especial gravedad?",
     "options": [
-      "Presencia de vesículas en el conducto auditi- vo externo.",
+      "Presencia de vesículas en el conducto auditivo externo.",
       "Afectación multimetamérica.",
       "Afectación del ala nasal.",
-      "Lesiones cutáneas en distintas fases evoluti- vas."
+      "Lesiones cutáneas en distintas fases evolutivas."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 174 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Las lesiones cutáneas en distintas fases evolutivas en un paciente con herpes zóster no indican una especial gravedad. Esto se debe a que el herpes zóster es una infección viral que se caracteriza por la aparición de vesículas en la piel, y la presencia de lesiones en distintas fases evolutivas es un hallazgo común en esta enfermedad. La gravedad se asocia más con la afectación de estructuras críticas como el nervio facial, la médula espinal o el sistema nervioso central, lo que no es el caso en la opción D.\n\n- **🔴 Opción A (Incorrecta):** La presencia de vesículas en el conducto auditivo externo puede ser un signo de gravedad en un paciente con herpes zóster, especialmente si se asocia con dolor o dificultad para escuchar. Esto se debe a que el herpes zóster puede afectar el nervio facial y causar síntomas en la región auricular.\n\n- **🔴 Opción B (Incorrecta):** La afectación multimetamérica es un signo de gravedad en un paciente con herpes zóster, ya que indica que la infección viral ha afectado múltiples dermatomas. Esto puede aumentar el riesgo de complicaciones y dolor crónico.\n\n- **🔴 Opción C (Incorrecta):** La afectación del ala nasal en un paciente con herpes zóster puede ser un signo de gravedad, ya que puede indicar la afectación del nervio facial y la aparición de síntomas en la región facial.\n\nLa perla MIR: 'Herpes zóster en conducto auditivo externo, gravedad', recuerda que la gravedad se asocia con la afectación de estructuras críticas."
   },
   {
     "id": "q-175",
     "localNumber": 175,
     "category": "General",
-    "stem": "Paciente de 62 años que consulta por haber estado en contacto cercano en las últimas sema- nas con una persona co n una tuberculosis acti- va. El Mantoux es positivo (12 mm). Entre sus antecedentes destaca esta r en tratamiento con anticoagulantes orales (acenocumarol) por una trombosis venosa profunda hace unos meses. No refiere fiebre ni tos y se encuentra asintomático. La Rx de tórax es normal. ¿Cuál de los siguien- tes tratamientos es el más recomendable?:",
+    "stem": "Paciente de 62 años que consulta por haber estado en contacto cercano en las últimas semanas con una persona con una tuberculosis activa. El Mantoux es positivo (12 mm). Entre sus antecedentes destaca estar en tratamiento con anticoagulantes orales (acenocumarol) por una trombosis venosa profunda hace unos meses. No refiere fiebre ni tos y se encuentra asintomático. La Rx de tórax es normal. ¿Cuál de los siguientes tratamientos es el más recomendable?",
     "options": [
       "Isoniacida, durante nueve meses.",
       "Rifampicina, durante cuatro meses.",
@@ -2433,35 +2433,35 @@
       "Isoniacida y rifapentina, durante tres meses."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 175 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Es la opción más adecuada debido a que el paciente tiene un resultado positivo en el Mantoux (12 mm), lo que indica una infección latente de tuberculosis. Además, el paciente está en tratamiento con anticoagulantes orales, lo que aumenta el riesgo de complicaciones en caso de una reactivación de la tuberculosis. La isoniacida es un medicamento de primera línea para el tratamiento de la tuberculosis y se recomienda un tratamiento de nueve meses para asegurar la curación de la infección. \n\n- **🔴 Opción B (Incorrecta):** No es la opción más adecuada porque la rifampicina es un medicamento de primera línea para el tratamiento de la tuberculosis, pero no es la mejor opción para un paciente asintomático con un resultado positivo en el Mantoux. Además, un tratamiento de cuatro meses puede no ser suficiente para asegurar la curación de la infección. \n\n- **🔴 Opción C (Incorrecta):** No es la opción más adecuada porque la combinación de isoniacida y rifampicina puede aumentar el riesgo de efectos adversos en un paciente que ya está tomando anticoagulantes orales. Además, un tratamiento de tres meses puede no ser suficiente para asegurar la curación de la infección. \n\n- **🔴 Opción D (Incorrecta):** No es la opción más adecuada porque la rifapentina es un medicamento que se utiliza en algunos casos de resistencia a la rifampicina, pero no es la mejor opción para un paciente asintomático con un resultado positivo en el Mantoux. Además, un tratamiento de tres meses puede no ser suficiente para asegurar la curación de la infección. \n\nLa perla MIR es: 'La isoniacida es el medicamento de primera línea para el tratamiento de la tuberculosis, especialmente en pacientes asintomáticos con un resultado positivo en el Mantoux'."
   },
   {
     "id": "q-176",
     "localNumber": 176,
     "category": "General",
-    "stem": "Paciente de 73 años con antecedentes de hiper- tensión arterial y diabetes que sufre una neu- monía bilateral por SARS-CoV2. Tras recibir oxígeno en gafas nasales, enoxaparina a dosis profilácticas (60 mg/d SC), remdesivir y dexa- metasona (6 mg/d IV), la evolución clínica no está siendo favorable y en el cuarto día de hos- pitalización se encuentra taquipneico a 30 rpm, temperatura 38ºC y satu ración 92 %; comen- zando a recibir oxígeno con gafas nasales de alto flujo. Análisis: 12000 leucocitos (75 % neu- trófilos), PCR 80 (N<3 mg/L), ferritina 823 (N<350 ng/mL), dímero D 1800 (N <500 ng/mL), procalcitonina 0,45 (N< 0,3 ng/mL). La Rx de tórax muestra una progresión de la neu- monía bilateral. ¿Cuál es la actitud terapéutica más recomendable de las siguientes?:",
+    "stem": "Paciente de 73 años con antecedentes de hipertensión arterial y diabetes que sufre una neumonía bilateral por SARS-CoV2. Tras recibir oxígeno en gafas nasales, enoxaparina a dosis profilácticas (60 mg/d SC), remdesivir y dexametasona (6 mg/d IV), la evolución clínica no está siendo favorable y en el cuarto día de hospitalización se encuentra taquipneico a 30 rpm, temperatura 38ºC y saturación 92 %; comenzando a recibir oxígeno con gafas nasales de alto flujo. Análisis: 12000 leucocitos (75 % neutrófilos), PCR 80 (N<3 mg/L), ferritina 823 (N<350 ng/mL), dímero D 1800 (N <500 ng/mL), procalcitonina 0,45 (N< 0,3 ng/mL). La Rx de tórax muestra una progresión de la neumonía bilateral. ¿Cuál es la actitud terapéutica más recomendable de las siguientes?",
     "options": [
       "Aumentar la dosis de enoxaparina a dosis anticoagulantes (60 mg/12 h SC).",
-      "Aumentar la dosis de esteroides (metilpre- dnisolona, 80 mg/8 h IV).",
+      "Aumentar la dosis de esteroides (metilprednisolona, 80 mg/8 h IV).",
       "Añadir tocilizumab.",
       "Añadir meropenem."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 176 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Aumentar la dosis de enoxaparina a dosis anticoagulantes no es la medida más adecuada en este caso, ya que la enoxaparina se está utilizando a dosis profilácticas para prevenir la trombosis en un paciente con neumonía. Aumentar la dosis a un nivel anticoagulante podría aumentar el riesgo de sangrado sin proporcionar beneficios adicionales en la gestión de la neumonía bilateral. Además, la dosis de 60 mg/12 h SC ya es considerada alta para profilaxis y podría no ser necesaria en este caso, especialmente si se considera la presencia de neumonía y la posibilidad de trombocitopenia secundaria a la enfermedad. \n\n- **🔴 Opción B (Incorrecta):** Aumentar la dosis de esteroides también no es la medida más adecuada, ya que la dexametasona ya se está utilizando a una dosis de 6 mg/d IV. Aumentar la dosis a 80 mg/8 h IV podría aumentar el riesgo de efectos adversos, como hipertensión, hiperglucemia, y supresión del sistema inmunológico. Además, la evidencia actual no recomienda el uso de esteroides a dosis altas en la gestión de la neumonía por SARS-CoV2. \n\n- **🔴 Opción D (Incorrecta):** Añadir meropenem tampoco es la medida más adecuada, ya que la neumonía bilateral se está manejando con remdesivir y la procalcitonina se encuentra dentro de los límites normales. La adición de un antibiótico de amplio espectro como el meropenem podría aumentar el riesgo de efectos adversos y no proporcionar beneficios adicionales en la gestión de la neumonía. Además, la resistencia a los antibióticos es un problema importante en la actualidad y la adición de un antibiótico de amplio espectro podría no ser la mejor opción en este caso. \n\n- **🟢 Opción C (Correcta):** Añadir tocilizumab es la medida más adecuada en este caso, ya que la procalcitonina se encuentra dentro de los límites normales y la neumonía bilateral se está manejando con remdesivir. La adición de tocilizumab podría ayudar a reducir la inflamación y la respuesta inmunológica excesiva en el paciente, lo que podría mejorar la evolución clínica y reducir el riesgo de complicaciones. Además, la evidencia actual sugiere que el tocilizumab es beneficioso en la gestión de la neumonía por SARS-CoV2, especialmente en pacientes con neumonía bilateral y signos de inflamación excesiva. \n\nLa perla MIR es que en la gestión de la neumonía por SARS-CoV2, es importante considerar la procalcitonina como un marcador de inflamación y respuesta inmunológica excesiva, y la adición de tocilizumab podría ser beneficioso en pacientes con neumonía bilateral y signos de inflamación excesiva."
   },
   {
     "id": "q-177",
     "localNumber": 177,
     "category": "Traumatología",
-    "stem": "Paciente de 33 años, residente en Valencia, que consulta por presentar en la me jilla derecha una placa eritemato-ana ranjada tras picadura de insecto que ha ido creciendo lentamente hasta alcanzar 1,5 cm y que en las últimas se- manas se ha ulcerado y cubierto de una esca- mocostra. La lesión solo le origina discretas molestias si se rasca. Entre sus antecedentes destaca psoriasis en placas en tratamiento con adalimumab subcutáneo. Tiene buen estado general y no toma otros fármacos ni refiere alergias a medicamentos. Indique el tratamiento que emplearía:",
+    "stem": "Paciente de 33 años, residente en Valencia, que consulta por presentar en la mejilla derecha una placa eritemato-auranhiada tras picadura de insecto que ha ido creciendo lentamente hasta alcanzar 1,5 cm y que en las últimas semanas se ha ulcerado y cubierto de una escamocrostas. La lesión solo le origina discretas molestias si se rasca. Entre sus antecedentes destaca psoriasis en placas en tratamiento con adalimumab subcutáneo. Tiene buen estado general y no toma otros fármacos ni refiere alergias a medicamentos. Indique el tratamiento que emplearía.",
     "options": [
-      "Isotretinoina oral.",
+      "Isotretinoína oral.",
       "Antimoniato de meglumina intralesional.",
       "Corticoesteroides sistémicos.",
       "Amoxicilina oral."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 177 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El tratamiento correcto en este caso es el Antimoniato de meglumina intralesional. La razón es que la lesión es una punción de insecto que se ha ulcerado y está cubierta de escamocrostas, lo que sugiere una infección por estafilococos. El antimoniato de meglumina es un fármaco que se utiliza para tratar la infección por estafilococos y es adecuado para ser administrado intralesionalmente en este caso. Además, el paciente tiene psoriasis en tratamiento con adalimumab, lo que no altera la elección del tratamiento en este caso específico. Las otras opciones no son adecuadas porque la Isotretinoína es un fármaco que se utiliza para tratar la acné y no es necesaria en este caso. Los Corticoesteroides sistémicos podrían ser útiles para tratar la psoriasis, pero no son necesarios en este caso específico. La Amoxicilina oral podría ser útil para tratar una infección bacteriana, pero en este caso no hay evidencia de que la infección sea bacteriana y el antimoniato de meglumina es más adecuado para tratar la infección por estafilococos."
   },
   {
     "id": "q-178",
