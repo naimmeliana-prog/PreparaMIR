@@ -1067,35 +1067,35 @@
     "id": "q-78",
     "localNumber": 78,
     "category": "General",
-    "stem": "En una enfermedad genética con un patrón de herencia autosómico dominante el riesgo de recurrencia de la enfermedad en una futura descendencia es de:",
+    "stem": "En una enfermedad genética con un patrón de herencia autosómico dominante el riesgo de recurrencia de la enfermedad en una futura descendencia es",
     "options": [
-      "25 % en cada embarazo.",
-      "50 % en cada embarazo en caso de que el hijo sea un varón.",
-      "50 % en cada embarazo siempre que la pareja sea también portadora.",
-      "50 % en cada embarazo independiente del sexo de la descendencia."
+      "25 % en cada embarazo",
+      "50 % en cada embarazo en caso de que el hijo sea un varón",
+      "50 % en cada embarazo siempre que la pareja sea también portadora",
+      "50 % en cada embarazo independiente del sexo de la descendencia"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 78 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** En una enfermedad genética con un patrón de herencia autosómico dominante, el riesgo de recurrencia de la enfermedad en una futura descendencia es del 50% en cada embarazo independiente del sexo de la descendencia. Esto se debe a que en la herencia autosómica dominante, un solo alelo es suficiente para manifestar la enfermedad, y los genes se heredan de manera aleatoria sin importar el sexo del descendiente. Por lo tanto, el riesgo de recurrencia es igual para ambos sexos.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque el riesgo de recurrencia de la enfermedad en una futura descendencia no es del 25% en cada embarazo. En la herencia autosómica dominante, el riesgo de recurrencia es del 50% en cada embarazo, no del 25%.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque el riesgo de recurrencia de la enfermedad en una futura descendencia no depende del sexo del hijo. En la herencia autosómica dominante, el riesgo de recurrencia es igual para ambos sexos, por lo que no hay diferencia en el riesgo de recurrencia en caso de que el hijo sea un varón o una hembra.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque el riesgo de recurrencia de la enfermedad en una futura descendencia no depende de si la pareja es también portadora o no. En la herencia autosómica dominante, el riesgo de recurrencia es del 50% en cada embarazo independiente del sexo de la descendencia, y no se afecta por la condición de la pareja.\n\nLa herencia autosómica dominante es un patrón de herencia en el que un solo alelo es suficiente para manifestar la enfermedad. En cada embarazo, hay un 50% de chances de que el hijo herede el alelo dañado y, por lo tanto, desarrolle la enfermedad. Esto se debe a que los genes se heredan de manera aleatoria sin importar el sexo del descendiente."
   },
   {
     "id": "q-79",
     "localNumber": 79,
     "category": "Pediatría",
-    "stem": "En caso de que haya manifestaciones clínicas ¿cuál es la forma clínica más frecuente de pri- moinfección por el virus del herpes simple tipo 1 en lactantes y niños pequeños?:",
+    "stem": "En caso de que haya manifestaciones clínicas ¿cuál es la forma clínica más frecuente de primer infección por el virus del herpes simple tipo 1 en lactantes y niños pequeños?",
     "options": [
-      "Meningitis.",
-      "Genital.",
-      "Neumonía.",
-      "Gingivoestomatitis y faringitis."
+      "Meningitis",
+      "Genital",
+      "Neumonía",
+      "Gingivoestomatitis y faringitis"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 79 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La gingivoestomatitis y faringitis es la forma clínica más frecuente de primer infección por el virus del herpes simple tipo 1 en lactantes y niños pequeños. Esto se debe a que el virus puede causar inflamación y úlceras en la boca y la garganta, lo que puede ser muy doloroso y causar problemas de alimentación en los niños. Además, la gingivoestomatitis y faringitis es una condición común en niños que están comenzando a hablar y a comer alimentos sólidos, y es una de las primeras manifestaciones clínicas del herpes simple tipo 1 en esta edad.\n\n- **🔴 Opción A (Incorrecta):** La meningitis es una condición grave que se caracteriza por la inflamación del revestimiento que cubre el cerebro y la médula espinal. Si bien el virus del herpes simple tipo 1 puede causar meningitis en adultos y niños mayores, no es la forma clínica más frecuente de primer infección en lactantes y niños pequeños.\n\n- **🔴 Opción B (Incorrecta):** La infección genital por el virus del herpes simple tipo 1 es una condición común en adultos, pero no es la forma clínica más frecuente de primer infección en lactantes y niños pequeños. La infección genital por el virus del herpes simple tipo 1 suele ser asintomática en niños.\n\n- **🔴 Opción C (Incorrecta):** La neumonía es una condición que se caracteriza por la inflamación de los pulmones. Si bien el virus del herpes simple tipo 1 puede causar neumonía en adultos y niños mayores, no es la forma clínica más frecuente de primer infección en lactantes y niños pequeños.\n\nLa perla MIR es: Gingivoestomatitis y faringitis es la forma clínica más frecuente de primer infección por el virus del herpes simple tipo 1 en lactantes y niños pequeños. Esto se debe a que el virus puede causar inflamación y úlceras en la boca y la garganta, lo que puede ser muy doloroso y causar problemas de alimentación en los niños."
   },
   {
     "id": "q-80",
     "localNumber": 80,
     "category": "Neumología",
-    "stem": "Lactante de 2 meses de edad con catarro de vías altas de 3 días de evolución, que comienza con dificultad respiratoria moderada y auscultación pulmonar con sibilancias espiratorias. La satu- ración de oxígeno es de 89 %. Se aísla virus respiratorio sincitial en e l e x u d a d o n a s o f a r í n - geo. ¿Cuál de los siguie ntes tratamientos consi- dera más indicado para este cuadro?:",
+    "stem": "Lactante de 2 meses de edad con catarro de vías altas de 3 días de evolución, que comienza con dificultad respiratoria moderada y auscultación pulmonar con sibilancias espiratorias. La saturación de oxígeno es de 89 %. Se aísla virus respiratorio sincitial en el exudado nasofaríngeo.",
     "options": [
       "Rivabirina oral.",
       "Salbutamol nebulizado.",
@@ -1103,27 +1103,27 @@
       "Corticoides intravenosos."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 80 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La administración de corticoides intravenosos es la opción más indicada en este caso. El virus respiratorio sincitial (VRS) es una causa común de neumonía en lactantes, y los corticoides intravenosos han demostrado ser beneficiosos en la reducción de la gravedad de la enfermedad y la mortalidad en este grupo de pacientes. La saturación de oxígeno de 89 % sugiere que el lactante no está en estado de gravedad, pero la administración de corticoides puede ayudar a prevenir la progresión de la enfermedad. Además, la auscultación pulmonar con sibilancias espiratorias sugiere una respuesta inflamatoria en las vías respiratorias, lo que también apoya la indicación de corticoides intravenosos.\n\n- **🔴 Opción A (Incorrecta):** La rivabirina oral no es la opción más indicada en este caso. Aunque la rivabirina es efectiva contra el virus respiratorio sincitial, su administración oral puede no ser lo suficientemente efectiva en la reducción de la gravedad de la enfermedad en comparación con la administración intravenosa de corticoides. Además, la rivabirina oral puede no ser tan eficaz en la reducción de la mortalidad en pacientes con neumonía grave.\n\n- **🔴 Opción B (Incorrecta):** El salbutamol nebulizado puede no ser la opción más indicada en este caso. Aunque el salbutamol puede ayudar a aliviar la broncoconstricción y la obstrucción de las vías respiratorias, no es una terapia dirigida específicamente contra el virus respiratorio sincitial. En este caso, la administración de corticoides intravenosos es más indicada para reducir la inflamación y la gravedad de la enfermedad.\n\n- **🔴 Opción D (Incorrecta):** El oxígeno suplementario puede no ser la opción más indicada en este caso. Aunque el lactante tiene una saturación de oxígeno de 89 %, que es dentro de la normalidad, la administración de oxígeno suplementario no es necesaria en este caso. La administración de corticoides intravenosos es más indicada para reducir la inflamación y la gravedad de la enfermedad, y no para corregir la saturación de oxígeno.\n\nLa perla MIR es que la administración de corticoides intravenosos es la opción más indicada en el tratamiento del virus respiratorio sincitial en lactantes con neumonía, especialmente cuando hay auscultación pulmonar con sibilancias espiratorias y la saturación de oxígeno es normal."
   },
   {
     "id": "q-81",
     "localNumber": 81,
     "category": "General",
-    "stem": "Con respecto a las comunicaciones interventri- culares (CIV) en la infancia, señale la respuesta INCORRECTA:",
+    "stem": "Con respecto a las comunicaciones interventriculares en la infancia, señale la respuesta INCORRECTA.",
     "options": [
-      "Exceptuando la válvula aórtica bicúspide, la CIV es la cardiopatía congénita más frecuen- te.",
-      "Las CIV localizadas en la porción media y apical del tabique inter ventricular son de tipo muscular.",
-      "La repercusión clínica y la necesidad de tra- tamiento dependen del tamaño de la comuni- cación.",
-      "Las CIV membranosas son las más frecuentes y la que tienen más probabilidad de cierre es- pontáneo."
+      "Exceptuando la válvula aórtica bicúspide, la CIV es la cardiopatía congénita más frecuente.",
+      "Las CIV localizadas en la porción media y apical del tabique interventricular son de tipo muscular.",
+      "La repercusión clínica y la necesidad de tratamiento dependen del tamaño de la comunicación.",
+      "Las CIV membranosas son las más frecuentes y la que tienen más probabilidad de cierre espontáneo."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 81 del examen MIR de la convocatoria FSE."
+    "explanation": "La explicación de cada opción es la siguiente:\n\n* **🟢 Opción D (Correcta):** Las comunicaciones interventriculares membranosas son las más comunes y tienen una mayor probabilidad de cierre espontáneo. Esto se debe a que estas comunicaciones están formadas por una membrana fina que puede cerrarse por sí sola con el tiempo.\n\n* **🔴 Opción A (Incorrecta):** La válvula aórtica bicúspide no es una comunicación interventricular, por lo que esta opción no es correcta. La comunicación interventricular es un defecto de la pared muscular entre las cámaras izquierda y derecha del corazón, no una alteración de la válvula aórtica.\n\n* **🔴 Opción B (Incorrecta):** Las comunicaciones interventriculares localizadas en la porción media y apical del tabique interventricular son de tipo muscular, pero no solo de tipo muscular. Estas comunicaciones pueden ser de tipo muscular o membranoso, dependiendo de su ubicación y características.\n\n* **🔴 Opción C (Incorrecta):** La repercusión clínica y la necesidad de tratamiento de las comunicaciones interventriculares no dependen solo del tamaño de la comunicación. La gravedad de la enfermedad también depende de la ubicación y la dirección de la comunicación, así como de la presencia de síntomas y signos clínicos.\n\nLa perla MIR es: La comunicación interventricular membranosa es la más común y tiene una mayor probabilidad de cierre espontáneo. Esto se debe a que estas comunicaciones están formadas por una membrana fina que puede cerrarse por sí sola con el tiempo."
   },
   {
     "id": "q-82",
     "localNumber": 82,
     "category": "General",
-    "stem": "Con respecto al síndrome de dificultad respira- toria neonatal (enfermedad de la membrana hialina), señale la respuesta FALSA:",
+    "stem": "Con respecto al síndrome de dificultad respiratoria neonatal (enfermedad de la membrana hialina), señale la respuesta FALSA:",
     "options": [
       "Los corticoides antenatales reducen el riesgo de su aparición.",
       "Sus manifestaciones clínicas aparecen a partir de las 24 horas de vida.",
@@ -1131,7 +1131,7 @@
       "Su causa principal es el déficit de surfactante pulmonar."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 82 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Las manifestaciones clínicas del síndrome de dificultad respiratoria neonatal (SDRN) se manifiestan típicamente en las primeras 24 horas de vida, no a partir de las 24 horas. Esto se debe a que el síndrome se debe a la acumulación de líquido en los alvéolos pulmonares debido a la falta de surfactante, lo que ocurre desde el nacimiento. La aparición de las manifestaciones clínicas a partir de las 24 horas sería inusual y sugiere otra causa de dificultad respiratoria neonatal.\n\n- **🔴 Opción A (Incorrecta):** Los corticoides antenatales no reducen el riesgo de aparición del síndrome de dificultad respiratoria neonatal. De hecho, la administración de corticosteroides a la madre en el tercer trimestre de embarazo puede aumentar el riesgo de síndrome de dificultad respiratoria neonatal, especialmente si se administran en dosis altas o durante un período prolongado.\n\n- **🔴 Opción C (Incorrecta):** El riesgo de aparición del síndrome de dificultad respiratoria neonatal aumenta, no disminuye, ante una rotura prematura de membranas. La rotura prematura de membranas puede aumentar el riesgo de síndrome de dificultad respiratoria neonatal debido a la exposición del feto a las hormonas del parto, que pueden disminuir la producción de surfactante pulmonar.\n\n- **🔴 Opción D (Incorrecta):** La causa principal del síndrome de dificultad respiratoria neonatal no es el déficit de surfactante pulmonar. Aunque el déficit de surfactante pulmonar es una causa común del síndrome, también pueden existir otras causas, como la infección, la exposición a agentes tóxicos o la exposición a radiación. El síndrome de dificultad respiratoria neonatal puede tener múltiples causas y factores de riesgo.\n\n**Perla MIR:** El síndrome de dificultad respiratoria neonatal se debe a la acumulación de líquido en los alvéolos pulmonares debido a la falta de surfactante, lo que ocurre desde el nacimiento. La administración de corticosteroides a la madre en el tercer trimestre de embarazo puede aumentar el riesgo de síndrome de dificultad respiratoria neonatal."
   },
   {
     "id": "q-83",
