@@ -73,63 +73,63 @@
     "id": "q-6",
     "localNumber": 6,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 6. Mujer de 27 años, sin antecedentes de interés, que acude a ur gencias p or e pisodios tr ansitorios de pérdida de visió n bilateral de 15 segundos de duración, cefalea al despertarse y acúfenos de unas semanas de evolución. Tiene un IMC de 29. La RM craneal descarta lesiones ocupantes de esp acio. Con la clínica referida y la imagen de fondo de ojo ¿cuál de las siguientes afirmaciones es correcta?:",
+    "stem": "Pregunta asociada a la imagen 6. Mujer de 27 años, sin antecedentes de interés, que acude a urgencias por episodios transitorios de pérdida de visión bilateral de 15 segundos de duración, cefalea al despertarse y acúfenos de unas semanas de evolución. Tiene un IMC de 29. La RM craneal descarta lesiones ocupantes de espacio. Con la clínica referida y la imagen de fondo de ojo ¿cuál de las siguientes afirmaciones es correcta?",
     "options": [
       "La pérdida de peso no es eficaz en esta situación.",
       "La acetazolamida y la furosemida son fármacos empleados habitualmente.",
-      "Se debe realizar una punción lumbar a ntes de la prueba de imagen.",
+      "Se debe realizar una punción lumbar antes de la prueba de imagen.",
       "Los corticoides orales se usan ampliamente en el manejo de esta entidad."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 6 del examen MIR de la convocatoria FSE."
+    "explanation": "\n- **🟢 Opción A (Correcta):** La pérdida de peso puede ser eficaz en el manejo de la pseudopapiledema o la hipertensión intracraneal idiopática, especialmente en pacientes con sobrepeso u obesidad. La descripción sugiere esta condición, donde la pérdida de peso es una parte integral del tratamiento, junto con otros enfoques como la reducción del consumo de líquidos y, en algunos casos, medicamentos como la acetazolamida. La pérdida de visión transitoria, la cefalea y los acúfenos son síntomas comunes de esta afección, que se asocia con un aumento de la presión intracraneal sin lesiones ocupantes de espacio. \n- **🔴 Opción B (Incorrecta):** Aunque la acetazolamida es un fármaco utilizado en el tratamiento de la hipertensión intracraneal idiopática para reducir la producción de líquido cefalorraquídeo, la furosemida no es el primer medicamento de elección para esta afección. La furosemida se utiliza más comúnmente para el tratamiento de la insuficiencia cardíaca y la hipertensión.\n- **🔴 Opción C (Incorrecta):** La punción lumbar no se debe realizar antes de la prueba de imagen en casos sospechosos de hipertensión intracraneal idiopática, ya que puede provocar una herniación cerebral en presencia de una lesión ocupante de espacio, aunque la RM craneal descarte lesiones, una punción lumbar se realiza con precaución y después de una evaluación cuidadosa.\n- **🔴 Opción D (Incorrecta):** Los corticoides orales no son el tratamiento de primera línea para la hipertensión intracraneal idiopática. Se utilizan más comúnmente para reducir la inflamación en diversas condiciones, y no están indicados rutinariamente para el manejo de esta afección. \nLa pérdida de peso es una parte crucial del tratamiento de la hipertensión intracraneal idiopática, especialmente en pacientes con sobrepeso u obesidad, por lo que es importante recordar que la opción A es incorrecta en el sentido de que la pérdida de peso sí es eficaz en esta situación."
   },
   {
     "id": "q-7",
     "localNumber": 7,
     "category": "Neurología",
-    "stem": "Pregunta asociada a la imagen 7. Mujer de 57 añ os que c onsulta p or hipoacusi a derecha neurosensorial progresiva y acúfenos. En relación c on l a imagen mostrada, indiq ue de qué exploración se trata y el diagnóstico más probable:",
+    "stem": "Mujer de 57 años que consulta por hipoacusia derecha neurosensorial progresiva y acúfenos.",
     "options": [
       "RM sin contraste. Meningioma.",
       "TC con contraste. Tumor epidermoide.",
       "RM con contraste. Tumor glial.",
-      "RM con contraste. Schwannoma vestibular. (--MEDICINA-0--3/36) Pagina: 1 de 34"
+      "RM con contraste. Schwannoma vestibular."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 7 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La exploración mostrada en la imagen 7 es una Resonancia Magnética (RM) con contraste. El diagnóstico más probable es un Schwannoma vestibular, que es un tipo de tumor benigno que se desarrolla en el nervio vestibular. Los síntomas presentados por la paciente, como hipoacusia derecha neurosensorial progresiva y acúfenos, son consistentes con esta condición. La RM con contraste es una técnica diagnóstica eficaz para visualizar los detalles del tumor y su relación con los tejidos circundantes.\n- **🔴 Opción B (Incorrecta):** La Resonancia Magnética (RM) con contraste no se utiliza para diagnosticar tumor epidermoide. El tumor epidermoide es un tipo de tumor maligno que se desarrolla en la piel o en los órganos internos, y la RM con contraste no es la técnica más adecuada para su diagnóstico.\n- **🔴 Opción C (Incorrecta):** La Resonancia Magnética (RM) con contraste no se utiliza para diagnosticar tumor glial. El tumor glial es un tipo de tumor que se desarrolla en el cerebro o en la médula espinal, y la RM con contraste no es la técnica más adecuada para su diagnóstico.\n- **🔴 Opción D (Incorrecta):** La Resonancia Magnética (RM) sin contraste no se utiliza para diagnosticar meningioma. El meningioma es un tipo de tumor que se desarrolla en la membrana que cubre el cerebro y la médula espinal, y la RM sin contraste no es la técnica más adecuada para su diagnóstico.\n- La perla MIR: 'Schwannoma vestibular' es un tumor benigno que puede causar hipoacusia neurosensorial progresiva y acúfenos. La RM con contraste es una técnica diagnóstica eficaz para visualizar los detalles del tumor y su relación con los tejidos circundantes."
   },
   {
     "id": "q-8",
     "localNumber": 8,
     "category": "Cardiología",
-    "stem": "Pregunta asociada a la imagen 8. Hombre de 84 años con antec edentes de hipertensión arterial, dislipemia e infarto agudo de miocardio. Acude a ur gencias por deterioro cognitivo r ápidamente progresivo, a mnesia, inestabilidad para la ma rcha y h emianopsia homónima izquierda. Se le realiza la si guiente TC craneal. Señale cuál es el diagnóstico más probable ante el hallazgo mostrado:",
+    "stem": "Hombre de 84 años con antecedentes de hipertensión arterial, dislipemia e infarto agudo de miocardio acude a urgencias por deterioro cognitivo rápidamente progresivo, amnesia, inestabilidad para la marcha y hemianopsia homónima izquierda. Se le realiza la siguiente TC craneal.",
     "options": [
       "Absceso cerebral secundario a otitis media aguda derecha.",
       "Trombosis venosa del seno sigmoide derecho.",
-      "Infarto i squémico ag udo e n t erritorio de a rteria cerebral posterior derecha.",
-      "Neoplasia ce rebral de origen glial c on e dema perilesional asociado."
+      "Infarto isquémico agudo en territorio de arteria cerebral posterior derecha.",
+      "Neoplasia cerebral de origen glial con edema perilesional asociado."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 8 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La opción correcta es el **Infarto isquémico agudo en territorio de arteria cerebral posterior derecha**. Esto se debe a que el paciente tiene antecedentes de hipertensión arterial, dislipemia e infarto agudo de miocardio, lo que aumenta el riesgo de enfermedad cerebrovascular. La hemianopsia homónima izquierda es indicativa de una lesión en el lóbulo occipital izquierdo, que es abastecido por la arteria cerebral posterior. La rapidez del deterioro cognitivo y la amnesia sugieren un evento isquémico agudo, que es más probable en este contexto que un absceso cerebral o una neoplasia cerebral. Además, la trombosis venosa del seno sigmoide no está relacionada con la lesión cerebral descrita. \n\n- **🔴 Opción B (Incorrecta):** La trombosis venosa del seno sigmoide derecho no está relacionada con la lesión cerebral descrita. La trombosis venosa se refiere a la obstrucción de los venos, que no está asociada con la lesión cerebral. \n\n- **🔴 Opción C (Incorrecta):** La infartación isquémica aguda en el territorio de la arteria cerebral posterior derecha ya fue descrita como la opción correcta. \n\n- **🔴 Opción D (Incorrecta):** La neoplasia cerebral de origen glial con edema perilesional asociado no se ajusta a la descripción clínica. La rapidez del deterioro cognitivo y la amnesia sugieren un evento isquémico agudo, que es más probable en este contexto que una neoplasia cerebral. Además, la hemianopsia homónima izquierda no es típica de una neoplasia cerebral. \n\n**Perla MIR:** En la evaluación de un paciente con deterioro cognitivo y hemianopsia, es importante considerar la posibilidad de un evento isquémico agudo en el territorio de la arteria cerebral posterior, especialmente en pacientes con antecedentes de enfermedad cardiovascular."
   },
   {
     "id": "q-9",
     "localNumber": 9,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 9. Hombre de 72 años c on diagnóstico de carcinoma de cavidad oral inter venido hace tre s meses con resección c ompleta, e n tratamiento c on quimioterapia, po rtador de g astrostomía endoscópica percutánea profilác tica, que acude a urgencias por dolor y distensión abdominal de tres días de evolu ción, intolerancia oral y ausencia de deposiciones. Se realiza l a TC abdominopélvica con c ontraste intr avenoso que se muestra en la imagen. ¿Cuál de lo s si guientes e s el diagnóstico más probable?:",
+    "stem": "Hombre de 72 años con diagnóstico de carcinoma de cavidad oral intervinido hace tres meses con resección completa, en tratamiento con quimioterapia, portador de gastrostomía endoscópica percutánea profiláctica, que acude a urgencias por dolor y distensión abdominal de tres días de evolución, intolerancia oral y ausencia de deposiciones. Se realiza la TC abdominopélvica con contraste intravenoso que se muestra en la imagen. ¿Cuál de los siguientes es el diagnóstico más probable?",
     "options": [
-      "Obstrucción intestinal secunda ria a neoplasia estenosante de colon descendente.",
-      "Obstrucción intestinal d e cau sa ex trínseca por carcinomatosis peritoneal.",
-      "Obstrucción intestinal por mi gración e impactación de la sonda de gastrostomía.",
+      "Obstrucción intestinal secundaria a neoplasia estenosante de colon descendente.",
+      "Obstrucción intestinal de causa extrínseca por carcinomatosis peritoneal.",
+      "Obstrucción intestinal por migración e impactación de las sonda de gastrostomía.",
       "Obstrucción funcional o íleo pseudoobstructivo por fármacos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 9 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La obstrucción intestinal secundaria a neoplasia estenosante de colon descendente es un diagnóstico probable en este caso debido a que el paciente tiene un historial de carcinoma de cavidad oral y ha recibido quimioterapia, lo que aumenta el riesgo de metástasis en el colon descendente. La presencia de intolerancia oral, ausencia de deposiciones y dolor abdominal sugiere una obstrucción intestinal. La TC abdominopélvica con contraste intravenoso puede mostrar signos de obstrucción intestinal como dilatación de la luz intestinal, signo de enteroclip o signo de "
   },
   {
     "id": "q-10",
     "localNumber": 10,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 10. Hombre de 61 años, que recibió un trasplante alogénico haploidéntico hace 20 meses por linfoma no Hodgkin T, en respuesta completa, que consulta por un síndrome febril desde hace 72 horas con tos y expectoración blanquecina y disnea progresiva a moderados esfuerzos. Re fiere asteni a de sde hace un mes y medio. Se realiz a la T C torácica que se muestra en la ima gen. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "stem": "Hombre de 61 años, que recibió un trasplante alogénico haploidéntico hace 20 meses por linfoma no Hodgkin T, en respuesta completa, que consulta por un síndrome febril desde hace 72 horas con tos y expectoración blanquecina y disnea progresiva a moderados esfuerzos. Refiere astenia desde hace un mes y medio. Se realizó la TC torácica que se muestra en la imagen. ¿Cuál de los siguientes es el diagnóstico más probable?",
     "options": [
       "Neumonía por Mycobacterium tuberculosis.",
       "Neumonía por Aspergillus.",
@@ -137,7 +137,7 @@
       "Neumonía por Pneumocystis jirovecii."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 10 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La opción correcta es la neumonía por *Mycobacterium tuberculosis*. La razón principal es que el paciente ha recibido un trasplante alogénico haploidéntico hace 20 meses, lo que lo hace susceptible a infecciones oportunísticas, especialmente a la tuberculosis. Además, el paciente presenta síntomas de disnea progresiva y expectoración blanquecina, que son comunes en la neumonía por tuberculosis. La imagen de la TC torácica no se proporciona, pero se puede inferir que muestra signos de neumonía, como infiltrados pulmonares, que son compatibles con la tuberculosis.\n\n- **🔴 Opción B (Incorrecta):** La neumonía por *Aspergillus* es una infección oportunística que puede ocurrir en pacientes inmunocomprometidos, pero no es la opción más probable en este caso. La razón es que el paciente no presenta síntomas de infección fúngica, como fiebre alta o lesiones cutáneas, que son comunes en la infección por *Aspergillus*. Además, la expectoración blanquecina no es típica de la neumonía por *Aspergillus*, que más bien produce un exudado amarillento o verde.\n\n- **🔴 Opción C (Incorrecta):** La neumonía por *Streptococcus pneumoniae* es una infección bacteriana común en pacientes inmunocompetentes, pero no es la opción más probable en este caso. La razón es que el paciente ha recibido un trasplante alogénico haploidéntico hace 20 meses, lo que lo hace susceptible a infecciones oportunísticas, especialmente a la tuberculosis. Además, la expectoración blanquecina no es típica de la neumonía por *Streptococcus pneumoniae*, que más bien produce un exudado amarillento o verde.\n\n- **🔴 Opción D (Incorrecta):** La neumonía por *Pneumocystis jirovecii* es una infección oportunística que puede ocurrir en pacientes inmunocomprometidos, pero no es la opción más probable en este caso. La razón es que el paciente no presenta síntomas de infección por *Pneumocystis*, como dificultad respiratoria severa o hipoxemia, que son comunes en la infección por *Pneumocystis*. Además, la expectoración blanquecina no es típica de la neumonía por *Pneumocystis*, que más bien produce un exudado amarillento o verde.\n\nLa perla MIR es que en pacientes inmunocomprometidos, como aquellos que han recibido un trasplante alogénico haploidéntico, es importante considerar la posibilidad de infecciones oportunísticas, como la tuberculosis, en lugar de infecciones bacterianas comunes."
   },
   {
     "id": "q-11",
