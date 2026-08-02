@@ -437,71 +437,70 @@
     "id": "q-32",
     "localNumber": 32,
     "category": "General",
-    "stem": "En materia de calidad asistencial, un indi- cador es una medida que nos informa sobre el progreso hacia la consecución de deter- minados objetivos. Según el modelo de Do- nabedian, pueden clasificarse como indica- dores de estructura, de proceso y de resul- tado ¿Cuál de los siguientes es un indica- dor de resultado?:",
+    "stem": "En materia de calidad asistencial, un indicador es una medida que nos informa sobre el progreso hacia la consecución de determinados objetivos. Según el modelo de Donabedian, pueden clasificarse como indicadores de estructura, de proceso y de resultado ¿Cuál de los siguientes es un indicador de resultado?",
     "options": [
-      "Ratio de camas hospitalarias en funcio- namiento, por cada 1.000 habitantes.",
+      "Ratio de camas hospitalarias en funcionamiento, por cada 1.000 habitantes.",
       "Proporción de partos por cesárea.",
       "Incidencia de infecciones relacionadas con la asistencia sanitaria.",
-      "Ratio de personal médico en atención pri- meria, por cada 1.000 habitantes."
+      "Ratio de personal médico en atención primaria, por cada 1.000 habitantes."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 32 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La incidencia de infecciones relacionadas con la asistencia sanitaria es un indicador de resultado porque mide el impacto del cuidado de la salud en la salud de los pacientes. Se trata de un indicador que refleja la efectividad del sistema de salud en la prevención y el manejo de infecciones, lo que es un resultado directamente relacionado con la calidad de la atención médica. \n\n- **🔴 Opción A (Incorrecta):** El ratio de camas hospitalarias en funcionamiento, por cada 1.000 habitantes, es un indicador de estructura. Esto se debe a que se refiere a la disponibilidad de recursos materiales (camas) para atender a la población, lo que es una característica del sistema de salud. \n\n- **🔴 Opción B (Incorrecta):** La proporción de partos por cesárea es un indicador de proceso. Esto se debe a que se refiere a la práctica clínica específica utilizada en la atención al parto, lo que es un aspecto del proceso de atención médica. \n\n- **🔴 Opción D (Incorrecta):** El ratio de personal médico en atención primaria, por cada 1.000 habitantes, es un indicador de estructura. Esto se debe a que se refiere a la disponibilidad de recursos humanos (personal médico) para atender a la población, lo que es una característica del sistema de salud.\n\nLa calidad asistencial se puede medir a través de indicadores de resultado, que reflejan el impacto del cuidado de la salud en la salud de los pacientes. Recuerda que la calidad es la consecución de los resultados deseados."
   },
   {
     "id": "q-33",
     "localNumber": 33,
     "category": "General",
-    "stem": "Señale el enunciado INCORRECTO:",
+    "stem": "Señale el enunciado INCORRECTO: La tasa de incidencia acumulada de una enfermedad depende tanto de la incidencia como de la duración del período de medición.",
     "options": [
-      "La tasa de incidencia acumulada de una enfermedad depende tanto de la inciden- cia como de la duración del período de medición.",
-      "La tasa de incidencia acumulada es una aproximación útil de la incidencia cuando la tasa es alta o cuando el período de es- tudio es largo.",
-      "La tasa de incidencia requiere la utiliza- ción de una unidad de tiempo.",
-      "La prevalencia incrementa con una ma- yor duración de la enfermedad."
+      "La tasa de incidencia acumulada es una aproximación útil de la incidencia cuando la tasa es alta o cuando el período de estudio es largo.",
+      "La tasa de incidencia requiere la utilización de una unidad de tiempo.",
+      "La prevalencia incrementa con una mayor duración de la enfermedad."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 33 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La tasa de incidencia acumulada es una medida que refleja la cantidad de nuevos casos de una enfermedad que se han desarrollado en un período de tiempo determinado. Esta medida depende tanto de la incidencia (número de nuevos casos por unidad de tiempo) como de la duración del período de medición. Por lo tanto, es correcto afirmar que la tasa de incidencia acumulada depende tanto de la incidencia como de la duración del período de medición.\n\n- **🔴 Opción A (Incorrecta):** La tasa de incidencia acumulada no es una aproximación útil de la incidencia en general. Si bien es cierto que puede ser útil en ciertos casos, como cuando la tasa de incidencia es alta o cuando el período de estudio es largo, no es una regla general.\n\n- **🔴 Opción C (Incorrecta):** La tasa de incidencia requiere la utilización de una unidad de tiempo, pero no es necesario utilizar una unidad de tiempo específica. La unidad de tiempo puede variar según el contexto y la enfermedad en estudio.\n\n- **🔴 Opción D (Incorrecta):** La prevalencia no incrementa necesariamente con una mayor duración de la enfermedad. La prevalencia se refiere al número total de casos de una enfermedad en una población en un momento determinado, y puede ser influenciada por factores como la duración de la enfermedad, la mortalidad y la tasa de recurrencia.\n\nLa perla MIR: Recuerda que la tasa de incidencia acumulada es una medida que depende tanto de la incidencia como de la duración del período de medición. Esto es importante para comprender la dinámica de las enfermedades en diferentes poblaciones y contextos."
   },
   {
     "id": "q-34",
     "localNumber": 34,
     "category": "General",
-    "stem": "¿En cuál de las siguientes enfermedades debe indicarse precauciones exclusiva- mente de transmisión por gotas?:",
+    "stem": "¿En cuál de las siguientes enfermedades debe indicarse precauciones exclusivamente de transmisión por gotas?",
     "options": [
-      "Neumonía por Virus Respiratorio Sincitial.",
-      "Gripe.",
-      "Tuberculosis pulmonar activa.",
-      "Sarampión."
+      "Neumonía por Virus Respiratorio Sincitial",
+      "Gripe",
+      "Tuberculosis pulmonar activa",
+      "Sarampión"
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 34 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La gripe (influenza) es una enfermedad respiratoria altamente contagiosa que se transmite principalmente a través de gotas respiratorias. Las gotas respiratorias son pequeñas partículas que contienen virus y se pueden inhalar al respirar cerca de alguien infectado. La transmisión por gotas es el mecanismo principal de transmisión de la gripe, por lo que es fundamental tomar precauciones para evitar la exposición a estas gotas, como usar mascarillas y mantener una distancia segura de personas infectadas.\n\n- **🔴 Opción A (Incorrecta):** La neumonía por Virus Respiratorio Sincitial (VRS) es una enfermedad grave que afecta principalmente a niños y personas mayores. Aunque la VRS se transmite a través de gotas respiratorias, también se puede transmitir a través de contacto con superficies contaminadas y luego tocar la boca, la nariz o los ojos. Por lo tanto, la transmisión por gotas no es la única vía de transmisión de la VRS.\n\n- **🔴 Opción C (Incorrecta):** La tuberculosis pulmonar activa es una enfermedad infecciosa causada por el bacilo de la tuberculosis. La transmisión de la tuberculosis se produce a través de gotas respiratorias y contacto con fluidos corporales, como sangre o secreciones respiratorias. Sin embargo, la tuberculosis también se puede transmitir a través de contacto con superficies contaminadas y luego tocar la boca, la nariz o los ojos. Por lo tanto, la transmisión por gotas no es la única vía de transmisión de la tuberculosis.\n\n- **🔴 Opción D (Incorrecta):** El sarampión es una enfermedad viral altamente contagiosa que se transmite a través de gotas respiratorias y contacto con fluidos corporales, como secreciones respiratorias y saliva. Aunque la transmisión por gotas es una de las vías de transmisión del sarampión, también se puede transmitir a través de contacto con superficies contaminadas y luego tocar la boca, la nariz o los ojos. Por lo tanto, la transmisión por gotas no es la única vía de transmisión del sarampión.\n\nLa perla MIR: Recuerda que la transmisión por gotas es un mecanismo importante de transmisión de varias enfermedades, pero no es la única vía de transmisión para todas ellas. Es fundamental considerar todas las vías de transmisión posibles para cada enfermedad y tomar precauciones adecuadas para evitar la exposición."
   },
   {
     "id": "q-35",
     "localNumber": 35,
     "category": "Nefrología",
-    "stem": "Mujer de 73 años que ingresa en el hospi- tal por cuadro de fiebre, dolor en hipocon- drio derecho e hipotensión. Tras reanima- ción con fluidos se agrava la hipotensión y requiere intubación y conexión a ventila- ción mecánica. Se realiza una Tomografía axial computerizada (TAC) de abdomen ob- servándose datos de colecistitis gangre- nosa con gas y engrosamiento irregular de la pared. Se realiza colecistostomía de dre- naje e ingresa en la Unidad de cuidados in- tensivos (UCI). Se inicia tratamiento con piperacilina-tazobactam. Dos días después la paciente se encuentra en disfunción multiorgánica (SOFA 11 puntos), conec- tada a ventilación mecánica y requiriendo noradrenalina y vasopresina. Se recibe el siguiente hemocultivo: ANTIBIOGRAMA: CMI (mg/L) Ampicilina R > 8 Amoxicilina-Clav R > 32 Piperacilina-Taz S 4 Cefotaxima R >2 Ceftazidima R > 8 Cefepime R > 8 Azteronam R > 4 Ertapenem S < 0,12 Imipenem S < 1 Meropenem S < 0,12 Gentamicina S < 2 Ciprofloxacino S 0,25 Con estos datos, ¿cuál es la respuesta CO- RRECTA respecto al tratamiento antibiótico de esta paciente?:",
+    "stem": "Mujer de 73 años que ingresa en el hospital por cuadro de fiebre, dolor en hipocóndrio derecho e hipotensión. Tras reanimación con fluidos se agrava la hipotensión y requiere intubación y conexión a ventilación mecánica. Se realiza una Tomografía axial computerizada (TAC) de abdomen observándose datos de colecistitis gangrenosa con gas y engrosamiento irregular de la pared. Se realiza colecistostomía de drenaje e ingresa en la Unidad de cuidados intensivos (UCI). Se inicia tratamiento con piperacilina-tazobactam. Dos días después la paciente se encuentra en disfunción multiorgánica (SOFA 11 puntos), conectada a ventilación mecánica y requiriendo noradrenalina y vasopresina. Se recibe el siguiente hemocultivo: ANTIBIOGRAMA: CMI (mg/L) Ampicilina R > 8 Amoxicilina-Clav R > 32 Piperacilina-Taz S 4 Cefotaxima R >2 Ceftazidima R > 8 Cefepime R > 8 Azteronam R > 4 Ertapenem S < 0,12 Imipenem S < 1 Meropenem S < 0,12 Gentamicina S < 2 Ciprofloxacino S 0,25 Con estos datos, ¿cuál es la respuesta CORRECTA respecto al tratamiento antibiótico de esta paciente?",
     "options": [
       "Mantener piperacilina-tazobactam.",
-      "Mantener piperacilina -tazobactam aña- diendo un aminoglucósico.",
-      "Suspender piperacilina -tazobactam e iniciar meropenem.",
-      "Suspender piperacilina -tazobactam e iniciar ciprofloxacino."
+      "Mantener piperacilina-tazobactam añadiendo un aminoglucósico.",
+      "Suspender piperacilina-tazobactam e iniciar meropenem.",
+      "Suspender piperacilina-tazobactam e iniciar ciprofloxacino."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 35 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La respuesta correcta es suspender piperacilina-tazobactam e iniciar ciprofloxacino. La razón es que el antibiograma muestra que la ciprofloxacino tiene un nivel de inhibición (CMI) de 0,25 mg/L, lo que indica que es efectivo contra la bacteria responsable de la infección. Por otro lado, el piperacilina-tazobactam tiene un CMI de 4 mg/L, lo que indica que no es lo suficientemente efectivo para abordar la infección. Además, la paciente ya está en disfunción multiorgánica y requiere noradrenalina y vasopresina, lo que sugiere que la infección está avanzada y se necesita un tratamiento más agresivo. La ciprofloxacino es una opción más adecuada para esta situación debido a su efectividad y su perfil de seguridad en pacientes con disfunción multiorgánica.\n\n- **🔴 Opción A (Incorrecta):** Mantener piperacilina-tazobactam es incorrecto porque, aunque es una opción de tratamiento, no es la más efectiva en esta situación. El antibiograma muestra que el piperacilina-tazobactam no es lo suficientemente efectivo para abordar la infección.\n\n- **🔴 Opción B (Incorrecta):** Mantener piperacilina-tazobactam añadiendo un aminoglucósico es incorrecto porque no se ha demostrado que la adición de un aminoglucósico mejore la efectividad del piperacilina-tazobactam en esta situación. Además, la paciente ya está en disfunción multiorgánica y requiere un tratamiento más agresivo.\n\n- **🔴 Opción D (Incorrecta):** Suspender piperacilina-tazobactam e iniciar meropenem es incorrecto porque el meropenem no es una opción de tratamiento adecuada en esta situación. El antibiograma muestra que el meropenem tiene un CMI de 0,12 mg/L, lo que indica que no es lo suficientemente efectivo para abordar la infección.\n\nLa respuesta correcta es suspender piperacilina-tazobactam e iniciar ciprofloxacino porque es la opción de tratamiento más adecuada en esta situación. La ciprofloxacino es una opción más efectiva y segura en pacientes con disfunción multiorgánica."
   },
   {
     "id": "q-36",
     "localNumber": 36,
     "category": "General",
-    "stem": "Mujer de 44 años con antecedentes de neo- plasia de mama en tratamiento con quimio- terapia que ingresa en la unidad de cuida- dos intensivos ( UCl) con insuficiencia res- piratoria. Requiere intubación y conexión a ventilación mecánica. Se realiza fibrobron- coscopia con lavado bronco -alveolar y se aísla Nocardia farcinica pendiente de anti- biograma. ¿qué act itud terapéutica cree CORRECTA?:",
+    "stem": "Mujer de 44 años con antecedentes de neoplasia de mama en tratamiento con quimioterapia que ingresa en la unidad de cuidados intensivos (UCI) con insuficiencia respiratoria. Requiere intubación y conexión a ventilación mecánica. Se realiza fibrobroncoscopia con lavado broncoalveolar y se aísla Nocardia farcinica pendiente de antibiograma.",
     "options": [
-      "Iniciar tratamiento con voriconazol más tri- metroprin-sulfametoxazol.",
-      "Iniciar tratamiento con trimetroprin -sulfa- metoxazol.",
-      "Iniciar tratamiento con trimetroprin -sulfa- metoxazol más meropenem.",
-      "Iniciar tratamiento con trimetroprin -sulfa- metoxazol más imipenem más amikacina."
+      "Iniciar tratamiento con voriconazol más trimetoprim-sulfametoxazol.",
+      "Iniciar tratamiento con trimetoprim-sulfametoxazol.",
+      "Iniciar tratamiento con trimetoprim-sulfametoxazol más meropenem.",
+      "Iniciar tratamiento con trimetoprim-sulfametoxazol más imipenem más amikacina."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 36 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque el uso de voriconazol en combinación con trimetoprim-sulfametoxazol no es la terapia más adecuada para el tratamiento de Nocardia farcinica. El voriconazol es un antifúngico que no es efectivo contra bacterias como Nocardia. Además, la combinación de voriconazol con trimetoprim-sulfametoxazol no es una combinación comúnmente utilizada para el tratamiento de infecciones por Nocardia.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque solo incluye trimetoprim-sulfametoxazol, que es un tratamiento inadecuado para Nocardia farcinica. El trimetoprim-sulfametoxazol es una combinación antibiótica que puede ser efectiva contra algunas bacterias, pero no es suficiente para el tratamiento de infecciones por Nocardia, que requieren una terapia más intensiva.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque combina trimetoprim-sulfametoxazol con meropenem, pero no incluye un agente antibiótico adecuado para el tratamiento de Nocardia farcinica. El meropenem es un carbapenémico que puede ser efectivo contra algunas bacterias, pero no es el agente antibiótico más adecuado para el tratamiento de Nocardia.\n\n- **🟢 Opción D (Correcta):** Esta opción es la correcta porque combina trimetoprim-sulfametoxazol con imipenem y amikacina. El trimetoprim-sulfametoxazol es una combinación antibiótica que puede ser efectiva contra algunas bacterias, pero no es suficiente para el tratamiento de infecciones por Nocardia. La adición de imipenem y amikacina proporciona una cobertura antibiótica más amplia y efectiva contra Nocardia farcinica. La combinación de estos tres agentes antibióticos es la terapia más adecuada para el tratamiento de infecciones por Nocardia.\n\nLa perla MIR para recordar el concepto clave es: Cuando se trata una infección por Nocardia, es importante utilizar una combinación de agentes antibióticos que incluya un carbapenémico como imipenem, un aminoglucósido como amikacina y una combinación antibiótica como trimetoprim-sulfametoxazol para proporcionar una cobertura antibiótica más amplia y efectiva."
   },
   {
     "id": "q-37",
