@@ -2745,71 +2745,71 @@
     "id": "q-197",
     "localNumber": 197,
     "category": "Cardiología",
-    "stem": "Paciente de 88 años con antecedentes de Hipertensión Arterial, Diabetes Mellitus y Cardiopatía Isquémica Crónica que acude a urgencias por disnea de aparición súbita, con ortopnea, disnea paroxística nocturna y edemas en miembros inferiores hasta raíz de m uslo. En el triage de urgencias tiene unas cifras de presión arterial de 190/70, una frecuencia cardiaca de 123 latidos por minuto y una saturación capilar de oxígeno del 89%. ¿Cuál de las siguientes medidas terapéuticas NO está indicada de inicio en el manejo de este paciente?:",
+    "stem": "Paciente de 88 años con antecedentes de hipertensión arterial, diabetes mellitus y cardiopatía isquémica crónica que acude a urgencias por disnea de aparición súbita, con ortopnea, disnea paroxística nocturna y edemas en miembros inferiores hasta raíz del muslo. En el triage de urgencias tiene unas cifras de presión arterial de 190/70, una frecuencia cardiaca de 123 latidos por minuto y una saturación capilar de oxígeno del 89%. ¿Cuál de las siguientes medidas terapéuticas no está indicada de inicio en el manejo de este paciente?",
     "options": [
-      "Oxigenoterapia.",
-      "Nitroglicerina intravenosa.",
-      "Morfina intravenosa.",
-      "Diuréticos intravenosos."
+      "Oxigenoterapia",
+      "Nitroglicerina intravenosa",
+      "Morfina intravenosa",
+      "Diuréticos intravenosos"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 197 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Los diuréticos intravenosos no son la medida terapéutica más adecuada de inicio en este caso, ya que el paciente presenta hipotensión (presión arterial de 190/70) y la administración de diuréticos podría empeorar la hipotensión, lo que podría ser perjudicial para el paciente. Además, el objetivo inicial es estabilizar al paciente y no empeorar su situación clínica.\n\n- **🔴 Opción A (Incorrecta):** La oxigenoterapia es una medida terapéutica adecuada para mejorar la saturación de oxígeno en sangre del paciente, especialmente en caso de disnea y saturación capilar de oxígeno baja (89%).\n\n- **🔴 Opción B (Incorrecta):** La nitroglicerina intravenosa es una opción terapéutica adecuada para el manejo de la disnea en pacientes con cardiopatía isquémica crónica, ya que ayuda a reducir la presión arterial y la frecuencia cardiaca.\n\n- **🔴 Opción D (Incorrecta):** La administración de diuréticos intravenosos es una medida terapéutica adecuada para el manejo de la edema en miembros inferiores, ya que ayuda a reducir la retención de líquidos en el cuerpo.\n\nLa perla MIR: En el manejo de un paciente con disnea súbita y múltiples comorbilidades, es importante priorizar la estabilización del paciente y evitar medidas terapéuticas que puedan empeorar su situación clínica."
   },
   {
     "id": "q-198",
     "localNumber": 198,
     "category": "Traumatología",
-    "stem": "Paciente de 18 años, politraumatizado grave tras caída de un patinete. En el ma- nejo inicial, dentro de la evaluación prima- ria y soporte vital ¿Cuál es la primera ac- ción que debemos realizar?:",
+    "stem": "Paciente de 18 años, politraumatizado grave tras caída de un patinete. En el manejo inicial, dentro de la evaluación primaria y soporte vital ¿Cuál es la primera acción que debemos realizar?",
     "options": [
-      "Cohibir la hemorragia externa, exangui- nante o masiva.",
+      "Cobrir la hemorragia externa, exanguinante o masiva.",
       "Asegurar la permeabilidad de la vía aérea.",
-      "Asegurar una correcta ventilación/oxige- nación.",
+      "Asegurar una correcta ventilación/oxigenación.",
       "Identificar y tratar el shock."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 198 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** En un paciente politraumatizado, la primera acción a realizar es cobrir la hemorragia externa, exanguinante o masiva. Esto se debe a que la pérdida de sangre puede causar un shock hipovolémico, lo que puede llevar a una muerte cerebral. Al controlar la hemorragia, se reduce el riesgo de shock y se permite una mejor oxigenación del tejido cerebral y periférico. Además, al controlar la hemorragia, se reduce el riesgo de complicaciones como la coagulación intravascular diseminada (CID) o la trombocitopenia. Por lo tanto, la primera acción a realizar en un paciente politraumatizado es cobrir la hemorragia externa, exanguinante o masiva.\n\n- **🔴 Opción B (Incorrecta):** Asegurar la permeabilidad de la vía aérea es importante en pacientes con lesiones respiratorias graves, pero no es la primera acción a realizar en un paciente politraumatizado. En primer lugar, se debe asegurar que el paciente tenga una vía aérea segura, pero esto no es lo primero que se debe hacer en un paciente con múltiples lesiones.\n\n- **🔴 Opción C (Incorrecta):** Asegurar una correcta ventilación/oxigenación es importante en pacientes con lesiones respiratorias graves, pero no es la primera acción a realizar en un paciente politraumatizado. La ventilación adecuada es importante, pero no es lo primero que se debe hacer en un paciente con múltiples lesiones.\n\n- **🔴 Opción D (Incorrecta):** Identificar y tratar el shock es importante, pero no es la primera acción a realizar en un paciente politraumatizado. El shock puede ser un resultado de la hemorragia externa, pero no es la causa de la lesión. En primer lugar, se debe controlar la hemorragia y luego se puede tratar el shock si es necesario.\n\nLa perla MIR: 'Controla la hemorragia antes de tratar el shock'."
   },
   {
     "id": "q-199",
     "localNumber": 199,
     "category": "Traumatología",
-    "stem": "Paciente de 76 años, sin comorbilidad co- nocida que sufre una caída causal desde una escalera sufriendo un traumatismo cra- neal y cervical. Atendido inicialmente por un familiar, que le coloca en posición lateral de seguridad mientras espera la llegada de las asistencias sanitarias. A la llegada del personal del SAMU el paciente se encuen- tra inconsciente. ¿Cuál de las siguientes afirmaciones es FALSA sobre el manejo de la vía aérea?:",
+    "stem": "Paciente de 76 años, sin comorbilidad conocida que sufre una caída causada desde una escalera sufriendo un traumatismo craneal y cervical. Atendido inicialmente por un familiar, que le coloca en posición lateral de seguridad mientras espera la llegada de las asistencias sanitarias. A la llegada del personal del SAMU el paciente se encuentra inconsciente. ¿Cuál de las siguientes afirmaciones es FALSA sobre el manejo de la vía aérea?",
     "options": [
-      "La apertura de la vía aérea mediante trac- ción mandibular es la maniobra de elec- ción.",
+      "La apertura de la vía aérea mediante tracción mandibular es la maniobra de elección.",
       "Lo prioritario es colocar un collarín cervical rígido.",
       "La apertura de la vía aérea es prioritaria en un paciente con un traumatismo.",
-      "Una vez abierta la vía aérea, es recomen- dable usar un dispositivo orofaríngeo."
+      "Una vez abierta la vía aérea, es recomendable usar un dispositivo orofaríngeo."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 199 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Es importante priorizar el manejo de la vía aérea en un paciente con traumatismo craneal, pero en este caso, la colocación de un collarín cervical rígido no es la prioridad inmediata. La posición lateral de seguridad utilizada inicialmente es adecuada para evitar lesiones adicionales, pero no es la posición óptima para la ventilación. La apertura de la vía aérea es crucial en un paciente con traumatismo craneal, pero no se relaciona directamente con la colocación de un collarín cervical rígido. Por lo tanto, la afirmación de que lo prioritario es colocar un collarín cervical rígido es FALSA en este contexto. \n\n- **🔴 Opción A (Incorrecta):** La apertura de la vía aérea mediante tracción mandibular es una maniobra importante en la ventilación de un paciente con traumatismo craneal, pero no es la maniobra de elección en todos los casos. La elección de la maniobra depende de la condición del paciente y la disponibilidad de recursos. \n\n- **🔴 Opción C (Incorrecta):** La apertura de la vía aérea es prioritaria en un paciente con un traumatismo craneal, pero no es la única consideración en este caso. La estabilidad cervical y la posibilidad de lesiones vertebrales también son factores importantes a considerar. \n\n- **🔴 Opción D (Incorrecta):** Una vez abierta la vía aérea, es recomendable usar un dispositivo orofaríngeo para mantener la vía aérea abierta y facilitar la ventilación. Sin embargo, en un paciente con traumatismo craneal, la prioridad es asegurarse de que la vía aérea esté abierta y no bloqueada, y no necesariamente usar un dispositivo orofaríngeo. \n\nLa perla MIR: 'La apertura de la vía aérea es prioritaria en un paciente con un traumatismo craneal, pero la elección de la maniobra y la priorización de las intervenciones dependen de la condición del paciente y la disponibilidad de recursos'."
   },
   {
     "id": "q-200",
     "localNumber": 200,
     "category": "General",
-    "stem": "En relación con la violencia de género, se- ñale la afirmación correcta:",
+    "stem": "En relación con la violencia de género, se destaca la afirmación correcta:",
     "options": [
-      "Se produce con mayor frecuencia en fami- lias desestructuradas y con pocos recur- sos económicos.",
-      "Los agresores presentan con frecuencia trastornos psiquiátricos graves que expli- can la conducta violenta.",
-      "Las víctimas rara vez acuden a los servi- cios sanitarios por miedo a ser identifica- das como víctimas.",
-      "El embarazo es un periodo de riesgo para el inicio o agravamiento de la violencia de género."
+      "Se produce con mayor frecuencia en familias desestructuradas y con pocos recursos económicos.",
+      "Los agresores presentan con frecuencia trastornos psiquiátricos graves que explican la conducta violenta.",
+      "Las víctimas rara vez acuden a los servicios sanitarios por miedo a ser identificadas como víctimas.",
+      "El embarazo es un período de riesgo para el inicio o agravamiento de la violencia de género."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 200 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El embarazo es un período de riesgo para el inicio o agravamiento de la violencia de género debido a varios factores. Por un lado, el embarazo puede generar un cambio en la dinámica de la relación entre la víctima y el agresor, lo que puede llevar a un aumento en la frecuencia y la gravedad de la violencia. Por otro lado, la víctima puede sentirse aún más vulnerable y dependiente del agresor durante el embarazo, lo que puede dificultar su acceso a recursos y apoyo. Además, el embarazo puede ser utilizado como un mecanismo de control por parte del agresor, lo que puede agravar la situación de la víctima.\n\n- **🔴 Opción A (Incorrecta):** La violencia de género no se produce exclusivamente en familias desestructuradas y con pocos recursos económicos. Si bien la pobreza y la desigualdad económica pueden ser factores que contribuyen a la violencia de género, no son los únicos ni los más importantes. La violencia de género puede ocurrir en cualquier tipo de familia y en cualquier nivel socioeconómico.\n\n- **🔴 Opción B (Incorrecta):** Los agresores de la violencia de género no siempre presentan trastornos psiquiátricos graves. Aunque algunos agresores pueden tener problemas de salud mental, otros pueden ser personas sanas que han aprendido a utilizar la violencia como una forma de control y dominio sobre sus parejas. La violencia de género es un problema complejo que involucra factores sociales, culturales y económicos, además de los factores individuales.\n\n- **🔴 Opción C (Incorrecta):** Las víctimas de la violencia de género no siempre temen acudir a los servicios sanitarios por miedo a ser identificadas como víctimas. De hecho, muchas víctimas buscan ayuda y apoyo en los servicios de salud, especialmente si se sienten en peligro o si tienen síntomas físicos o emocionales relacionados con la violencia. Los servicios de salud pueden ser un lugar seguro y confiable para que las víctimas reciban apoyo y recursos para salir de la situación de violencia."
   },
   {
     "id": "q-201",
     "localNumber": 201,
     "category": "General",
-    "stem": "¿Cuál de las siguientes opciones es el tra- tamiento de primera línea más eficaz para aliviar la congestión nasal y los síntomas oculares establecidos en la rinitis alérgica persistente y moderada?:",
+    "stem": "¿Cuál de las siguientes opciones es el tratamiento de primera línea más eficaz para aliviar la congestión nasal y los síntomas oculares establecidos en la rinitis alérgica persistente y moderada?",
     "options": [
-      "Antihistamínicos orales de primera gene- ración, como la difenhidramina, debido a su efecto rápido.",
-      "Descongestionantes nasales tópicos usa- dos prolongadamente para un control sos- tenido de la congestión.",
-      "Corticosteroides intranasales de alta po- tencia, para aliviar síntomas nasales y oculares con menos efectos sistémicos.",
+      "Antihistamínicos orales de primera generación, como la difenhidramina, debido a su efecto rápido.",
+      "Descongestionantes nasales tópicos utilizados prolongadamente para un control sostenido de la congestión.",
+      "Corticosteroides intranasales de alta potencia, para aliviar síntomas nasales y oculares con menos efectos sistémicos.",
       "Cromoglicato sódico por vía oral como único tratamiento en síntomas moderados persistentes."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 201 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Los corticosteroides intranasales de alta potencia son el tratamiento de primera línea más eficaz para aliviar la congestión nasal y los síntomas oculares en la rinitis alérgica persistente y moderada. Esto se debe a que pueden reducir la inflamación y la congestión nasal con menos efectos sistémicos en comparación con otros tratamientos. Además, son eficaces en el alivio de síntomas nasales y oculares, lo que los convierte en una opción ideal para el tratamiento de esta condición.\n\n- **🔴 Opción A (Incorrecta):** Los antihistamínicos orales de primera generación, como la difenhidramina, pueden ser efectivos en el alivio de los síntomas de la rinitis alérgica, pero no son la opción más eficaz para la congestión nasal y los síntomas oculares. Además, pueden tener efectos secundarios como somnolencia y sedación.\n\n- **🔴 Opción B (Incorrecta):** Los descongestionantes nasales tópicos pueden ser efectivos en el alivio a corto plazo de la congestión nasal, pero su uso prolongado puede llevar a la dependencia y a efectos secundarios como la hipertrofia de las mucosas nasales. Además, no son efectivos en el alivio de los síntomas oculares.\n\n- **🔴 Opción D (Incorrecta):** El cromoglicato sódico por vía oral no es una opción adecuada para el tratamiento de la rinitis alérgica persistente y moderada. Este medicamento se utiliza más comúnmente para el tratamiento de la rinitis alérgica leve y aguda, y no es efectivo en el alivio de la congestión nasal y los síntomas oculares en la rinitis alérgica persistente y moderada."
   },
   {
     "id": "q-202",
