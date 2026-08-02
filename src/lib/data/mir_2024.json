@@ -2033,15 +2033,15 @@
     "id": "q-146",
     "localNumber": 146,
     "category": "Reumatología",
-    "stem": "Hombre de 76 años que es intervenido por recambio protésico de cadera derecha tras traumatismo. Entre los antecedentes personales destaca hipertensión arterial en tratamiento fármacológico y recambio protésico de rodilla izquierda hace 3 meses por artrosis evolucionada. Al cuarto día del postoperatorio se d etecta trombopenia de 52.000/mm 3 con cifras de hemoglobina y leucocitos normales. El estudio de coagulación y la bioquímica es normal. ¿Cuál es el diagnóstico más probable?:",
+    "stem": "Hombre de 76 años que es intervenido por recambio protésico de cadera derecha tras traumatismo. Entre los antecedentes personales destaca hipertensión arterial en tratamiento fármacológico y recambio protésico de rodilla izquierda hace 3 meses por artrosis evolucionada. Al cuarto día del postoperatorio se detecta trombopenia de 52.000/mm3 con cifras de hemoglobina y leucocitos normales. El estudio de coagulación y la bioquímica es normal.",
     "options": [
-      "Púrpura trombótica trombocitopénica.",
-      "Coagulación intravascular diseminada.",
-      "Trombopenia inducida por heparina.",
-      "Síndrome hemolítico urémico."
+      "Púrpura trombótica trombocitopénica",
+      "Coagulación intravascular diseminada",
+      "Trombopenia inducida por heparina",
+      "Síndrome hemolítico urémico"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 146 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La trombopenia inducida por heparina es una complicación poco común pero grave que puede ocurrir en pacientes que han recibido heparina durante su tratamiento. En este caso, el paciente había sido intervenido por recambio protésico de cadera y puede haber recibido heparina para prevenir la formación de coágulos. La trombopenia inducida por heparina se caracteriza por una disminución de los plaquetas en la sangre, lo que puede llevar a un aumento del riesgo de hemorragia. La presencia de una trombopenia de 52.000/mm3 con cifras de hemoglobina y leucocitos normales y estudio de coagulación y bioquímica normal hace que esta sea la opción más probable.\n\n- **🔴 Opción A (Incorrecta):** La púrpura trombótica trombocitopénica es una enfermedad autoinmune que afecta a los plaquetas y puede causar una disminución de la producción de plaquetas. Sin embargo, en este caso, el estudio de coagulación y la bioquímica es normal, lo que hace que esta opción sea menos probable.\n\n- **🔴 Opción B (Incorrecta):** La coagulación intravascular diseminada (CID) es una condición en la que la sangre se coagula en los vasos sanguíneos, lo que puede causar daño a los órganos. Sin embargo, en este caso, la bioquímica es normal, lo que hace que esta opción sea menos probable.\n\n- **🔴 Opción D (Incorrecta):** El síndrome hemolítico urémico es una condición que afecta a la producción de glóbulos rojos y puede causar daño a los riñones. Sin embargo, en este caso, la hemoglobina es normal, lo que hace que esta opción sea menos probable.\n\nLa perla MIR: 'Trombopenia inducida por heparina' es una complicación grave y poco común que puede ocurrir en pacientes que han recibido heparina durante su tratamiento."
   },
   {
     "id": "q-147",
@@ -2055,13 +2055,13 @@
       "Granulomatosis linfomatoide."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 147 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El linfoma primario de cavidades es un tipo de linfoma que se asocia con el virus herpes humano tipo 8 (KSHV/HHV8). Este virus es conocido por causar la enfermedad de Kaposi, una condición que afecta la piel y los órganos. El linfoma primario de cavidades es una condición rara en la que se forma un linfoma en las cavidades del cuerpo, como el cerebro o el corazón. Se cree que el virus KSHV/HHV8 desempeña un papel importante en la formación de este tipo de linfoma.\n\n- **🔴 Opción A (Incorrecta):** La leucemia-linfoma T del adulto es un tipo de cáncer que afecta a las células T del sistema inmunológico. Aunque puede ser causado por factores genéticos y ambientales, no está directamente relacionado con el virus KSHV/HHV8.\n\n- **🔴 Opción C (Incorrecta):** El linfoma de Burkitt es un tipo de cáncer que afecta a las células B del sistema inmunológico. Se cree que está causado por una infección por el virus Epstein-Barr, no por el virus KSHV/HHV8.\n\n- **🔴 Opción D (Incorrecta):** La granulomatosis linfomatoide es un tipo de cáncer que afecta a las células B del sistema inmunológico. Aunque puede ser causado por factores genéticos y ambientales, no está directamente relacionado con el virus KSHV/HHV8.\n\n- La relación entre el virus KSHV/HHV8 y el linfoma primario de cavidades es un ejemplo importante de cómo los virus pueden desempeñar un papel en la formación de ciertos tipos de cáncer. Es importante recordar que la enfermedad de Kaposi y el linfoma primario de cavidades están asociados con un alto riesgo de transmisión del virus KSHV/HHV8 a través de la transfusión de sangre y el contacto sexual."
   },
   {
     "id": "q-148",
     "localNumber": 148,
     "category": "General",
-    "stem": "Mujer de 50 años diagnosticada de síndrome mielodisplásico con monosomía del cromosoma 7 (45 XX -7 [20]) es sometida a un trasplante hematopoyético alogénico con sangre de cordón umbilical de un hombre compatible procedente de un banco de otro país. A los tres meses del trasplante con recuperación completa de las cifras hematológicas periféricas se realiza una punción de médula ósea, que no presenta alteraciones morfológicas y un estudio cromosómico con un cariotipo 47 XXY [20]. ¿Cuál es la explicación de estos hallazgos?:",
+    "stem": "Mujer de 50 años diagnosticada de síndrome mielodisplásico con monosomía del cromosoma 7 (45 XX -7 [20]) es sometida a un trasplante hematopoyético alogénico con sangre de cordón umbilical de un hombre compatible procedente de un banco de otro país. A los tres meses del trasplante con recuperación completa de las cifras hematológicas periféricas se realiza una punción de médula ósea, que no presenta alteraciones morfológicas y un estudio cromosómico con un cariotipo 47 XXY [20]. ¿Cuál es la explicación de estos hallazgos?",
     "options": [
       "El donante tiene un síndrome de Klinefelter no diagnosticado.",
       "En la médula ósea coexisten células del donante y del receptor (quimerismo mixto).",
@@ -2069,13 +2069,13 @@
       "En el cariotipo realizado precozmente tras un trasplante hematopoyético es habitual encontrar alteraciones cromosómicas transitorias de este tipo que carecen de significación clínica."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 148 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El donante tiene un síndrome de Klinefelter, que se caracteriza por la presencia de un cromosoma X extra en las células, lo que resulta en un cariotipo 47 XXY. Este síndrome es una condición genética que se hereda de manera autosómica dominante y es más común en hombres. En este caso, el donante del trasplante hematopoyético es un hombre con síndrome de Klinefelter, lo que explica el cariotipo 47 XXY encontrado en el estudio cromosómico de la paciente.\n- **🔴 Opción B (Incorrecta):** El quimerismo mixto se refiere a la coexistencia de células de dos o más individuos diferentes en el mismo organismo. Sin embargo, en este caso, el estudio cromosómico no muestra ninguna evidencia de quimerismo mixto, ya que el cariotipo 47 XXY es consistente con el patrón cromosómico del donante.\n- **🔴 Opción C (Incorrecta):** La fusión celular es un proceso que puede ocurrir en ciertas condiciones, pero no es una explicación plausible para el cariotipo 47 XXY encontrado en este caso. La fusión celular implicaría la unión de dos células diferentes, lo que no se ve reflejado en el estudio cromosómico.\n- **🔴 Opción D (Incorrecta):** Las alteraciones cromosómicas transitorias pueden ocurrir en el contexto de un trasplante hematopoyético, pero no explican el cariotipo 47 XXY encontrado en este caso. Si las alteraciones fueran transitorias, se esperaría que desaparecieran con el tiempo, pero en lugar de eso, el cariotipo 47 XXY persiste.\nLa perla MIR: Recuerda que el síndrome de Klinefelter es una condición genética que puede ser heredada y que puede afectar a la compatibilidad del donante en un trasplante hematopoyético."
   },
   {
     "id": "q-149",
     "localNumber": 149,
     "category": "Reumatología",
-    "stem": "Mujer de 90 años sin alergias medicamentosas conocidas, con HTA y gonalgia nocturna por gonartrosis derecha de intensidad leve -moderada de tres meses de evolución. Refiere que no toma ninguna medicación y se confirma que realiza las medidas higiénicas del sueño correctamente. Consulta a su médico de atención primaria por insomnio de conciliación y mantenimiento que le interfiere con sus actividades diarias. ¿Qué fármaco es más adecuado iniciar en este caso?:",
+    "stem": "Mujer de 90 años sin alergias medicamentosas conocidas, con HTA y gonalgia nocturna por gonartrosis derecha de intensidad leve-moderada de tres meses de evolución. Refiere que no toma ninguna medicación y se confirma que realiza las medidas higiénicas del sueño correctamente. Consulta a su médico de atención primaria por insomnio de conciliación y mantenimiento que le interfiere con sus actividades diarias. ¿Qué fármaco es más adecuado iniciar en este caso?",
     "options": [
       "Paracetamol.",
       "Diazepam.",
@@ -2083,21 +2083,21 @@
       "Trazodona."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 149 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La paracetamol es una opción adecuada para iniciar debido a que el paciente tiene gonalgia nocturna por gonartrosis derecha de intensidad leve-moderada. La paracetamol es un analgésico no esteroide (AINE) que puede ayudar a aliviar el dolor y la inflamación en la articulación afectada. Además, es una opción segura para un paciente de 90 años con HTA y sin alergias medicamentosas conocidas.\n\n- **🔴 Opción B (Incorrecta):** El diazepam es un benzodiacepina que puede ayudar a tratar el insomnio, pero no es la mejor opción en este caso debido a que el paciente no tiene alergias medicamentosas conocidas y no se indica si tiene algún tipo de ansiedad o estrés que pueda requerir tratamiento con benzodiacepina. Además, el diazepam puede tener efectos secundarios como somnolencia, confusión y pérdida de coordinación en personas mayores.\n\n- **🔴 Opción C (Incorrecta):** La mirtazapina es un antidepresivo tetracíclico que puede ayudar a tratar el insomnio, pero no es la mejor opción en este caso debido a que el paciente no tiene alergias medicamentosas conocidas y no se indica si tiene algún tipo de depresión o ansiedad que pueda requerir tratamiento con antidepresivo. Además, la mirtazapina puede tener efectos secundarios como somnolencia, mareo y pérdida de coordinación en personas mayores.\n\n- **🔴 Opción D (Incorrecta):** La trazodona es un antidepresivo tricíclico que puede ayudar a tratar el insomnio, pero no es la mejor opción en este caso debido a que el paciente no tiene alergias medicamentosas conocidas y no se indica si tiene algún tipo de depresión o ansiedad que pueda requerir tratamiento con antidepresivo. Además, la trazodona puede tener efectos secundarios como somnolencia, mareo y pérdida de coordinación en personas mayores.\n\nLa perla MIR es que en casos de insomnio de conciliación y mantenimiento en personas mayores, es importante buscar una causa subyacente como dolor o inflamación, y tratarla con opciones farmacológicas adecuadas como la paracetamol."
   },
   {
     "id": "q-150",
     "localNumber": 150,
     "category": "General",
-    "stem": "En los pacientes mayores con síndrome de inmovilidad una de las siguientes manifestaciones clínicas o consecuencias NO es atribuible al mismo:",
+    "stem": "En los pacientes mayores con síndrome de inmovilidad una de las siguientes manifestaciones clínicas o consecuencias NO es atribuible al mismo.",
     "options": [
       "Déficit intelectual.",
       "Aumento de la frecuencia cardíaca.",
       "Reducción de la sensibilidad a la insulina.",
-      "Balance nitrogenado positivo. Página: 24 de 33"
+      "Balance nitrogenado positivo."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 150 del examen MIR de la convocatoria FSE."
+    "explanation": "## Síndrome de inmovilidad en pacientes mayores\n\n### Descripción\n\nEl síndrome de inmovilidad es un estado clínico caracterizado por la inmovilidad prolongada de un paciente, lo que puede llevar a una serie de complicaciones y manifestaciones clínicas.\n\n### Opciones\n\n#### 🟢 Opción D (Correcta):\n\nLa opción correcta es 'Balance nitrogenado positivo'. Esto es debido a que en el síndrome de inmovilidad, los pacientes pueden experimentar una pérdida de masa muscular y una reducción en la habilidad para eliminar el ácido úrico, lo que lleva a un balance nitrogenado positivo. Este es un indicador de una posible insuficiencia renal o hepática.\n\n#### 🔴 Opción A (Incorrecta):\n\nEl déficit intelectual no es directamente relacionado con el síndrome de inmovilidad. Aunque la inmovilidad prolongada puede afectar la función cognitiva en pacientes con antecedentes de demencia, no es una consecuencia directa del síndrome de inmovilidad.\n\n#### 🔴 Opción B (Incorrecta):\n\nEl aumento de la frecuencia cardíaca puede ser una consecuencia del estrés y la ansiedad asociados con la inmovilidad, pero no es una manifestación clínica directa del síndrome de inmovilidad.\n\n#### 🔴 Opción C (Incorrecta):\n\nLa reducción de la sensibilidad a la insulina puede ser una consecuencia de la inmovilidad prolongada, ya que la inactividad puede llevar a una pérdida de masa muscular y una disminución en la sensibilidad a la insulina.\n\n### Perla MIR\n\nRecuerda que en el síndrome de inmovilidad, las complicaciones y manifestaciones clínicas pueden ser variadas, pero la opción correcta es la que no se relaciona directamente con el estado clínico."
   },
   {
     "id": "q-151",
