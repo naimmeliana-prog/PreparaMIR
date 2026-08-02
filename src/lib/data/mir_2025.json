@@ -1415,7 +1415,7 @@
     "id": "q-102",
     "localNumber": 102,
     "category": "General",
-    "stem": "Entre los siguientes tumores benignos de senos paranasales señale cuál de ellos se asocia con malignización:",
+    "stem": "Entre los siguientes tumores benignos de senos paranasales, señale cuál de ellos se asocia con malignización",
     "options": [
       "Papiloma invertido.",
       "Mucocele.",
@@ -1423,63 +1423,63 @@
       "Osteoma."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 102 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El papiloma invertido es un tumor benigno de senos paranasales que se asocia con un riesgo elevado de malignización. Esto se debe a que puede contener áreas de metaplasia y displasia, lo que puede progresar a carcinoma. Es importante tener en cuenta que el papiloma invertido es un tumor que requiere seguimiento estrecho debido a su potencial para malignización.\n\n- **🔴 Opción B (Incorrecta):** El mucocele es un tumor benigno de senos paranasales que se caracteriza por la acumulación de moco en el seno. Aunque puede causar complicaciones como infecciones o abscesos, no se asocia con malignización. El mucocele es un problema común en los senos paranasales, pero no es un tumor que se asocie con cáncer.\n\n- **🔴 Opción C (Incorrecta):** El schwannoma es un tumor benigno que se origina en el tejido nervioso. Aunque puede ocurrir en cualquier parte del cuerpo, es poco común en los senos paranasales. El schwannoma no se asocia con malignización y es considerado un tumor benigno. Sin embargo, es importante tener en cuenta que puede causar síntomas como dolor o presión en la región afectada.\n\n- **🔴 Opción D (Incorrecta):** El osteoma es un tumor benigno que se origina en el tejido óseo. Aunque puede ocurrir en cualquier parte del cuerpo, es poco común en los senos paranasales. El osteoma no se asocia con malignización y es considerado un tumor benigno. Sin embargo, es importante tener en cuenta que puede causar síntomas como dolor o presión en la región afectada.\n\nLa perla MIR es: 'El papiloma invertido es el tumor benigno de senos paranasales que se asocia con malignización'."
   },
   {
     "id": "q-103",
     "localNumber": 103,
     "category": "General",
-    "stem": "¿Cuál de las siguientes afirmaciones sobre la otitis media secretoria es CIERTA?:",
+    "stem": "¿Cuál de las siguientes afirmaciones sobre la otitis media serosa es CIERTA?",
     "options": [
       "Es más frecuente en verano.",
       "El tratamiento de elección es quirúrgico.",
       "En la mayoría de los casos, la evolución natural es hacia la curación espontánea.",
-      "Los antihistamínicos son útiles para su re- solución."
+      "Los antihistamínicos son útiles para su resolución."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 103 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La otitis media serosa no es más frecuente en verano. De hecho, es más común en los niños pequeños y puede ser causada por una infección viral o bacteriana. La relación con las estaciones del año no está claramente establecida.\n- **🔴 Opción B (Incorrecta):** El tratamiento de elección para la otitis media serosa no es quirúrgico. En la mayoría de los casos, se trata con medicamentos como los antibióticos o los analgésicos para aliviar los síntomas.\n- **🔴 Opción C (Correcta):** En la mayoría de los casos, la evolución natural de la otitis media serosa es hacia la curación espontánea. La mayoría de los niños pequeños se recuperan de la enfermedad sin necesidad de tratamiento médico específico.\n- **🔴 Opción D (Incorrecta):** Los antihistamínicos no son útiles para la resolución de la otitis media serosa. Los antihistamínicos pueden ser utilizados para aliviar los síntomas de la alergia, pero no tienen un efecto directo en la enfermedad.\n\nLa perla MIR: La otitis media serosa se cura espontáneamente en la mayoría de los casos, por lo que no es necesario un tratamiento quirúrgico."
   },
   {
     "id": "q-104",
     "localNumber": 104,
     "category": "General",
-    "stem": "En Neonatología ingresa desde paritorio un neonato grande para la edad gestacional con hemangioma facial, macroglosia y on- falocele, que desarrolla posteriormente cri- sis de hipoglucemia. ¿Cuál de las siguien- tes afirmaciones es FALSA?:",
+    "stem": "En Neonatología ingresa desde paritorio un neonato de grandes para la edad gestacional con hemangioma facial, macroglosia y on- falocele, que desarrolla posteriormente crisis de hipoglucemia.",
     "options": [
       "Se plantea el diagnóstico de Síndrome de Beckwith-Wiedemann.",
       "La gestación por técnicas de reproducción asistida y/o detección ecográfica prenatal de polihidramnios puede estar entre sus antecedentes.",
       "La causa más frecuente de este síndrome es la teratogénica.",
-      "No suele conllevar discapacidad intelec- tual, salvo complicaciones específicas asociadas como hipoxia o hipoglucemias no tratadas, entre otras."
+      "No suele conllevar discapacidad intelectual, salvo complicaciones específicas asociadas como hipoxia o hipoglucemias no tratadas, entre otras."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 104 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El Síndrome de Beckwith-Wiedemann (SBW) es una condición genética caracterizada por la presencia de hemangiomas faciales, macroglosia y onfalocele, entre otros signos. La edad gestacional avanzada y el tamaño del neonato pueden ser indicadores de este síndrome, por lo que es razonable considerar este diagnóstico en este escenario clínico. Además, el SBW está asociado con un mayor riesgo de desarrollar hipoglucemia, lo cual se menciona en la historia clínica del paciente. Por lo tanto, la afirmación de que se plantea el diagnóstico de Síndrome de Beckwith-Wiedemann es verdadera y es la opción correcta.\n\n- **🟢 Opción B (Correcta):** La gestación por técnicas de reproducción asistida (TRA) y/o la detección ecográfica prenatal de polihidramnios pueden estar entre los antecedentes del paciente. El SBW está asociado con un mayor riesgo de desarrollar polihidramnios durante la gestación, lo cual puede ser detectado mediante ecografía. Además, la exposición a factores teratogénicos durante la gestación, como la infección por citomegalovirus, puede aumentar el riesgo de desarrollar SBW. Por lo tanto, la afirmación de que la gestación por técnicas de reproducción asistida y/o la detección ecográfica prenatal de polihidramnios puede estar entre los antecedentes del paciente es verdadera y es la opción correcta.\n\n- **🟢 Opción D (Correcta):** El SBW no suele conllevar discapacidad intelectual, salvo complicaciones específicas asociadas como hipoxia o hipoglucemias no tratadas, entre otras. Aunque el SBW puede ser asociado con un mayor riesgo de desarrollar discapacidad intelectual, la mayoría de los niños con SBW no desarrollan discapacidad intelectual significativa. Sin embargo, las complicaciones específicas asociadas con el SBW, como la hipoxia o la hipoglucemia no tratadas, pueden aumentar el riesgo de desarrollar discapacidad intelectual. Por lo tanto, la afirmación de que el SBW no suele conllevar discapacidad intelectual es verdadera y es la opción correcta.\n\n- **🔴 Opción C (Incorrecta):** La causa más frecuente de este síndrome es la teratogénica. La causa más frecuente del Síndrome de Beckwith-Wiedemann (SBW) es la alteración de la expresión génica debido a mutaciones en el gen H19 o la región q11 del cromosoma 11. Estas mutaciones pueden ser heredadas o adquiridas y pueden aumentar el riesgo de desarrollar SBW. La teratogénesis, que se refiere a la capacidad de un agente para causar malformaciones en el embrión, no es la causa más frecuente del SBW. Por lo tanto, la afirmación de que la causa más frecuente de este síndrome es la teratogénica es falsa y es la opción incorrecta."
   },
   {
     "id": "q-105",
     "localNumber": 105,
     "category": "Pediatría",
-    "stem": "Una mujer de 37 años acude a consulta con su hijo de 14 años con discapacidad inte- lectual moderada-grave, sin otros hallazgos fenotípicos y conductuales significativos. Previamente le habían realizado al niño un Array-CGH y un estudio molecular de X Frá- gil, en los que no se detectó ninguna altera- ción. La señora desea planificar otra gesta- ción y solicita asesoramiento genético pre- vio. ¿Cuál de las siguientes afirmaciones es correcta?:",
+    "stem": "Una mujer de 37 años acude a consulta con su hijo de 14 años con discapacidad intelectual moderada-grave, sin otros hallazgos fenotípicos y conductuales significativos. Previamente le habían realizado al niño un Array-CGH y un estudio molecular de X Frágil, en los que no se detectó ninguna alteración. La señora desea planificar otra gestación y solicita asesoramiento genético previo.",
     "options": [
-      "Dado que en los estudios genéticos de su hijo no se detectó ninguna alteración, no se sospecha causa genética subyacente y el riesgo de recurrencia de la discapaci- dad intelectual en su descendencia sería mínimo.",
-      "Con la información disponible se podría in- dicar un diagnóstico genético preimplanta- cional y/o prenatal específico para sus fu- turos embarazos.",
+      "Dado que en los estudios genéticos de su hijo no se detectó ninguna alteración, no se sospecha causa genética subyacente y el riesgo de recurrencia de la discapacidad intelectual en su descendencia sería mínimo.",
+      "Con la información disponible se podría indicar un diagnóstico genético preimplantacional y/o prenatal específico para sus futuros embarazos.",
       "Sería conveniente evaluar de nuevo al hijo y considerar previamente la realización de un estudio de secuenciación masiva, tipo exoma clínico.",
-      "Se le aconsejaría, dado el alto riesgo de recurrencia, que no planifique más emba- razos."
+      "Se le aconsejaría, dado el alto riesgo de recurrencia, que no planifique más embarazos."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 105 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Esta opción es la correcta porque, aunque los estudios genéticos previos no detectaron ninguna alteración, no se puede descartar completamente la posibilidad de una causa genética subyacente. La discapacidad intelectual moderada-grave puede ser causada por una variedad de factores genéticos, algunos de los cuales pueden no ser detectados mediante Array-CGH o estudio molecular de X Frágil. Por lo tanto, evaluar nuevamente al hijo y considerar la realización de un estudio de secuenciación masiva, tipo exoma clínico, es una medida razonable para intentar identificar una posible causa genética subyacente. Esto permitiría a la familia tomar decisiones informadas sobre sus opciones de reproducción en el futuro.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque, aunque los estudios genéticos previos no detectaron ninguna alteración, no se puede descartar completamente la posibilidad de una causa genética subyacente. La discapacidad intelectual moderada-grave puede ser causada por una variedad de factores genéticos, algunos de los cuales pueden no ser detectados mediante Array-CGH o estudio molecular de X Frágil.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque no se puede indicar un diagnóstico genético preimplantacional y/o prenatal específico para sus futuros embarazos sin realizar más estudios. Aunque la información disponible puede sugerir algunas posibilidades, no hay suficiente evidencia para hacer una predicción precisa.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque no se puede concluir con certeza que el riesgo de recurrencia sea alto. Aunque la discapacidad intelectual moderada-grave puede ser causada por una variedad de factores genéticos, no hay suficiente evidencia para justificar la recomendación de no planificar más embarazos.\n\nLa perla MIR es: *No se puede descartar completamente la posibilidad de una causa genética subyacente en la discapacidad intelectual moderada-grave, por lo que es importante realizar más estudios para intentar identificar una posible causa genética subyacente.*"
   },
   {
     "id": "q-106",
     "localNumber": 106,
     "category": "General",
-    "stem": "En un paciente diagnosticado de glaucoma de tensión normal, ¿Cuál de las siguientes características clínicas descartaría este diagnóstico?:",
+    "stem": "En un paciente diagnosticado de glaucoma de tensión normal, ¿Cuál de las siguientes características clínicas descartaría este diagnóstico?",
     "options": [
       "Presión intraocular < 21 mmHg.",
-      "Angulo de drenaje cerrado en la goniosco- pia.",
+      "Angulo de drenaje cerrado en la gonioscopia.",
       "Excavación papilar glaucomatosa.",
       "Hipotensión sistémica nocturna."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 106 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El angulo de drenaje cerrado en la gonioscopia es una característica clínica que descarta el diagnóstico de glaucoma de tensión normal. Esto se debe a que el glaucoma de tensión normal se caracteriza por un angulo de drenaje abierto, lo que permite la salida adecuada de la aguayuda a la presión intraocular. Un angulo de drenaje cerrado sugiere una obstrucción del drenaje de la aguayuda, lo que no es compatible con el glaucoma de tensión normal. Por lo tanto, esta característica clínica descarta el diagnóstico de glaucoma de tensión normal.\n\n- **🔴 Opción A (Incorrecta):** Una presión intraocular < 21 mmHg no descarta el diagnóstico de glaucoma de tensión normal. De hecho, la presión intraocular puede ser normal en el glaucoma de tensión normal, especialmente en las etapas iniciales del proceso. Por lo tanto, esta opción no es la correcta.\n\n- **🔴 Opción C (Incorrecta):** La excavación papilar glaucomatosa es una característica clínica que se asocia con el glaucoma de tensión normal. Esto se debe a que la pérdida de la sustancia nerviosa en la papila ocular es un resultado directo de la elevada presión intraocular que se caracteriza en el glaucoma de tensión normal. Por lo tanto, esta opción no es la correcta.\n\n- **🔴 Opción D (Incorrecta):** La hipotensión sistémica nocturna no descarta el diagnóstico de glaucoma de tensión normal. La hipotensión sistémica nocturna se refiere a una disminución de la presión arterial durante el sueño, lo que no tiene relación con la presión intraocular o el glaucoma de tensión normal. Por lo tanto, esta opción no es la correcta.\n\nLa perla MIR para recordar este concepto es: 'Angulo de drenaje abierto es compatible con glaucoma de tensión normal, pero un angulo de drenaje cerrado no lo es'."
   },
   {
     "id": "q-107",
