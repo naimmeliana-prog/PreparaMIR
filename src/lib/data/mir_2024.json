@@ -633,35 +633,35 @@
     "id": "q-46",
     "localNumber": 46,
     "category": "Reumatología",
-    "stem": "Hombre de 79 años de edad con antecedentes de hipertensión arterial, hiperuricemia y artrosis que acude a urgencias por presentar posible reacción adversa farmacológica. No refiere antecedentes alergológicos de interés. Después de una excursión en barco sin protección solar presenta un cuadro cutáneo agudo facial, principalmente en párpados superiores e inferiores, consistentes en eritema y edema intenso bilateral. El paciente estaba realizando tratamiento médico de forma habitual con hidroclorotiazida 25 m g, amlodipino 5 mg, atorvastatina 10 mg y apixaban 5 mg. ¿Cuál de los cuatro fármacos descritos es más probable que sea el responsable de una posible reacción de fotosensibilidad?",
+    "stem": "Hombre de 79 años de edad con antecedentes de hipertensión arterial, hiperuricemia y artrosis que acude a urgencias por presentar posible reacción adversa farmacológica. No refiere antecedentes alergológicos de interés. Después de una excursión en barco sin protección solar presenta un cuadro cutáneo agudo facial, principalmente en párpados superiores e inferiores, consistentes en eritema y edema intenso bilateral. El paciente estaba realizando tratamiento médico de forma habitual con hidroclorotiazida 25 mg, amlodipino 5 mg, atorvastatina 10 mg y apixaban 5 mg. ¿Cuál de los cuatro fármacos descritos es más probable que sea el responsable de una posible reacción de fotosensibilidad?",
     "options": [
-      "Hidroclorotiazida.",
-      "Amlodipino.",
-      "Atorvastatina.",
-      "Apixaban."
+      "Hidroclorotiazida",
+      "Amlodipino",
+      "Atorvastatina",
+      "Apixaban"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 46 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La hidroclorotiazida es un diurético tiazídico que puede causar reacciones de fotosensibilidad en algunas personas. Esta reacción se debe a que la luz solar puede activar la hidroclorotiazida en la piel, lo que lleva a la producción de radicales libres y a la inflamación de la piel. En el caso del paciente, la exposición a la luz solar sin protección puede haber desencadenado esta reacción adversa.\n\n- **🔴 Opción B (Incorrecta):** El amlodipino es un bloqueador de los canales de calcio que se utiliza para tratar la hipertensión arterial y la angina de pecho. Aunque puede causar efectos secundarios como la hipotensión y la edema, no está asociado con reacciones de fotosensibilidad.\n\n- **🔴 Opción C (Incorrecta):** La atorvastatina es un inhibidor de la HMG-CoA reductasa que se utiliza para reducir los niveles de colesterol en la sangre. No está asociada con reacciones de fotosensibilidad y su uso no está relacionado con la exposición a la luz solar.\n\n- **🔴 Opción D (Incorrecta):** El apixaban es un anticoagulante que se utiliza para prevenir la formación de coágulos de sangre. No está asociado con reacciones de fotosensibilidad y su uso no está relacionado con la exposición a la luz solar.\n\nLa perla MIR: La hidroclorotiazida es el fármaco más probable que cause reacciones de fotosensibilidad en pacientes que han estado expuestos a la luz solar sin protección."
   },
   {
     "id": "q-47",
     "localNumber": 47,
     "category": "Cardiología",
-    "stem": "¿Con cuál de estos fármacos administrados en monoterapia es necesario realizar un ecocardiograma antes de su inicio?:",
+    "stem": "¿Con cuál de estos fármacos administrados en monoterapia es necesario realizar un ecocardiograma antes de su inicio?",
     "options": [
-      "Trastuzumab.",
-      "Tamoxifeno.",
-      "Paclitaxel.",
-      "Docetaxel."
+      "Trastuzumab",
+      "Tamoxifeno",
+      "Paclitaxel",
+      "Docetaxel"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 47 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El Trastuzumab es un fármaco dirigido contra el factor de crecimiento epidérmico receptor 2 (HER2), que se utiliza en el tratamiento del cáncer de mama HER2 positivo. Sin embargo, la administración de Trastuzumab puede causar cardiotoxicidad, lo que lleva a una disminución de la función cardíaca. Por lo tanto, se recomienda realizar un ecocardiograma antes de iniciar el tratamiento con Trastuzumab para evaluar la función cardíaca del paciente y detectar cualquier anomalía subyacente que pueda aumentar el riesgo de cardiotoxicidad.\n\n- **🔴 Opción B (Incorrecta):** El Tamoxifeno es un agonista selectivo del receptor de estrogeno, utilizado en el tratamiento del cáncer de mama hormonalmente positivo. Aunque el Tamoxifeno puede tener efectos secundarios cardiovasculares, como un aumento del riesgo de trombosis venosa profunda, no requiere la realización de un ecocardiograma previo a su inicio.\n\n- **🔴 Opción C (Incorrecta):** El Paclitaxel es un antineoplásico que se utiliza en el tratamiento del cáncer de ovario, mama y otras neoplasias. Aunque el Paclitaxel puede causar efectos cardiovasculares, como un aumento del riesgo de trombosis venosa profunda, no requiere la realización de un ecocardiograma previo a su inicio.\n\n- **🔴 Opción D (Incorrecta):** El Docetaxel es otro antineoplásico similar al Paclitaxel, utilizado en el tratamiento del cáncer de ovario, mama y otras neoplasias. Como el Paclitaxel, el Docetaxel puede causar efectos cardiovasculares, pero no requiere la realización de un ecocardiograma previo a su inicio.\n\nLa perla MIR: Siempre que se inicie un fármaco con potencial cardiotoxicidad, como el Trastuzumab, es importante realizar un ecocardiograma previo para evaluar la función cardíaca del paciente y minimizar el riesgo de efectos adversos cardiovasculares."
   },
   {
     "id": "q-48",
     "localNumber": 48,
     "category": "General",
-    "stem": "La inducción de secuencia rápida en la anestesia general es:",
+    "stem": "La inducción de secuencia rápida en la anestesia general es un método de inducción anestésica utilizado cuando existe riesgo de regurgitación gástrica y aspiración pulmonar.",
     "options": [
       "Método de inducción anestésica utilizado cuando existe riesgo de regurgitación gástrica y aspiración pulmonar.",
       "Método de inducción anestésica realizado exclusivamente con halogenados.",
@@ -669,13 +669,13 @@
       "Método de inducción anestésica utilizado habitualmente para la realización del procedimiento quirúrgico programado."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 48 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La inducción de secuencia rápida, también conocida como laringoscopia rápida, es un método de inducción anestésica utilizado cuando existe riesgo de regurgitación gástrica y aspiración pulmonar. Se realiza rápidamente para minimizar el tiempo en el que el paciente está despierto y no puede proteger su vía aérea. Esto reduce el riesgo de aspiración de contenido gástrico en el torrente sanguíneo del paciente. Es una técnica segura y efectiva cuando se realiza correctamente, y es la opción correcta en este caso.\n\n- **🔴 Opción B (Incorrecta):** La inducción de secuencia rápida no se realiza exclusivamente con halogenados. Los halogenados, como el halotano, son anestésicos inhalados que pueden utilizarse para la inducción y el mantenimiento de la anestesia, pero no son el único método de inducción utilizado en la secuencia rápida. La opción B es incorrecta porque simplifica demasiado la realidad de la inducción de secuencia rápida.\n\n- **🔴 Opción C (Incorrecta):** La inducción de secuencia rápida no requiere necesariamente la ventilación del paciente con presión positiva. La ventilación con presión positiva puede ser utilizada en algunos casos, pero no es un requisito para la inducción de secuencia rápida. La opción C es incorrecta porque describe un procedimiento que no es esencial para la inducción de secuencia rápida.\n\n- **🔴 Opción D (Incorrecta):** La inducción de secuencia rápida no es utilizado habitualmente para la realización del procedimiento quirúrgico programado. La inducción de secuencia rápida es utilizada en situaciones de emergencia, como la urgente necesidad de intubación, en lugar de ser un método de inducción habitual para procedimientos quirúrgicos programados. La opción D es incorrecta porque describe una situación en la que la inducción de secuencia rápida no es la opción más adecuada.\n\nLa perla MIR es: La inducción de secuencia rápida es un método de inducción anestésica seguro y efectivo, pero su uso debe ser cuidadoso y considerar las condiciones específicas del paciente y la situación. La opción correcta es A, y la respuesta a esta pregunta es clave para comprender la importancia de la inducción de secuencia rápida en la anestesia general."
   },
   {
     "id": "q-49",
     "localNumber": 49,
     "category": "Pediatría",
-    "stem": "Señale la actitud correcta ante un paciente en edad infantil que refiere antecedente de traumatismo facial no tratado hace 3 años y que presenta limitación progresiva de la apertura oral y desviación del mentón hacia un lado:",
+    "stem": "Señale la actitud correcta ante un paciente en edad infantil que refiere antecedente de traumatismo facial no tratado hace 3 años y que presenta limitación progresiva de la apertura oral y desviación del mentón hacia un lado.",
     "options": [
       "Debe descartarse la existencia de una fractura antigua tipo Lefort-1.",
       "Debe realizarse un estudio mediante tomografía computarizada para descartar una displasia fibrosa.",
@@ -683,13 +683,13 @@
       "Debe descartarse el diagnóstico de anquilosis témporo-mandibular."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 49 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La actitud correcta ante un paciente en edad infantil con antecedente de traumatismo facial no tratado y limitación progresiva de la apertura oral, así como desviación del mentón hacia un lado, es descartar el diagnóstico de anquilosis témporo-mandibular. La anquilosis témporo-mandibular es una condición en la que los huesos de la mandíbula y la sínfisis de la maxila se fusionan, lo que puede provocar limitaciones en la apertura de la boca y alteraciones en la posición de la mandíbula. Esta condición puede ser consecuencia de un traumatismo facial no tratado en la infancia, lo que hace que esta opción sea la correcta clínicamente.\n\n- **🔴 Opción A (Incorrecta):** Descartar la existencia de una fractura antigua tipo Lefort-1 no es la actitud correcta ante un paciente con limitación progresiva de la apertura oral y desviación del mentón. La fractura de Lefort-1 es una fractura del maxilar superior que puede provocar alteraciones en la posición de la mandíbula, pero no necesariamente limitaciones en la apertura de la boca.\n\n- **🔴 Opción B (Incorrecta):** Realizar un estudio mediante tomografía computarizada para descartar una displasia fibrosa no es la actitud correcta ante un paciente con limitación progresiva de la apertura oral y desviación del mentón. La displasia fibrosa es una condición que afecta la formación ósea y puede provocar alteraciones en la estructura del maxilar, pero no necesariamente limitaciones en la apertura de la boca.\n\n- **🔴 Opción C (Incorrecta):** Descartar el diagnóstico de osteocondroma del cóndilo mandibular no es la actitud correcta ante un paciente con limitación progresiva de la apertura oral y desviación del mentón. El osteocondroma del cóndilo mandibular es una condición que puede provocar alteraciones en la articulación temporomandibular, pero no necesariamente limitaciones en la apertura de la boca.\n\nLa anquilosis témporo-mandibular es una condición que debe ser considerada en pacientes con antecedente de traumatismo facial no tratado y limitación progresiva de la apertura oral. La actitud correcta es descartar este diagnóstico y realizar una exploración exhaustiva para determinar la causa subyacente de las limitaciones en la apertura de la boca y la desviación del mentón."
   },
   {
     "id": "q-50",
     "localNumber": 50,
     "category": "General",
-    "stem": "Respecto al colgajo DIEP (Deep inferior epigastric perforator), señale la respuesta INCORRECTA:",
+    "stem": "Respecto al colgajo DIEP (Deep inferior epigastric perforator), señale la respuesta INCORRECTA: Se trata de un colgajo basado en vasos perforantes que puede ser usado como colgajo libre o como colgajo pediculado. Está irrigado por ramas de la arteria circunfleja femoral lateral. Puede utilizarse para reconstrucción mamaria. Los vasos perforantes musculocutáneos atraviesan el músculo recto del abdomen antes de irrigar la piel del colgajo.",
     "options": [
       "Se trata de un colgajo basado en vasos perforantes que puede ser usado como colgajo libre o como colgajo pediculado.",
       "Está irrigado por ramas de la arteria circunfleja femoral lateral.",
@@ -697,7 +697,7 @@
       "Los vasos perforantes musculocutáneos atraviesan el músculo recto del abdomen antes de irrigar la piel del colgajo."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 50 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La opción B es incorrecta porque los colgajos basados en vasos perforantes, como el colgajo DIEP, no están irrigados por ramas de la arteria circunfleja femoral lateral. La irrigación del colgajo DIEP se realiza a través de las ramas de la arteria epigástrica inferior profunda, no a través de la arteria circunfleja femoral lateral.\n\n- **🔴 Opción A (Incorrecta):** La opción A es correcta porque el colgajo DIEP se basa en vasos perforantes que pueden ser usados como colgajo libre o como colgajo pediculado.\n\n- **🔴 Opción C (Incorrecta):** La opción C es correcta porque el colgajo DIEP puede ser utilizado para la reconstrucción mamaria.\n\n- **🔴 Opción D (Incorrecta):** La opción D es correcta porque los vasos perforantes musculocutáneos del colgajo DIEP atraviesan el músculo recto del abdomen antes de irrigar la piel del colgajo."
   },
   {
     "id": "q-51",
