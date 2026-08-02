@@ -2465,71 +2465,71 @@
     "id": "q-177",
     "localNumber": 177,
     "category": "General",
-    "stem": "La exanguinotransfusión es un procedi- miento terapéutico que se utiliza de forma característica en el tratamiento de:",
+    "stem": "La exanguinotransfusión es un procedimiento terapéutico que se utiliza de forma característica en el tratamiento de",
     "options": [
       "Púrpura trombótica trombocitopénica (PTT) inmunomediada.",
       "Síndrome de Guillain-Barré.",
-      "Rechazo humoral agudo en trasplante re- nal.",
+      "Rechazo humoral agudo en trasplante renal.",
       "Enfermedad hemolítica del recién nacido."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 177 del examen MIR de la convocatoria FSE."
+    "explanation": "## Exanguinotransfusión y su aplicación clínica\n\nLa exanguinotransfusión es un procedimiento terapéutico que implica la realización de una transfusión de sangre después de extraer una cantidad significativa de sangre del paciente. Esto se utiliza para reducir la cantidad de anticuerpos inmunes presentes en el sistema circulatorio.\n\n### 🟢 Opción D (Correcta):\n\nLa exanguinotransfusión es particularmente útil en el tratamiento de la Enfermedad hemolítica del recién nacido. En este trastorno, el recién nacido produce anticuerpos inmunes contra sus propios glóbulos rojos, lo que lleva a una destrucción en masa de estas células. La exanguinotransfusión ayuda a reducir la cantidad de anticuerpos inmunes presentes en el sistema circulatorio, lo que a su vez reduce la destrucción de los glóbulos rojos y mejora la situación clínica del niño.\n\n### 🔴 Opción A (Incorrecta):\n\nLa Púrpura trombótica trombocitopénica (PTT) inmunomediada es una enfermedad autoinmune que afecta la producción de plaquetas. Si bien la exanguinotransfusión puede ser utilizada en casos de PTT, no es el principal tratamiento para esta condición.\n\n### 🔴 Opción B (Incorrecta):\n\nEl Síndrome de Guillain-Barré es una enfermedad autoinmune que causa la destrucción de la cubierta mielínica de los nervios periféricos. La exanguinotransfusión no es un tratamiento estándar para esta condición.\n\n### 🔴 Opción C (Incorrecta):\n\nEl Rechazo humoral agudo en trasplante renal es una respuesta inmune aguda que ocurre cuando el sistema inmunitario del receptor reconoce el trasplante como un \"extranjero\" y ataca las células del trasplante. La exanguinotransfusión no es un tratamiento principal para esta condición.\n\n### Perla MIR:\n\nLa exanguinotransfusión es un procedimiento terapéutico que reduce la cantidad de anticuerpos inmunes presentes en el sistema circulatorio. Es particularmente útil en el tratamiento de la Enfermedad hemolítica del recién nacido."
   },
   {
     "id": "q-178",
     "localNumber": 178,
     "category": "Nefrología",
-    "stem": "Una mujer de 70 años consulta por astenia. Presenta una hemoglobina de 8.1 g/dl, VCM de 72 fl (rango: 84-100 fl) y CHCM de 25 g/dl (rango: 31.5 -34.5 g/dl). En el hemograma, tiene una cifra de plaquetas de 530.000/mcrl. En la bioquímica, la LDH, la bilirrubina y la función renal son normales. Revisando sus analíticas previas, años atrás normales, observamos que las altera- ciones han ido desarrollándose de forma progresiva en el último año. ¿Cuál es el diagnóstico más probable y qué prueba/s solicitaría para continuar el estudio de esta paciente?:",
+    "stem": "Una mujer de 70 años consulta por astenia. Presenta una hemoglobina de 8.1 g/dl, VCM de 72 fl (rango: 84-100 fl) y CHCM de 25 g/dl (rango: 31.5 -34.5 g/dl). En el hemograma, tiene una cifra de plaquetas de 530.000/mcrl. En la bioquímica, la LDH, la bilirrubina y la función renal son normales. Revisando sus analíticas previas, años atrás normales, observamos que las alteraciones han ido desarrollándose de forma progresiva en el último año.",
     "options": [
-      "Trombocitemia esencial. Estudio de mé- dula ósea.",
+      "Trombocitemia esencial. Estudio de médula ósea.",
       "Betatalasemia intermedia. Electroforesis de hemoglobinas y estudio genético.",
-      "Esferocitosis hereditaria. Prueba de unión con esosina-5’-maleimida (EMA).",
-      "Anemia ferropénica. Ferritina sérica y es- tudios digestivos."
+      "Esferocitosis hereditaria. Prueba de unión con eosina-5’maleimida (EMA).",
+      "Anemia ferropénica. Ferritina sérica y estudios digestivos."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 178 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La paciente presenta una anemia con hemoglobina baja (8.1 g/dl) y plaquetas elevadas (530.000/mcrl), lo que sugiere una posible anemia ferropénica. La falta de respuesta a la anemia en el último año y la normalidad de la bioquímica y función renal apoyan esta hipótesis. La prueba de ferritina sérica y estudios digestivos sería adecuada para confirmar el diagnóstico y evaluar la posible causa de la anemia ferropénica.\n\n- **🔴 Opción A (Incorrecta):** La trombocitemia esencial no se asocia con anemia y plaquetas elevadas. Además, el estudio de médula ósea no sería la primera opción para diagnosticar esta condición.\n\n- **🔴 Opción B (Incorrecta):** La betatalasemia intermedia se caracteriza por una anemia microcítica con hemoglobina baja y plaquetas normales. No se ajusta a la presentación clínica de la paciente.\n\n- **🔴 Opción C (Incorrecta):** La esferocitosis hereditaria se asocia con anemia hemolítica, plaquetas normales y posible presencia de esferocitos en la sangre. No se ajusta a la presentación clínica de la paciente.\n\nLa perla MIR: Cuando una paciente anciana desarrolla una anemia progresiva con plaquetas elevadas, es importante considerar la posibilidad de anemia ferropénica y realizar pruebas de ferritina sérica y estudios digestivos para confirmar el diagnóstico."
   },
   {
     "id": "q-179",
     "localNumber": 179,
     "category": "Neurología",
-    "stem": "Hombre de 60 años con antecedentes per- sonales de fumador de 30 paq/año, hiper- tensión arterial, dislipemia, hígado graso. Tratamiento con enalapril, simvastatina y 100 mg de ácido acetilsalicílico por ictus hace 5 años. Tiene una artritis psoriásica a tratamiento con metotrexato a dosis de 25 mg/semana a pesar de lo cual presenta mal control de la actividad y precisa cambio de tratamiento. ¿Cuál considera que NO es la mejor opción de tratamiento?:",
+    "stem": "Hombre de 60 años con antecedentes personales de fumador de 30 paq/año, hipertensión arterial, dislipemia, hígado graso. Tratamiento con enalapril, simvastatina y 100 mg de ácido acetilsalicílico por ictus hace 5 años. Tiene una artritis psoriásica a tratamiento con metotrexato a dosis de 25 mg/semana a pesar de lo cual presenta mal control de la actividad y precisa cambio de tratamiento.",
     "options": [
-      "Biológico con mecanismo de acción anti - TNF (Factor de Necrosis Tumoral).",
+      "Biológico con mecanismo de acción anti-TNF (Factor de Necrosis Tumoral).",
       "Sintético con diana específica inhibidor de JAK.",
-      "Biológico con mecanismo de acción anti - IL17.",
-      "Biológico con mecanismo de acción anti - IL12/23."
+      "Biológico con mecanismo de acción anti-IL17.",
+      "Biológico con mecanismo de acción anti-IL12/23."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 179 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La opción B, Sintético con diana específica inhibidor de JAK, no es la mejor opción en este caso debido a que el paciente ya está recibiendo metotrexato, un fármaco que actúa a través de la vía de señalización de las cinasas de Janus (JAK). La combinación de un inhibidor de JAK con metotrexato podría aumentar el riesgo de efectos adversos, como anemia y leucopenia, y podría no ofrecer un beneficio adicional en el control de la artritis psoriásica. Por lo tanto, es importante elegir un tratamiento que no interactúe de manera adversa con los medicamentos actuales del paciente.\n\n- **🔴 Opción A (Incorrecta):** La opción A, Biológico con mecanismo de acción anti-TNF, podría ser una opción adecuada para tratar la artritis psoriásica, especialmente en pacientes con mal control de la actividad. Los fármacos anti-TNF, como etanercept y adalimumab, han demostrado ser efectivos en la reducción de la inflamación y el dolor en pacientes con artritis psoriásica. Sin embargo, la opción A no es la mejor opción en este caso porque el paciente ya está recibiendo metotrexato y la combinación de un fármaco anti-TNF con metotrexato podría aumentar el riesgo de efectos adversos.\n\n- **🔴 Opción C (Incorrecta):** La opción C, Biológico con mecanismo de acción anti-IL17, podría ser una opción adecuada para tratar la artritis psoriásica, especialmente en pacientes con mal control de la actividad. Los fármacos anti-IL17, como secukinumab, han demostrado ser efectivos en la reducción de la inflamación y el dolor en pacientes con artritis psoriásica. Sin embargo, la opción C no es la mejor opción en este caso porque el paciente ya está recibiendo metotrexato y la combinación de un fármaco anti-IL17 con metotrexato podría aumentar el riesgo de efectos adversos.\n\n- **🔴 Opción D (Incorrecta):** La opción D, Biológico con mecanismo de acción anti-IL12/23, podría ser una opción adecuada para tratar la artritis psoriásica, especialmente en pacientes con mal control de la actividad. Los fármacos anti-IL12/23, como ustekinumab, han demostrado ser efectivos en la reducción de la inflamación y el dolor en pacientes con artritis psoriásica. Sin embargo, la opción D no es la mejor opción en este caso porque el paciente ya está recibiendo metotrexato y la combinación de un fármaco anti-IL12/23 con metotrexato podría aumentar el riesgo de efectos adversos.\n\nLa perla MIR para recordar esta pregunta es: *Cuando se trata de artritis psoriásica en pacientes con mal control de la actividad, es importante elegir un tratamiento que no interactúe de manera adversa con los medicamentos actuales del paciente y que ofrezca un beneficio adicional en el control de la enfermedad*."
   },
   {
     "id": "q-180",
     "localNumber": 180,
     "category": "Nefrología",
-    "stem": "Varón de 58 años, sin antecedentes perso- nales ni toma de fármacos que tras un con- trol anual de empresa es diagnosticado de carcinoma renal por lo que se inicia trata- miento con Pembrolizumab (anti PD1). Acude a S de Reumatología por un cuadro de poliartritis, predominantemente rizomié- lica, de 2 meses de evolución con marcada elevación de reactantes de fase aguda. El análisis de orina, el hemograma y la bioquí- mica son normales. El factor reumatoide y los anti péptido cíclico citrulinado son ne- gativos. Los ANA positivos a títulos de 1/80 patrón homogéneo ¿Cuál de los siguientes diagnósticos sería el más probable?:",
+    "stem": "Varón de 58 años, sin antecedentes personales ni toma de fármacos, es diagnosticado de carcinoma renal por lo que se inicia tratamiento con Pembrolizumab (anti PD1). Acude a S de Reumatología por un cuadro de poliartritis, predominantemente rizomielica, de 2 meses de evolución con marcada elevación de reactantes de fase aguda. El análisis de orina, el hemograma y la bioquímica son normales. El factor reumatoide y los anti péptido cíclico citrulinado son negativos. Los ANA positivos a títulos de 1/80 patrón homogéneo",
     "options": [
-      "Vasculitis secundaria al carcinoma.",
-      "Síndrome paraneoplásico.",
-      "Enfermedad reumática secundaria al Pembrolizumab.",
-      "Lupus eritematoso sistémico."
+      "Vasculitis secundaria al carcinoma",
+      "Síndrome paraneoplásico",
+      "Enfermedad reumática secundaria al Pembrolizumab",
+      "Lupus eritematoso sistémico"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 180 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El síndrome paraneoplásico es un cuadro clínico que se produce como consecuencia de una enfermedad neoplásica, sin que el tumor directamente afecte al sistema reumático. En este caso, el tratamiento con Pembrolizumab (anti PD1) puede desencadenar un síndrome paraneoplásico, caracterizado por la aparición de síntomas reumatológicos, como la poliartritis rizomielica, acompañados de una marcada elevación de reactantes de fase aguda. La presencia de ANA positivos a títulos de 1/80 patrón homogéneo sugiere una respuesta autoinmune. Por tanto, la opción C es la más probable. \n\n- **🔴 Opción A (Incorrecta):** La vasculitis secundaria al carcinoma es un cuadro raro que implica la inflamación de los vasos sanguíneos debido a la presencia de un cáncer. En este caso, no hay evidencia de vasculitis en el hemograma o en la bioquímica. Por tanto, esta opción no es la adecuada. \n\n- **🔴 Opción B (Incorrecta):** La enfermedad reumática secundaria al Pembrolizumab es un cuadro hipotético que no se ha descrito en la literatura médica. El Pembrolizumab es un fármaco que se utiliza para tratar el cáncer, y no se ha asociado con la aparición de enfermedades reumáticas. Por tanto, esta opción no es la adecuada. \n\n- **🔴 Opción D (Incorrecta):** El lupus eritematoso sistémico (LES) es una enfermedad autoinmune que afecta a varias partes del cuerpo, incluyendo la piel, los órganos internos y los sistemas nervioso y reumático. En este caso, no hay evidencia de LES en el análisis de orina, el hemograma y la bioquímica, ni en la presencia de otros síntomas clásicos del LES. Por tanto, esta opción no es la adecuada. \n\nLa perla MIR: En la medicina, es importante distinguir entre la causa y el efecto. En este caso, el síndrome paraneoplásico es una complicación del tratamiento con Pembrolizumab, y no una enfermedad reumática primaria."
   },
   {
     "id": "q-181",
     "localNumber": 181,
     "category": "Reumatología",
-    "stem": "Paciente de 55 años que acude por cuadro de monoartritis aguda autolimitada de pri- mera metatarsofalángica. Refiere episodios repetidos en los últimos 3 años que trató con analgésicos. Aporta analítica con urice- mia de 11 mg/dl. Resto de estudios norma- les. ¿Cuál sería el tratamiento más indicado para el paciente?:",
+    "stem": "Paciente de 55 años que acude por cuadro de monoartritis aguda autolimitada de primer metatarsofalángica. Refiere episodios repetidos en los últimos 3 años que trató con analgésicos. Aporta analítica con uricemia de 11 mg/dl. Resto de estudios normales. ¿Cuál sería el tratamiento más indicado para el paciente?",
     "options": [
       "Colchicina y antiinflamatorios durante la crisis y luego suspender ambos.",
-      "Colchicina y antiinflamatorios y cuando esté asintomático suspender antiinflamato- rios y añadir alopurinol.",
-      "Alopurinol y antiinflamatorios durante la cri- sis y después suspender ambos.",
-      "Colchicina y antiinflamatorios durante la crisis y después suspender antiinflamato- rios y mantener colchicina."
+      "Colchicina y antiinflamatorios y cuando esté asintomático suspender antiinflamatorios y añadir alopurinol.",
+      "Alopurinol y antiinflamatorios durante la crisis y después suspender ambos.",
+      "Colchicina y antiinflamatorios durante la crisis y después suspender antiinflamatorios y mantener colchicina."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 181 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El tratamiento más adecuado para un paciente con monoartritis aguda autolimitada y uricemia elevada es iniciar tratamiento con colchicina y antiinflamatorios durante la crisis para controlar la inflamación y el dolor. Una vez que el paciente esté asintomático, se pueden suspender los antiinflamatorios y se puede añadir alopurinol para disminuir los niveles de ácido úrico y prevenir futuras crisis. Esta opción es la correcta porque permite controlar la inflamación y el dolor durante la crisis, y luego se puede iniciar tratamiento preventivo con alopurinol para prevenir futuras crisis.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque solo se suspenden los antiinflamatorios y la colchicina después de la crisis, sin iniciar tratamiento preventivo con alopurinol. Esto puede no ser suficiente para controlar la uricemia y prevenir futuras crisis.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque se suspenden los antiinflamatorios y la colchicina después de la crisis, sin iniciar tratamiento preventivo con alopurinol. Además, se puede requerir tratamiento con antiinflamatorios durante períodos más prolongados.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque se suspenden los antiinflamatorios después de la crisis, pero se mantiene la colchicina sin iniciar tratamiento preventivo con alopurinol. Esto puede no ser suficiente para controlar la uricemia y prevenir futuras crisis.\n\nLa perla MIR es: 'Colchicina y antiinflamatorios durante la crisis, y luego suspender antiinflamatorios y añadir alopurinol para tratamiento preventivo'."
   },
   {
     "id": "q-182",
