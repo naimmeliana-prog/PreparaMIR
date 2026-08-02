@@ -1333,7 +1333,7 @@
     "id": "q-96",
     "localNumber": 96,
     "category": "General",
-    "stem": "Uno de estos hallazgos anatomopatológicos sugiere el diagnóstico de enfermedad por IgG4:",
+    "stem": "Uno de estos hallazgos anatomopatológicos sugiere el diagnóstico de enfermedad por IgG4",
     "options": [
       "Trombosis arterial.",
       "Proliferación de la íntima arterial sin datos de vasculitis.",
@@ -1341,13 +1341,13 @@
       "Infiltrado perivascular de polimorfonucleares."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 96 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La fibrosis estoriforme es un patrón de fibrosis característico de la enfermedad por IgG4. Esta condición es una enfermedad autoinmune que implica la sobreexpresión de IgG4 y puede afectar a varias glándulas y órganos. La fibrosis estoriforme se asocia con una respuesta inflamatoria crónica y puede ser un hallazgo importante en la biopsia de órganos afectados. Por lo tanto, la opción C es la correcta en este contexto. \n\n- **🔴 Opción A (Incorrecta):** La trombosis arterial no está relacionada con la enfermedad por IgG4. La trombosis arterial se refiere a la formación de un coágulo sanguíneo en una arteria, lo que puede bloquear el flujo sanguíneo y provocar daño tisular. Esto no es un hallazgo característico de la enfermedad por IgG4. \n\n- **🔴 Opción B (Incorrecta):** La proliferación de la íntima arterial sin datos de vasculitis tampoco está relacionada con la enfermedad por IgG4. La proliferación de la íntima arterial se refiere a un proceso en el que las células de la pared arterial se multiplican y crecen, lo que puede llevar a la estenosis arterial. Sin embargo, esto no es un hallazgo específico de la enfermedad por IgG4. \n\n- **🔴 Opción D (Incorrecta):** El infiltrado perivascular de polimorfonucleares tampoco es un hallazgo característico de la enfermedad por IgG4. El infiltrado perivascular se refiere a la presencia de células inflamatorias en el espacio perivascular, lo que puede ser visto en varias condiciones patológicas. Sin embargo, esto no es específico de la enfermedad por IgG4. \n\nLa enfermedad por IgG4 es una condición autoinmune que requiere la identificación de patrones específicos de fibrosis y respuesta inflamatoria. La fibrosis estoriforme es un hallazgo clave en la biopsia de órganos afectados, lo que la hace una opción correcta en este contexto."
   },
   {
     "id": "q-97",
     "localNumber": 97,
     "category": "Cardiología",
-    "stem": "¿Cuál de los siguientes hallazgos NO esperaría encontrar en una mujer de 28 años con una comunicación interauricular evolucionada?:",
+    "stem": "¿Cuál de los siguientes hallazgos NO esperaría encontrar en una mujer de 28 años con una comunicación interauricular evolucionada?",
     "options": [
       "Soplo mesosistólico.",
       "Aumento de la silueta cardíaca en la radiografía de tórax.",
@@ -1355,27 +1355,27 @@
       "Hipertrofia del ventrículo izquierdo."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 97 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La hipertrofia del ventrículo izquierdo no es un hallazgo esperado en una mujer de 28 años con una comunicación interauricular evolucionada. Esto se debe a que la comunicación interauricular típicamente causa una hipertrofia del ventrículo derecho debido al aumento de la carga de trabajo en este ventrículo. La hipertrofia del ventrículo izquierdo no es un resultado directo de la comunicación interauricular y se asocia más comúnmente con otras condiciones cardíacas, como la estenosis aórtica o la hipertensión arterial. Por lo tanto, la hipertrofia del ventrículo izquierdo es la respuesta correcta a la pregunta, ya que no es un hallazgo esperado en este contexto clínico.\n\n- **🔴 Opción A (Incorrecta):** El soplo mesosistólico es un hallazgo esperado en una mujer de 28 años con una comunicación interauricular evolucionada. Esto se debe a que la comunicación interauricular puede causar un aumento de la presión en el ventrículo derecho, lo que a su vez puede generar un soplo mesosistólico. Por lo tanto, el soplo mesosistólico no es la respuesta correcta a la pregunta.\n\n- **🔴 Opción B (Incorrecta):** El aumento de la silueta cardíaca en la radiografía de tórax es un hallazgo esperado en una mujer de 28 años con una comunicación interauricular evolucionada. Esto se debe a que la comunicación interauricular puede causar un aumento del tamaño del ventrículo derecho, lo que a su vez puede aumentar la silueta cardíaca en la radiografía de tórax. Por lo tanto, el aumento de la silueta cardíaca no es la respuesta correcta a la pregunta.\n\n- **🔴 Opción C (Incorrecta):** El bloqueo de rama derecha en el electrocardiograma no es un hallazgo directamente relacionado con la comunicación interauricular. Sin embargo, la comunicación interauricular puede causar un aumento de la presión en el ventrículo derecho, lo que a su vez puede generar un bloqueo de rama derecha. Por lo tanto, el bloqueo de rama derecha no es la respuesta correcta a la pregunta, ya que no es un hallazgo directamente relacionado con la comunicación interauricular.\n\n**La comunicación interauricular es una condición cardíaca que puede causar una serie de efectos en el corazón, incluyendo un aumento de la presión en el ventrículo derecho y un aumento del tamaño del ventrículo derecho. Esto puede generar un soplo mesosistólico y un aumento de la silueta cardíaca en la radiografía de tórax. La hipertrofia del ventrículo izquierdo no es un resultado directo de la comunicación interauricular y se asocia más comúnmente con otras condiciones cardíacas. Por lo tanto, la hipertrofia del ventrículo izquierdo es la respuesta correcta a la pregunta, ya que no es un hallazgo esperado en este contexto clínico."
   },
   {
     "id": "q-98",
     "localNumber": 98,
     "category": "Cardiología",
-    "stem": "Joven de 16 años con astenia desde hace 1 mes, que durante un partido de fútbol sufre un síncope. A su llegada al hospital inconsciente y hemodinámicamente inestable presenta síntomas y signos de accidente cerebrovascular, de isquemia mesentérica y de isquemia arterial periférica, en miembro superior izquierdo y de ambos miembros inferiores. ¿Cuál cree que es el diagnóstico de sospecha?:",
+    "stem": "Joven de 16 años con astenia desde hace 1 mes, que durante un partido de fútbol sufre un síncope. A su llegada al hospital inconsciente y hemodinámicamente inestable presenta síntomas y signos de accidente cerebrovascular, de isquemia mesentérica y de isquemia arterial periférica, en miembro superior izquierdo y de ambos miembros inferiores.",
     "options": [
       "Bloqueo aurículo-ventricular de 3º grado.",
       "Insuficiencia mitral aguda.",
       "Mixoma de aurícula izquierda.",
-      "Rotura de aneurisma de arteria cerebral media. Página: 16 de 33"
+      "Rotura de aneurisma de arteria cerebral media."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 98 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La rotura de aneurisma de arteria cerebral media es una causa plausible de la presentación clínica del paciente. La hemodinámicamente inestable y los síntomas de accidente cerebrovascular, isquemia mesentérica e isquemia arterial periférica pueden deberse a la liberación de fragmentos de aneurisma que obstruyen vasos cerebrales y periféricos. Además, el síncope durante el partido de fútbol podría deberse a la sobrecarga hemodinámica debida a la actividad física en un paciente con aneurisma roturado. La combinación de estos factores hace que la rotura de aneurisma de arteria cerebral media sea una causa razonable de la presentación clínica del paciente. \n\n- **🔴 Opción A (Incorrecta):** El bloqueo aurículo-ventricular de 3º grado es una condición que puede causar síncopes, pero no explica los síntomas de accidente cerebrovascular, isquemia mesentérica e isquemia arterial periférica presentados por el paciente. \n\n- **🔴 Opción B (Incorrecta):** La insuficiencia mitral aguda puede causar síntomas de insuficiencia cardíaca y embolia sistémica, pero no explica los síntomas de accidente cerebrovascular, isquemia mesentérica e isquemia arterial periférica presentados por el paciente. \n\n- **🔴 Opción D (Incorrecta):** El mixoma de aurícula izquierda es una condición que puede causar síntomas de insuficiencia cardíaca y embolia sistémica, pero no explica los síntomas de accidente cerebrovascular, isquemia mesentérica e isquemia arterial periférica presentados por el paciente. \n\nLa perla MIR es que la rotura de aneurisma de arteria cerebral media es una causa importante de presentación clínica de accidente cerebrovascular y síntomas periféricos en pacientes jóvenes, y es importante sospechar esta condición en pacientes con síntomas atípicos de accidente cerebrovascular."
   },
   {
     "id": "q-99",
     "localNumber": 99,
     "category": "Cardiología",
-    "stem": "Hombre de 65 años, hipertenso desde hace 12 años, que acude por primera vez a la consulta de su médico de familia para una revisión rutinaria. La exploración física es normal y el electrocardiograma muestra ritmo sinusal a 68 lpm, con bloqueo de la rama izquierda del haz de His y duración del QRS de 150 ms. ¿Cuál de las siguientes situaciones implica este hallazgo?:",
+    "stem": "Hombre de 65 años, hipertenso desde hace 12 años, que acude por primera vez a la consulta de su médico de familia para una revisión rutinaria. La exploración física es normal y el electrocardiograma muestra ritmo sinusal a 68 lpm, con bloqueo de la rama izquierda del haz de His y duración del QRS de 150 ms.",
     "options": [
       "Asincronía ventricular.",
       "Miocardiopatía dilatada.",
@@ -1383,21 +1383,21 @@
       "Isquemia miocárdica aguda."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 99 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El bloqueo de la rama izquierda del haz de His es una alteración en la conducción eléctrica del corazón que afecta la velocidad de conducción de las impulsos eléctricos entre el núcleo atrial y el núcleo ventricular. Dado que la duración del QRS es mayor de 120 ms, se considera un bloqueo de la rama izquierda del haz de His, que es una forma de disfunción del haz de His. La disfunción del haz de His puede llevar a una disminución de la frecuencia cardíaca (bradicardia) y puede ser asintomática o síntomática. En este caso, la exploración física es normal, lo que sugiere que el bloqueo de la rama izquierda del haz de His es asintomático.\n- **🔴 Opción B (Incorrecta):** La miocardiopatía dilatada es una condición en la que el corazón se vuelve más grande y menos eficiente debido a la pérdida de células musculares cardíacas. Esto no se relaciona directamente con el bloqueo de la rama izquierda del haz de His.\n- **🔴 Opción C (Incorrecta):** La disociación aurículo-ventricular es una condición en la que el ritmo del corazón se vuelve irregular debido a una descoordinación entre los latidos del corazón y los impulsos eléctricos. Esto no se relaciona directamente con el bloqueo de la rama izquierda del haz de His.\n- **🔴 Opción D (Incorrecta):** La isquemia miocárdica aguda es una condición en la que el corazón no recibe suficiente sangre y oxígeno, lo que puede llevar a daño muscular cardíaco. Esto no se relaciona directamente con el bloqueo de la rama izquierda del haz de His.\nLa perla MIR es que el bloqueo de la rama izquierda del haz de His es una alteración en la conducción eléctrica del corazón que puede ser asintomática y se diagnostica mediante electrocardiograma."
   },
   {
     "id": "q-100",
     "localNumber": 100,
     "category": "Cardiología",
-    "stem": "Un entrenamiento aeróbico intenso y prolongado produce una serie de adaptaciones cardiovasculares que suelen denominarse \"corazón de deportista\". Entre las siguientes adaptaciones fisiológicas, señale la respuesta INCORRECTA:",
+    "stem": "Un entrenamiento aeróbico intenso y prolongado produce una serie de adaptaciones cardiovasculares que suelen denominarse coração de deportista.",
     "options": [
-      "Bradicadia sinusal por aumento del tono vagal.",
+      "Bradicardia sinusal por aumento del tono vagal.",
       "Bloqueo aurículo-ventricular de primer grado, de segundo grado Mobitz I e incluso de tercer grado durante el sueño.",
       "Bloqueo completo de rama izquierda del haz de His por hipertrofia ventricular izquierda.",
       "Bloqueo de rama derecha del haz de His por dilatación fisiológica ventricular derecha en deportes de resistencia."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 100 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La opción C es correcta porque el bloqueo completo de rama izquierda del haz de His se asocia con una hipertrofia ventricular izquierda, lo que es una adaptación fisiológica normal en los deportistas que realizan ejercicios de resistencia. Esto se debe a que la hipertrofia ventricular izquierda aumenta la resistencia al flujo sanguíneo en la pared izquierda del corazón, lo que puede llevar a un bloqueo completo de la rama izquierda del haz de His. Esto no es un problema clínico significativo y se considera una adaptación normal en los deportistas de resistencia. En cambio, el bloqueo de rama derecha del haz de His se asocia con una dilatación fisiológica ventricular derecha, lo que es una adaptación normal en los deportistas que realizan ejercicios de resistencia. Esto se debe a que la dilatación ventricular derecha aumenta la capacidad de recibo del ventrículo derecho, lo que puede llevar a un bloqueo de la rama derecha del haz de His. Esto no es un problema clínico significativo y se considera una adaptación normal en los deportistas de resistencia.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque la bradicardia sinusal se asocia con un aumento del tono vagal, pero no es una adaptación normal en los deportistas que realizan entrenamiento aeróbico intenso y prolongado. La bradicardia sinusal es un problema clínico que puede ser causado por varias condiciones, incluyendo la hipotensión, la anemia, la hipoxia y la intoxicación con medicamentos. En los deportistas, la bradicardia sinusal puede ser causada por un aumento del tono vagal debido a la hipotensión o la hipoxia.\n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque el bloqueo aurículo-ventricular de primer grado, de segundo grado Mobitz I e incluso de tercer grado durante el sueño no es una adaptación normal en los deportistas que realizan entrenamiento aeróbico intenso y prolongado. El bloqueo aurículo-ventricular es un problema clínico que puede ser causado por varias condiciones, incluyendo la hipertrofia ventricular izquierda, la hipertensión y la enfermedad coronaria. En los deportistas, el bloqueo aurículo-ventricular puede ser causado por un aumento de la resistencia al flujo sanguíneo en la pared izquierda del corazón debido a la hipertrofia ventricular izquierda.\n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque el bloqueo de rama derecha del haz de His se asocia con una dilatación fisiológica ventricular derecha, lo que es una adaptación normal en los deportistas que realizan ejercicios de resistencia. Sin embargo, la dilatación fisiológica ventricular derecha no es una condición clínica significativa y no requiere tratamiento. En cambio, el bloqueo de rama derecha del haz de His se asocia con una disfunción del haz de His, lo que puede ser causado por varias condiciones, incluyendo la enfermedad coronaria, la hipertensión y la intoxicación con medicamentos.\n\nLa perla MIR es: 'En los deportistas, las adaptaciones fisiológicas normales pueden ser confundidas con problemas clínicos significativos'."
   },
   {
     "id": "q-101",
