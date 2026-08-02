@@ -3,7 +3,7 @@
     "id": "q-1",
     "localNumber": 1,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 1. Mujer de 42 años que acude a la consulta de genética por un diagnóstico reciente de cáncer de endometrio. En base a los antecedentes familiares que constan en la imagen, ¿cuál de los siguientes síndromes es más probable que presente?:",
+    "stem": "Mujer de 42 años que acude a la consulta de genética por un diagnóstico reciente de cáncer de endometrio. En base a los antecedentes familiares que constan en la imagen, ¿cuál de los siguientes síndromes es más probable que presente?",
     "options": [
       "Poliposis adenomatosa familiar.",
       "Síndrome de Lynch.",
@@ -11,13 +11,13 @@
       "Síndrome de Cowden."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 1 del examen MIR de la convocatoria FSE."
+    "explanation": "La respuesta correcta es el Síndrome de Lynch (Opción B).\n\n**🟢 Opción B (Correcta):** El Síndrome de Lynch es un trastorno genético que aumenta el riesgo de desarrollar cánceres en diversas partes del cuerpo, incluyendo el endometrio. Es causado por mutaciones en los genes MLH1, MSH2, MSH6 y PMS2, que participan en la reparación de errores en la replicación del ADN. El cáncer de endometrio es uno de los tumores más comunes en pacientes con Síndrome de Lynch. Por lo tanto, si una mujer de 42 años con cáncer de endometrio tiene antecedentes familiares de cánceres de colon, recto, ovario, mama, tiroides, etc., es probable que presente Síndrome de Lynch.\n\n**🔴 Opción A (Incorrecta):** La Poliposis adenomatosa familiar es un trastorno genético que aumenta el riesgo de desarrollar polipos en el colon, que pueden convertirse en cáncer. Aunque puede haber una asociación con el cáncer de endometrio en casos raros, no es el síndrome más probable en esta situación.\n\n**🔴 Opción C (Incorrecta):** El Síndrome de cáncer de mama y ovario hereditario (BRCA1 y BRCA2) aumenta el riesgo de desarrollar cáncer de mama y ovario, pero no es el síndrome más probable en este caso, ya que el cáncer de endometrio no está asociado con las mutaciones de los genes BRCA1 y BRCA2.\n\n**🔴 Opción D (Incorrecta):** El Síndrome de Cowden es un trastorno genético que aumenta el riesgo de desarrollar tumores en diversas partes del cuerpo, incluyendo la mama, el ovario y el endometrio. Sin embargo, no es el síndrome más probable en este caso, ya que el cáncer de endometrio es más común en el Síndrome de Lynch.\n\nLa perla MIR para recordar esta pregunta es: \"Lynch antes que Cowden\"."
   },
   {
     "id": "q-2",
     "localNumber": 2,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 2. Paciente de 65 años que acude a urgencias por disminución brusca de agudeza visual en ojo derecho. La retinografía de dicho ojo se muestra en la imagen. Uno de los siguientes tratamientos está indicado para una enfermedad que es un factor de riesgo para esta situación. Indique cuál:",
+    "stem": "Paciente de 65 años que acude a urgencias por disminución brusca de agudeza visual en ojo derecho. La retinografía de dicho ojo se muestra en la imagen. Uno de los siguientes tratamientos está indicado para una enfermedad que es un factor de riesgo para esta situación.",
     "options": [
       "Latanoprost y timolol.",
       "Flecainida.",
@@ -25,27 +25,27 @@
       "Complejos vitamínicos y antioxidantes."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 2 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La disminución brusca de agudeza visual en un paciente de 65 años puede estar relacionada con una enfermedad como la diabetes mellitus, que es un factor de riesgo para la retinopatía diabética. El tratamiento con latanoprost y timolol es indicado para la hipertensión oculares, que puede ser un síntoma de la retinopatía diabética. Por lo tanto, esta opción es la correcta clínicamente.\n\n- **🔴 Opción B (Incorrecta):** La flecainida es un medicamento anticoagulante que se utiliza en el tratamiento de la fibrilación auricular. No tiene relación con la disminución brusca de agudeza visual y no es un tratamiento indicado para una enfermedad que sea un factor de riesgo para esta situación.\n\n- **🔴 Opción C (Incorrecta):** La hidroxicloroquina es un medicamento antiinflamatorio y antiagregante plaquetario que se utiliza en el tratamiento de la artritis reumatoide y la lupus eritematoso sistémico. No tiene relación con la disminución brusca de agudeza visual y no es un tratamiento indicado para una enfermedad que sea un factor de riesgo para esta situación.\n\n- **🔴 Opción D (Incorrecta):** Los complejos vitamínicos y antioxidantes pueden ser utilizados en el tratamiento de la retinopatía diabética, pero no son la opción más adecuada en este caso. La disminución brusca de agudeza visual en un paciente de 65 años puede estar relacionada con una enfermedad como la diabetes mellitus, que es un factor de riesgo para la retinopatía diabética. El tratamiento con latanoprost y timolol es más adecuado para la hipertensión oculares, que puede ser un síntoma de la retinopatía diabética.\n\nLa disminución brusca de agudeza visual en un paciente de 65 años puede estar relacionada con una enfermedad como la diabetes mellitus, que es un factor de riesgo para la retinopatía diabética. Es importante tener en cuenta que la retinografía es un estudio importante para diagnosticar la retinopatía diabética y otros trastornos oculares."
   },
   {
     "id": "q-3",
     "localNumber": 3,
     "category": "Infecciosas",
-    "stem": "Pregunta asociada a la imagen 3. Hombre de 70 años exfumador de un paquete al día y bebedor de 2 copas de vino al día consulta por una molestia farí ngea de 1 mes de evolución. Se observa exudado amigdalar por lo que se inicia tratamiento antibiótico. El resultado del test de estreptococo es negativo. La clínica persiste y se añade odinofagia con otalgia refleja y leve cambio en el timbre de la voz. Nota un bulto duro de unos 2 cm a nivel II cervical ipsilateral no doloroso. La orofaringoscopia se refleja en la imagen asociada (imagen aume ntada en el recuadro resaltado en rojo). ¿Cuál es la sospecha diagnóstica y su manejo?:",
+    "stem": "Hombre de 70 años exfumador de un paquete al día y bebedor de 2 copas de vino al día consulta por una molestia faríngea de 1 mes de evolución. Se observa exudado amigdalar por lo que se inicia tratamiento antibiótico. El resultado del test de estreptococo es negativo. La clínica persiste y se añade odinofagia con otalgia refleja y leve cambio en el timbre de la voz. Nota un bulto duro de unos 2 cm a nivel II cervical ipsilateral no doloroso. La orofaringoscopia se refleja en la imagen asociada (imagen aumentada en el recuadro resaltado en rojo). ¿Cuál es la sospecha diagnóstica y su manejo?",
     "options": [
       "Resistencia bacteriana a antibioterapia recibida, precisa cultivo de exudado faríngeo con antibiograma para indicación adecuada.",
       "Sospecha de absceso periamigdalino izquierdo, será remitido a urgencias de Otorrinolaringología para drenaje quirúrgico.",
-      "Sospecha de neoplasia maligna de amígdala palatina, será remitido preferente -urgente a Otorrinolaringología.",
+      "Sospecha de neoplasia maligna de amígdala palatina, será remitido preferentemente urgente a Otorrinolaringología.",
       "Sospecha de angina de Plaut -Vincent, remitido a Otorrinolaringología para realización de biopsia de ganglio para estudio de linfoma."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 3 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Esta opción no es la adecuada porque la resistencia bacteriana a la antibioticoterapia recibida no se puede sospechar solo con un test de estreptococo negativo. El cultivo de exudado faríngeo con antibiograma es importante para determinar la sensibilidad de los microorganismos, pero no es la sospecha principal en este caso. Además, la clínica persistente sugiere una infección más compleja que una simple resistencia a la antibioticoterapia.\n\n- **🔴 Opción B (Incorrecta):** Esta opción no es la adecuada porque el absceso periamigdalino izquierdo no se puede sospechar solo con un bulto duro de unos 2 cm a nivel II cervical ipsilateral. El absceso periamigdalino se caracteriza por un dolor intenso en el área afectada, y la odinofagia y la otalgia refleja sugieren una infección más amplia. Además, la orofaringoscopia muestra una lesión en la amígdala palatina, lo que hace que esta opción sea menos probable.\n\n- **🔴 Opción D (Incorrecta):** Esta opción no es la adecuada porque la angina de Plaut-Vincent no se puede sospechar solo con una lesión en la amígdala palatina. La angina de Plaut-Vincent se caracteriza por una lesión en la mucosa bucal, y la odinofagia y la otalgia refleja sugieren una infección más amplia. Además, la orofaringoscopia muestra una lesión en la amígdala palatina, lo que hace que esta opción sea menos probable.\n\n- **🟢 Opción C (Correcta):** Esta opción es la adecuada porque la sospecha de neoplasia maligna de amígdala palatina es la más probable en este caso. La clínica persistente, la odinofagia y la otalgia refleja sugieren una infección más compleja, y la lesión en la amígdala palatina observada en la orofaringoscopia es consistente con una neoplasia maligna. Por lo tanto, el paciente debe ser remitido preferentemente urgente a Otorrinolaringología para una evaluación más detallada y un tratamiento adecuado.\n\nLa perla MIR es que en casos de clínica persistente y lesión en la amígdala palatina, se debe sospechar una neoplasia maligna y remitir al paciente a Otorrinolaringología para una evaluación más detallada y un tratamiento adecuado."
   },
   {
     "id": "q-4",
     "localNumber": 4,
     "category": "Cardiología",
-    "stem": "Pregunta asociada a la imagen 4. Niña de 7 años que acude por otalgia y otorrea purulenta derecha desde hace 3 semanas, tratada con antibióticos y antinflamatorios. Tras la resolución de las manifestaciones clínicas, vuelve a aparecer la otorrea por lo que se pauta de nuevo tratamiento antibiótico. A los 5 días se objetiva una tumefacción retroauricular. En la otoscopia se pone de manifiesto una leve retracción de la membrana timpánica, escasa secreción blanquecina en el conducto auditivo externo y una tumefacción retroauricular blanda que ocasiona un mínimo desplazamiento anterior del pabellón auricular. Indique el diagnóstico que sugiere la imagen de resonancia magnética mostrada:",
+    "stem": "Niña de 7 años que acude por otalgia y otorrea purulenta derecha desde hace 3 semanas, tratada con antibióticos y antinflamatorios. Tras la resolución de las manifestaciones clínicas, vuelve a aparecer la otorrea por lo que se pauta de nuevo tratamiento antibiótico. A los 5 días se objetiva una tumefacción retroauricular. En la otoscopia se pone de manifiesto una leve retracción de la membrana timpánica, escasa secreción blanquecina en el conducto auditivo externo y una tumefacción retroauricular blanda que ocasiona un mínimo desplazamiento anterior del pabellón auricular. Indique el diagnóstico que sugiere la imagen de resonancia magnética mostrada.",
     "options": [
       "Absceso subperióstico extracraneal.",
       "Trombosis venosa cerebral.",
@@ -53,13 +53,13 @@
       "Área de cerebritis retromastoidea."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 4 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La imagen de resonancia magnética muestra una lesión en la región retromastoidea, que se asocia con la presencia de una tumefacción retroauricular y la leve retracción de la membrana timpánica. La descripción clínica sugiere una infección recurrente en el conducto auditivo externo, lo que lleva a la formación de un absceso subperióstico extracraneal. Esto es consistente con la imagen de resonancia magnética, que muestra una lesión en la región retromastoidea con señales de inflamación y posible absceso.\n\n- **🔴 Opción A (Incorrecta):** Un absceso subperióstico extracraneal se refiere a una infección en la región periostea de un hueso, pero no está directamente relacionado con la descripción clínica y la imagen de resonancia magnética. La lesión se encuentra en la región retromastoidea, no en la periostea de un hueso.\n\n- **🔴 Opción C (Incorrecta):** Un absceso cerebral retromastoideo se refiere a una infección en el cerebro que se encuentra en la región retromastoidea. La descripción clínica no sugiere una infección cerebral, sino más bien una infección en el conducto auditivo externo. La imagen de resonancia magnética no muestra señales de infección cerebral.\n\n- **🔴 Opción D (Incorrecta):** Un área de cerebritis retromastoidea se refiere a una infección en el cerebro que se encuentra en la región retromastoidea. La descripción clínica no sugiere una infección cerebral, sino más bien una infección en el conducto auditivo externo. La imagen de resonancia magnética no muestra señales de infección cerebral.\n\n**Perla MIR:** En la evaluación de infecciones en el conducto auditivo externo, es importante considerar la posibilidad de una lesión en la región retromastoidea, como un absceso subperióstico extracraneal, especialmente en casos de infecciones recurrentes."
   },
   {
     "id": "q-5",
     "localNumber": 5,
     "category": "Ginecología y Obstetricia",
-    "stem": "Pregunta asociada a la imagen 5. Una mujer de 18 años acude a urgencias por dolor abdominal intenso, febrícula, test de embarazo positivo y manchado vaginal de 3 días de evolución junto con líquido libre intraabdominal en la ecografía. Se realiza una laparoscopia en la que se encuentra el siguiente hallazgo tras aspirar sangre de la cavidad abdominal. ¿Cuál es el diagnóstico más probable de los siguientes?:",
+    "stem": "Una mujer de 18 años acude a urgencias por dolor abdominal intenso, fiebre, test de embarazo positivo y manchado vaginal de 3 días de evolución junto con líquido libre intraabdominal en la ecografía. Se realiza una laparoscopia en la que se encuentra el siguiente hallazgo tras aspirar sangre de la cavidad abdominal.",
     "options": [
       "Gestación ectópica.",
       "Quiste de ovario complicado.",
@@ -67,7 +67,7 @@
       "Enfermedad inflamatoria pélvica."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 5 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La gestación ectópica es un diagnóstico probable en esta paciente debido a la presencia de un test de embarazo positivo y manchado vaginal, lo que sugiere una posible implantación del embrión fuera de la cavidad uterina. La laparoscopia revela sangre en la cavidad abdominal, lo que podría estar relacionada con la rotura de un quiste corioideo. Esta condición es una emergencia médica que requiere atención inmediata para evitar complicaciones graves.\n\n- **🔴 Opción B (Incorrecta):** El quiste de ovario complicado es una posibilidad, pero no la más probable en este caso. La presencia de un test de embarazo positivo y manchado vaginal sugiere una condición relacionada con el embarazo, lo que hace que la gestación ectópica sea un diagnóstico más probable. Además, la laparoscopia revela sangre en la cavidad abdominal, lo que no es típico de un quiste de ovario complicado.\n\n- **🔴 Opción C (Incorrecta):** La apendicitis aguda es una condición que puede presentarse con dolor abdominal intenso y fiebre, pero no está relacionada con el test de embarazo positivo y el manchado vaginal. Además, la laparoscopia revela sangre en la cavidad abdominal, lo que no es típico de la apendicitis aguda.\n\n- **🔴 Opción D (Incorrecta):** La enfermedad inflamatoria pélvica es una condición que puede presentarse con dolor abdominal y fiebre, pero no está relacionada con el test de embarazo positivo y el manchado vaginal. Además, la laparoscopia revela sangre en la cavidad abdominal, lo que no es típico de esta condición.\n\nLa perla MIR es que en casos de test de embarazo positivo y manchado vaginal, la gestación ectópica debe ser considerada como un diagnóstico probable, especialmente si se encuentra sangre en la cavidad abdominal durante una laparoscopia."
   },
   {
     "id": "q-6",
