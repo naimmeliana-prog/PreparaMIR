@@ -773,21 +773,21 @@
     "id": "q-56",
     "localNumber": 56,
     "category": "General",
-    "stem": "Hombre de 40 años que acude a urgencias por presentar un cuadro de mareo con giro de objetos acompañado de náuseas, vómitos, palidez y sudoración de varias horas de evolución. Nunca había presentado un cuadro similar. No refiere hipoacusia ni acúfeno ni sensación de taponamiento. La otoscopia es normal. S e observa un nistagmo horizonto -rotatorio hacia el lado derecho grado III que aumenta la velocidad cuando dirige la mirada a la derecha, maniobra oculocefálica positiva izquierda, test de Skew y el test de Romberg positivo a la izquierda. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "stem": "Hombre de 40 años que acude a urgencias por presentar un cuadro de mareo con giro de objetos acompañado de náuseas, vómitos, palidez y sudoración de varias horas de evolución. Nunca había presentado un cuadro similar. No refiere hipoacusia ni acúfeno ni sensación de taponamiento. La otoscopia es normal. Se observa un nistagmo horizontal-rotatorio hacia el lado derecho grado III que aumenta la velocidad cuando dirige la mirada a la derecha, maniobra oculocefálica positiva izquierda, test de Skew y el test de Romberg positivo a la izquierda.",
     "options": [
       "Infarto cerebral.",
       "Neuritis vestibular.",
       "Enfermedad de Meniére.",
-      "Vértigo posicional paroxístico benigno. Página: 10 de 33"
+      "Vértigo posicional paroxístico benigno."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 56 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El diagnóstico más probable es el **Vértigo posicional paroxístico benigno (BPPV)**. Esto se debe a que el paciente presenta un nistagmo horizontal-rotatorio hacia el lado derecho, lo que sugiere una alteración en el movimiento de las partículas del lúteo en el oído interno. El aumento de la velocidad del nistagmo cuando dirige la mirada a la derecha y la maniobra oculocefálica positiva izquierda también apoyan esta diagnosis. Además, el test de Skew y el test de Romberg positivo a la izquierda pueden estar relacionados con la alteración vestibular. El BPPV es una condición común que se caracteriza por episodios de vértigo paroxístico, generalmente desencadenados por movimientos específicos de la cabeza o el cuello. La otoscopia normal y la ausencia de hipoacusia o acúfeno también se alinean con esta diagnosis.\n\n- **🔴 Opción B (Incorrecta):** La **Neuritis vestibular** no es la diagnosis más probable en este caso. La neuritis vestibular se caracteriza por una inflamación del nervio vestibular, lo que puede causar vértigo y alteraciones del equilibrio. Sin embargo, el paciente no refiere hipoacusia ni acúfeno, lo que sugiere que la inflamación no afecta el nervio auditivo. Además, la maniobra oculocefálica positiva izquierda y el test de Skew positivo a la izquierda no son típicos de la neuritis vestibular.\n\n- **🔴 Opción C (Incorrecta):** La **Enfermedad de Meniére** no es la diagnosis más probable en este caso. La enfermedad de Meniére se caracteriza por episodios de vértigo, tinnitus y pérdida auditiva, que se deben a una alteración en la membrana timpánica. Sin embargo, el paciente no refiere tinnitus ni pérdida auditiva, y la otoscopia es normal. Además, la maniobra oculocefálica positiva izquierda y el test de Skew positivo a la izquierda no son típicos de la enfermedad de Meniére.\n\n- **🔴 Opción D (Incorrecta):** El **Infarto cerebral** no es la diagnosis más probable en este caso. El infarto cerebral se caracteriza por un ataque cerebral que puede causar vértigo, debilidad y alteraciones del equilibrio. Sin embargo, el paciente no refiere debilidad ni alteraciones del equilibrio, y la maniobra oculocefálica positiva izquierda y el test de Skew positivo a la izquierda no son típicos del infarto cerebral.\n\nLa perla MIR es que el **Vértigo posicional paroxístico benigno (BPPV)** se caracteriza por episodios de vértigo paroxístico desencadenados por movimientos específicos de la cabeza o el cuello, y se puede diagnosticar con base en la historia clínica y los resultados de las pruebas de equilibrio."
   },
   {
     "id": "q-57",
     "localNumber": 57,
     "category": "Neurología",
-    "stem": "Mujer de 54 años consulta por hipoacusia unilateral derecha de horas de evolución que se ha presentado de manera brusca. Presentó un cuadro viral de vía aerodigestiva superior hace unos días. Sin antecedentes de interés, no presenta vértigo ni sensación de taponamiento ótico ni acúfeno. No refiere dolor ni presenta parálisis facial. La otoscopia es normal. En la acumetría la prueba Rinne es positiva bilateral y la pruebas Weber lateraliza al lado izquierdo. ¿Cuál es la sospecha diagnóstica y el manejo?:",
+    "stem": "Mujer de 54 años consulta por hipoacusia unilateral derecha de horas de evolución que se ha presentado de manera brusca. Presentó un cuadro viral de vía aerodigestiva superior hace unos días. Sin antecedentes de interés, no presenta vértigo ni sensación de taponamiento ótico ni acúfeno. No refiere dolor ni presenta parálisis facial. La otoscopia es normal. En la acumetría la prueba Rinne es positiva bilateral y la pruebas Weber lateraliza al lado izquierdo. ¿Cuál es la sospecha diagnóstica y el manejo?",
     "options": [
       "Hipoacusia súbita, se solicitará una tomografía computerizada craneal urgente.",
       "Hipoacusia de conducción por otitis media serosa, se tratará con lavados nasales y esteroides tópicos nasales.",
@@ -795,13 +795,13 @@
       "Síndrome de Ramsay -Hunt se tratará con corticoterapia más valaciclovir."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 57 del examen MIR de la convocatoria FSE."
+    "explanation": "### Análisis de la pregunta\n\nLa paciente de 54 años presenta hipoacusia unilateral derecha de horas de evolución, sin antecedentes de interés. La otoscopia es normal, lo que descarta una causa de hipoacusia de conducción por otitis media serosa. La prueba Rinne es positiva bilateral, lo que indica que la hipoacusia no es de tipo de conducción. La prueba Weber lateraliza al lado izquierdo, lo que sugiere que la hipoacusia es central.\n\n#### **🟢 Opción C (Correcta):** Hipoacusia súbita, precisa audiometría tonal urgente y se tratará con corticoterapia sistémica y/o intratimpánica.\n\nLa opción C es la correcta porque la hipoacusia súbita es un síntoma de una lesión o daño en el nervio auditivo o en el cerebro. La prueba Weber lateraliza al lado izquierdo, lo que sugiere que la hipoacusia es central. La audiometría tonal urgente es necesaria para determinar la causa de la hipoacusia. La corticoterapia sistémica y/o intratimpánica es una opción de tratamiento para la hipoacusia súbita.\n\n#### **🔴 Opción A (Incorrecta):** Hipoacusia súbita, se solicitará una tomografía computerizada craneal urgente.\n\nLa opción A no es correcta porque la prueba de tomografía computerizada craneal no es necesaria en un primer momento. La hipoacusia súbita puede ser causada por una lesión o daño en el nervio auditivo o en el cerebro, pero la prueba de tomografía computerizada craneal no es la primera opción de diagnóstico.\n\n#### **🔴 Opción B (Incorrecta):** Hipoacusia de conducción por otitis media serosa, se tratará con lavados nasales y esteroides tópicos nasales.\n\nLa opción B no es correcta porque la otoscopia es normal, lo que descarta una causa de hipoacusia de conducción por otitis media serosa.\n\n#### **🔴 Opción D (Incorrecta):** Síndrome de Ramsay -Hunt se tratará con corticoterapia más valaciclovir.\n\nLa opción D no es correcta porque no hay antecedentes de interés que sugieran un síndrome de Ramsay -Hunt. Además, el síndrome de Ramsay -Hunt es una enfermedad viral que afecta a la piel y los nervios, y no es una causa común de hipoacusia súbita.\n\n### Perla MIR\n\nLa hipoacusia súbita es un síntoma de una lesión o daño en el nervio auditivo o en el cerebro. La prueba Weber lateraliza al lado izquierdo, lo que sugiere que la hipoacusia es central. La audiometría tonal urgente es necesaria para determinar la causa de la hipoacusia. La corticoterapia sistémica y/o intratimpánica es una opción de tratamiento para la hipoacusia súbita."
   },
   {
     "id": "q-58",
     "localNumber": 58,
     "category": "General",
-    "stem": "Mujer que acude a ecografía de rutina de segundo trimestre a las 22 semanas de gestación. Las biometrías corresponden a un feto de 19 semanas. ¿Cuál es el siguiente paso para orientar el caso?:",
+    "stem": "Mujer que acude a ecografía de rutina de segundo trimestre a las 22 semanas de gestación. Las biometrías corresponden a un feto de 19 semanas. ¿Cuál es el siguiente paso para orientar el caso?",
     "options": [
       "Valorar estudio genético teniendo en cuenta el riesgo de anomalía cromosómica en primer trimestre.",
       "Valorar si la gestación está correctamente datada según la longitud craneocaudal fetal de la ecografía del primer trimestre.",
@@ -809,13 +809,13 @@
       "Estudio para descartar preeclampsia."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 58 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La longitud craneocaudal fetal se utiliza para estimar la edad gestacional en el primer trimestre. Si las biometrías corresponden a un feto de 19 semanas en lugar de 22 semanas, es probable que la gestación no esté correctamente datada. Por lo tanto, el siguiente paso es valorar si la gestación está correctamente datada según la longitud craneocaudal fetal de la ecografía del primer trimestre. Esto permitirá determinar si el retraso en el crecimiento fetal es debido a una mala estimación de la edad gestacional o a un problema subyacente en el feto o en la madre.\n\n- **🔴 Opción A (Incorrecta):** Valorar un estudio genético no es el siguiente paso en este caso, ya que no hay indicación de que haya un riesgo aumentado de anomalías cromosómicas. La ecografía de rutina no es suficiente para detectar estas anomalías y un estudio genético sería una decisión que se tomaría después de obtener más información.\n\n- **🔴 Opción C (Incorrecta):** Repetir la ecografía en 2 semanas no proporcionará información adicional en este caso, ya que el retraso en el crecimiento fetal es evidente en la ecografía actual. La repetición de la ecografía no cambiaría el curso de la evaluación.\n\n- **🔴 Opción D (Incorrecta):** El estudio para descartar preeclampsia no es relevante en este caso, ya que la paciente se encuentra en el segundo trimestre de gestación y no hay indicación de preeclampsia. La preeclampsia es un problema que se desarrolla en el tercer trimestre de gestación y requiere una evaluación diferente.\n\nLa perla MIR es: 'La longitud craneocaudal fetal es un indicador importante para estimar la edad gestacional en el primer trimestre'."
   },
   {
     "id": "q-59",
     "localNumber": 59,
     "category": "General",
-    "stem": "¿Cuál de los siguientes métodos anticonceptivos es el más adecuado para una mujer de 35 años con migraña con aura?:",
+    "stem": "¿Cuál de los siguientes métodos anticonceptivos es el más adecuado para una mujer de 35 años con migraña con aura?",
     "options": [
       "Anticonceptivos orales combinados.",
       "Parche anticonceptivo.",
@@ -823,13 +823,13 @@
       "Dispositivo intrauterino (DIU) con levonorgestrel."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 59 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Los anticonceptivos orales combinados contienen estrógeno y pueden empeorar los síntomas de la migraña, especialmente en mujeres con aura. Por lo tanto, no son la mejor opción para esta paciente.\n\n- **🔴 Opción B (Incorrecta):** El parche anticonceptivo también contiene estrógeno y puede tener efectos similares a los anticonceptivos orales combinados, lo que podría empeorar los síntomas de la migraña.\n\n- **🔴 Opción C (Incorrecta):** El anticonceptivo inyectable con estrógeno y progestágeno también puede ser problemático para mujeres con migraña, ya que el estrógeno puede desencadenar ataques.\n\n- **🟢 Opción D (Correcta):** El dispositivo intrauterino (DIU) con levonorgestrel es una buena opción para mujeres con migraña, ya que no contiene estrógeno y puede ser más tolerable para las pacientes con aura. El levonorgestrel es una progestina que puede ayudar a reducir la frecuencia y la gravedad de los ataques de migraña.\n\nLa perla MIR es que en mujeres con migraña con aura, se debe elegir un método anticonceptivo que no contenga estrógeno, como el dispositivo intrauterino con levonorgestrel."
   },
   {
     "id": "q-60",
     "localNumber": 60,
     "category": "Urología",
-    "stem": "Mujer con gestación monocorial biamniótica de 22 semanas que acude a urgencias por dinámica uterina ocasional. En la ecografía se observa feto 1 con peso estimado en el percentil 80 y columna máxima vertical de líquido amniótico de 11 cm, vejiga urinaria distendida y aumentada de tamaño y feto 2 con un peso en el percentil 25 con una columna máxima de líquido amniótico de 0,5 cm y vejiga urinaria no visible. Exploración vaginal anodina. La longitud cervical es de 36 mm. ¿Cuál es el diagnóstico más probable?:",
+    "stem": "Mujer con gestación monocorial biamniótica de 22 semanas que acude a urgencias por dinámica uterina ocasional. En la ecografía se observa feto 1 con peso estimado en el percentil 80 y columna máxima vertical de líquido amniótico de 11 cm, vejiga urinaria distendida y aumentada de tamaño y feto 2 con un peso en el percentil 25 con una columna máxima de líquido amniótico de 0,5 cm y vejiga urinaria no visible. Exploración vaginal anodina. La longitud cervical es de 36 mm.",
     "options": [
       "Trasfusión feto-fetal.",
       "Discordancia de crecimiento fetal con crecimiento fetal restringido selectivo del feto 2.",
@@ -837,7 +837,7 @@
       "Malformación renal feto 2."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 60 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La trasfusión feto-fetal es la condición más probable en este caso. Esto se debe a que el feto 1 tiene un peso en el percentil 80, mientras que el feto 2 tiene un peso en el percentil 25. Además, la columna máxima de líquido amniótico del feto 2 es de solo 0,5 cm, lo que sugiere un retraso en el crecimiento del feto 2. La presencia de vejiga urinaria distendida y aumentada de tamaño en el feto 1, junto con la vejiga urinaria no visible en el feto 2, es un indicador de la transferencia de líquido y nutrientes del feto 1 hacia el feto 2 a través de la placenta compartida. Por lo tanto, la trasfusión feto-fetal es el diagnóstico más probable en este caso.\n\n- **🔴 Opción B (Incorrecta):** La discordancia de crecimiento fetal con crecimiento fetal restringido selectivo del feto 2 podría ser una condición relacionada, pero no es el diagnóstico más probable en este caso. La trasfusión feto-fetal es una condición específica que implica la transferencia de líquido y nutrientes de un feto a otro a través de la placenta compartida.\n\n- **🔴 Opción C (Incorrecta):** La rotura prematura de membranas de feto 2 no es un diagnóstico probable en este caso. La ecografía no muestra signos de rotura prematura de membranas, y la presencia de vejiga urinaria distendida y aumentada de tamaño en el feto 1 sugiere que la transferencia de líquido y nutrientes está ocurriendo de manera normal.\n\n- **🔴 Opción D (Incorrecta):** La malformación renal feto 2 podría ser una condición relacionada, pero no es el diagnóstico más probable en este caso. La ecografía no muestra signos de malformación renal en el feto 2, y la presencia de vejiga urinaria no visible en el feto 2 sugiere que la transferencia de líquido y nutrientes está ocurriendo de manera anormal.\n\nLa perla MIR para recordar este concepto es: \"La trasfusión feto-fetal es una condición en la que un feto recibe líquido y nutrientes de otro feto a través de la placenta compartida, lo que puede llevar a una discordancia de crecimiento fetal.\""
   },
   {
     "id": "q-61",
