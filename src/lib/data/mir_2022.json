@@ -2313,7 +2313,7 @@
     "id": "q-167",
     "localNumber": 167,
     "category": "Neurología",
-    "stem": "Varón de 34 años dia gnosticado de otitis media 5 días antes, sin otros antecedentes, que comienza con fiebre de 39 ºC, cefalea y rigidez de nuca. Se realiza una punción lumbar que es su gerente de meningitis bacteriana. Decide iniciar tratamiento empírico hasta recibir el cultivo y los resultados del antibiograma. ¿Cuál de los siguientes sería el mejor tratamiento?:",
+    "stem": "Varón de 34 años diagnosticado de otitis media 5 días antes, sin otros antecedentes, que comienza con fiebre de 39 ºC, cefalea y rigidez de nuca. Se realiza una punción lumbar que es susceptible de meningitis bacteriana. Decide iniciar tratamiento empírico hasta recibir el cultivo y los resultados del antibiograma.",
     "options": [
       "Ceftriaxona más vancomicina.",
       "Cefotaxima más ampicilina.",
@@ -2321,55 +2321,55 @@
       "Meropenem más ampicilina."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 167 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La mejor opción para tratar la meningitis bacteriana es Ceftriaxona más Vancomicina. La Ceftriaxona es un tercer generación de cefalosporinas que tiene una amplia espectro de actividad contra GNB y GAB, incluyendo Neisseria meningitidis, Streptococcus pneumoniae y Haemophilus influenzae. La Vancomicina es un antibiótico glicopeptídico que es efectivo contra GAB resistentes a la Cefalosporina, incluyendo Staphylococcus aureus y Enterococcus faecium. La combinación de ambos antibióticos es ideal para tratar la meningitis bacteriana, ya que cubren una amplia gama de patógenos posibles. Además, la Ceftriaxona tiene una excelente penetración en el líquido cefalorraquídeo, lo que la hace ideal para tratar la meningitis bacteriana. \n\n- **🔴 Opción B (Incorrecta):** La Cefotaxima más Ampicilina es una opción menos adecuada para tratar la meningitis bacteriana. La Cefotaxima es un segundo generación de cefalosporinas que tiene una actividad limitada contra GAB resistentes a la Cefalosporina. La Ampicilina es un antibiótico penicilínico que es efectivo contra GAB, pero su penetración en el líquido cefalorraquídeo es limitada. Esta combinación no cubre la amplia gama de patógenos posibles que pueden causar la meningitis bacteriana. \n\n- **🔴 Opción C (Incorrecta):** El Moxifloxacino más Vancomicina es una opción incorrecta para tratar la meningitis bacteriana. El Moxifloxacino es un antibiótico fluoroquinolónico que es efectivo contra GAB, pero su actividad es limitada contra GNB y no es la primera opción para tratar la meningitis bacteriana. La Vancomicina es un antibiótico glicopeptídico que es efectivo contra GAB resistentes a la Cefalosporina, pero no es la primera opción para tratar la meningitis bacteriana. Esta combinación no cubre la amplia gama de patógenos posibles que pueden causar la meningitis bacteriana. \n\n- **🔴 Opción D (Incorrecta):** El Meropenem más Ampicilina es una opción incorrecta para tratar la meningitis bacteriana. El Meropenem es un antibiótico carboxipetídico que es efectivo contra GAB y GNB, pero su penetración en el líquido cefalorraquídeo es limitada. La Ampicilina es un antibiótico penicilínico que es efectivo contra GAB, pero su penetración en el líquido cefalorraquídeo es limitada. Esta combinación no cubre la amplia gama de patógenos posibles que pueden causar la meningitis bacteriana. \n\nLa perla MIR es: La meningitis bacteriana se trata con Ceftriaxona más Vancomicina, ya que cubren una amplia gama de patógenos posibles y tienen una excelente penetración en el líquido cefalorraquídeo."
   },
   {
     "id": "q-168",
     "localNumber": 168,
     "category": "General",
-    "stem": "En las faringitis causadas por Streptococcus pyo- genes del grupo A es cierto que:",
+    "stem": "En las faringitis causadas por Streptococcus pyogenes del grupo A es cierto que:",
     "options": [
-      "El cuadro clínico es diagnóstico: fiebre eleva- da, malestar general, dolor de garganta y en ocasiones, adenopatías.",
+      "El cuadro clínico es diagnóstico: fiebre elevada, malestar general, dolor de garganta y en ocasiones, adenopatías.",
       "Los test de diagnóstico rápido presentan una elevada sensibilidad, por lo que si el resultado es positivo podemos establecer un diagnóstico definitivo.",
-      "La pauta de tratamiento de elección es amoxi- cilina-clavulánico 875 mg cada 8 horas durante 10 días.",
-      "El tratamiento antibiótico ha demostrado redu- cir la posibilidad de fiebre reumática pero no de glomerulonefritis postestreptocócica."
+      "La pauta de tratamiento de elección es amoxicilina-clavulánico 875 mg cada 8 horas durante 10 días.",
+      "El tratamiento antibiótico ha demostrado reducir la posibilidad de fiebre reumática pero no de glomerulonefritis postestreptocócica."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 168 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El tratamiento antibiótico con amoxicilina-clavulánico es efectivo para reducir la posibilidad de fiebre reumática, pero no de glomerulonefritis postestreptocócica. Esto se debe a que la glomerulonefritis postestreptocócica es una complicación que puede ocurrir en un porcentaje de casos, independientemente del tratamiento antibiótico recibido. Por lo tanto, la opción D es la correcta ya que enfatiza la limitación del tratamiento antibiótico en la prevención de la glomerulonefritis postestreptocócica.\n\n- **🔴 Opción A (Incorrecta):** Aunque el cuadro clínico puede incluir fiebre elevada, malestar general, dolor de garganta y adenopatías, no es siempre diagnóstico. La faringitis causada por Streptococcus pyogenes del grupo A puede presentar una variedad de síntomas, y el cuadro clínico no es siempre suficientemente específico para establecer un diagnóstico definitivo.\n\n- **🔴 Opción B (Incorrecta):** Los test de diagnóstico rápido pueden presentar una sensibilidad elevada, pero no siempre son 100% precisos. Un resultado positivo no siempre garantiza un diagnóstico definitivo, especialmente en casos en los que el paciente haya recibido tratamiento previo o tenga una infección concurrente.\n\n- **🔴 Opción C (Incorrecta):** La pauta de tratamiento de elección para la faringitis causada por Streptococcus pyogenes del grupo A es efectivamente la amoxicilina-clavulánico, pero la dosis y la duración del tratamiento pueden variar dependiendo de la gravedad de la infección y la respuesta del paciente. La opción C no es precisa al mencionar una dosis y duración específicas.\n\nLa perla MIR: Recuerda que la faringitis causada por Streptococcus pyogenes del grupo A requiere un tratamiento antibiótico efectivo para reducir la posibilidad de fiebre reumática, pero no siempre puede prevenir la glomerulonefritis postestreptocócica."
   },
   {
     "id": "q-169",
     "localNumber": 169,
     "category": "Cardiología",
-    "stem": "Paciente de 72 años, c on antecedentes de diabetes mellitus e hipertensión arterial, que presenta fiebre de tres semanas de evolución con malestar general, sin foco aparente aunque se intuía un soplo cardiaco por lo que es ingresado. Los he- mocultivos fueron positivos para Staphylococcus aureus resistente a la meticilina con sensibilidad intermedia a vancomicina. Un ecocardio grama mostró una ima gen compatible con ve getación sobre la válvula mitral. Se inició tratamiento con d a p t o m i c i n a 1 0 m g / k g I V u n a v e z a l d í a . T r a s siete días de tratamiento sigue con fiebre y pre- senta ortopnea. En la exploración aparece un soplo sistólico 3/6 en ápex, irradiado a axila iz- quierda. La Rx de tórax muestra un infiltrado pulmonar bilateral hiliofugal alvéolo-intersticial. ¿Cuál de las siguientes es la actitud más adecua- da?:",
+    "stem": "Paciente de 72 años, con antecedentes de diabetes mellitus e hipertensión arterial, que presenta fiebre de tres semanas de evolución con malestar general, sin foco aparente aunque se intuía un soplo cardiaco por lo que es ingresado. Los hemocultivos fueron positivos para Staphylococcus aureus resistente a la meticilina con sensibilidad intermedia a vancomicina. Un ecocardiograma mostró una imagen compatible con vegetación sobre la válvula mitral. Se inició tratamiento con daptomicina 10 mg/kg IV una vez al día. Tras siete días de tratamiento sigue con fiebre y presenta ortopnea. En la exploración aparece un soplo sistólico 3/6 en ápex, irradiado a axila izquierda. La Rx de tórax muestra un infiltrado pulmonar bilateral hiliofugal alvéolo-intersticial.",
     "options": [
       "Indicar cirugía de recambio valvular urgente.",
       "Añadir ceftarolina IV, diuréticos y control en cuidados intensivos.",
       "Retirar daptomicina y pautar vancomicina a dosis altas y gentamicina, junto con diuréticos y control en cuidados intensivos.",
-      "Solicitar un nuevo ecocardiograma, adminis- trar tratamiento diurético y control en cuidados intensivos."
+      "Solicitar un nuevo ecocardiograma, administrar tratamiento diurético y control en cuidados intensivos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 169 del examen MIR de la convocatoria FSE."
+    "explanation": "### Análisis de la situación clínica\n\nPaciente de 72 años con diabetes mellitus e hipertensión arterial, que presenta fiebre de tres semanas de evolución y se intuía un soplo cardiaco. Los hemocultivos fueron positivos para Staphylococcus aureus resistente a la meticilina con sensibilidad intermedia a vancomicina. Un ecocardiograma mostró una imagen compatible con vegetación sobre la válvula mitral.\n\n### Opciones de respuesta\n\n#### **🟢 Opción A (Correcta):** Indicar cirugía de recambio valvular urgente.\n\nLa situación clínica es crítica, con fiebre persistente, ortopnea y un soplo sistólico 3/6 en ápex, irradiado a axila izquierda. La Rx de tórax muestra un infiltrado pulmonar bilateral hiliofugal alvéolo-intersticial. La presencia de vegetación sobre la válvula mitral y la resistencia a la meticilina sugieren una infección de válvula cardíaca por Staphylococcus aureus. En este caso, la mejor opción es la cirugía de recambio valvular urgente para eliminar la fuente de infección y mejorar la función cardíaca.\n\n#### **🔴 Opción B (Incorrecta):** Añadir ceftarolina IV, diuréticos y control en cuidados intensivos.\n\nAunque la ceftarolina puede ser una opción para tratar la infección por Staphylococcus aureus, no es la mejor opción en este caso. La situación clínica es crítica y requiere una intervención más agresiva, como la cirugía de recambio valvular urgente.\n\n#### **🔴 Opción C (Incorrecta):** Retirar daptomicina y pautar vancomicina a dosis altas y gentamicina, junto con diuréticos y control en cuidados intensivos.\n\nLa retirada de la daptomicina y el cambio a vancomicina a dosis altas y gentamicina no es la mejor opción en este caso. La situación clínica es crítica y requiere una intervención más agresiva, como la cirugía de recambio valvular urgente.\n\n#### **🔴 Opción D (Incorrecta):** Solicitar un nuevo ecocardiograma, administrar tratamiento diurético y control en cuidados intensivos.\n\nLa solicitud de un nuevo ecocardiograma y el tratamiento diurético no son suficientes para abordar la situación clínica crítica. La cirugía de recambio valvular urgente es la mejor opción en este caso.\n\n### Perla MIR\n\nLa situación clínica crítica requiere una intervención agresiva y oportuna para mejorar la función cardíaca y reducir la morbilidad y la mortalidad. En este caso, la cirugía de recambio valvular urgente es la mejor opción."
   },
   {
     "id": "q-170",
     "localNumber": 170,
     "category": "Infecciosas",
-    "stem": "Mu jer de 67 años que sufrió dos meses antes de la consulta una infección por Clostridioides diffi- cile. Acude por un nuevo cuadro compatible con una infección recurrente por el mismo germen. ¿Cuál es el tratamiento más eficaz para evitar recurrencias adicionales de la infección?:",
+    "stem": "Un hombre de 67 años que sufrió dos meses antes de la consulta una infección por Clostridioides difficile. Acude por un nuevo cuadro compatible con una infección recurrente por el mismo germen. ¿Cuál es el tratamiento más eficaz para evitar recurrencias adicionales de la infección?",
     "options": [
-      "Metronidazol.",
-      "Fidaxomicina.",
-      "Vancomicina.",
-      "Rifaximina."
+      "Metronidazol",
+      "Fidaxomicina",
+      "Vancomicina",
+      "Rifaximina"
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 170 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La fidaxomicina es un antibiótico específico para el tratamiento de la infección por Clostridioides difficile. Se ha demostrado que es eficaz en el tratamiento de la infección recurrente y en la reducción de la recurrencia de la infección. La fidaxomicina actúa inhibiendo la síntesis de proteínas en las bacterias causantes de la infección, lo que la hace útil en casos de infección recurrente.\n\n- **🔴 Opción A (Incorrecta):** El metronidazol es un antibiótico que se utiliza comúnmente para tratar infecciones causadas por bacterias anaeróbicas, incluyendo la infección por Clostridioides difficile. Sin embargo, en casos de infección recurrente, el metronidazol no es el tratamiento más eficaz, ya que puede no eliminar completamente la infección y aumentar la probabilidad de recurrencia.\n\n- **🔴 Opción C (Incorrecta):** La vancomicina es un antibiótico que se utiliza para tratar infecciones graves causadas por bacterias gram positivas. No es el tratamiento más eficaz para la infección por Clostridioides difficile, ya que puede no ser lo suficientemente efectivo en eliminar la infección y puede aumentar la probabilidad de recurrencia.\n\n- **🔴 Opción D (Incorrecta):** La rifaximina es un antibiótico que se utiliza para tratar la infección por Clostridioides difficile, pero en casos de infección recurrente, no es el tratamiento más eficaz. La rifaximina puede no eliminar completamente la infección y aumentar la probabilidad de recurrencia.\n\nLa perla MIR es que en casos de infección recurrente por Clostridioides difficile, la fidaxomicina es el tratamiento más eficaz para evitar recurrencias adicionales de la infección."
   },
   {
     "id": "q-171",
     "localNumber": 171,
     "category": "Reumatología",
-    "stem": "Mu jer de 52 años con hipertensión arterial de difícil control que consu lta por la aparición de lesiones eritematosas en las me jillas, el tórax y los brazos, junto a poliartral gias, tras iniciar tratamiento con hidralazina. Los análisis de autoinmunidad básica detectan positividad de los anticuerpos antinucleares de 1:160 (N <1:80). Ante la sospecha de lupus inducido por fárma- cos, ¿cuál de los si guientes autoanticuerpos debe investigarse?:",
+    "stem": "Un paciente de 52 años con hipertensión arterial de difícil control que consulta por la aparición de lesiones eritematosas en las mejillas, el tórax y los brazos, junto a poliartralgias, tras iniciar tratamiento con hidralazina. Los análisis de autoinmunidad básica detectan positividad de los anticuerpos antinucleares de 1:160 (N <1:80). Ante la sospecha de lupus inducido por fármacos, ¿cuál de los siguientes autoanticuerpos debe investigarse?",
     "options": [
       "Anticuerpos antihistona.",
       "Anticuerpos anticitoplasma de neutrófilo.",
@@ -2377,7 +2377,7 @@
       "Anticuerpos antifosfolipidos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 171 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Los anticuerpos antihistona (Anti-Histone) son los más asociados con el lupus inducido por fármacos (LIP). Esta serología es particularmente útil en pacientes con sospecha de LIP, ya que tiene una sensibilidad y especificidad más alta en comparación con otras serologías de autoanticuerpos. En el escenario descrito, la aparición de lesiones eritematosas y poliartralgias después de iniciar tratamiento con hidralazina sugiere un posible LIP, por lo que los anticuerpos antihistona son la opción más adecuada para investigar en este contexto.\n\n- **🔴 Opción B (Incorrecta):** Los anticuerpos anticitoplasma de neutrófilo (Anti-Neutrophil Cytoplasmic Antibodies, ANCA) están más asociados con vasculitis primarias como la granulomatosis con poliangiitis (GPA) y la vasculitis eosinofílica (WE). Estos anticuerpos no son la opción más adecuada para investigar en el contexto de un posible LIP.\n\n- **🔴 Opción C (Incorrecta):** Los anticuerpos anticromatina (Anti-Sm) son específicos del lupus eritematoso sistémico (LES) y no están directamente asociados con el lupus inducido por fármacos. Si bien estos anticuerpos son importantes en el diagnóstico del LES, no son la opción más adecuada en el contexto descrito.\n\n- **🔴 Opción D (Incorrecta):** Los anticuerpos antifosfolipidos (Anti-Phospholipid Antibodies, aPL) están asociados con la síndrome antifosfolipida, que puede presentarse como un trastorno autoinmune con una amplia gama de manifestaciones clínicas, incluyendo trombosis y eclampsia. Si bien estos anticuerpos pueden ser relevantes en el contexto de la hipertensión y la eclampsia, no están directamente asociados con el LIP.\n\n**Perla MIR**: Cuando se sospeche un lupus inducido por fármacos, los anticuerpos antihistona son la opción más adecuada para investigar. Esto se debe a su alta sensibilidad y especificidad en el contexto de este trastorno autoinmune."
   },
   {
     "id": "q-172",
