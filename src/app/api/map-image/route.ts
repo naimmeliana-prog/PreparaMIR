@@ -3,7 +3,8 @@ import { promises as fs } from "fs";
 import path from "path";
 
 function getOutDir(year: string) {
-  return path.join(process.cwd(), "public", "images", "exams", year);
+  const parts = ["public", "images", "exams", year];
+  return path.resolve(process.cwd(), ...parts);
 }
 
 export async function POST(req: NextRequest) {
