@@ -1543,21 +1543,21 @@
     "id": "q-111",
     "localNumber": 111,
     "category": "General",
-    "stem": "¿Qué hallazgos de los descritos a continuación son MENOS probables en la exploración física de un paciente con fibrosis a nivel del intersticio pulmonar?:",
+    "stem": "¿Qué hallazgos de los descritos a continuación son menos probables en la exploración física de un paciente con fibrosis a nivel del intersticio pulmonar?",
     "options": [
       "Sibilancias bilaterales en la auscultación pulmonar.",
       "Crepitantes teleinspiratorios bibasales.",
       "Disminución del murmullo vesicular con acropaquia.",
-      "Vibraciones vocales disminuidas con crepitantes tipo velcro, de carácter \"seco\"."
+      "Vibraciones vocales disminuidas con crepitantes tipo velcro, de carácter 'seco'."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 111 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Las sibilancias bilaterales en la auscultación pulmonar son menos probables en la exploración física de un paciente con fibrosis a nivel del intersticio pulmonar. Esto se debe a que la fibrosis pulmonar no suele causar la obstrucción de las vías aéreas, que es lo que produce las sibilancias. En cambio, la fibrosis puede causar una disminución en la capacidad de expansión pulmonar y una alteración en la resonancia de los sonidos pulmonares, pero no necesariamente sibilancias bilaterales.\n\n- **🔴 Opción B (Incorrecta):** Las crepitaciones teleinspiratorias bibasales son más probables en la exploración física de un paciente con fibrosis a nivel del intersticio pulmonar. Esto se debe a que la fibrosis pulmonar puede causar una alteración en la estructura del pulmón, lo que puede producir crepitaciones al inspirar profundamente.\n\n- **🔴 Opción C (Incorrecta):** La disminución del murmullo vesicular con acropaquia es más probable en la exploración física de un paciente con fibrosis a nivel del intersticio pulmonar. Esto se debe a que la fibrosis pulmonar puede causar una disminución en la capacidad de expansión pulmonar, lo que puede producir una disminución en el murmullo vesicular.\n\n- **🔴 Opción D (Incorrecta):** Las vibraciones vocales disminuidas con crepitantes tipo velcro, de carácter 'seco', son más probables en la exploración física de un paciente con fibrosis a nivel del intersticio pulmonar. Esto se debe a que la fibrosis pulmonar puede causar una alteración en la estructura del pulmón, lo que puede producir crepitaciones y disminución en las vibraciones vocales.\n\n**Perla MIR:** La fibrosis pulmonar puede causar una variedad de hallazgos en la exploración física, incluyendo crepitaciones, disminución en el murmullo vesicular y alteración en las vibraciones vocales. Sin embargo, las sibilancias bilaterales son menos probables en la exploración física de un paciente con fibrosis a nivel del intersticio pulmonar."
   },
   {
     "id": "q-112",
     "localNumber": 112,
     "category": "General",
-    "stem": "Paciente que en revisión en consulta refiere tos matutina diaria y disnea de moderados esfuerzos (MRC 2) habitual que limita sus actividades cotidianas en tratamiento con doble terapia broncodilatadora desde hace dos años. La espirometría presenta un FEV1 del 35% del teórico en situación basal con una respuesta broncodilatadora que muestra un incremento del FEV1 de 250 mL y un 13%. En el estudio por TC se identifican áreas de enfisema centroacinar y en la analítica 250 eosinófilos/µL. En el último año ha sufrido dos exacerbaciones respiratorias de las cuales una ha requerido ingreso hospitalario. Indique el tratamiento más adecuado:",
+    "stem": "Paciente que en revisión en consulta refiere tos matutina diaria y disnea de moderados esfuerzos habitual que limita sus actividades cotidianas en tratamiento con doble terapia broncodilatadora desde hace dos años. La espirometría presenta un FEV1 del 35% del teórico en situación basal con una respuesta broncodilatadora que muestra un incremento del FEV1 de 250 mL y un 13%. En el estudio por TC se identifican áreas de enfisema centroacinar y en la analítica 250 eosinófilos/µL. En el último año ha sufrido dos exacerbaciones respiratorias de las cuales una ha requerido ingreso hospitalario.",
     "options": [
       "Broncodilatador β-agonista de acción prolongada + broncodilatador antagonista muscarínico de acción prolongada + corticoide sistémico.",
       "Añadir roflumilast a la terapia combinada.",
@@ -1565,41 +1565,41 @@
       "Broncodilatador β-agonista de acción prolongada + corticoide inhalado."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 112 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Esta opción es la correcta debido a que el paciente presenta un enfisema centroacinar con una respuesta broncodilatadora limitada (FEV1 aumenta solo un 13%) y con eosinofilia (250 eosinófilos/µL), lo que sugiere una participación inflamatoria en su enfermedad. Por lo tanto, se recomienda una terapia combinada que incluya un broncodilatador β-agonista de acción prolongada, un broncodilatador antagonista muscarínico de acción prolongada y un corticoide inhalado, que es la opción más adecuada para controlar la inflamación y mejorar la función pulmonar en pacientes con enfisema. Además, esta opción no incluye un corticoide sistémico, que no es necesario en este caso, ya que se está utilizando un corticoide inhalado que es más específico y menos tóxico que el corticoide sistémico.\n\n- **🔴 Opción A (Incorrecta):** Esta opción no es adecuada porque incluye un corticoide sistémico, que no es necesario en este caso, y puede tener efectos secundarios importantes, como supresión del sistema inmunológico. Además, la respuesta broncodilatadora limitada del paciente sugiere que la terapia combinada puede no ser suficiente para controlar la enfermedad.\n\n- **🔴 Opción B (Incorrecta):** Esta opción no es adecuada porque el roflumilast es un farmaco que se utiliza en el tratamiento de la enfermedad pulmonar obstructiva crónica (EPOC) moderada a grave, y no es claro si el paciente tiene una EPOC o un enfisema. Además, el roflumilast no es una terapia combinada que incluya un broncodilatador β-agonista de acción prolongada, un broncodilatador antagonista muscarínico de acción prolongada y un corticoide inhalado, que es la opción más adecuada para controlar la inflamación y mejorar la función pulmonar en pacientes con enfisema.\n\n- **🔴 Opción D (Incorrecta):** Esta opción no es adecuada porque no incluye un broncodilatador antagonista muscarínico de acción prolongada, que es necesario para controlar la inflamación y mejorar la función pulmonar en pacientes con enfisema. Además, la respuesta broncodilatadora limitada del paciente sugiere que la terapia combinada puede no ser suficiente para controlar la enfermedad."
   },
   {
     "id": "q-113",
     "localNumber": 113,
     "category": "Neumología",
-    "stem": "Paciente con asma mal controlada a pesar de una combinación de glucocorticoides inhalados a dosis altas y un broncodilatador β -agonista de acción prolongada. Ha requerido ciclos de corticoides sistémicos sin una respuesta adecuada. Presenta rinosinusitis crónica con poliposis nasal y un recuento de eosinófilos de 400 células/μL en la analítica. Señale la respuesta correcta en cuanto al fenotipo asmático y la mejor opción de tratamiento.",
+    "stem": "Paciente con asma mal controlada a pesar de una combinación de glucocorticoides inhalados a dosis altas y un broncodilatador β -agonista de acción prolongada. Ha requerido ciclos de corticoides sistémicos sin una respuesta adecuada. Presenta rinosinusitis crónica con poliposis nasal y un recuento de eosinófilos de 400 células/μL en la analítica.",
     "options": [
       "Se trata de un asma eosinofílica (T2) y una buena opción de tratamiento sería añadir omalizumab.",
       "Se trata de un asma eosinofílica (T2) y una buena opción de tratamiento sería añadir mepolizumab.",
       "Se trata de un asma no T2 y la mejor opción de tratamiento sería un antileucotrieno.",
-      "Se trata de un asma no T2 y la mejor opción de tratamiento sería añadir benralizumab. Página: 18 de 33"
+      "Se trata de un asma no T2 y la mejor opción de tratamiento sería añadir benralizumab."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 113 del examen MIR de la convocatoria FSE."
+    "explanation": "La respuesta correcta es la opción B, ya que el paciente presenta un recuento elevado de eosinófilos (400 células/μL) lo que sugiere un asma eosinofílica (T2). La opción B, añadir mepolizumab, es una buena opción de tratamiento para el asma eosinofílico, ya que mepolizumab es un inhibidor de la IL-5, que es una molécula clave en la patogénesis del asma eosinofílico.\n\n**🟢 Opción B (Correcta):** El paciente tiene asma eosinofílico (T2) y la mejor opción de tratamiento es añadir mepolizumab, ya que es un inhibidor de la IL-5, que es una molécula clave en la patogénesis del asma eosinofílico.\n\n**🔴 Opción A (Incorrecta):** Omalizumab es una alternativa a mepolizumab, pero no es la mejor opción en este caso, ya que el paciente tiene un recuento elevado de eosinófilos, lo que sugiere que el asma es eosinofílico (T2).\n\n**🔴 Opción C (Incorrecta):** Los antileucotrienos son una opción de tratamiento para el asma no T2, pero no son la mejor opción en este caso, ya que el paciente tiene un recuento elevado de eosinófilos, lo que sugiere que el asma es eosinofílico (T2).\n\n**🔴 Opción D (Incorrecta):** Benralizumab es un inhibidor de la IL-5, pero no es la mejor opción en este caso, ya que mepolizumab es una alternativa más comúnmente utilizada para el tratamiento del asma eosinofílico (T2).\n\nLa perla MIR es: El recuento de eosinófilos es clave para determinar el fenotipo del asma y elegir el tratamiento adecuado."
   },
   {
     "id": "q-114",
     "localNumber": 114,
     "category": "Neumología",
-    "stem": "En el estudio de las enfermedades intersticiales difusas del pulmón, señale en que entidad el lavado broncoalveolar posee valor diagnóstico:",
+    "stem": "En el estudio de las enfermedades intersticiales difusas del pulmón, señale en qué entidad el lavado broncoalveolar posee valor diagnóstico.",
     "options": [
-      "Sarcoidosis.",
-      "Fibrosis pulmonar idiopática.",
-      "Neumonitis por hipersensibilidad.",
-      "Proteinosis alveolar."
+      "Sarcoidosis",
+      "Fibrosis pulmonar idiopática",
+      "Neumonitis por hipersensibilidad",
+      "Proteinosis alveolar"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 114 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El lavado broncoalveolar (LBA) es una técnica que permite obtener muestras de líquido alveolar para su análisis. En el contexto de las enfermedades intersticiales difusas del pulmón, el LBA puede detectar cambios en la composición del líquido alveolar que son indicativos de ciertas entidades. La proteinosis alveolar es una enfermedad caracterizada por la acumulación de proteínas en los alvéolos pulmonares. El LBA puede demostrar una elevación significativa en la concentración de proteínas en el líquido alveolar, lo que ayuda a confirmar el diagnóstico de proteinosis alveolar.\n\n- **🔴 Opción A (Incorrecta):** La sarcoidosis es una enfermedad inflamatoria de origen desconocido que afecta principalmente los ganglios linfáticos y los pulmones. Si bien el LBA puede mostrar cambios en la composición del líquido alveolar en la sarcoidosis, no es una prueba específica ni sensible para esta entidad.\n\n- **🔴 Opción B (Incorrecta):** La fibrosis pulmonar idiopática (FPI) es una enfermedad caracterizada por la progresiva destrucción y fibrosis de los pulmones. El LBA no es una prueba diagnóstica para la FPI y no proporciona información útil en el diagnóstico de esta enfermedad.\n\n- **🔴 Opción C (Incorrecta):** La neumonitis por hipersensibilidad es una reacción alérgica que afecta los pulmones. El LBA puede mostrar cambios en la composición del líquido alveolar en esta condición, pero no es una prueba específica ni sensible para la neumonitis por hipersensibilidad.\n\nPerla MIR: El lavado broncoalveolar (LBA) es una herramienta valiosa en el diagnóstico de enfermedades intersticiales difusas del pulmón, pero su valor diagnóstico depende del tipo de enfermedad y los cambios específicos que se detectan en el líquido alveolar."
   },
   {
     "id": "q-115",
     "localNumber": 115,
     "category": "Neumología",
-    "stem": "Hombre de 65 años, exfumador, en el que de forma incidental se identifica un nódulo pulmonar solitario (NPS) en radiografía simple de tórax. Diagnosticado de enfermedad pulmonar obstructiva crónica con un FEV1 del 30%. En el estudio por TC se de scribe un NPS en lóbulo superior derecho de 9 mm de diámetro con cola pleural y calcificaciones excéntricas. Se realiza tomografía por emisión de positrones con captación patológica indicativa de malignidad. ¿Cuál de las siguientes actitudes terapéuticas es la más adecuada?:",
+    "stem": "Hombre de 65 años, exfumador, en el que de forma incidental se identifica un nódulo pulmonar solitario (NPS) en radiografía simple de tórax. Diagnosticado de enfermedad pulmonar obstructiva crónica con un FEV1 del 30%. En el estudio por TC se describe un NPS en lóbulo superior derecho de 9 mm de diámetro con cola pleural y calcificaciones excéntricas. Se realiza tomografía por emisión de positrones con captación patológica indicativa de malignidad. ¿Cuál de las siguientes actitudes terapéuticas es la más adecuada?",
     "options": [
       "Es imprescindible la realización de una biopsia por cirugía torácica ante la elevada posibilidad de malignidad.",
       "Al tratarse de un NPS de pequeño tamaño (< 1 cm) la actitud más adecuada es la de seguimiento radiológico estrecho con TC al mes y a los 3, 6 y 12 meses.",
@@ -1607,7 +1607,7 @@
       "Se debe realizar una prueba de esfuerzo cardiopulmonar y si el consumo máximo de oxígeno es <10 mL/kg/min el manejo terapéutico más seguro es por medio de radioterapia estereotáxica fraccionada."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 115 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Esta opción es la más adecuada porque se debe considerar la función pulmonar residual del paciente, que tiene una FEV1 del 30%, lo que indica una enfermedad pulmonar obstructiva crónica grave. La radioterapia estereotáxica fraccionada es una opción segura para pacientes con función pulmonar comprometida, ya que no requiere cirugía y reduce el riesgo de complicaciones respiratorias. Además, se debe priorizar la calidad de vida del paciente y evitar procedimientos invasivos que puedan empeorar su estado de salud. \n\n- **🔴 Opción A (Incorrecta):** Esta opción no es adecuada porque una biopsia por cirugía torácica puede ser un procedimiento invasivo y riesgoso para un paciente con una FEV1 del 30%. Además, no se considera la función pulmonar residual del paciente y se prioriza la posibilidad de malignidad sobre la salud del paciente. \n\n- **🔴 Opción B (Incorrecta):** Esta opción no es adecuada porque se está hablando de un NPS de 9 mm de diámetro, no de un NPS de pequeño tamaño (< 1 cm). Además, no se considera la función pulmonar residual del paciente y se prioriza el seguimiento radiológico sobre la posibilidad de malignidad. \n\n- **🔴 Opción C (Incorrecta):** Esta opción no es adecuada porque se está hablando de un paciente con una FEV1 del 30%, lo que indica una enfermedad pulmonar obstructiva crónica grave. La prueba de esfuerzo cardiopulmonar puede ser un estrés adicional para el paciente y no se considera la función pulmonar residual. Además, la cirugía torácica no es una opción segura para un paciente con función pulmonar comprometida. \n\nLa perla MIR es: \"Cuando se trata de un NPS con alta probabilidad de malignidad en un paciente con función pulmonar comprometida, la radioterapia estereotáxica fraccionada es una opción segura y segura para mejorar la calidad de vida del paciente.\""
   },
   {
     "id": "q-116",
