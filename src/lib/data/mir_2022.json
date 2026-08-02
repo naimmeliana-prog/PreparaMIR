@@ -1753,35 +1753,35 @@
     "id": "q-127",
     "localNumber": 127,
     "category": "Neumología",
-    "stem": "Varón de 67 años dia gnosticado de EPOC con una cate goría GOLD 1, fumador, que refiere disnea con esfuerzos intensos, sin exacerbacio- nes. ¿Cuál de las siguientes sería la recomenda- ción terapéutica más correcta?:",
+    "stem": "Varón de 67 años diagnosticado de EPOC con una categoría GOLD 1, fumador, que refiere disnea con esfuerzos intensos, sin exacerbaciones.",
     "options": [
       "Tratamiento regular con broncodilatadores muscarínicos de acción prolongada (LAMA).",
-      "Tratamiento regular con broncodilatadores betaadrenérgicos de acción prolongada (LA- BA).",
+      "Tratamiento regular con broncodilatadores betaadrenérgicos de acción prolongada (LABA).",
       "Tratamiento con LABA más glucocorticoides inhalados.",
       "Tratamiento no farmacológico."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 127 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** El tratamiento regular con broncodilatadores muscarínicos de acción prolongada (LAMA) es adecuado para la EPOC, pero en este caso, el paciente tiene una categoría GOLD 1, lo que indica una enfermedad moderadamente severa. La opción A es una buena opción para la EPOC en general, pero no es la mejor opción para un paciente con categoría GOLD 1 que no ha experimentado exacerbaciones recientes.\n\n- **🔴 Opción B (Incorrecta):** El tratamiento regular con broncodilatadores betaadrenérgicos de acción prolongada (LABA) es una buena opción para la EPOC, pero en este caso, la opción B no es la mejor opción porque no combina con un glucocorticóide inhalado, que es una opción recomendada para pacientes con categoría GOLD 1.\n\n- **🔴 Opción C (Incorrecta):** El tratamiento con LABA más glucocorticoides inhalados es una buena opción para la EPOC, pero en este caso, el paciente no tiene exacerbaciones recientes, por lo que no es necesario el uso de glucocorticoides.\n\n- **🟢 Opción D (Correcta):** El tratamiento no farmacológico es la mejor opción para este paciente. El tratamiento no farmacológico incluye la educación del paciente sobre la gestión de la EPOC, la promoción del estilo de vida saludable, la detección y tratamiento de la infección respiratoria aguda, y la prevención de la caída. Además, el paciente debe ser fumador activo, por lo que la educación sobre la reducción de la exposición al tabaquismo y la promoción de la cesación del tabaquismo es crucial. La opción D es la mejor opción porque no requiere el uso de medicamentos y se enfoca en la prevención de exacerbaciones y la mejora de la calidad de vida del paciente."
   },
   {
     "id": "q-128",
     "localNumber": 128,
     "category": "Neumología",
-    "stem": "Acude al servicio de ur gencias un varón de 38 años diagnosticado de asma bronquial, sin otras comorbilidades. Refiere aumento de su disnea que le imposibilita para hablar y ortopnea. En la exploración se observa t aquicardia de 125 lpm, sudoración y utilización de los músculos acceso- rios para respirar. Indique cuál de los si guientes es un si gno de gravedad, de mala evolución y probablemente de indicación de ventilación me- cánica:",
+    "stem": "Acude al servicio de urgencias un varón de 38 años diagnosticado de asma bronquial, sin otras comorbilidades. Refiere aumento de su disnea que le imposibilita para hablar y ortopnea. En la exploración se observa taquicardia de 125 lpm, sudoración y utilización de los músculos accesorios para respirar. Indique cuál de los siguientes es un signo de gravedad, de mala evolución y probablemente de indicación de ventilación mecánica:",
     "options": [
       "Pulso paradójico.",
-      "Frecuencia respiratoria >25 respiracio- nes/minuto.",
+      "Frecuencia respiratoria >25 respiraciones/minuto.",
       "Silencio pulmonar en la auscultación.",
       "Cianosis."
     ],
     "correctIndex": -1,
-    "explanation": "Pregunta oficial número 128 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La cianosis es un signo de gravedad y mala evolución en un paciente con asma bronquial. La cianosis indica una disminución en la oxigenación del cuerpo, lo que puede ser consecuencia de una insuficiente ventilación. En este contexto, la cianosis es un signo que sugiere la necesidad de ventilación mecánica para garantizar una adecuada oxigenación del paciente. La cianosis es una condición que requiere atención inmediata y puede ser indicadora de una situación de emergencia en la que la ventilación mecánica es crucial para salvar la vida del paciente.\n\n- **🔴 Opción A (Incorrecta):** El pulso paradójico se refiere a un patrón de latidos cardíacos en el que la frecuencia cardíaca disminuye durante la inspiración y aumenta durante la espiración. Si bien el pulso paradójico puede ser un signo de gravedad en ciertos contextos, no es específico de la asma bronquial ni es un indicador directo de la necesidad de ventilación mecánica. En este caso, la cianosis es una indicación más clara de la necesidad de ventilación mecánica.\n\n- **🔴 Opción B (Incorrecta):** Una frecuencia respiratoria >25 respiraciones/minuto puede ser un signo de gravedad en un paciente con asma bronquial, pero no es específico de la necesidad de ventilación mecánica. La frecuencia respiratoria alta puede ser un signo de varios trastornos respiratorios, y no siempre requiere ventilación mecánica. La cianosis es un signo más específico de la necesidad de ventilación mecánica en este contexto.\n\n- **🔴 Opción C (Incorrecta):** El silencio pulmonar en la auscultación puede ser un signo de gravedad en un paciente con asma bronquial, pero no es específico de la necesidad de ventilación mecánica. El silencio pulmonar puede ser consecuencia de una variedad de trastornos respiratorios, y no siempre requiere ventilación mecánica. La cianosis es un signo más específico de la necesidad de ventilación mecánica en este contexto.\n\n**Perla MIR:** La cianosis es un signo de gravedad y mala evolución en un paciente con asma bronquial, y puede ser indicador de la necesidad de ventilación mecánica. Recuerda que la cianosis es una condición que requiere atención inmediata y puede ser consecuencia de una insuficiente ventilación. En situaciones de emergencia, la cianosis es un signo que sugiere la necesidad de ventilación mecánica para garantizar una adecuada oxigenación del paciente."
   },
   {
     "id": "q-129",
     "localNumber": 129,
     "category": "Neumología",
-    "stem": "Mu jer de 70 años in gresada por traumatismo craneoencefálico grave con hemorragia subarac- noidea secundaria. El se gundo día de in greso presenta episodio de disnea y dolor torácico. Se realiza angioTC de tórax que confirma el diag- nóstico de tromboembolismo de pulmón. El tra- tamiento de elección es:",
+    "stem": "Un hombre de 70 años ingresado por traumatismo craneoencefálico grave con hemorragia subaracnoidea secundaria. El segundo día de ingreso presenta episodio de disnea y dolor torácico. Se realiza angiotomografía de tórax que confirma el diagnóstico de tromboembolismo de pulmón. El tratamiento de elección es:",
     "options": [
       "Heparina de bajo peso molecular.",
       "Rivaroxaban.",
@@ -1789,13 +1789,13 @@
       "Filtro de vena cava inferior."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 129 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El filtro de vena cava inferior es el tratamiento de elección en este caso. El paciente ya tiene un traumatismo craneoencefálico grave con hemorragia subaracnoidea secundaria, lo que aumenta el riesgo de muerte. En este escenario, el tratamiento con anticoagulantes como la heparina de bajo peso molecular, rivaroxaban o acenocumarol podría empeorar la situación, ya que podrían aumentar la hemorragia. Por lo tanto, el filtro de vena cava inferior es la opción más segura para prevenir el tromboembolismo de pulmón sin aumentar el riesgo de hemorragia cerebral adicional."
   },
   {
     "id": "q-130",
     "localNumber": 130,
     "category": "General",
-    "stem": "Paciente de 71 años que consulta por ictericia con bilirrubina total 6 mg/dL (bilirrubina direc- ta 4 mg/dL), transaminasas normales y elevación de GGT 349 U/L y fosfatasa alcalina 260 U/L. En la ecografía de abdomen se aprecia dilatación de la vía biliar intra y extrahepática. No tiene dolor y refiere pérdida de peso de unos 5 kg en el últi- mo mes. Se le realiza una colangiopancreatogra- fía retró grada endoscópica apreciándose una estenosis abrupta del colédoco distal. ¿Cuál es su primera sospecha diagnóstica?:",
+    "stem": "Paciente de 71 años que consulta por ictericia con bilirrubina total 6 mg/dL (bilirrubina directa 4 mg/dL), transaminasas normales y elevación de GGT 349 U/L y fosfatasa alcalina 260 U/L. En la ecografía de abdomen se aprecia dilatación de la vía biliar intra y extrahepática. No tiene dolor y refiere pérdida de peso de unos 5 kg en el último mes. Se le realiza una colangiopancreatografía retrógrada endoscópica apreciándose una estenosis abrupta del colédoco distal. ¿Cuál es su primera sospecha diagnóstica?",
     "options": [
       "Colangitis esclerosante primaria.",
       "Coledocolitiasis.",
@@ -1803,13 +1803,13 @@
       "Hepatitis aguda."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 130 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El paciente presenta una ictericia con bilirrubina directa elevada y transaminasas normales, lo que sugiere una obstrucción de la vía biliar. La ecografía muestra dilatación de la vía biliar intra y extrahepática, y la colangiopancreatografía retrógrada endoscópica revela una estenosis abrupta del colédoco distal. Estos hallazgos sugieren una coledocolitiasis, que es la presencia de cálculos en el colédoco. La elevación de la fosfatasa alcalina también es consistente con esta condición. Por lo tanto, la primera sospecha diagnóstica es una coledocolitiasis.\n\n- **🔴 Opción A (Incorrecta):** La colangitis esclerosante primaria es una condición inflamatoria crónica de la vía biliar, pero no se asocia con la presencia de cálculos ni con la estenosis del colédoco. Además, la elevación de la fosfatasa alcalina no es característica de esta condición.\n\n- **🔴 Opción B (Incorrecta):** La coledocolitiasis es una condición real, pero la descripción del paciente no sugiere una coledocolitiasis simple. La presencia de una estenosis abrupta del colédoco distal y la elevación de la fosfatasa alcalina sugieren una coledocolitiasis complicada, pero la opción B no especifica esto.\n\n- **🔴 Opción D (Incorrecta):** La hepatitis aguda es una inflamación del hígado que puede causar ictericia, pero no se asocia con la presencia de cálculos en la vía biliar ni con la estenosis del colédoco. Además, la elevación de la fosfatasa alcalina no es característica de esta condición.\n\nLa perla MIR es que en la ictericia con bilirrubina directa elevada y transaminasas normales, la sospecha de coledocolitiasis debe ser alta, especialmente si hay estenosis del colédoco distal y elevación de la fosfatasa alcalina."
   },
   {
     "id": "q-131",
     "localNumber": 131,
     "category": "Cardiología",
-    "stem": "Varón de 58 años con cirrosis compensada Child A-5 secundaria a hí gado graso no alcohólico, sin otros antecedentes. Refi ere astenia sin anorexia ni pérdida de peso. En una eco grafía abdominal de cribado y posteriormente en una TC tora- coabdominal trifásica se d etectan cuatro lesiones hepáticas (una de ellas de 6 cm), hipervasculares en fase arterial y con lavado en fase venosa, con invasión de vena porta y sin metástasis extrahe- p á t i c a s . N o s e o b s e r v a a s c i t i s . ¿ C u á l d e l o s s i - guientes es el mejor tratamiento?:",
+    "stem": "Varón de 58 años con cirrosis compensada Child A5 secundaria a hígado graso no alcohólico, sin otros antecedentes. Refiere astenia sin anorexia ni pérdida de peso. En una ecografía abdominal de cribado y posteriormente en una TC toraco-abdominal trifásica se detectan cuatro lesiones hepáticas (una de ellas de 6 cm), hipervasculares en fase arterial y con lavado en fase venosa, con invasión de vena porta y sin metástasis extrahepáticas. No se observa ascitis.",
     "options": [
       "Quimioembolización transarterial.",
       "Sorafenib.",
@@ -1817,7 +1817,7 @@
       "Ablación con radiofrecuencia."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 131 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La mejor opción para este paciente es el Sorafenib, ya que se trata de un caso de hígado graso no alcohólico con lesiones hepáticas hipervasculares y sin metástasis extrahepáticas. El Sorafenib es un inhibidor de la angiogénesis que se utiliza en el tratamiento de la cirrosis hepática avanzada, y es la opción más adecuada para este paciente debido a su condición clínica. \n\n- **🔴 Opción A (Incorrecta):** La quimioembolización transarterial no es la mejor opción para este paciente, ya que se trata de un caso de hígado graso no alcohólico sin metástasis extrahepáticas. La quimioembolización se utiliza más comúnmente en el tratamiento de las metástasis hepáticas. \n\n- **🔴 Opción C (Incorrecta):** El trasplante hepático no es la mejor opción para este paciente, ya que se trata de un caso de hígado graso no alcohólico sin metástasis extrahepáticas. El trasplante hepático se utiliza en casos de cirrosis hepática avanzada con metástasis extrahepáticas o en pacientes con insuficiencia hepática terminal. \n\n- **🔴 Opción D (Incorrecta):** La ablación con radiofrecuencia no es la mejor opción para este paciente, ya que se trata de un caso de hígado graso no alcohólico con lesiones hepáticas hipervasculares. La ablación con radiofrecuencia se utiliza más comúnmente en el tratamiento de las metástasis hepáticas o en el tratamiento de las lesiones hepáticas pequeñas. \n\n**Perla MIR:** La cirrosis hepática avanzada se trata con inhibidores de la angiogénesis, como el Sorafenib, en pacientes sin metástasis extrahepáticas."
   },
   {
     "id": "q-132",
