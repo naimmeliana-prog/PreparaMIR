@@ -1263,7 +1263,7 @@
     "id": "q-92",
     "localNumber": 92,
     "category": "General",
-    "stem": "En psico geriatría, cuando es preciso el uso de benzodiacepinas ¿cuál es de elección?:",
+    "stem": "En psicogeriatría, cuando es preciso el uso de benzodiacepinas, ¿cuál es la de elección?",
     "options": [
       "Clorazepato.",
       "Lorazepam.",
@@ -1271,63 +1271,63 @@
       "Las benzodiacepinas están contraindicadas."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 92 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Lorazepam es la benzodiacepina de elección en psicogeriatría debido a su perfil farmacocinético, que incluye una vida media más corta en plasma y una mayor afinidad por los receptores de benzodiacepinas centrales, lo que reduce el riesgo de dependencia y abuso. Además, el lorazepam se metaboliza rápidamente a ácidos biliares inactivos, lo que facilita su eliminación del organismo y minimiza la acumulación tóxica. Por lo tanto, es una opción segura y efectiva para el tratamiento de ansiedad, insomnio y otros trastornos en pacientes geriátricos.\n\n- **🔴 Opción A (Incorrecta):** Clorazepato es una benzodiacepina con una vida media más larga en plasma y una mayor acumulación tóxica, lo que aumenta el riesgo de dependencia y abuso. Aunque es efectivo para el tratamiento de la ansiedad y el insomnio, no es la primera opción en psicogeriatría debido a sus propiedades farmacocinéticas.\n\n- **🔴 Opción C (Incorrecta):** Diazepam es una benzodiacepina con una vida media más larga en plasma y una mayor acumulación tóxica, lo que aumenta el riesgo de dependencia y abuso. Aunque es efectivo para el tratamiento de la ansiedad y el insomnio, no es la primera opción en psicogeriatría debido a sus propiedades farmacocinéticas.\n\n- **🔴 Opción D (Incorrecta):** Las benzodiacepinas no están completamente contraindicadas en psicogeriatría, pero sí se requiere precaución y monitorización estrecha en pacientes geriátricos debido al riesgo de dependencia y abuso. La opción correcta es el lorazepam, que es una benzodiacepina segura y efectiva para el tratamiento de trastornos en pacientes geriátricos.\n\nLa perla MIR: \"Lorazepam es la benzodiacepina de elección en psicogeriatría debido a su perfil farmacocinético seguro y efectivo\"."
   },
   {
     "id": "q-93",
     "localNumber": 93,
     "category": "General",
-    "stem": "En relación con los efectos secundarios de los antipsicóticos, señale la afirmación INCO- RRECTA:",
+    "stem": "En relación con los efectos secundarios de los antipsicóticos, señale la afirmación INCORRECTA:",
     "options": [
       "La aparición de síndrome metabólico es más frecuente con el uso de antipsicóticos típicos.",
-      "La sedación es un efecto secundario frecuente con la mayoría de los antipsicóticos, más pro- nunciado al inicio del tratamiento.",
-      "L a d i s c i n e s i a t a r d í a e s u n t r a s t o r n o d e l m o v i - miento involuntario que afecta con mayor fre- cuencia a la región orofacial, aparece tras la administración prolongada de antipsicóticos y puede ser irreversible.",
-      "La acatisia es un efecto extrapiramidal para cuyo tratamiento puede estar indicada la adi- ción de benzodiazepinas o el uso de betablo- queantes."
+      "La sedación es un efecto secundario frecuente con la mayoría de los antipsicóticos, más pronunciado al inicio del tratamiento.",
+      "La discinesia tardía es un trastorno del movimiento involuntario que afecta con mayor frecuencia a la región orofacial, aparece tras la administración prolongada de antipsicóticos y puede ser irreversible.",
+      "La acatisia es un efecto extrapiramidal para cuyo tratamiento puede estar indicada la adición de benzodiazepinas o el uso de betabloqueantes."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 93 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La aparición de síndrome metabólico es más frecuente con el uso de antipsicóticos atípicos, no típicos. Los antipsicóticos atípicos tienen un mayor riesgo de causar síndrome metabólico debido a su mayor afinidad por los receptores de dopamina y serotonina, lo que puede llevar a un aumento en la producción de insulina y un mayor riesgo de obesidad, resistencia a la insulina y enfermedad cardiovascular. Por lo tanto, esta afirmación es incorrecta ya que se refiere a los antipsicóticos típicos en lugar de atípicos.\n\n- **🔴 Opción B (Incorrecta):** La sedación es un efecto secundario común en la mayoría de los antipsicóticos, especialmente en el inicio del tratamiento. Sin embargo, la sedación no es un efecto secundario frecuente con la mayoría de los antipsicóticos. Algunos antipsicóticos pueden causar sedación, especialmente en el inicio del tratamiento, pero no es un efecto secundario común en todos los antipsicóticos.\n\n- **🔴 Opción C (Incorrecta):** La discinesia tardía es un trastorno del movimiento involuntario que puede afectar a cualquier región del cuerpo, no solo la región orofacial. Aunque la región orofacial puede ser afectada, no es la única región que puede ser involucrada. La discinesia tardía puede ser irreversible y es un efecto secundario grave de los antipsicóticos, especialmente los antipsicóticos típicos. Sin embargo, la afirmación de que solo la región orofacial es afectada es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** La acatisia es un efecto extrapiramidal que puede ser tratado con benzodiazepinas o betabloqueantes. Sin embargo, la adición de benzodiazepinas o el uso de betabloqueantes no es la primera línea de tratamiento para la acatisia. El tratamiento de la acatisia generalmente incluye la reducción o el cambio de la dosis del antipsicótico, la adición de un antiparkinsoniano o la administración de un antiparkinsoniano como monoterapia. La adición de benzodiazepinas o betabloqueantes puede ser considerada en algunos casos, pero no es la primera opción de tratamiento.\n\nLa perla MIR: Recuerda que los antipsicóticos pueden causar efectos secundarios graves, como la discinesia tardía y la acatisia, y que la sedación no es un efecto secundario común en todos los antipsicóticos."
   },
   {
     "id": "q-94",
     "localNumber": 94,
     "category": "General",
-    "stem": "Acerca de la terapia combinada con psicofárma- cos y psicoter apia de los tr ast orn os men t ales, e s cierto que:",
+    "stem": "Acerca de la terapia combinada con psicofármacos y psicoterapia de los trastornos mentales, es cierto que:",
     "options": [
-      "Está indicada únicamente cuando han fracasa- do ambas formas de tratamiento por separado.",
-      "El alivio rápido de los síntomas de ansiedad gracias a la medicación disminuye la motiva- ción para la psicoterapia.",
+      "Está indicada únicamente cuando han fracasado ambas formas de tratamiento por separado.",
+      "El alivio rápido de los síntomas de ansiedad gracias a la medicación disminuye la motivación para la psicoterapia.",
       "Exige que un mismo profesional lleve a cabo las dos modalidades de tratamiento.",
-      "Los resultados de la terapia combinada son superiores a los de cada una utilizada por sepa- rado."
+      "Los resultados de la terapia combinada son superiores a los de cada una utilizada por separado."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 94 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La terapia combinada con psicofármacos y psicoterapia de los trastornos mentales es una estrategia efectiva para abordar la complejidad de estos problemas de salud. La combinación de medicamentos y terapia puede proporcionar un apoyo más amplio y una mejor respuesta al tratamiento, ya que los psicofármacos pueden ayudar a controlar los síntomas y la psicoterapia puede abordar los factores subyacentes y la motivación del paciente. De esta manera, se puede lograr un mejor manejo del trastorno y una mayor calidad de vida para el paciente. Los estudios han demostrado que la terapia combinada puede tener mejores resultados que cada una de las modalidades utilizadas por separado, especialmente en el caso de trastornos como la depresión, la ansiedad y la esquizofrenia. Por lo tanto, esta opción es la correcta desde un punto de vista clínico y terapéutico.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque no es necesario que ambas formas de tratamiento hayan fracasado por separado para indicar la terapia combinada. De hecho, la terapia combinada puede ser una opción inicial para pacientes con trastornos mentales complejos o que no han respondido bien a un solo tipo de tratamiento. La indicación de la terapia combinada depende de la evaluación individual del paciente y de los objetivos del tratamiento, no de la experiencia previa del paciente con un tipo de tratamiento en particular.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque no se puede generalizar que el alivio rápido de los síntomas de ansiedad gracias a la medicación disminuya la motivación para la psicoterapia. La efectividad de la psicoterapia no depende solo de la motivación del paciente, sino también de la calidad de la relación terapéutica, la técnica utilizada y la capacidad del terapeuta para abordar los problemas del paciente. Además, la medicación puede ser útil para controlar los síntomas y permitir al paciente participar más activamente en la terapia.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque no es necesario que un mismo profesional lleve a cabo las dos modalidades de tratamiento. La terapia combinada puede ser realizada por un equipo interdisciplinario que incluya a un psiquiatra, un psicólogo, un terapeuta cognitivo-conductual y otros profesionales de la salud mental. Cada profesional puede aportar sus habilidades y conocimientos específicos para abordar diferentes aspectos del trastorno del paciente.\n\nLa terapia combinada con psicofármacos y psicoterapia de los trastornos mentales es una estrategia efectiva para abordar la complejidad de estos problemas de salud. Los resultados de la terapia combinada pueden ser superiores a los de cada una utilizada por separado, especialmente en el caso de trastornos como la depresión, la ansiedad y la esquizofrenia. La clave para el éxito de la terapia combinada es encontrar el equilibrio adecuado entre la medicación y la terapia, y trabajar en equipo con un equipo interdisciplinario para abordar los diferentes aspectos del trastorno del paciente."
   },
   {
     "id": "q-95",
     "localNumber": 95,
     "category": "General",
-    "stem": "Dentro de los síndro mes parkinsonianos prima- rios, la enfermedad de Parkinson se produce por:",
+    "stem": "Dentro de los síndromes parkinsonianos primarios, la enfermedad de Parkinson se produce por:",
     "options": [
-      "Una degeneración neuronal que afecta espe- cialmente al globo pálido, sustancia reticular y oliva inferior y produce un déficit de dopami- na.",
-      "Una degeneración de los núcleos de la protube- rancia, oliva inferior y el cerebelo.",
-      "Una degeneración celular en la sustancia negra que disminuye la tasa de dopamina a nivel del estriado, lo que provoca una actividad subta- lámica y palidal excesiva.",
+      "Una degeneración neuronal que afecta especialmente al globo pálido, sustancia reticular y oliva inferior y produce un déficit de dopamina.",
+      "Una degeneración de los núcleos de la protuberancia, oliva inferior y el cerebelo.",
+      "Una degeneración celular en la sustancia negra que disminuye la tasa de dopamina a nivel del estriado, lo que provoca una actividad subtalámica y palidal excesiva.",
       "Una degeneración neuronal progresiva a nivel cortical y de los ganglios basales."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 95 del examen MIR de la convocatoria FSE."
+    "explanation": "La enfermedad de Parkinson es un síndrome parkinsoniano primario caracterizado por un déficit de dopamina en el sistema nervioso central. La explicación de cada opción es la siguiente:\n\n- **🟢 Opción C (Correcta):** La enfermedad de Parkinson se caracteriza por una degeneración celular en la sustancia negra, que es responsable de la producción de dopamina. La disminución de la dopamina en el estriado provoca una actividad subtalámica y palidal excesiva, lo que se traduce en los síntomas clínicos de la enfermedad de Parkinson, como la rigidez, la tremedera y la dificultad para el movimiento.\n\n- **🔴 Opción A (Incorrecta):** Esta opción se refiere a una degeneración neuronal que afecta al globo pálido, sustancia reticular y oliva inferior. Si bien estas estructuras están involucradas en la patofisiología de la enfermedad de Parkinson, la degeneración neuronal que afecta especialmente a estas estructuras no es la causa principal de la enfermedad.\n\n- **🔴 Opción B (Incorrecta):** Esta opción se refiere a una degeneración de los núcleos de la protuberancia, oliva inferior y el cerebelo. Estas estructuras no están directamente involucradas en la patofisiología de la enfermedad de Parkinson.\n\n- **🔴 Opción D (Incorrecta):** Esta opción se refiere a una degeneración neuronal progresiva a nivel cortical y de los ganglios basales. Si bien la enfermedad de Parkinson puede afectar a estas estructuras, la degeneración neuronal progresiva a nivel cortical y de los ganglios basales no es la causa principal de la enfermedad.\n\nLa perla MIR: La enfermedad de Parkinson se caracteriza por una degeneración celular en la sustancia negra que disminuye la producción de dopamina, lo que provoca una actividad subtalámica y palidal excesiva."
   },
   {
     "id": "q-96",
     "localNumber": 96,
     "category": "Neurología",
-    "stem": "Respecto a la exploración neuroló gica de una lesión en la vía córtico-espinal, señale la afirma- ción INCORRECTA:",
+    "stem": "Respecto a la exploración neurológica de una lesión en la vía córtico-espinal, señale la afirmación INCORRECTA",
     "options": [
       "Se encuentra debilidad global en todos los grupos musculares de los miembros afectados.",
       "El reflejo de Babinski está presente.",
       "Presenta hipertonía tipo rigidez.",
-      "Existe hiperreflexia en los reflejos osteotendi- nosos rotulianos."
+      "Existe hiperreflexia en los reflejos osteotendinosos rotulianos."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 96 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La lesión en la vía córtico-espinal produce debilidad y pérdida de reflejos en los miembros afectados, lo que se conoce como parálisis flácida. La hipotonía, en lugar de la hipertonía, es la característica principal de esta parálisis. Además, el reflejo de Babinski está ausente en los miembros afectados, lo que es un signo importante de la lesión de la vía córtico-espinal. Por lo tanto, la opción C es la correcta en este contexto.\n\n- **🔴 Opción A (Incorrecta):** La debilidad global en todos los grupos musculares de los miembros afectados no es una característica típica de la lesión en la vía córtico-espinal. La lesión produce debilidad y pérdida de reflejos en los miembros afectados, pero no una debilidad global.\n\n- **🔴 Opción B (Incorrecta):** El reflejo de Babinski está ausente en los miembros afectados por una lesión en la vía córtico-espinal, no presente. El reflejo de Babinski es un signo importante de la lesión de la vía córtico-espinal.\n\n- **🔴 Opción D (Incorrecta):** La hiperreflexia en los reflejos osteotendinosos rotulianos no es una característica típica de la lesión en la vía córtico-espinal. La lesión produce debilidad y pérdida de reflejos en los miembros afectados, no hiperreflexia.\n\nLa perla MIR: En una lesión en la vía córtico-espinal, es importante recordar que la hipotonía y la pérdida de reflejos son características típicas, no la hipertonía. El reflejo de Babinski está ausente en los miembros afectados, lo que es un signo importante de la lesión."
   },
   {
     "id": "q-97",
