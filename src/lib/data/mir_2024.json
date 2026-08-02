@@ -2187,43 +2187,43 @@
     "id": "q-157",
     "localNumber": 157,
     "category": "General",
-    "stem": "¿Qué fármaco de los mencionados a continuación ha de tenerse en cuenta cuando se evalúa a un paciente con hiperparatiroidismo?:",
+    "stem": "¿Qué fármaco de los mencionados a continuación ha de tenerse en cuenta cuando se evalúa a un paciente con hiperparatiroidismo?",
     "options": [
       "Hidroclorotiazida.",
       "Losartán.",
       "Amlodipino.",
-      "Doxazosina. Página: 25 de 33"
+      "Doxazosina."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 157 del examen MIR de la convocatoria FSE."
+    "explanation": "**Hiperparatiroidismo: Un desafío para el riñón**\n\nLa pregunta requiere evaluar la relación entre los fármacos mencionados y el hiperparatiroidismo. El hiperparatiroidismo se caracteriza por una sobreproducción de paratohormona, lo que lleva a un aumento en la absorción de calcio y fosfato en el intestino, lo que puede afectar negativamente la función renal.\n\n- **🟢 Opción A (Correcta):** La hidroclorotiazida es un diurético tiazídico que puede aumentar la producción de calcio en la orina, lo que puede empeorar la hipercalcemia asociada con el hiperparatiroidismo. Por lo tanto, es importante tener en cuenta la hidroclorotiazida cuando se evalúa a un paciente con hiperparatiroidismo.\n\n- **🔴 Opción B (Incorrecta):** El losartán es un antagonista de los receptores de angiotensina II, que se utiliza en el tratamiento de la hipertensión. No hay una relación directa entre el losartán y el hiperparatiroidismo.\n\n- **🔴 Opción C (Incorrecta):** El amlodipino es un bloqueador de los canales de calcio que se utiliza en el tratamiento de la hipertensión y la angina de pecho. Aunque puede afectar la función renal, no está directamente relacionado con el hiperparatiroidismo.\n\n- **🔴 Opción D (Incorrecta):** La doxazosina es un bloqueador alfa adrenérgico que se utiliza en el tratamiento de la hipertensión y la hiperplasia prostática benigna. No hay una relación directa entre la doxazosina y el hiperparatiroidismo.\n\nLa perla MIR: \"Cuando se evalúa a un paciente con hiperparatiroidismo, es importante considerar el uso de diuréticos tiazídicos como la hidroclorotiazida, ya que pueden empeorar la hipercalcemia asociada con esta condición.\""
   },
   {
     "id": "q-158",
     "localNumber": 158,
     "category": "General",
-    "stem": "¿Cuál de las siguientes causas de hipertiroidismo puede cursar con TSH normal o elevada?:",
+    "stem": "¿Cuál de las siguientes causas de hipertiroidismo puede cursar con TSH normal o elevada?",
     "options": [
       "Tirotoxicosis facticia.",
       "Struma ovarii.",
       "Adenoma hipofisario productor de TSH.",
-      "Hipertiroidismo por beta -HCG durante la gestación."
+      "Hipertiroidismo por beta-HCG durante la gestación."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 158 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El adenoma hipofisario productor de TSH es una causa de hipotiroidismo, no de hipertiroidismo. Sin embargo, en algunos casos, un adenoma hipofisario puede producir tanto TSH como otros hormonones, lo que puede llevar a una disfunción tiroidea y un aumento de la producción de hormonas tiroideas. Esto puede cursar con TSH normal o elevada, ya que el adenoma hipofisario puede producir TSH y otras hormonas que interactúen con la tiroides.\n\n- **🔴 Opción A (Incorrecta):** La tirotoxicosis facticia, también conocida como tirotoxicosis inducida por medicamentos, no es una causa de hipertiroidismo. Se produce cuando un medicamento o sustancia química estimula la producción de hormonas tiroideas o disminuye la eliminación de las hormonas existentes. Esto puede cursar con un aumento de las hormonas tiroideas, pero no necesariamente con TSH normal o elevada.\n\n- **🔴 Opción B (Incorrecta):** La struma ovarii es un tipo de tumor ovariano que puede producir hormonas tiroideas. Sin embargo, esto no es una causa de hipertiroidismo, ya que el tumor ovariano no reemplaza la función de la tiroides y no produce TSH.\n\n- **🔴 Opción D (Incorrecta):** El hipertiroidismo por beta-HCG durante la gestación es una causa de hipertiroidismo, pero no es la respuesta correcta a esta pregunta. La beta-HCG es una hormona producida por el embarazo que estimula la producción de hormonas tiroideas. Esto puede cursar con TSH normal o disminuida, no necesariamente elevada.\n   La perla MIR: 'No te equivoques, TSH puede estar normal o elevada en el hipertiroidismo producido por un adenoma hipofisario productor de TSH'."
   },
   {
     "id": "q-159",
     "localNumber": 159,
     "category": "Nefrología",
-    "stem": "Hombre de 58 años, fumador de 30 cigarrillos diarios desde los 19 años, con antecedentes de hipertensión arterial mal controlada, diabetes mellitus tipo 2 y obesidad grado I. En estudio por disnea de 5 meses de evolución, asociando pérdida de peso, astenia e hiporexia. Como parte del estudio se realiza TC toracoabdominal describiéndose la presencia de un nódulo pulmonar inespecífico de 1,1 cm en lóbulo superior derecho sin datos de malignidad y un nódulo en la glándula suprarrenal derecha de 1,9 cm. ¿Qué pruebas complementarias habría que solicitar para el estudio del incidentaloma suprarrenal?:",
+    "stem": "Hombre de 58 años, fumador de 30 cigarrillos diarios desde los 19 años, con antecedentes de hipertensión arterial mal controlada, diabetes mellitus tipo 2 y obesidad de grado I. En estudio por disnea de 5 meses de evolución, asociando pérdida de peso, astenia e hiporexia. Como parte del estudio se realiza una tomografía computarizada toracoabdominal describiéndose la presencia de un nódulo pulmonar inespecífico de 1,1 cm en el lóbulo superior derecho sin datos de malignidad y un nódulo en la glándula suprarrenal derecha de 1,9 cm. ¿Qué pruebas complementarias habría que solicitar para el estudio del incidentaloma suprarrenal?",
     "options": [
-      "Test de supresión con 8 mg de dexametasona (DXM) nocturno, metanefrinas libres plasmáticas y resonancia magnética centrada en suprarrenales.",
-      "Metanefrinas fraccionadas en orina de 24 horas, test de supresión con 1 mg DXM nocturno, ratio renina/aldosterona y PET-TC con 18FDG.",
-      "Metanefrinas fraccionadas en orina de 24 horas, test de supresión con 1 mg DXM nocturno, ratio aldosterona/renina y TC centrada en adrenales.",
+      "Test de supresión con 8 mg de dexametasona nocturno, metanefrinas libres plasmáticas y resonancia magnética centrada en suprarrenales.",
+      "Metanefrinas fraccionadas en orina de 24 horas, test de supresión con 1 mg de dexametasona nocturno, ratio renina/aldosterona y PET-TC con 18FDG.",
+      "Metanefrinas fraccionadas en orina de 24 horas, test de supresión con 1 mg de dexametasona nocturno, ratio aldosterona/renina y tomografía computarizada centrada en adrenales.",
       "Cortisol libre urinario, metanefrinas fraccionadas en muestra aislada de orina, ratio aldosterona/renina y resonancia magnética centrada en suprarrenales."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 159 del examen MIR de la convocatoria FSE."
+    "explanation": "\n### Explicación del estudio del incidentaloma suprarrenal\n- **🟢 Opción C (Correcta):** Esta opción es la correcta porque incluye las pruebas más relevantes para el estudio de un incidentaloma suprarrenal. Las metanefrinas fraccionadas en orina de 24 horas son útiles para detectar la hipersecreción de catecolaminas, lo que sugiere un feocromocitoma. El test de supresión con 1 mg de dexametasona nocturno ayuda a evaluar la función del eje hipotálamo-hipofisario-adrenal y a identificar posibles hipersecreciones de cortisol. El ratio aldosterona/renina es importante para evaluar la función de la glándula suprarrenal en relación con la aldosterona y su posible hipersecreción. La tomografía computarizada centrada en adrenales proporciona información anatómica detallada del nódulo suprarrenal.\n- **🔴 Opción A (Incorrecta):** Esta opción no es la más adecuada debido a que utiliza un test de supresión con 8 mg de dexametasona, que es una dosis alta y puede no ser necesaria para la mayoría de los pacientes. Además, la inclusión de metanefrinas libres plasmáticas puede no ser tan sensible como las metanefrinas fraccionadas en orina de 24 horas.\n- **🔴 Opción B (Incorrecta):** Aunque esta opción incluye algunas pruebas relevantes como las metanefrinas fraccionadas en orina de 24 horas y el test de supresión con 1 mg de dexametasona, el uso de la ratio renina/aldosterona en lugar de la ratio aldosterona/renina puede ser menos preciso para evaluar la hiperaldosteronismo. Además, la PET-TC con 18FDG puede no ser necesaria en la evaluación inicial de un incidentaloma suprarrenal.\n- **🔴 Opción D (Incorrecta):** Esta opción incluye el cortisol libre urinario y la resonancia magnética centrada en suprarrenales, que pueden ser útiles, pero la muestra aislada de orina para metanefrinas fraccionadas puede no ser lo suficientemente sensible como la orina de 24 horas. Además, la falta del test de supresión con dexametasona y la evaluación específica de la función suprarrenal hace que esta opción sea menos completa.\n\n### Perla MIR\nEn el estudio de un incidentaloma suprarrenal, es crucial evaluar la función endocrina de la glándula suprarrenal mediante pruebas bioquímicas y anatomopatológicas. La elección de las pruebas adecuadas puede ayudar a identificar posibles hipersecreciones hormonales y guiar el tratamiento adecuado."
   },
   {
     "id": "q-160",
@@ -2237,13 +2237,13 @@
       "Es necesario recomendarle una adecuada protección solar pues la exposición solar puede motivar recurrencias."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 160 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La profilaxis con valaciclovir es indicada en casos de herpes labial recurrente, especialmente si el paciente presenta más de tres episodios anuales. Esto se debe a que la profilaxis puede reducir la frecuencia y la gravedad de las recurrencias. La dosis recomendada es de 500 mg cada 12 horas o 1 g al día durante seis meses.\n\n- **🔴 Opción B (Incorrecta):** En este caso, la lesión es recurrente y no se trató con ningún tratamiento en el pasado, por lo que no es adecuado dejarla sin tratamiento. El uso de fomentos de sulfato de zinc o de cobre puede ser útil en casos leves, pero en este caso, se recomienda una profilaxis con un antiviral.\n\n- **🔴 Opción C (Incorrecta):** La indicación de valaciclovir para prevenir la afectación oftálmica es incorrecta. La afectación oftálmica es una complicación grave del herpes labial, pero en este caso, no se menciona que la paciente tenga riesgo de afectación oftálmica. La profilaxis con valaciclovir se indica en casos de herpes labial recurrente, no en casos de afectación oftálmica.\n\n- **🔴 Opción D (Incorrecta):** La protección solar es importante para prevenir la exposición solar y reducir la frecuencia de las recurrencias del herpes labial, pero no es la respuesta correcta a la pregunta. La pregunta pregunta qué es INCORRECTO en el abordaje de la enfermedad de la paciente, y la respuesta correcta es la profilaxis con valaciclovir."
   },
   {
     "id": "q-161",
     "localNumber": 161,
     "category": "General",
-    "stem": "Hombre de 50 años que presenta una erupción generalizada especialmente en el tronco. Refiere malestar general desde hace pocos días. Hoy acude porque ha tenido fiebre la noche anterior y se ha visto una mancha negra en la zona abdominal. A la exploración física, la mancha negra corresponde a una pequeña escara. El paciente es cazador y acudió recientemente a una batida. Sobre el abordaje del caso es cierto que:",
+    "stem": "Hombre de 50 años que presenta una erupción generalizada especialmente en el tronco. Refiere malestar general desde hace pocos días. Hoy acude porque ha tenido fiebre la noche anterior y se ha visto una mancha negra en la zona abdominal. A la exploración física, la mancha negra corresponde a una pequeña escara. El paciente es cazador y acudió recientemente a una batida.",
     "options": [
       "Es una enfermedad de declaración obligatoria.",
       "El tratamiento de elección es la amoxicilina, un gramo cada 8 horas durante 7 días.",
@@ -2251,7 +2251,7 @@
       "En la mayoría de los casos, la fiebre precede al exantema y la escara."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 161 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La enfermedad del paciente se sospecha que es la tifus exantemática, una enfermedad transmitida por gérmenes (Rickettsia) que se encuentran en las chinches de las rocas y las lombrices de tierra. Es una enfermedad de declaración obligatoria en la mayoría de los países, incluyendo España. Esto significa que el médico debe informar a las autoridades sanitarias sobre el caso para que puedan tomar medidas para prevenir la propagación de la enfermedad.\n\n- **🔴 Opción B (Incorrecta):** La amoxicilina es un antibiótico que se utiliza para tratar infecciones bacterianas, pero no es el tratamiento de elección para la tifus exantemática. El tratamiento de elección para la tifus exantemática es la doxiciclina, un antibiótico que es más eficaz contra las bacterias que causan la enfermedad.\n\n- **🔴 Opción C (Incorrecta):** Aunque la tifus exantemática puede ser una enfermedad grave, no siempre es necesario derivar al paciente a un centro hospitalario. En la mayoría de los casos, el tratamiento de la enfermedad puede realizarse en la consulta de un médico de cabecera. Sin embargo, si el paciente tiene síntomas graves o se sospecha que tiene una forma grave de la enfermedad, es posible que sea necesario derivar al paciente a un centro hospitalario.\n\n- **🔴 Opción D (Incorrecta):** La fiebre y el exantema suelen ocurrir al mismo tiempo en la tifus exantemática, no que la fiebre preceda al exantema. El exantema es una erupción generalizada en la piel que es una característica clásica de la enfermedad.\n\nLa perla MIR: La tifus exantemática es una enfermedad grave que requiere un tratamiento específico. Es importante recordar que es una enfermedad de declaración obligatoria y que el tratamiento de elección es la doxiciclina."
   },
   {
     "id": "q-162",
