@@ -9,13 +9,14 @@ import { TrapsView } from "@/components/traps-view";
 import { HardView } from "@/components/hard-view";
 import { FlashcardsView } from "@/components/flashcards-view";
 import { GeneratorView } from "@/components/generator-view";
+import { PlanView } from "@/components/plan-view";
 import { suggestedPrompts } from "@/lib/knowledge-base";
 import { useUi } from "@/lib/ui-context";
 import type { ChatMessage, ConversationSummary } from "@/lib/types";
 import type { MessageMetadata } from "@/lib/tutor";
 import { AuthScreen } from "@/components/auth-screen";
 
-type Section = "exams" | "generator" | "traps" | "hard" | "flashcards" | "stats" | "chat";
+type Section = "exams" | "generator" | "traps" | "hard" | "flashcards" | "plan" | "stats";
 
 const NAV: { id: Section; label: string; icon: string }[] = [
   { id: "exams", label: "Exámenes", icon: "📝" },
@@ -23,17 +24,17 @@ const NAV: { id: Section; label: string; icon: string }[] = [
   { id: "traps", label: "Preguntas trampa", icon: "⚠️" },
   { id: "hard", label: "Preguntas difíciles", icon: "🔥" },
   { id: "flashcards", label: "Flashcards", icon: "🎴" },
+  { id: "plan", label: "Plan de estudio", icon: "📅" },
   { id: "stats", label: "Mi progreso", icon: "📊" },
-  { id: "chat", label: "Tutor IA", icon: "💬" },
 ];
 
 const SECTION_TITLE: Record<Section, string> = {
-  chat: "Tutor IA",
   exams: "Exámenes MIR",
   generator: "Generador de exámenes",
   traps: "Preguntas trampa",
   hard: "Preguntas difíciles",
   flashcards: "Flashcards",
+  plan: "Plan de estudio",
   stats: "Mi progreso",
 };
 
@@ -51,7 +52,7 @@ function relativeTime(iso: string): string {
 
 export function ChatApp() {
   const { increaseText, decreaseText, resetText, printPage } = useUi();
-  const [section, setSection] = useState<Section>("chat");
+  const [section, setSection] = useState<Section>("exams");
   const [conversations, setConversations] = useState<ConversationSummary[]>([]);
   const [activeId, setActiveId] = useState<string | null>(null);
   const [messages, setMessages] = useState<ChatMessage[]>([]);
@@ -238,35 +239,7 @@ export function ChatApp() {
             </button>
           ))}
         </nav>
- 
-        {section === "chat" && (
-          <>
-            <div className="px-3 pt-2">
-              <button onClick={newChat} className="flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-teal-500 to-cyan-500 py-3 text-xs font-bold uppercase tracking-wider text-white shadow-lg shadow-teal-500/20 transition-all duration-200 hover:shadow-teal-400/30 hover:scale-[1.02] active:scale-95">
-                ＋ Nuevo chat
-              </button>
-            </div>
-            <nav className="mt-4 flex-1 space-y-1 overflow-y-auto px-2 pb-4 border-b border-slate-800/40">
-              <div className="px-3 pb-2 text-[10px] font-bold uppercase tracking-widest text-slate-500">Historial de Tutorías</div>
-              {loadingConvs ? (
-                <div className="px-3 py-6 text-center text-xs text-slate-500">Cargando chats…</div>
-              ) : conversations.length === 0 ? (
-                <div className="px-3 py-6 text-center text-xs text-slate-500">No hay tutorías activas.</div>
-              ) : (
-                conversations.map((c) => (
-                  <button key={c.id} onClick={() => { setActiveId(c.id); changeSection("chat"); setSidebarOpen(false); loadMessages(c.id); }} className={["group flex w-full items-start gap-2.5 rounded-xl px-3 py-2.5 text-left transition-all duration-200", activeId === c.id ? "bg-slate-800 text-white shadow-sm" : "text-slate-400 hover:bg-slate-800/40 hover:text-white"].join(" ")}>
-                    <span className="mt-0.5 shrink-0 text-slate-500 group-hover:text-teal-400">💬</span>
-                    <div className="min-w-0 flex-1">
-                      <div className="truncate text-xs font-semibold">{c.title}</div>
-                      <div className="truncate text-[10px] text-slate-500 mt-0.5">{c.preview || relativeTime(c.updatedAt)}</div>
-                    </div>
-                  </button>
-                ))
-              )}
-            </nav>
-          </>
-        )}
-        {section !== "chat" && <div className="flex-1" />}
+        <div className="flex-1" />
 
         {/* Sección de perfil de usuario en el menú lateral */}
         <div className="flex items-center justify-between border-t border-slate-800/60 bg-slate-950/20 px-4.5 py-4">
@@ -292,7 +265,7 @@ export function ChatApp() {
           <div className="flex min-w-0 flex-1 items-center gap-2.5">
             <span className="text-xl">{NAV.find((n) => n.id === section)?.icon}</span>
             <div className="truncate text-base font-bold text-slate-800 tracking-tight">
-              {section === "chat" && activeId ? (conversations.find(c => c.id === activeId)?.title || "Nuevo Chat") : SECTION_TITLE[section]}
+              {SECTION_TITLE[section]}
             </div>
           </div>
           <div className="flex items-center gap-1.5">
@@ -300,97 +273,16 @@ export function ChatApp() {
             <button onClick={resetText} className="rounded-lg border border-slate-200 bg-white px-2.5 py-1 text-xs font-semibold text-slate-600 hover:bg-slate-50 transition active:scale-95">A</button>
             <button onClick={increaseText} className="rounded-lg border border-slate-200 bg-white px-2 py-1 text-xs font-semibold text-slate-600 hover:bg-slate-50 transition active:scale-95">A+</button>
             <button onClick={printPage} className="rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-xs font-bold text-slate-600 hover:bg-slate-50 hover:text-slate-800 transition active:scale-95 ml-1">Imprimir / PDF</button>
-            {section === "chat" && <button onClick={newChat} className="rounded-lg bg-slate-900 px-3.5 py-1.5 text-xs font-bold text-white hover:bg-slate-800 hover:scale-105 transition active:scale-95 ml-1 shadow-sm">Nuevo</button>}
           </div>
         </header>
- 
-        {section === "chat" && (
-          <>
-            <div ref={scrollRef} className="flex-1 overflow-y-auto bg-slate-50/50">
-              {showWelcome ? (
-                <WelcomeScreen onPick={sendMessage} />
-              ) : (
-                <div className="mx-auto max-w-3xl space-y-6 px-4 py-8 animate-fade-in">
-                  {loadingMsgs ? (
-                    <div className="py-24 text-center text-sm font-semibold text-slate-400">Cargando conversación…</div>
-                  ) : (
-                    messages.map((m) => (
-                      <MessageBubble key={m.id} message={m} onAnswer={(idx) => answerQuiz(m.id, idx)} disabled={sending} />
-                    ))
-                  )}
-                  {error && (
-                    <div className="rounded-2xl border border-rose-200 bg-rose-50 px-4 py-3.5 text-sm font-medium text-rose-700 shadow-sm">
-                      ⚠️ {error}
-                    </div>
-                  )}
-                </div>
-              )}
-            </div>
-            <div className="border-t border-slate-200/80 bg-white/90 px-4 py-4 backdrop-blur-md print:hidden shadow-lg shadow-slate-100">
-              <div className="mx-auto max-w-3xl">
-                <div className="flex items-end gap-2.5 rounded-2xl border border-slate-200 bg-white p-2.5 shadow-sm focus-within:border-teal-400 focus-within:ring-4 focus-within:ring-teal-100/50 transition duration-200">
-                  <textarea ref={inputRef} value={input} onChange={(e) => setInput(e.target.value)} onKeyDown={(e) => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); sendMessage(input); } }} rows={1} placeholder="Pregúntame dudas o pide un test de repaso..." className="max-h-40 flex-1 resize-none bg-transparent px-2.5 py-2 text-sm text-slate-800 outline-none placeholder:text-slate-400 leading-relaxed" />
-                  <button onClick={() => sendMessage(input)} disabled={!input.trim() || sending} className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-gradient-to-tr from-teal-500 to-cyan-500 text-white shadow-md shadow-teal-500/10 transition-all duration-200 hover:from-teal-400 hover:to-cyan-400 active:scale-95 disabled:opacity-40 disabled:pointer-events-none">➤</button>
-                </div>
-              </div>
-            </div>
-          </>
-        )}
 
         {section === "exams" && <ExamsView />}
         {section === "generator" && <GeneratorView />}
         {section === "traps" && <TrapsView />}
         {section === "hard" && <HardView />}
         {section === "flashcards" && <FlashcardsView />}
+        {section === "plan" && <PlanView />}
         {section === "stats" && <StatsView />}
-      </div>
-    </div>
-  );
-}
-
-function MessageBubble({ message, onAnswer, disabled }: { message: ChatMessage; onAnswer: (idx: number) => void; disabled: boolean }) {
-  const isUser = message.role === "user";
-  const meta = message.metadata as MessageMetadata | null;
-  const isQuiz = meta?.type === "quiz";
-  return (
-    <div className={["flex gap-4", isUser ? "flex-row-reverse animate-fade-in" : "animate-fade-in"].join(" ")}>
-      <div className={["flex h-9 w-9 shrink-0 items-center justify-center rounded-xl text-base shadow-sm transition", isUser ? "bg-slate-700 text-white" : "bg-gradient-to-tr from-teal-500 to-cyan-500 text-white"].join(" ")}>
-        {isUser ? "🧑" : "🩺"}
-      </div>
-      <div className={["min-w-0 max-w-[calc(100%-3.5rem)] rounded-2xl px-5 py-3.5 text-sm shadow-sm transition-all duration-200", isUser ? "rounded-tr-sm bg-slate-800 text-white" : "rounded-tl-sm border border-slate-200/80 bg-white text-slate-700"].join(" ")}>
-        {isUser ? (
-          <p className="whitespace-pre-wrap leading-relaxed">{message.content}</p>
-        ) : (
-          <>
-            <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed"><Markdown content={message.content} /></div>
-            {isQuiz && meta && (
-              <div className="mt-4 border-t border-slate-100 pt-4">
-                <QuizCard metadata={meta} onAnswer={onAnswer} disabled={disabled} />
-              </div>
-            )}
-          </>
-        )}
-      </div>
-    </div>
-  );
-}
-
-function WelcomeScreen({ onPick }: { onPick: (text: string) => void }) {
-  return (
-    <div className="mx-auto flex h-full max-w-3xl flex-col items-center justify-center px-6 py-12 text-center animate-fade-in">
-      <div className="mb-5 flex h-16 w-16 items-center justify-center rounded-2xl bg-gradient-to-tr from-teal-400 to-cyan-500 text-3xl shadow-xl shadow-teal-500/20 animate-pulse">🩺</div>
-      <h1 className="text-3xl font-extrabold text-slate-900 sm:text-4xl tracking-tight leading-none">
-        Tutor Inteligente de Preparación del <span className="text-teal-600">MIR</span>
-      </h1>
-      <p className="mt-3 max-w-xl text-sm sm:text-base text-slate-500 leading-relaxed">
-        Resuelve tus dudas del temario con inteligencia artificial, genera simulacros personalizados, haz repasos enfocados o pon a prueba tus conocimientos en simuladores oficiales del MIR.
-      </p>
-      <div className="mt-8 grid w-full grid-cols-1 gap-3 sm:grid-cols-2">
-        {suggestedPrompts.map((p) => (
-          <button key={p} onClick={() => onPick(p)} className="premium-card rounded-xl border border-slate-200 bg-white px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-700 shadow-sm hover:border-teal-300 hover:bg-teal-50/20 hover:text-teal-800">
-            <span className="mr-2 text-teal-500">›</span>{p}
-          </button>
-        ))}
       </div>
     </div>
   );

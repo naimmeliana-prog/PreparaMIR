@@ -174,48 +174,48 @@ class HybridQueryBuilder {
       } catch (err: any) {
         console.warn("⚠️ PostgreSQL SELECT failed, falling back to local JSON DB:", err.message);
       }
-    } else {
-      // MODO OFFLINE LOCAL (JSON)
-      const data = loadData();
-      let rows = this.table === "conversations" ? [...data.conversations] : [...data.messages];
-
-      if (activeUserId) {
-        rows = rows.filter((r: any) => r.userId === activeUserId);
-      } else {
-        rows = [];
-      }
-
-      if (this.whereClause) {
-        const { field, value, operator } = this.whereClause;
-        if (operator === "eq") {
-          rows = rows.filter((r: any) => r[field] === value);
-        } else if (operator === "inArray") {
-          const valSet = new Set(value);
-          rows = rows.filter((r: any) => valSet.has(r[field]));
-        }
-      }
-
-      let resultRows = rows.map((r: any) => ({
-        ...r,
-        createdAt: new Date(r.createdAt),
-        updatedAt: r.updatedAt ? new Date(r.updatedAt) : undefined,
-      }));
-
-      if (this.orderClause) {
-        const { field, direction } = this.orderClause;
-        resultRows.sort((a: any, b: any) => {
-          const valA = a[field] instanceof Date ? a[field].getTime() : 0;
-          const valB = b[field] instanceof Date ? b[field].getTime() : 0;
-          return direction === "desc" ? valB - valA : valA - valB;
-        });
-      }
-
-      if (this.selectFields && this.selectFields.value) {
-        return onfulfilled ? onfulfilled([{ value: resultRows.length }]) : [{ value: resultRows.length }];
-      }
-
-      return onfulfilled ? onfulfilled(resultRows) : resultRows;
     }
+    
+    // MODO OFFLINE LOCAL (JSON)
+    const data = loadData();
+    let rows = this.table === "conversations" ? [...data.conversations] : [...data.messages];
+
+    if (activeUserId) {
+      rows = rows.filter((r: any) => r.userId === activeUserId);
+    } else {
+      rows = [];
+    }
+
+    if (this.whereClause) {
+      const { field, value, operator } = this.whereClause;
+      if (operator === "eq") {
+        rows = rows.filter((r: any) => r[field] === value);
+      } else if (operator === "inArray") {
+        const valSet = new Set(value);
+        rows = rows.filter((r: any) => valSet.has(r[field]));
+      }
+    }
+
+    let resultRows = rows.map((r: any) => ({
+      ...r,
+      createdAt: new Date(r.createdAt),
+      updatedAt: r.updatedAt ? new Date(r.updatedAt) : undefined,
+    }));
+
+    if (this.orderClause) {
+      const { field, direction } = this.orderClause;
+      resultRows.sort((a: any, b: any) => {
+        const valA = a[field] instanceof Date ? a[field].getTime() : 0;
+        const valB = b[field] instanceof Date ? b[field].getTime() : 0;
+        return direction === "desc" ? valB - valA : valA - valB;
+      });
+    }
+
+    if (this.selectFields && this.selectFields.value) {
+      return onfulfilled ? onfulfilled([{ value: resultRows.length }]) : [{ value: resultRows.length }];
+    }
+
+    return onfulfilled ? onfulfilled(resultRows) : resultRows;
   }
 }
 
@@ -255,35 +255,35 @@ export const db = {
                   } catch (err: any) {
                     console.warn("⚠️ PostgreSQL INSERT failed, falling back to local JSON DB:", err.message);
                   }
-                } else {
-                  // MODO OFFLINE LOCAL (JSON)
-                  const data = loadData();
-                  const newRow: any = {
-                    id: generateUUID(),
-                    createdAt: new Date().toISOString(),
-                    userId: activeUserId,
-                    ...payload,
-                  };
-                  
-                  if (tableName === "conversations") {
-                    newRow.updatedAt = new Date().toISOString();
-                    data.conversations.push(newRow);
-                  } else if (tableName === "users") {
-                    if (!data.users) data.users = [];
-                    data.users.push(newRow);
-                  } else {
-                    data.messages.push(newRow);
-                  }
-                  
-                  saveData(data);
-
-                  const returnRow = {
-                    ...newRow,
-                    createdAt: new Date(newRow.createdAt),
-                    updatedAt: newRow.updatedAt ? new Date(newRow.updatedAt) : undefined,
-                  };
-                  return onfulfilled ? onfulfilled([returnRow]) : [returnRow];
                 }
+
+                // MODO OFFLINE LOCAL (JSON)
+                const data = loadData();
+                const newRow: any = {
+                  id: generateUUID(),
+                  createdAt: new Date().toISOString(),
+                  userId: activeUserId,
+                  ...payload,
+                };
+                
+                if (tableName === "conversations") {
+                  newRow.updatedAt = new Date().toISOString();
+                  data.conversations.push(newRow);
+                } else if (tableName === "users") {
+                  if (!data.users) data.users = [];
+                  data.users.push(newRow);
+                } else {
+                  data.messages.push(newRow);
+                }
+                
+                saveData(data);
+
+                const returnRow = {
+                  ...newRow,
+                  createdAt: new Date(newRow.createdAt),
+                  updatedAt: newRow.updatedAt ? new Date(newRow.updatedAt) : undefined,
+                };
+                return onfulfilled ? onfulfilled([returnRow]) : [returnRow];
               }
             };
           }
@@ -321,22 +321,22 @@ export const db = {
                   } catch (err: any) {
                     console.warn("⚠️ PostgreSQL UPDATE failed, falling back to local JSON DB:", err.message);
                   }
-                } else {
-                  // MODO OFFLINE LOCAL (JSON)
-                  const data = loadData();
-                  const rows = tableName === "conversations" ? data.conversations : data.messages;
-                  
-                  for (const r of rows as any[]) {
-                    if (r[field] === value && (!activeUserId || r.userId === activeUserId)) {
-                      Object.assign(r, payload);
-                      if (tableName === "conversations") {
-                        r.updatedAt = new Date().toISOString();
-                      }
+                }
+
+                // MODO OFFLINE LOCAL (JSON)
+                const data = loadData();
+                const rows = tableName === "conversations" ? data.conversations : data.messages;
+                
+                for (const r of rows as any[]) {
+                  if (r[field] === value && (!activeUserId || r.userId === activeUserId)) {
+                    Object.assign(r, payload);
+                    if (tableName === "conversations") {
+                      r.updatedAt = new Date().toISOString();
                     }
                   }
-                  saveData(data);
-                  return onfulfilled ? onfulfilled(null) : null;
                 }
+                saveData(data);
+                return onfulfilled ? onfulfilled(null) : null;
               }
             };
           }
@@ -369,24 +369,24 @@ export const db = {
               } catch (err: any) {
                 console.warn("⚠️ PostgreSQL DELETE failed, falling back to local JSON DB:", err.message);
               }
-            } else {
-              // MODO OFFLINE LOCAL (JSON)
-              const data = loadData();
-              if (tableName === "conversations") {
-                data.conversations = data.conversations.filter(
-                  (c) => !(c.id === value && (!activeUserId || c.userId === activeUserId))
-                );
-                data.messages = data.messages.filter(
-                  (m) => !(m.conversationId === value && (!activeUserId || m.userId === activeUserId))
-                );
-              } else {
-                data.messages = data.messages.filter(
-                  (m: any) => !(m[field] === value && (!activeUserId || m.userId === activeUserId))
-                );
-              }
-              saveData(data);
-              return onfulfilled ? onfulfilled(null) : null;
             }
+
+            // MODO OFFLINE LOCAL (JSON)
+            const data = loadData();
+            if (tableName === "conversations") {
+              data.conversations = data.conversations.filter(
+                (c) => !(c.id === value && (!activeUserId || c.userId === activeUserId))
+              );
+              data.messages = data.messages.filter(
+                (m) => !(m.conversationId === value && (!activeUserId || m.userId === activeUserId))
+              );
+            } else {
+              data.messages = data.messages.filter(
+                (m: any) => !(m[field] === value && (!activeUserId || m.userId === activeUserId))
+              );
+            }
+            saveData(data);
+            return onfulfilled ? onfulfilled(null) : null;
           }
         };
       }
@@ -407,22 +407,22 @@ export const db = {
           } catch (err: any) {
             console.warn("⚠️ PostgreSQL EXECUTE failed, falling back to local JSON DB:", err.message);
           }
-        } else {
-          // MODO OFFLINE LOCAL (JSON)
-          const data = loadData();
-          const quizResults = data.messages
-            .filter(
-              m =>
-                m.role === "assistant" &&
-                m.metadata?.type === "quiz" &&
-                m.metadata?.answered != null &&
-                (!activeUserId || m.userId === activeUserId)
-            )
-            .map(m => ({ metadata: m.metadata }));
-            
-          const result = { rows: quizResults };
-          return onfulfilled ? onfulfilled(result) : result;
         }
+
+        // MODO OFFLINE LOCAL (JSON)
+        const data = loadData();
+        const quizResults = data.messages
+          .filter(
+            m =>
+              m.role === "assistant" &&
+              m.metadata?.type === "quiz" &&
+              m.metadata?.answered != null &&
+              (!activeUserId || m.userId === activeUserId)
+          )
+          .map(m => ({ metadata: m.metadata }));
+          
+        const result = { rows: quizResults };
+        return onfulfilled ? onfulfilled(result) : result;
       }
     };
   }

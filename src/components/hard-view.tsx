@@ -19,6 +19,52 @@ export function HardView() {
             </div>
           </div>
         </div>
+ 
+        <div className="mt-8">
+          <h2 className="text-sm font-bold uppercase tracking-wider text-slate-500">Métodos de abordaje crítico (Busca datos críticos y elimina lo incompatible)</h2>
+          <div className="mt-3 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="rounded-2xl border border-slate-200/80 bg-white p-5 shadow-sm hover:shadow-md transition duration-200">
+              <div className="flex h-7 w-7 items-center justify-center rounded-lg bg-rose-50 text-xs font-bold text-rose-600 ring-1 ring-rose-100">1</div>
+              <h3 className="mt-3 text-xs font-extrabold text-slate-900 uppercase tracking-wide">Imágenes con clínica mínima</h3>
+              <p className="mt-1 text-[11px] text-slate-500 leading-relaxed">Radiografías, dermatología, ECG o anatomía patológica donde el texto apenas orienta.</p>
+              <ul className="mt-3 space-y-1 text-[11px] font-semibold text-slate-600">
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Primero identifica patrón visual</li>
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Cruza edad y síntoma guía</li>
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Descarta opciones incompatibles</li>
+              </ul>
+            </div>
+            <div className="rounded-2xl border border-slate-200/80 bg-white p-5 shadow-sm hover:shadow-md transition duration-200">
+              <div className="flex h-7 w-7 items-center justify-center rounded-lg bg-rose-50 text-xs font-bold text-rose-600 ring-1 ring-rose-100">2</div>
+              <h3 className="mt-3 text-xs font-extrabold text-slate-900 uppercase tracking-wide">Bioestadística y lectura crítica</h3>
+              <p className="mt-1 text-[11px] text-slate-500 leading-relaxed">Riesgo relativo, NNT, sensibilidad, especificidad e intervalos de confianza bajo presión.</p>
+              <ul className="mt-3 space-y-1 text-[11px] font-semibold text-slate-600">
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Escribe la fórmula básica</li>
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Comprueba unidades y evento medido</li>
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>No interpretes sin mirar IC y valor n</li>
+              </ul>
+            </div>
+            <div className="rounded-2xl border border-slate-200/80 bg-white p-5 shadow-sm hover:shadow-md transition duration-200">
+              <div className="flex h-7 w-7 items-center justify-center rounded-lg bg-rose-50 text-xs font-bold text-rose-600 ring-1 ring-rose-100">3</div>
+              <h3 className="mt-3 text-xs font-extrabold text-slate-900 uppercase tracking-wide">Embarazo o pediátrico</h3>
+              <p className="mt-1 text-[11px] text-slate-500 leading-relaxed">Cambian contraindicaciones, dosis, calendario y prioridades diagnósticas.</p>
+              <ul className="mt-3 space-y-1 text-[11px] font-semibold text-slate-600">
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Pregunta edad gestacional o pediátrica</li>
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Identifica fármacos prohibidos</li>
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Prioriza seguridad o signos de gravedad</li>
+              </ul>
+            </div>
+            <div className="rounded-2xl border border-slate-200/80 bg-white p-5 shadow-sm hover:shadow-md transition duration-200">
+              <div className="flex h-7 w-7 items-center justify-center rounded-lg bg-rose-50 text-xs font-bold text-rose-600 ring-1 ring-rose-100">4</div>
+              <h3 className="mt-3 text-xs font-extrabold text-slate-900 uppercase tracking-wide">Comorbilidad en ancianos</h3>
+              <p className="mt-1 text-[11px] text-slate-500 leading-relaxed">Varias enfermedades justifican varias opciones, pero solo una es la mejor conducta.</p>
+              <ul className="mt-3 space-y-1 text-[11px] font-semibold text-slate-600">
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Determina problema activo</li>
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Busca inestabilidad o iatrogenia</li>
+                <li className="flex gap-1.5"><span className="text-rose-500 font-bold">›</span>Evita cascadas si la conducta está clara</li>
+              </ul>
+            </div>
+          </div>
+        </div>
 
         <div className="mt-4 flex flex-wrap gap-2">
           {Array.from(new Set(hardTopics.map((t) => t.bucket))).map((bucket) => (

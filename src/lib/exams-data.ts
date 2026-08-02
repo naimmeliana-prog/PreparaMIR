@@ -304,3 +304,12 @@ export function buildLocalExam(year: string): LocalExamQuestion[] {
 }
 
 export const recentYears = examList.map((e) => e.year);
+
+export const allDatabaseQuestions: ExamQuestion[] = [
+  ...examQuestions,
+  ...buildLocalExam("2025"),
+  ...buildLocalExam("2024"),
+  ...buildLocalExam("2023"),
+  ...buildLocalExam("2022"),
+  ...buildLocalExam("2021"),
+];

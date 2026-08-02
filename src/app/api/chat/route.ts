@@ -91,10 +91,12 @@ export async function POST(req: NextRequest) {
       .where(eq(messages.id, messageId));
 
     const isCorrect = selectedIndex === meta.correctIndex;
-    const userMsgContent = `He respondido la opción: ${meta.options[selectedIndex]}`;
+    const options = meta.options ?? [];
+    const correctIndex = meta.correctIndex ?? 0;
+    const userMsgContent = `He respondido la opción: ${options[selectedIndex] ?? ""}`;
     const assistantReply = isCorrect
       ? `🎉 **¡Correcto!** Has seleccionado la respuesta adecuada.\n\n${meta.explanation}`
-      : `❌ **Incorrecto.** La respuesta correcta era la Opción ${String.fromCharCode(65 + meta.correctIndex)}: *${meta.options[meta.correctIndex]}*.\n\n${meta.explanation}`;
+      : `❌ **Incorrecto.** La respuesta correcta era la Opción ${String.fromCharCode(65 + correctIndex)}: *${options[correctIndex] ?? ""}*.\n\n${meta.explanation}`;
 
     const [userMessage] = await db
       .insert(messages)

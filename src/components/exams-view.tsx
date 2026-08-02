@@ -12,6 +12,7 @@ import {
   type LocalExamQuestion,
 } from "@/lib/exams-data";
 import { useUi } from "@/lib/ui-context";
+import { Markdown } from "@/components/markdown";
 
 function cn(...parts: (string | false | null | undefined)[]) {
   return parts.filter(Boolean).join(" ");
@@ -180,6 +181,47 @@ function ExamRunner({ title, questions, reviewMode, onExit, fullMode = false }: 
     return { correct, wrong, blank, score: correct - wrong / 3 };
   }, [answers, questions]);
 
+  useEffect(() => {
+    if (submitted && !reviewMode) {
+      try {
+        const history = JSON.parse(localStorage.getItem("mir_exam_history") || "[]");
+        // Count questions answered by category
+        const catMap: Record<string, { total: number; correct: number }> = {};
+        for (const q of questions) {
+          const a = answers[q.id];
+          if (!catMap[q.category]) {
+            catMap[q.category] = { total: 0, correct: 0 };
+          }
+          catMap[q.category].total++;
+          if (a === q.correctIndex) {
+            catMap[q.category].correct++;
+          }
+        }
+
+        const newRun = {
+          id: Math.random().toString(36).substr(2, 9),
+          title: title,
+          date: new Date().toISOString(),
+          correct: results.correct,
+          wrong: results.wrong,
+          blank: results.blank,
+          score: results.score,
+          total: questions.length,
+          categories: catMap
+        };
+
+        // Evitar duplicados si ya se guardó esta misma sesión
+        const alreadySaved = history.some((h: any) => h.title === title && Math.abs(new Date(h.date).getTime() - new Date(newRun.date).getTime()) < 5000);
+        if (!alreadySaved) {
+          history.unshift(newRun);
+          localStorage.setItem("mir_exam_history", JSON.stringify(history));
+        }
+      } catch (err) {
+        console.error("Error saving exam run:", err);
+      }
+    }
+  }, [submitted, reviewMode, questions, answers, results, title]);
+
   if (questions.length === 0) {
     return <div className="mt-6"><button onClick={onExit} className="mb-4 rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-sm text-slate-600">← Volver</button><div className="rounded-2xl border border-dashed border-slate-300 bg-white p-10 text-center text-sm text-slate-500">No hay preguntas disponibles para estos filtros.</div></div>;
   }
@@ -229,7 +271,7 @@ function ExamRunner({ title, questions, reviewMode, onExit, fullMode = false }: 
                   );
                 })}
               </div>
-              {submitted && <div className="mt-3 rounded-xl bg-slate-50 p-3 text-sm"><span className="text-[11px] font-bold uppercase tracking-wide text-slate-500">Justificación</span><p className="mt-0.5 text-slate-700">{q.explanation}</p></div>}
+              {submitted && <div className="mt-3 rounded-xl bg-slate-50 p-3 text-sm"><span className="text-[11px] font-bold uppercase tracking-wide text-slate-500">Justificación</span><div className="mt-1.5 text-slate-700 leading-relaxed"><Markdown content={q.explanation} /></div></div>}
             </div>
           </article>
         ))}
