@@ -1893,7 +1893,7 @@
     "id": "q-137",
     "localNumber": 137,
     "category": "General",
-    "stem": "Paciente de 36 años que acude a ur gencias por mal estado general. No tiene analíticas previas. Se detecta creatinina 10 mg/dL, Hb 6,5 g/L, au- sencia de microalbuminuria, PTH 500 p g/ml, diuresis total conservada. Eco grafía: riñones reducidos de tamaño. ¿Cuál de los si guientes diagnósticos es más probable?:",
+    "stem": "Paciente de 36 años que acude a urgencias por mal estado general. No tiene analíticas previas. Se detecta creatinina 10 mg/dL, Hb 6,5 g/L, ausencia de microalbuminuria, PTH 500 pg/ml, diuresis total conservada. Ecografía: riñones reducidos de tamaño. ¿Cuál de los siguientes diagnósticos es más probable?",
     "options": [
       "Poliquistosis renal autosómica dominante.",
       "Glomerulonefritis rápidamente evolutiva.",
@@ -1901,41 +1901,41 @@
       "Nefropatía diabética."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 137 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La nefropatía tubulointersticial crónica (NTIC) es una enfermedad renal progresiva caracterizada por la pérdida de función renal debido a lesiones en los túbulos renales y la médula renal. La NTIC puede presentarse con varios patrones de proteinuria, desde la microalbuminuria hasta la proteinuria masiva. Sin embargo, en este caso, la ausencia de microalbuminuria sugiere que la proteinuria no es un rasgo principal de la enfermedad. La hiperparatiroidismo (PTH 500 pg/ml) es un hallazgo común en la NTIC, ya que la enfermedad puede causar hiperparatiroidismo secundario debido a la pérdida de función renal. La ecografía que muestra riñones reducidos de tamaño también es consistente con la NTIC. Por lo tanto, la Opción C es la más probable en este caso. \n\n- **🔴 Opción A (Incorrecta):** La poliquistosis renal autosómica dominante (ADPKD) es una enfermedad genética que causa la formación de cistos en los riñones. Aunque la ecografía puede mostrar riñones aumentados de tamaño debido a la presencia de cistos, la Opción A no se ajusta a los hallazgos de esta paciente, ya que no se menciona la presencia de cistos en los riñones. Además, la creatinina elevada y la anemia no son rasgos comunes de la ADPKD. \n\n- **🔴 Opción B (Incorrecta):** La glomerulonefritis rápidamente evolutiva es una enfermedad inflamatoria de los glomérulos que puede presentarse con síntomas de enfermedad renal aguda, como hipercreatininemia y proteinuria. Sin embargo, la ausencia de microalbuminuria y la hiperparatiroidismo sugieren que la Opción B no es la más probable en este caso. Además, la ecografía que muestra riñones reducidos de tamaño no es consistente con la glomerulonefritis. \n\n- **🔴 Opción D (Incorrecta):** La nefropatía diabética es una enfermedad renal causada por la diabetes mellitus que puede presentarse con hipercreatininemia y proteinuria. Sin embargo, la ausencia de microalbuminuria y la hiperparatiroidismo sugieren que la Opción D no es la más probable en este caso. Además, la ecografía que muestra riñones reducidos de tamaño no es consistente con la nefropatía diabética. \n\nLa perla MIR: La nefropatía tubulointersticial crónica es una enfermedad renal progresiva que puede presentarse con hiperparatiroidismo y riñones reducidos de tamaño. Es importante sospechar de esta enfermedad en pacientes con anemia y hipercreatininemia sin microalbuminuria."
   },
   {
     "id": "q-138",
     "localNumber": 138,
     "category": "General",
-    "stem": "Mujer de 32 años, embarazada de 10 semanas, que presenta en control rutinario bacteriuria asintomática. ¿Cuál de las si guientes medidas le parece más apropiada?:",
+    "stem": "Mujer de 32 años, embarazada de 10 semanas, que presenta en control rutinario bacteriuria asintomática. ¿Cuál de las siguientes medidas le parece más apropiada?",
     "options": [
-      "Vigilancia estrecha y si aparecen síntomas iniciar tratamiento antibiótico empírico con amoxicilina 7-10 días.",
-      "Tratamiento empírico con fosfomicina a dosis única de 3 g y, si persiste la bacteriuria, urocul- tivo para valorar la sensibilidad.",
-      "Tomar muestra para urocultivo y comenzar de inmediato tratamiento empírico con betalactá- micos durante 4-7 días.",
-      "Ecografía para descartar complicaciones, uro- cultivo e iniciar tratamiento empírico con ni- trofurantoína 5-7 días."
+      "Vigilancia estrecha y si aparecen síntomas iniciar tratamiento antibiótico empírico con amoxicilina durante 7-10 días.",
+      "Tratamiento empírico con fosfomicina a dosis única de 3 g y, si persiste la bacteriuria, urocultivo para valorar la sensibilidad.",
+      "Tomar muestra para urocultivo y comenzar de inmediato tratamiento empírico con betalactámicos durante 4-7 días.",
+      "Ecografía para descartar complicaciones, urocultivo e iniciar tratamiento empírico con nitrofurantoína durante 5-7 días."
     ],
     "correctIndex": -1,
-    "explanation": "Pregunta oficial número 138 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La ecografía es necesaria para descartar complicaciones como una infección del tracto urinario aguda grave (ITUAG) en el embarazo, que puede requerir una evaluación y tratamiento más agresivos. Además, el urocultivo permite identificar la causa de la bacteriuria y determinar la sensibilidad a los antibióticos. El tratamiento con nitrofurantoína es adecuado durante el embarazo.\n- **🔴 Opción A (Incorrecta):** Iniciar tratamiento antibiótico empírico sin antes realizar urocultivo puede llevar a una selección de resistencia bacteriana y aumentar el riesgo de complicaciones.\n- **🔴 Opción B (Incorrecta):** La dosis única de fosfomicina no es suficiente para tratar la bacteriuria en el embarazo y puede no ser efectiva en el caso de patógenos resistentes.\n- **🔴 Opción C (Incorrecta):** Tomar muestra para urocultivo sin comenzar de inmediato tratamiento empírico puede permitir la multiplicación de la bacteria y aumentar el riesgo de complicaciones.\nLa perla MIR: En el embarazo, la detección de bacteriuria asintomática requiere una evaluación exhaustiva que incluya ecografía, urocultivo y tratamiento antibiótico adecuado."
   },
   {
     "id": "q-139",
     "localNumber": 139,
     "category": "Nefrología",
-    "stem": "Varón de 73 años que acude a ur gencias por dolor en zona lumbosacra que irradia hacia am- bos flancos e hipogastrio de dos semanas de evo- lución que no cede con ibuprofeno a dosis altas. Tiene antecedentes de hipertensión, aneurisma de aorta infrarrenal y hernia discal L5-S1. Refie- re pérdida de 6 kg de peso en el último mes. Ex- ploración: Regular estado general, palidez mu- cocutánea y puñopercusión renal dudosa bilate- ral, sin otros hallaz gos. Analítica: Hb 8,2 g/dL, VCM 81 fL, leucocitos 6.330 (fórmula normal), glucosa 89 m g/ d L , u r e a 2 2 8 mg/dL, creatinina 5,4 mg/dL, Na 134 mEq/L, K 5,1mEq/L, Ca 11,3 mg/dL, proteínas totales 8,2 g/dL, albúmina 3,0 g/dL, PCR 0,54 m g/dL. Orina: proteínas 30 mg/dL con proteinuria es t i m a d a 1 , 5 g / 2 4 h . S e - dimento de orina: leucoci tos 20-30/campo, eri- trocitos >50/campo. ¿Qué dia gnóstico le parece más probable como causa del fracaso renal?:",
+    "stem": "Varón de 73 años que acude a urgencias por dolor en zona lumbosacra que irradia hacia ambos flancos e hipogastrio de dos semanas de evolución que no cede con ibuprofeno a dosis altas. Tiene antecedentes de hipertensión, aneurisma de aorta infrarrenal y hernia discal L5-S1. Refiere pérdida de 6 kg de peso en el último mes. Exploración: Regular estado general, palidez mucocutánea y puñopercusión renal dudosa bilateral, sin otros hallazgos. Analítica: Hb 8,2 g/dL, VCM 81 fL, leucocitos 6.330 (fórmula normal), glucosa 89 mg/dL, urea 228 mg/dL, creatinina 5,4 mg/dL, Na 134 mEq/L, K 5,1mEq/L, Ca 11,3 mg/dL, proteínas totales 8,2 g/dL, albúmina 3,0 g/dL, PCR 0,54 mg/dL. Orina: proteínas 30 mg/dL con proteinuria estimada 1,5 g/24 h. Se-mento de orina: leucocitos 20-30/campo, eritrocitos >50/campo. ¿Qué diagnóstico le parece más probable como causa del fracaso renal?",
     "options": [
       "Nefropatía intersticial aguda por analgésicos.",
       "Mieloma múltiple.",
       "Pielonefritis aguda.",
-      "Progresión del aneurisma aórtico con afecta- ción bilateral de las arterias renales."
+      "Progresión del aneurisma aórtico con afectación bilateral de las arterias renales."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 139 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El mieloma múltiple es una neoplasia de células plasmáticas que puede causar un síndrome de insuficiencia renal aguda debido a la secreción de paraproteínas que pueden dañar los riñones. La presencia de proteinuria estimada de 1,5 g/24 h y una disminución significativa de la albúmina sérica sugiere un trastorno de proteinuria. Además, la elevación del PCR (0,54 mg/dL) puede indicar la presencia de paraproteínas. Por lo tanto, el mieloma múltiple es una causa probable del fracaso renal en este paciente. \n\n- **🔴 Opción A (Incorrecta):** La nefropatía intersticial aguda por analgésicos es una condición que se asocia con el uso de ciertos medicamentos, como el ibuprofeno. Sin embargo, en este caso, el paciente ya está tomando ibuprofeno a dosis altas y no ha mostrado mejoría, lo que sugiere que esta causa no es la más probable. \n\n- **🔴 Opción C (Incorrecta):** La pielonefritis aguda es una infección del riñón que puede causar insuficiencia renal aguda. Sin embargo, en este caso, el análisis de orina no muestra signos de infección, como leucocitos en la orina o una elevación de la glucosa en la orina. Por lo tanto, esta causa no es la más probable. \n\n- **🔴 Opción D (Incorrecta):** La progresión del aneurisma aórtico con afectación bilateral de las arterias renales puede causar una disminución de la función renal debido a la isquemia renal. Sin embargo, en este caso, el análisis de orina no muestra signos de isquemia renal, como una elevación de la creatinina o una disminución de la albúmina sérica. Por lo tanto, esta causa no es la más probable. \n\nLa perla MIR: Recuerda que el mieloma múltiple es una causa importante de insuficiencia renal aguda en pacientes con proteinuria y elevación del PCR."
   },
   {
     "id": "q-140",
     "localNumber": 140,
     "category": "Nefrología",
-    "stem": "Varón de 45 años que es traído a ur gencias por presentar crisis tónico-clónicas en la vía pública. Se encuentra confundido y con respuestas poco coherentes e imprecisas. R evisando su historia, vemos que está dia gnosticado de esquizofrenia y cuadro depresivo, pero parece que lleva unas semanas sin tomar el tratamiento. Exploración: estuporoso, sin otros hallaz gos. Analítica con hemograma normal, glucosa 98 m g/dL, urea 37 mg/dL, creatinina 0,8 m g/dL, Na 118 mEq/L, K 3,4 mEq/L, Ca 9,7 m g/dL, osmolaridad sérica 252 mOsm/k g, osmolaridad urinaria 78 mOsm/kg, densidad de orina 1002, sedimento normal. ¿Cuál es la causa más probable de sus alteraciones electrolíticas?:",
+    "stem": "Un varón de 45 años que es traído a urgencias por presentar crisis tónico-clónicas en la vía pública. Se encuentra confundido y con respuestas poco coherentes e imprecisas. Revisando su historia, vemos que está diagnosticado de esquizofrenia y cuadro depresivo, pero parece que lleva unas semanas sin tomar el tratamiento. Exploración: estuporoso, sin otros hallazgos. Analítica con hemograma normal, glucosa 98 mg/dL, urea 37 mg/dL, creatinina 0,8 mg/dL, Na 118 mEq/L, K 3,4 mEq/L, Ca 9,7 mg/dL, osmolaridad sérica 252 mOsm/kg, osmolaridad urinaria 78 mOsm/kg, densidad de orina 1002, sedimento normal.",
     "options": [
       "Insuficiencia suprarrenal.",
       "Polidipsia primaria.",
@@ -1943,7 +1943,7 @@
       "Síndrome de secreción inadecuada de ADH."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 140 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La causa más probable de las alteraciones electrolíticas en este paciente es la polidipsia primaria. Esto se debe a que el paciente presenta una crisis tónico-clónica, lo que sugiere un trastorno del equilibrio hidroelectrolítico. Además, el paciente ha dejado de tomar su tratamiento para la esquizofrenia y el cuadro depresivo, lo que puede estar relacionado con un cambio en su patrón de consumo de líquidos. La polidipsia primaria se caracteriza por una ingesta excesiva de líquidos, lo que puede llevar a una dilución de los electrolitos, especialmente el sodio (Na). En este caso, el paciente tiene un nivel de sodio bajo (118 mEq/L), lo que es consistente con la polidipsia primaria.\n\n- **🔴 Opción A (Incorrecta):** La insuficiencia suprarrenal no es la causa más probable de las alteraciones electrolíticas en este paciente. La insuficiencia suprarrenal puede llevar a un aumento en los niveles de sodio y potasio, lo que no se ve en este caso.\n\n- **🔴 Opción C (Incorrecta):** La diabetes insípida no es la causa más probable de las alteraciones electrolíticas en este paciente. La diabetes insípida se caracteriza por una ingesta insuficiente de líquidos, lo que no se ve en este caso.\n\n- **🔴 Opción D (Incorrecta):** El síndrome de secreción inadecuada de ADH no es la causa más probable de las alteraciones electrolíticas en este paciente. El síndrome de secreción inadecuada de ADH se caracteriza por una retención excesiva de líquidos, lo que no se ve en este caso.\n\nLa perla MIR: 'Polidipsia primaria' es un término que se refiere a una ingesta excesiva de líquidos que puede llevar a una dilución de los electrolitos, especialmente el sodio (Na)."
   },
   {
     "id": "q-141",
@@ -1951,13 +1951,13 @@
     "category": "Urología",
     "stem": "En relación con la prostatectomía radical para el tratamiento del cáncer de próstata, señale la respuesta INCORRECTA:",
     "options": [
-      "Los factores relacionados con la continencia después de una prostatectomía radical incluyen edad avanzada, longitud de la uretra y expe- riencia del cirujano.",
+      "Los factores relacionados con la continencia después de una prostatectomía radical incluyen edad avanzada, longitud de la uretra y experiencia del cirujano.",
       "La recuperación de la función eréctil tras la prostatectomía radical se asocia con individuos más jóvenes, calidad de las erecciones antes de la operación y ausencia de daño a los haces neurovasculares.",
       "El alprostadilo puede ayudar a recuperar una función sexual satisfactoria.",
       "Un PSA >0,01 tras una prostatectomía radical es indicativo de recidiva bioquímica."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 141 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Esta opción no es incorrecta en sí misma, ya que la edad avanzada, la longitud de la uretra y la experiencia del cirujano son factores que pueden influir en la continencia después de una prostatectomía radical. Sin embargo, no es la respuesta correcta para la pregunta de señalar la respuesta INCORRECTA. En el contexto de la pregunta, se está solicitando que se identifique la respuesta incorrecta entre las opciones dadas, y esta opción no es claramente incorrecta. Por lo tanto, se considera como una de las opciones correctas en este caso específico, pero no es la respuesta correcta para la pregunta de señalar la respuesta INCORRECTA. Es importante destacar que la pregunta está solicitando que se señale la respuesta INCORRECTA, no que se elija la opción correcta. Por lo tanto, esta opción no es la respuesta correcta para la pregunta de señalar la respuesta INCORRECTA. \n\n- **🔴 Opción B (Incorrecta):** Esta opción no es incorrecta en sí misma, ya que la recuperación de la función eréctil tras la prostatectomía radical se asocia con factores como la edad, la calidad de las erecciones antes de la operación y la ausencia de daño a los haces neurovasculares. Sin embargo, no es la respuesta correcta para la pregunta de señalar la respuesta INCORRECTA. Al igual que la opción A, esta opción no es claramente incorrecta y se considera como una de las opciones correctas en este caso específico. \n\n- **🔴 Opción C (Incorrecta):** Esta opción no es incorrecta en sí misma, ya que el alprostadilo puede ayudar a recuperar una función sexual satisfactoria. Sin embargo, no es la respuesta correcta para la pregunta de señalar la respuesta INCORRECTA. Al igual que las opciones A y B, esta opción no es claramente incorrecta y se considera como una de las opciones correctas en este caso específico. \n\n- **🟢 Opción D (Correcta):** Esta opción es la respuesta correcta para la pregunta de señalar la respuesta INCORRECTA. Un PSA >0,01 tras una prostatectomía radical no es necesariamente indicativo de recidiva bioquímica. Un PSA >0,01 puede ser causado por una variedad de factores, incluyendo la inflamación o la infección, y no siempre se asocia con recidiva del cáncer. Por lo tanto, esta opción es la respuesta correcta para la pregunta de señalar la respuesta INCORRECTA. \n\nLa perla MIR es: Un PSA >0,01 tras una prostatectomía radical no siempre es indicativo de recidiva bioquímica."
   },
   {
     "id": "q-142",
