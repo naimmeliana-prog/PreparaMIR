@@ -927,63 +927,63 @@
     "id": "q-68",
     "localNumber": 68,
     "category": "Infecciosas",
-    "stem": "Mujer de 52 años de edad, a la que tres semanas antes se había diagnosticado una sinusitis aguda maxilar, etmoidal y frontal derechos. Mejoró inicialmente con tratamiento antibiótico, des- congestionante nasal, mucolítico y corticoides tópicos. Acude dos semanas después con un cuadro de fiebre, cefalea intensa, náuseas y malestar general. Para el estudio de posibles complicaciones supuradas intracraneales la prueba complementaria más adecuada es:",
+    "stem": "Mujer de 52 años de edad, a la que tres semanas antes se había diagnosticado una sinusitis aguda maxilar, etmoidal y frontal derechos. Mejoró inicialmente con tratamiento antibiótico, descongestionante nasal, mucolítico y corticoides tópicos. Acude dos semanas después con un cuadro de fiebre, cefalea intensa, náuseas y malestar general. Para el estudio de posibles complicaciones supuradas intracraneales la prueba complementaria más adecuada es:",
     "options": [
       "Tomografía axial computarizada del macizo facial con cortes coronales y axiales.",
-      "Endoscopia nasal con ópticas rígidas o flexi- bles.",
+      "Endoscopia nasal con ópticas rígidas o flexibles.",
       "Resonancia magnética nuclear con gadolinio.",
       "Punción lumbar."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 68 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La resonancia magnética nuclear con gadolinio es la opción más adecuada para el estudio de posibles complicaciones supuradas intracraneales. La sinusitis aguda puede provocar la formación de abscesos intracraneales, y la resonancia magnética nuclear es la prueba de imagen más sensible para detectar lesiones intracraneales. El gadolinio es un contraste que mejora la resolución de la imagen y permite una detección más precisa de lesiones pequeñas.\n\n- **🔴 Opción A (Incorrecta):** La tomografía axial computarizada (TAC) del macizo facial no es la mejor opción para el estudio de posibles complicaciones supuradas intracraneales. Si bien la TAC es útil para evaluar la anatomía del macizo facial, no es lo suficientemente sensible para detectar lesiones intracraneales pequeñas.\n\n- **🔴 Opción B (Incorrecta):** La endoscopia nasal no es adecuada para el estudio de posibles complicaciones supuradas intracraneales. La endoscopia nasal se utiliza para evaluar la nariz y los senos paranasales, pero no es una prueba de imagen que pueda detectar lesiones intracraneales.\n\n- **🔴 Opción D (Incorrecta):** La punción lumbar no es una prueba de imagen, sino una técnica de exploración diagnóstica que implica la inserción de una aguja en la columna vertebral para recoger líquido cefalorraquídeo. No es adecuada para el estudio de posibles complicaciones supuradas intracraneales.\n\nLa perla MIR es: Cuando se sospecha una complicación supurada intracraneal en un paciente con sinusitis aguda, la resonancia magnética nuclear con gadolinio es la prueba de imagen más adecuada para detectar lesiones intracraneales."
   },
   {
     "id": "q-69",
     "localNumber": 69,
     "category": "Ginecología y Obstetricia",
-    "stem": "¿Cuál es el marcador ecográfico más importan- te en el cribado de la preeclampsia del primer trimestre del embarazo?:",
+    "stem": "¿Cuál es el marcador ecográfico más importante en el cribado de la preeclampsia del primer trimestre del embarazo?",
     "options": [
       "Longitud cráneo-caudal.",
       "Grosor placentario.",
       "Índice de pulsatilidad de las arterias uterinas.",
-      "Índice de pulsatilidad de la arteria central de la retina materna. - 11 -"
+      "Índice de pulsatilidad de la arteria central de la retina materna."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 69 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El índice de pulsatilidad de las arterias uterinas es el marcador ecográfico más importante en el cribado de la preeclampsia del primer trimestre del embarazo. Esto se debe a que la disminución de la resistencia vascular materna se asocia con una disminución en la resistencia vascular de las arterias uterinas, lo que se refleja en un aumento en la velocidad de pulso de estas arterias. Esto es un indicador temprano de la preeclampsia, ya que permite una detección precoz de la enfermedad y un tratamiento oportuno para prevenir complicaciones graves para la madre y el feto.\n\n- **🔴 Opción A (Incorrecta):** La longitud cráneo-caudal no es un marcador ecográfico relevante para el cribado de la preeclampsia. La longitud cráneo-caudal se refiere a la longitud del feto, y su medición no se relaciona directamente con la detección de la preeclampsia.\n\n- **🔴 Opción B (Incorrecta):** El grosor placentario puede ser un marcador de preeclampsia, pero no es el más importante. Un grosor placentario aumentado puede ser un signo de preeclampsia, pero también puede estar asociado con otras condiciones como la gestación molar. Por lo tanto, no es un marcador específico y sensible para la preeclampsia.\n\n- **🔴 Opción D (Incorrecta):** El índice de pulsatilidad de la arteria central de la retina materna no es un marcador ecográfico relevante para el cribado de la preeclampsia. Este índice se mide mediante oftalmoscopia y no se puede medir mediante ecografía. Además, no se relaciona directamente con la detección de la preeclampsia.\n\nLa preeclampsia es una condición crítica que puede tener graves consecuencias para la madre y el feto. Por lo tanto, es fundamental identificarla de manera temprana y oportuna. El índice de pulsatilidad de las arterias uterinas es un marcador ecográfico sensible y específico para la preeclampsia, lo que lo convierte en una herramienta valiosa para el cribado de esta condición en el primer trimestre del embarazo."
   },
   {
     "id": "q-70",
     "localNumber": 70,
     "category": "General",
-    "stem": "Mujer de 43 años portadora de dispositivo in- trauterino de levonorgestrel que consulta por falta de descanso nocturno con aparición de calor y palpitaciones. En la analítica destaca T4 libre 10,5 pmol/L (9-19), tirotropina 2,1 mUI/L (0,30-5,00), FSH 95,6 UI/L (1,38-16,7), LH 21 UI/L (2,4-9,3), estradiol < 0,07 nmol/L (0,07 - 1,14). ¿Cuál es el tratamiento más adecuado?:",
+    "stem": "Mujer de 43 años portadora de dispositivo intrauterino de levonorgestrel que consulta por falta de descanso nocturno con aparición de calor y palpitaciones. En la analítica destaca T4 libre 10,5 pmol/L (9-19), tirotropina 2,1 mUI/L (0,30-5,00), FSH 95,6 UI/L (1,38-16,7), LH 21 UI/L (2,4-9,3), estradiol < 0,07 nmol/L (0,07 - 1,14). ¿Cuál es el tratamiento más adecuado?",
     "options": [
       "Benzodiacepinas.",
       "Estrógenos vaginales.",
-      "E s t r ó g e n o s y p r o g e s t á g e n o s o r a l e s e n p a u t a continua.",
+      "Estrógenos y progestágenos orales en pauta continua.",
       "Estrógenos transdérmicos en pauta continua."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 70 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La paciente presenta síntomas de insuficiencia tiroidea (falta de descanso nocturno, calor y palpitaciones), así como un análisis de laboratorio que sugiere un estado de menopausia (FSH elevado y estradiol bajo). La mejor opción de tratamiento es la administración de estrógenos transdérmicos en pauta continua, ya que pueden ayudar a reducir los síntomas de la menopausia y mejorar la calidad de vida de la paciente. Además, esta opción es más adecuada que los estrógenos vaginales, ya que la paciente puede estar en menopausia y requerir un tratamiento más completo. Las benzodiacepinas no son relevantes en este contexto, ya que no se mencionan síntomas de ansiedad o estrés que requieran este tipo de tratamiento. Por último, los estrógenos y progestágenos orales en pauta continua pueden ser útiles en pacientes con síntomas vasomotores, pero no son la mejor opción en este caso, ya que la paciente no presenta síntomas de este tipo y el tratamiento con estrógenos transdérmicos es más adecuado para la menopausia.\n\n- **🔴 Opción A (Incorrecta):** Las benzodiacepinas no son relevantes en este contexto, ya que no se mencionan síntomas de ansiedad o estrés que requieran este tipo de tratamiento. Además, no se menciona ningún síntoma de ansiedad o estrés en la historia clínica de la paciente.\n\n- **🔴 Opción B (Incorrecta):** Los estrógenos vaginales pueden ser útiles en pacientes con síntomas vasomotores, pero no son la mejor opción en este caso, ya que la paciente puede estar en menopausia y requerir un tratamiento más completo. Además, la paciente no presenta síntomas de este tipo en la historia clínica.\n\n- **🔴 Opción C (Incorrecta):** Los estrógenos y progestágenos orales en pauta continua pueden ser útiles en pacientes con síntomas vasomotores, pero no son la mejor opción en este caso, ya que la paciente no presenta síntomas de este tipo y el tratamiento con estrógenos transdérmicos es más adecuado para la menopausia. Además, no se menciona la necesidad de progestágenos en esta paciente, ya que no se menciona ningún síntoma de endometrio o cáncer de endometrio.\n\nLa perla MIR es que en la menopausia, la administración de estrógenos transdérmicos en pauta continua puede ser útil para reducir los síntomas y mejorar la calidad de vida de la paciente. Es importante considerar la historia clínica y el análisis de laboratorio de la paciente para elegir el tratamiento más adecuado."
   },
   {
     "id": "q-71",
     "localNumber": 71,
     "category": "General",
-    "stem": "En relación con el estudio prenatal de aneu- ploidías mediante el cribado combinado del primer trimestre ¿Cuál es la afirmación correc- ta?:",
+    "stem": "En relación con el estudio prenatal de aneuploidías mediante el cribado combinado del primer trimestre ¿Cuál es la afirmación correcta?",
     "options": [
-      "El valor de la fracción libre de la gonadotro- pina coriónica se encuentra disminuido en la trisomía 21.",
+      "El valor de la fracción libre de la gonadotropina coriónica se encuentra disminuido en la trisomía 21.",
       "Se realiza mediante la combinación de datos analíticos y ecográficos.",
-      "Está indicada en el primer trimestre en pobla- ción gestante de riesgo.",
-      "La transonolucencia nucal debe medirse entre las 11 y 14 semanas, mediante la realización de un corte sagital y con el embrión en posi- ción de hiperflexión."
+      "Está indicada en el primer trimestre en población gestante de riesgo.",
+      "La transonolucencia nucal debe medirse entre las 11 y 14 semanas, mediante la realización de un corte sagital y con el embrión en posición de hiperflexión."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 71 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El cribado combinado del primer trimestre es un método de detección de aneuploidías que utiliza la combinación de datos analíticos y ecográficos. Esto incluye la medida de la fracción libre de la gonadotropina coriónica (hCG), la medida de la transonolucencia nucal (TNT) y la realización de una ecografía para evaluar la formación de la estructura cerebral. La combinación de estos datos permite una detección más precisa de aneuploidías como la trisomía 21. Por lo tanto, esta opción es la correcta porque describe con precisión el método de cribado combinado del primer trimestre.\n\n- **🔴 Opción A (Incorrecta):** Esta afirmación es incorrecta porque el valor de la fracción libre de la gonadotropina coriónica se encuentra aumentado en la trisomía 21, no disminuido. Esto se debe a que la producción de hCG es mayor en embarazos con aneuploidías como la trisomía 21.\n\n- **🔴 Opción C (Incorrecta):** Esta afirmación es incorrecta porque el cribado combinado del primer trimestre no está indicado exclusivamente en población gestante de riesgo. En realidad, se recomienda realizar este cribado en todas las mujeres embarazadas, independientemente de su edad o historial médico.\n\n- **🔴 Opción D (Incorrecta):** Esta afirmación es incorrecta porque la transonolucencia nucal debe medirse entre las 11 y 14 semanas, pero no necesariamente mediante la realización de un corte sagital. La medición de la TNT se realiza mediante un ultrasonido que mide la cantidad de líquido que hay en el cuello del feto. El embrión no necesita estar en posición de hiperflexión para realizar esta medición.\n\n**Perla MIR:** La clave para acertar en este tipo de preguntas es recordar que el cribado combinado del primer trimestre es un método que combina datos analíticos y ecográficos para detectar aneuploidías. Esto incluye la medida de la fracción libre de la gonadotropina coriónica, la medida de la transonolucencia nucal y la realización de una ecografía para evaluar la formación de la estructura cerebral."
   },
   {
     "id": "q-72",
     "localNumber": 72,
     "category": "Ginecología y Obstetricia",
-    "stem": "¿Cuál de los siguiente s NO constituye un crite- rio de selección para la elección de la vía del parto en la presentación de nalgas durante el inicio del trabajo de parto?:",
+    "stem": "¿Cuál de los siguientes no constituye un criterio de selección para la elección de la vía del parto en la presentación de nalgas durante el inicio del trabajo de parto?",
     "options": [
       "Tipo de presentación podálica (nalgas puras, completas o incompletas).",
       "Medida del diámetro biparietal fetal.",
@@ -991,7 +991,7 @@
       "Actitud de la cabeza fetal."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 72 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La Medida del diámetro biparietal fetal no es un criterio de selección para la elección de la vía del parto en la presentación de nalgas durante el inicio del trabajo de parto. Esto se debe a que el diámetro biparietal fetal se refiere al tamaño del cráneo del bebé y no tiene relación directa con la vía del parto. La elección de la vía del parto se basa en factores como el tipo de presentación podálica, la actitud de la cabeza fetal y la estabilidad del bebé en el útero materno. Por lo tanto, la opción B es la correcta ya que no es un criterio relevante para la elección de la vía del parto en este contexto. \n\n- **🔴 Opción A (Incorrecta):** El tipo de presentación podálica (nalgas puras, completas o incompletas) es un criterio importante para la elección de la vía del parto en la presentación de nalgas durante el inicio del trabajo de parto. Esto se debe a que el tipo de presentación podálica puede influir en la probabilidad de éxito de la vía del parto y la seguridad del bebé. Por lo tanto, la opción A es incorrecta ya que es un criterio relevante para la elección de la vía del parto en este contexto. \n\n- **🔴 Opción C (Incorrecta):** El peso fetal no es un criterio directo para la elección de la vía del parto en la presentación de nalgas durante el inicio del trabajo de parto. Sin embargo, en algunos casos, el peso del bebé puede influir en la probabilidad de éxito de la vía del parto y la seguridad del bebé. Por lo tanto, si bien el peso fetal no es un criterio principal, puede tener algún impacto en la decisión. \n\n- **🔴 Opción D (Incorrecta):** La actitud de la cabeza fetal es un criterio importante para la elección de la vía del parto en la presentación de nalgas durante el inicio del trabajo de parto. Esto se debe a que la actitud de la cabeza fetal puede influir en la probabilidad de éxito de la vía del parto y la seguridad del bebé. Por lo tanto, la opción D es incorrecta ya que es un criterio relevante para la elección de la vía del parto en este contexto. \n\nLa elección de la vía del parto en la presentación de nalgas durante el inicio del trabajo de parto se basa en factores como el tipo de presentación podálica, la actitud de la cabeza fetal y la estabilidad del bebé en el útero materno. La Medida del diámetro biparietal fetal no es un criterio relevante en este contexto, por lo que la opción B es la correcta."
   },
   {
     "id": "q-73",
