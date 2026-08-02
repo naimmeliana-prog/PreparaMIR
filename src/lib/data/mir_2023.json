@@ -2831,49 +2831,49 @@
     "id": "q-203",
     "localNumber": 203,
     "category": "General",
-    "stem": "En un paciente c on c áncer de colon me tastásico ¿cuál de las siguientes determinaciones moleculares se deben realizar antes de comenzar el tratamiento sistémico?:",
+    "stem": "En un paciente con cáncer de colon metastásico, ¿cuál de las siguientes determinaciones moleculares se deben realizar antes de comenzar el tratamiento sistémico?",
     "options": [
-      "EGFR, NR AS, KR AS, p roteínas re paradoras, HER2.",
+      "EGFR, NRAS, KRAS, proteínas reparadoras, HER2.",
       "NRAS, KRAS, BRAF, proteínas reparadoras.",
-      "EGFR, NRAS, KR AS, BRAF, proteínas reparadoras.",
-      "NRAS, KRAS, B RAF, p roteínas re paradoras, PI3K. (--MEDICINA-0--32/36) Pagina: 30 de 34"
+      "EGFR, NRAS, KRAS, BRAF, proteínas reparadoras.",
+      "NRAS, KRAS, BRAF, proteínas reparadoras, PI3K."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 203 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Antes de comenzar el tratamiento sistémico en un paciente con cáncer de colon metastásico, es importante determinar la presencia de mutaciones en genes como EGFR, NRAS, KRAS, proteínas reparadoras y HER2. Estas mutaciones pueden influir en la respuesta al tratamiento y la elección del medicamento. Por ejemplo, la presencia de mutaciones en EGFR puede hacer que el paciente sea candidato a tratamientos específicos como la terapia de inhibidores de EGFR. La detección de estas mutaciones es fundamental para personalizar el tratamiento y mejorar los resultados del paciente. Además, la presencia de mutaciones en NRAS, KRAS y BRAF puede influir en la elección del tratamiento y la probabilidad de respuesta. En resumen, la detección de estas mutaciones es crucial antes de comenzar el tratamiento sistémico en pacientes con cáncer de colon metastásico.\n\n- **🔴 Opción B (Incorrecta):** Esta opción no es adecuada porque omite el análisis de EGFR y HER2, que son genes importantes para determinar la presencia de mutaciones en pacientes con cáncer de colon metastásico. Además, la inclusión de PI3K en esta opción es incorrecta, ya que no es un gen que se deba analizar de manera rutinaria en pacientes con cáncer de colon metastásico.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es similar a la opción A, pero incluye PI3K, que no es un gen que se deba analizar de manera rutinaria en pacientes con cáncer de colon metastásico. Además, la inclusión de PI3K puede hacer que la detección de otras mutaciones sea menos efectiva.\n\n- **🔴 Opción D (Incorrecta):** Esta opción omite el análisis de EGFR y HER2, que son genes importantes para determinar la presencia de mutaciones en pacientes con cáncer de colon metastásico. Además, la inclusión de PI3K en esta opción es incorrecta, ya que no es un gen que se deba analizar de manera rutinaria en pacientes con cáncer de colon metastásico.\n\n**Perla MIR:** 'Personalizar el tratamiento para el cáncer de colon metastásico depende de la detección de mutaciones en genes como EGFR, NRAS, KRAS, proteínas reparadoras y HER2'."
   },
   {
     "id": "q-204",
     "localNumber": 204,
     "category": "Neurología",
-    "stem": "Hombre de 4 5 años que en las últimas 6 semanas presenta astenia, pér dida de 5 kg de peso y artromialgias de predominio en región proximal de ambas extremidades inferiores, junto a hipoestesia asimétrica en manos y pies. Además, en los últimos 3 días des arrolla una livedo reti cularis y va rios nódulos subcutáneos, eritematosos y dolorosos, en cara anterior de am bas piernas. E n la analítica destaca VSG 90 mm/h (normal <20) y proteína C reactiva 12 m g/dl (no rmal < 1 ,0). Radiografía de tórax norm al. Electroneuromio grafía (ENMG): hallazgos compatibles co n mononeuritis múltiple. Teniendo e n cuenta el di agnóstico m ás probable, marque la opción correcta:",
+    "stem": "Hombre de 45 años que en las últimas 6 semanas presenta astenia, pérdida de 5 kg de peso y artralgias de predominio en región proximal de ambas extremidades inferiores, junto a hipoestesia asimétrica en manos y pies. Además, en los últimos 3 días desarrolla una livedo reticularis y varios nódulos subcutáneos, eritematosos y dolorosos, en cara anterior de ambas piernas. En la analítica destaca VSG 90 mm/h (normal <20) y proteína C reactiva 12 mg/dl (normal < 1,0). Radiografía de tórax normal. Electroneuromiografía (ENMG): hallazgos compatibles con mononeuritis múltiple. Teniendo en cuenta el diagnóstico más probable, marque la opción correcta:",
     "options": [
-      "A d iferencia de lo objetivado en el p aciente, la alteración de la ENMG más característica es una neuropatía de fibra fina.",
-      "Una biopsia de múscu lo no permitiría demostrar histológicamente la enfermedad.",
-      "A p esar de l a sos pecha di agnóstica, no cumple criterios clasificatorios de la enfermedad, por lo que no es posible diagnosticarle.",
-      "Existen p acientes qu e cump len los criterio s clasificatorios de la enfermedad que presentan mutaciones c on pérdida de función e n el ge n CECR1 que codifica la adenosina desaminasa 2."
+      "Diferencia de lo objetivado en el paciente, la alteración de la ENMG más característica es una neuropatía de fibra fina.",
+      "Una biopsia de músculo no permitiría demostrar histológicamente la enfermedad.",
+      "A pesar de la sospecha diagnóstica, no cumple criterios clasificatorios de la enfermedad, por lo que no es posible diagnosticarle.",
+      "Existen pacientes que cumplen los criterios clasificatorios de la enfermedad que presentan mutaciones con pérdida de función en el gen CECR1 que codifica la adenosina desaminasa 2."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 204 del examen MIR de la convocatoria FSE."
+    "explanation": "## Diagnóstico de la Enfermedad de Churg-Strauss (Eosinofilia-Granulomatosis con Poliangiitis, EGPA)\n\n### **🟢 Opción A (Correcta):**\nLa alteración de la ENMG más característica en la enfermedad de Churg-Strauss es una neuropatía de fibra fina, que se debe a la inflamación de los nervios periféricos. Esta alteración es compatible con la presencia de mononeuritis múltiple, que se caracteriza por la inflamación de varios nervios periféricos.\n\n### **🔴 Opción B (Incorrecta):**\nUna biopsia de músculo no es un método diagnóstico útil en la enfermedad de Churg-Strauss, ya que la enfermedad afecta principalmente a los nervios y los vasos sanguíneos. La biopsia de músculo puede mostrar cambios histológicos no específicos, pero no es capaz de demostrar la enfermedad con certeza.\n\n### **🔴 Opción C (Incorrecta):**\nA pesar de la sospecha diagnóstica, el paciente cumple con los criterios clasificatorios de la enfermedad de Churg-Strauss, que incluyen la presencia de eosinofilia, granulomatosis, angiitis y ausencia de otros diagnósticos más probables. Por lo tanto, es posible diagnosticarle la enfermedad con certeza.\n\n### **🔴 Opción D (Incorrecta):**\nExisten pacientes que cumplen con los criterios clasificatorios de la enfermedad de Churg-Strauss que presentan mutaciones con pérdida de función en el gen CECR1 que codifica la adenosina desaminasa 2. Sin embargo, estas mutaciones no son responsables de la enfermedad en la mayoría de los casos, y la mayoría de los pacientes con enfermedad de Churg-Strauss no tienen estas mutaciones.\n\n### Perla MIR:\nLa enfermedad de Churg-Strauss se caracteriza por la presencia de eosinofilia, granulomatosis, angiitis y ausencia de otros diagnósticos más probables. La alteración de la ENMG más característica es una neuropatía de fibra fina, y la biopsia de músculo no es un método diagnóstico útil."
   },
   {
     "id": "q-205",
     "localNumber": 205,
     "category": "General",
-    "stem": "Paciente de 26 años sin antecedentes de interés que consulta p or engrosamiento y cambio de col or de la par te distal de la uña del dedo gordo del pie derecho. A la expl oración se observa una mu y probable onicomicosis de la uña , sin otras lesio nes o uñas a fectadas. Sobre e sta situación clínica es cierto que:",
+    "stem": "Paciente de 26 años sin antecedentes de interés que consulta por engrosamiento y cambio de color de la parte distal de la uña del dedo gordo del pie derecho. A la exploración se observa una mancha probable onicomicosis de la uña, sin otras lesiones o uñas afectadas. Sobre esta situación clínica es cierto que:",
     "options": [
-      "El tratamiento con amorolfina tópica al 5 % dos veces por se mana por un periodo de 3 meses suele ser efectivo.",
-      "Si la lesión af ectara la matr iz ungu eal el tratamiento debe p rolongarse hast a l os 6- 9 meses.",
+      "El tratamiento con amorolfina tópica al 5% dos veces por semana por un periodo de 3 meses suele ser efectivo.",
+      "Si la lesión afectara la matriz ungueal, el tratamiento debe prolongarse hasta los 6-9 meses.",
       "El tratamiento oral de elección en este caso es la griseofulvina.",
-      "En casos de resistencia una opción es el tratamiento con itraconazol oral 200 mg cada 24 horas durante 12 semanas."
+      "En casos de resistencia, una opción es el tratamiento con itraconazol oral 200 mg cada 24 horas durante 12 semanas."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 205 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El tratamiento con amorolfina tópica al 5% es una opción efectiva para la onicomicosis, especialmente en casos leves. La aplicación dos veces por semana durante 3 meses puede ser suficiente para controlar la infección. La amorolfina es un agente antifúngico que se absorbe a través de la uña, permitiendo una acción directa contra el hongo causante de la infección. Esta opción es adecuada para casos de onicomicosis sin complicaciones significativas.\n\n- **🔴 Opción B (Incorrecta):** Si la lesión afectara la matriz ungueal, el tratamiento no debe prolongarse hasta los 6-9 meses. En realidad, el tratamiento con amorolfina tópica puede ser efectivo incluso en casos de lesiones más profundas, siempre y cuando se aplique correctamente y se sigan las instrucciones del médico. La prolongación del tratamiento no es necesariamente una indicación de que la lesión afecte la matriz ungueal.\n\n- **🔴 Opción C (Incorrecta):** El tratamiento oral de elección en este caso no es la griseofulvina. Si bien la griseofulvina es un antifúngico oral efectivo, no es la primera opción para la onicomicosis. La amorolfina tópica es una opción más adecuada y efectiva para la mayoría de los casos de onicomicosis. La griseofulvina puede ser considerada en casos más graves o resistentes a otros tratamientos.\n\n- **🔴 Opción D (Incorrecta):** En casos de resistencia, no es necesario considerar el tratamiento con itraconazol oral 200 mg cada 24 horas durante 12 semanas. La resistencia a un tratamiento puede ser un indicador de que la infección sea más grave o que el hongo sea resistente a varios antifúngicos. En estos casos, el tratamiento con itraconazol puede ser considerado, pero no es la primera opción y debe ser discutido con un médico antes de iniciar el tratamiento. La elección del tratamiento depende de la gravedad de la infección y de la experiencia del médico.\n\nLa perla MIR: La onicomicosis es una infección fúngica de la uña que puede ser tratada con amorolfina tópica, especialmente en casos leves. Es importante seguir las instrucciones del médico y aplicar el tratamiento correctamente para evitar complicaciones y lograr un resultado óptimo."
   },
   {
     "id": "q-206",
     "localNumber": 206,
     "category": "Cardiología",
-    "stem": "Mujer de 49 años di agnosticada de dislipemia. Exfumadora hace 3 años y no cons ume alcoh ol. Exploración física: presión arterial 129/81 mmHg, electrocardiograma, retino grafía y exploración de pies normales. Índice de m asa corporal 28 kg/m2. Analítica: glucemia en ayunas 103 mg/dl, colesterol total 1 83 mg/dl, co lesterol L DL 104 m g/dl, colesterol HDL 42 m g/dl, tri glicéridos 186 mg/dl. Filtrado glomerular estimado (CKD-EPI) 55 ml/min/1,7 2m2 , cociente albúmina/creatinina en orina 4 mg/g. ¿Qué riesgo cardiovascular presenta según las guí as europeas de pre vención cardiovascular?:",
+    "stem": "Mujer de 49 años diagnostada de dislipemia. Exfumadora hace 3 años y no consume alcohol. Exploración física: presión arterial 129/81 mmHg, electrocardiograma, retinografía y exploración de pies normales. Índice de masa corporal 28 kg/m2. Analítica: glucemia en ayunas 103 mg/dl, colesterol total 183 mg/dl, colesterol LDL 104 mg/dl, colesterol HDL 42 mg/dl, triglicéridos 186 mg/dl. Filtrado glomerular estimado (CKD-EPI) 55 ml/min/1.72 m2, cociente albúmina/creatinina en orina 4 mg/g. ¿Qué riesgo cardiovascular presenta según las guías europeas de prevención cardiovascular?",
     "options": [
       "Riesgo bajo.",
       "Riesgo moderado.",
@@ -2881,21 +2881,21 @@
       "Riesgo muy alto."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 206 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La paciente presenta un riesgo moderado de enfermedad cardiovascular según las guías europeas. Esto se debe a que tiene dislipemia, glucemia elevada y un índice de masa corporal alto, pero no presenta otros factores de riesgo importantes como hipertensión o tabaquismo activo. El filtrado glomerular estimado es ligeramente reducido, pero no es anormal. El cociente albúmina/creatinina en orina es normal, lo que sugiere que no hay daño renal significativo. Por lo tanto, se clasifica como riesgo moderado. \n\n- **🔴 Opción B (Incorrecta):** Esta opción no es correcta porque la paciente no presenta un riesgo bajo de enfermedad cardiovascular. Aunque no tiene hipertensión ni tabaquismo activo, tiene dislipemia y glucemia elevada, lo que aumenta su riesgo. \n\n- **🔴 Opción C (Incorrecta):** Esta opción no es correcta porque la paciente no presenta un riesgo alto de enfermedad cardiovascular. Aunque tiene dislipemia y glucemia elevada, no tiene hipertensión ni tabaquismo activo, lo que disminuye su riesgo. El filtrado glomerular estimado es ligeramente reducido, pero no es anormal. \n\n- **🔴 Opción D (Incorrecta):** Esta opción no es correcta porque la paciente no presenta un riesgo muy alto de enfermedad cardiovascular. Aunque tiene dislipemia y glucemia elevada, no tiene hipertensión ni tabaquismo activo, lo que disminuye su riesgo. El filtrado glomerular estimado es ligeramente reducido, pero no es anormal. \n\nLa perla MIR es: 'La evaluación del riesgo cardiovascular debe considerar múltiples factores, incluyendo la presencia de dislipemia, glucemia elevada, hipertensión, tabaquismo activo, índice de masa corporal alto y daño renal. Cada factor debe ser evaluado individualmente y considerado en conjunto para determinar el riesgo total'."
   },
   {
     "id": "q-207",
     "localNumber": 207,
     "category": "Nefrología",
-    "stem": "Mujer de 67 años exfumadora con antecedentes de hipertensión arterial, diabetes mellitus tipo 2 de 10 años de e volución con microalbuminuria y obesidad es enviada a su co nsulta. Ap orta un análisis con una hemo globlina glicada de 1 0 %, colesterol total de 210 m g/dL, co lesterol LDL no calculable, colestero l HDL de 30 mg/dL y unos triglicéridos de 496 mg/dL. Función renal normal. Respecto a la hipertrigliceridemia, s eñale la respuesta correcta:",
+    "stem": "Mujer de 67 años exfumadora con antecedentes de hipertensión arterial, diabetes mellitus tipo 2 de 10 años de evolución con microalbuminuria y obesidad es enviada a su consulta. Aporta un análisis con una hemoglobina glicada de 10%, colesterol total de 210 mg/dL, colesterol LDL no calculable, colesterol HDL de 30 mg/dL y unos triglicéridos de 496 mg/dL. Función renal normal. Respecto a la hipertrigliceridemia, señale la respuesta correcta:",
     "options": [
-      "El primer es calón es conseguir un control adecuado de s u diabetes pa ra corre gir la hipertrigliceridemia y añadir una estatina.",
-      "Aunque el control de la diabetes es necesario, no influye en la h ipertrigliceridemia. El primer escalón es añadir ácidos grasos omega-3.",
-      "La primera opción de trata miento es combina r gemfibrozilo con una estatina.",
-      "La primera opción es i niciar tratamien to co n fibratos."
+      "El primer escalón es conseguir un control adecuado de su diabetes para corregir la hipertrigliceridemia y añadir una estatina.",
+      "Aunque el control de la diabetes es necesario, no influye en la hipertigliceridemia. El primer escalón es añadir ácidos grasos omega-3.",
+      "La primera opción de tratamiento es combinar gemfibrozilo con una estatina.",
+      "La primera opción es iniciar tratamiento con fibratos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 207 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La hipertrigliceridemia es un problema común en pacientes con diabetes tipo 2, ya que la resistencia a la insulina puede afectar la capacidad del hígado para metabolizar los triglicéridos. En este caso, la paciente tiene una hemoglobina glicada de 10%, lo que indica que su control de la diabetes no es óptimo. Por lo tanto, el primer paso para corregir la hipertrigliceridemia es mejorar el control de la diabetes, lo que puede ser logrado mediante ajustes en la terapia farmacológica y cambios en la dieta. Una vez que se haya logrado un control adecuado de la diabetes, se puede considerar la adición de una estatina para ayudar a reducir los niveles de colesterol LDL y triglicéridos. **🔴 Opción B (Incorrecta):** Aunque el control de la diabetes es importante, no es la causa directa de la hipertrigliceridemia. La adición de ácidos grasos omega-3 puede ser beneficioso para la salud cardiovascular en general, pero no es el primer paso para corregir la hipertrigliceridemia en un paciente con diabetes tipo 2. **🔴 Opción C (Incorrecta):** La combinación de gemfibrozilo con una estatina puede ser efectiva para reducir los niveles de triglicéridos, pero no es la primera opción de tratamiento en este caso. El gemfibrozilo es un fibrato que puede causar efectos secundarios como aumento de la creatinina sanguínea y alteraciones en la función renal, lo que puede ser un problema en un paciente con microalbuminuria. **🔴 Opción D (Incorrecta):** La adición de fibratos puede ser beneficioso para reducir los niveles de triglicéridos, pero no es la primera opción de tratamiento en este caso. Los fibratos pueden causar efectos secundarios como aumento de la creatinina sanguínea y alteraciones en la función renal, lo que puede ser un problema en un paciente con microalbuminuria."
   },
   {
     "id": "q-208",
