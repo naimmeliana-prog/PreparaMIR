@@ -437,35 +437,35 @@
     "id": "q-32",
     "localNumber": 32,
     "category": "General",
-    "stem": "En relación c on el pote ncial de acción cardiac o, señale la afirmación correcta:",
+    "stem": "En relación con el potencial de acción cardíaco, señale la afirmación correcta:",
     "options": [
-      "Las cél ulas auto máticas tienen un po tencial d e acción lento y calciodependiente.",
-      "El potencial de reposo de las células automáticas es más negativo que el de las cél ulas del miocardio ventricular.",
-      "Las células automáticas tienen canales rápidos de sodio.",
-      "Los can ales If se sitú an p redominantemente en las células del miocardio ventricular."
+      "Las células autónomas tienen un potencial de acción lento y calciodependiente.",
+      "El potencial de reposo de las células autónomas es más negativo que el de las células del miocardio ventricular.",
+      "Las células autónomas tienen canales rápidos de sodio.",
+      "Los canales If se sitúan predominantemente en las células del miocardio ventricular."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 32 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Las células autónomas, también conocidas como células pacificadoras, tienen un potencial de acción lento y calciodependiente. Esto se debe a que su despolarización se genera a través de la apertura de canales de calcio a través de la membrana plasmática, lo que provoca una respuesta lenta y gradual en comparación con las células musculares cardíacas, que tienen un potencial de acción rápido y dependiente de sodio. La respuesta lenta de las células autónomas se debe a la necesidad de acumular suficiente calcio en la célula para generar una despolarización efectiva. Esto es crucial para la regulación del ritmo cardíaco y la coordinación de las contracciones cardíacas. Por lo tanto, esta afirmación es correcta desde el punto de vista clínico.\n\n- **🔴 Opción B (Incorrecta):** Esta afirmación es incorrecta porque el potencial de reposo de las células autónomas es en realidad más positivo que el de las células del miocardio ventricular. El potencial de reposo es el voltaje eléctrico que una célula tiene cuando no está generando una acción eléctrica. En el caso de las células autónomas, su potencial de reposo es de aproximadamente -55 a -60 mV, mientras que en las células del miocardio ventricular es de aproximadamente -80 a -85 mV. Esto se debe a la diferente composición y función de las células autónomas en comparación con las células musculares cardíacas.\n\n- **🔴 Opción C (Incorrecta):** Esta afirmación es incorrecta porque las células autónomas no tienen canales rápidos de sodio. Los canales rápidos de sodio son responsables de la rápida despolarización de las células musculares cardíacas, lo que lleva a la contracción cardíaca. En las células autónomas, la despolarización se genera a través de la apertura de canales de calcio, no de sodio. Esto se debe a la necesidad de una respuesta lenta y gradual para regular el ritmo cardíaco y la coordinación de las contracciones cardíacas.\n\n- **🔴 Opción D (Incorrecta):** Esta afirmación es incorrecta porque los canales If se sitúan predominantemente en las células del miocardio ventricular, no en las células autónomas. Los canales If son un tipo de canal de calcio que se abre en respuesta a la despolarización y es crucial para la generación de la acción cardíaca en las células musculares cardíacas. En las células autónomas, la despolarización se genera a través de la apertura de canales de calcio, pero no a través de los canales If.\n\nLa perla MIR: 'Las células autónomas tienen un potencial de acción lento y calciodependiente, lo que las diferencia de las células musculares cardíacas'."
   },
   {
     "id": "q-33",
     "localNumber": 33,
     "category": "General",
-    "stem": "Una de las siguientes enfermedades se produce por hipermetilación de una expansión de tripletes CGG en la región promotora:",
+    "stem": "Una de las siguientes enfermedades se produce por hipermetilación de una expansión de tripletes CGG en la región promotora",
     "options": [
-      "Enfermedad de Hungtinton.",
+      "Enfermedad de Huntington.",
       "Ataxia de Friedreich.",
       "Síndrome del cromosoma X frágil.",
       "Distrofia miotónica tipo 1."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 33 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La Enfermedad de Huntington se caracteriza por una expansión de tripletes CGG en el gen HTT, que se encuentra en la región promotora. Esta expansión de tripletes CGG conduce a la hipermetilación del promotor, lo que resulta en una disminución de la expresión génica y la aparición de la enfermedad. La hipermetilación de la expansión de tripletes CGG es un mecanismo clave en la patogénesis de la Enfermedad de Huntington. Por lo tanto, la Enfermedad de Huntington es la respuesta correcta en este caso.\n\n- **🔴 Opción B (Incorrecta):** La Ataxia de Friedreich se caracteriza por una expansión de tripletes GAA en el gen FXN, que se encuentra en la región intrónica. Esta expansión de tripletes GAA conduce a la hiperuricemia y la aparición de la enfermedad. Sin embargo, la Ataxia de Friedreich no se relaciona con la hipermetilación de una expansión de tripletes CGG en la región promotora.\n\n- **🔴 Opción C (Incorrecta):** El Síndrome del cromosoma X frágil se caracteriza por una expansión de tripletes CGG en el gen FMR1, que se encuentra en la región intrónico. Esta expansión de tripletes CGG conduce a la hipermetilación del gen FMR1, lo que resulta en la silenciación de la expresión génica y la aparición del síndrome. Sin embargo, el Síndrome del cromosoma X frágil no se relaciona con la hipermetilación de una expansión de tripletes CGG en la región promotora.\n\n- **🔴 Opción D (Incorrecta):** La Distrofia miotónica tipo 1 se caracteriza por una expansión de tripletes CTG en el gen DMPK, que se encuentra en la región intrónica. Esta expansión de tripletes CTG conduce a la hipermetilación del gen DMPK, lo que resulta en la disminución de la expresión génica y la aparición de la enfermedad. Sin embargo, la Distrofia miotónica tipo 1 no se relaciona con la hipermetilación de una expansión de tripletes CGG en la región promotora.\n\nLa respuesta correcta es la Enfermedad de Huntington, que se caracteriza por una expansión de tripletes CGG en el gen HTT y hipermetilación de la región promotora."
   },
   {
     "id": "q-34",
     "localNumber": 34,
     "category": "General",
-    "stem": "Un rasgo que aparece e n todas las generaciones, tanto e n varones como en m ujeres, per o los varones no lo transmiten a sus hi jos v arones, se corresponde con uno de los siguientes patrones de herencia:",
+    "stem": "Un rasgo que aparece en todas las generaciones, tanto en varones como en mujeres, pero los varones no lo transmiten a sus hijos varones, se corresponde con uno de los siguientes patrones de herencia.",
     "options": [
       "Autosómica dominante.",
       "Ligada al sexo dominante.",
@@ -473,35 +473,35 @@
       "Mitocondrial."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 34 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La respuesta correcta es la herencia ligada al sexo recesiva. Esto se debe a que los rasgos ligados al sexo recesivos son aquellos que se expresan en varones, pero no se transmiten a sus hijos varones, ya que los genes recesivos son ocultados por los genes dominantes en el cromosoma X. Sin embargo, si una mujer portadora del rasgo recesivo tiene un hijo varón, tiene un 50% de probabilidad de transmitirle el rasgo recesivo, ya que solo tiene un cromosoma X. Por otro lado, si tiene una hija, hay una probabilidad del 50% de que la hija sea portadora del rasgo recesivo, y una probabilidad del 50% de que lo herede de manera expresiva. Por lo tanto, la herencia ligada al sexo recesiva se manifiesta en varones, pero no se transmite a sus hijos varones de manera directa. Sin embargo, si una mujer portadora del rasgo recesivo tiene una hija, esta hija tiene una probabilidad del 50% de heredar el rasgo recesivo y expresarlo en su descendencia varonil. Por lo tanto, la herencia ligada al sexo recesiva se manifiesta en varones, pero no se transmite a sus hijos varones de manera directa, sino que se transmite a través de las hembras portadoras del rasgo recesivo. Esto es lo que ocurre con la enfermedad de Duchenne, una enfermedad neuromuscular que afecta a los niños y que se hereda de manera ligada al sexo recesiva, ya que se expresa en varones, pero no se transmite a sus hijos varones de manera directa, sino que se transmite a través de las hembras portadoras del rasgo recesivo. Por lo tanto, la herencia ligada al sexo recesiva es la respuesta correcta a la pregunta. \n\n- **🔴 Opción B (Incorrecta):** La herencia ligada al sexo dominante es incorrecta porque los rasgos ligados al sexo dominante se expresan en mujeres, no en varones. Los genes dominantes en el cromosoma X pueden ocultar a los genes recesivos en las hembras, pero no se expresan en varones, ya que tienen dos cromosomas X y un cromosoma Y. Por lo tanto, la herencia ligada al sexo dominante no se manifiesta en varones. \n\n- **🔴 Opción C (Incorrecta):** La herencia autosómica dominante es incorrecta porque los rasgos autosómicos dominantes se expresan en ambos sexos y se transmiten a la mitad de los hijos varones y hembras. Los genes autosómicos dominantes se heredan en forma de alelos, y cada individuo puede ser portador de uno o dos alelos. Si un individuo tiene un alelo dominante, se expresará el rasgo dominante, independientemente de su sexo. Por lo tanto, la herencia autosómica dominante no se manifiesta en varones de manera exclusiva. \n\n- **🔴 Opción D (Incorrecta):** La herencia mitocondrial es incorrecta porque los rasgos heredados a través de la línea materna se expresan en ambos sexos y se transmiten a la mitad de los hijos varones y hembras. Los genes mitocondriales se heredan a través de la línea materna y se expresan en ambos sexos. Por lo tanto, la herencia mitocondrial no se manifiesta en varones de manera exclusiva. \n\nLa perla MIR es: 'La herencia ligada al sexo recesiva es el patrón de herencia que se manifiesta en varones, pero no se transmite a sus hijos varones de manera directa, sino que se transmite a través de las hembras portadoras del rasgo recesivo.'"
   },
   {
     "id": "q-35",
     "localNumber": 35,
     "category": "General",
-    "stem": "Las células tumorales desarrollan diferentes mecanismos diri gidos a evitar la a ctivación de la respuesta inmunitaria antitum oral. Entre las inmunoterapias an titumorales diri gidas a contrarrestar estos mec anismos de evasión destaca:",
+    "stem": "Las células tumorales desarrollan diferentes mecanismos dirigidos a evitar la activación de la respuesta inmunitaria antitumoral. Entre las inmunoterapias antitumorales dirigidas a contrarrestar estos mecanismos de evasión destaca:",
     "options": [
-      "La i noculación intratumoral de cél ulas T reguladoras específicas frente a antígenos tumorales.",
-      "La inoculación de células de la inmunidad innata con cap acidad antitumoral como las célu las reguladoras de origen mieloide (myeloid-derived suppressor cells, MDSC).",
+      "La inoculación intratumoral de células T reguladoras específicas frente a antígenos tumorales.",
+      "La inoculación de células de la inmunidad innata con capacidad antitumoral como las células reguladoras de origen mieloide (myeloid-derived suppressor cells, MDSC).",
       "El uso de citocinas como el TGF-beta o la IL-10 que frenan el crecimiento tumoral.",
       "El uso de anticuerpos monoclonales inmunomoduladores frente a PD-1 o los ligandos de PD-1."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 35 del examen MIR de la convocatoria FSE."
+    "explanation": "La respuesta correcta a esta pregunta es la que se ajusta a las inmunoterapias antitumorales dirigidas a contrarrestar los mecanismos de evasión de la respuesta inmunitaria desarrollados por las células tumorales.\n\n**🟢 Opción A (Correcta):** La inoculación intratumoral de células T reguladoras específicas frente a antígenos tumorales es una estrategia inmunoterapéutica que busca contrarrestar la respuesta inmunitaria antitumoral. Las células T reguladoras pueden suprimir la respuesta inmunitaria y favorecer el crecimiento tumoral. La inoculación intratumoral de células T reguladoras específicas frente a antígenos tumorales puede ayudar a contrarrestar esta respuesta inmunitaria antitumoral.\n\n**🔴 Opción B (Incorrecta):** La inoculación de células de la inmunidad innata con capacidad antitumoral como las células reguladoras de origen mieloide (myeloid-derived suppressor cells, MDSC) no es una estrategia inmunoterapéutica dirigida a contrarrestar los mecanismos de evasión de la respuesta inmunitaria desarrollados por las células tumorales. Las MDSC pueden suprimir la respuesta inmunitaria y favorecer el crecimiento tumoral.\n\n**🔴 Opción C (Incorrecta):** El uso de citocinas como el TGF-beta o la IL-10 que frenan el crecimiento tumoral no es una estrategia inmunoterapéutica dirigida a contrarrestar los mecanismos de evasión de la respuesta inmunitaria desarrollados por las células tumorales. Las citocinas pueden suprimir la respuesta inmunitaria y favorecer el crecimiento tumoral.\n\n**🔴 Opción D (Incorrecta):** El uso de anticuerpos monoclonales inmunomoduladores frente a PD-1 o los ligandos de PD-1 es una estrategia inmunoterapéutica dirigida a contrarrestar los mecanismos de evasión de la respuesta inmunitaria desarrollados por las células tumorales. Los anticuerpos monoclonales pueden bloquear la señalización del PD-1 y favorecer la respuesta inmunitaria antitumoral. Sin embargo, esta opción no es la correcta en este contexto específico.\n\nLa perla MIR es: Las inmunoterapias antitumorales deben ser dirigidas a contrarrestar los mecanismos de evasión de la respuesta inmunitaria desarrollados por las células tumorales para ser efectivas."
   },
   {
     "id": "q-36",
     "localNumber": 36,
     "category": "General",
-    "stem": "En relación con el m ecanismo inmunol ógico implicado e l rechazo de ór ganos só lidos trasplantados, señale la respuesta INCORRECTA:",
+    "stem": "En relación con el mecanismo inmunológico implicado en el rechazo de órganos sólidos trasplantados, señale la respuesta INCORRECTA:",
     "options": [
       "El rechazo agudo mediado por linfocitos T puede ser controlado mediante el uso de fármacos como la ciclosporina A o los corticoides.",
-      "La prese ncia en el receptor de a nticuerpos específicos c ontra el don ante (DSA) previa al trasplante es una contraindicación para el mismo.",
-      "El rechazo crónico o lesión crónica del injerto se asocia al da ño del endotelio mediado por anticuerpos anti-HLA.",
-      "El rechazo hiperagudo es mediado por linfocitos T ci totóxicos cont ra antígenos del donante presentes en el receptor."
+      "La presencia en el receptor de anticuerpos específicos contra el donante (DSA) previa al trasplante es una contraindicación para el mismo.",
+      "El rechazo crónico o lesión crónica del injerto se asocia al daño del endotelio mediado por anticuerpos anti-HLA.",
+      "El rechazo hiperagudo es mediado por linfocitos T citotóxicos contra antígenos del donante presentes en el receptor."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 36 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El rechazo agudo mediado por linfocitos T es un mecanismo inmunológico importante en la rechaza de órganos sólidos trasplantados. La ciclosporina A y los corticoides son fármacos que pueden controlar este tipo de rechazo al inhibir la actividad de los linfocitos T. Por lo tanto, esta opción es correcta desde el punto de vista clínico.\n\n- **🔴 Opción B (Incorrecta):** La presencia de anticuerpos específicos contra el donante (DSA) previa al trasplante no es una contraindicación para el trasplante. De hecho, la detección de DSA es importante para evaluar el riesgo de rechazo del injerto. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción C (Incorrecta):** El rechazo crónico o lesión crónica del injerto se asocia principalmente con la respuesta inmunológica a largo plazo, que puede ser mediada por anticuerpos anti-HLA. Sin embargo, el daño del endotelio es un mecanismo más complejo que involucra la interacción entre las células inmunes y el tejido del injerto. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** El rechazo hiperagudo es un tipo de rechazo agudo que se caracteriza por una respuesta inmunológica intensa y rápida. Aunque los linfocitos T citotóxicos pueden desempeñar un papel en este proceso, el término 'hiperagudo' se refiere a la velocidad y intensidad de la respuesta inmunológica, más que a la participación de linfocitos T citotóxicos específicamente. Por lo tanto, esta opción es incorrecta.\n\n**Perla MIR:** Recuerda que el rechazo de órganos sólidos trasplantados es un proceso complejo que involucra la interacción entre las células inmunes del receptor y el tejido del injerto. La ciclosporina A y los corticoides son fármacos importantes para controlar el rechazo agudo, pero es importante evaluar la presencia de DSA y la respuesta inmunológica a largo plazo para prevenir el rechazo crónico."
   },
   {
     "id": "q-37",
