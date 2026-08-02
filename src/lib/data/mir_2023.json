@@ -1991,71 +1991,71 @@
     "id": "q-143",
     "localNumber": 143,
     "category": "Nefrología",
-    "stem": "Hombre de 28 años c on diagnóstico rec iente de linfoma de Hodgkin, que co nsulta por debilidad y edematización pro gresivas. La exploración e s normal salvo por la presencia de edem a con fóvea hasta las ro dillas. Análisis: urea 58 mg/dl, creatinina 0,78 mg/dl, sodio 138 mEq/l, potasio 4,3 mEq/l, albú mina 2 g/dl. Sistemático de orina: proteinuria 4+ (> 600 mg/dl) sin hema turia ni leucocituria. ¿Cuál de la s siguientes enfermedades es más probable que tenga?:",
+    "stem": "Hombre de 28 años con diagnóstico reciente de linfoma de Hodgkin, que consulta por debilidad y edematización progresivas. La exploración es normal salvo por la presencia de edema con fóvea hasta las rodillas. Análisis: urea 58 mg/dl, creatinina 0,78 mg/dl, sodio 138 mEq/l, potasio 4,3 mEq/l, albúmina 2 g/dl. Sistemático de orina: proteinuria 4+ (> 600 mg/dl) sin hematuria ni leucocituria.",
     "options": [
       "Glomerulonefritis de cambios mínimos.",
       "Glomerulonefritis membranosa.",
       "Glomerulonefritis membranoproliferativa.",
-      "Glomeroesclerosis focal y segmentaria."
+      "Glomerulosclerosis focal y segmentaria."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 143 del examen MIR de la convocatoria FSE."
+    "explanation": "## Análisis de la pregunta del examen MIR\n\n### **Diagnóstico**: El paciente tiene un diagnóstico reciente de linfoma de Hodgkin y presenta debilidad y edematización progresivas.\n\n### **Exploración**: La exploración es normal salvo por la presencia de edema con fóvea hasta las rodillas.\n\n### **Análisis de orina**: El análisis de orina muestra proteinuria 4+ (> 600 mg/dl) sin hematuria ni leucocituria.\n\n### **Opciones**:\n\n### **🟢 Opción A (Correcta):** Glomerulonefritis de cambios mínimos.\n\nEsta opción es la correcta porque el paciente tiene un diagnóstico reciente de linfoma de Hodgkin, lo que sugiere una respuesta inmune mediada por células (RIMC). La glomerulonefritis de cambios mínimos es una condición caracterizada por cambios mínimos en la biopsia renal, que se asocia con RIMC. La proteinuria 4+ (> 600 mg/dl) sin hematuria ni leucocituria es consistente con esta condición.\n\n### **🔴 Opción B (Incorrecta):** Glomerulonefritis membranosa.\n\nEsta opción no es la adecuada porque la glomerulonefritis membranosa se caracteriza por la presencia de depósitos de inmunoglobulina y complemento en la membrana de la glomérula, lo que no se describe en el escenario del paciente.\n\n### **🔴 Opción C (Incorrecta):** Glomerulonefritis membranoproliferativa.\n\nEsta opción no es la adecuada porque la glomerulonefritis membranoproliferativa se caracteriza por la proliferación de células en la glomérula y la presencia de depósitos de inmunoglobulina y complemento en la membrana de la glomérula, lo que no se describe en el escenario del paciente.\n\n### **🔴 Opción D (Incorrecta):** Glomerulosclerosis focal y segmentaria.\n\nEsta opción no es la adecuada porque la glomerulosclerosis focal y segmentaria se caracteriza por la escoriación y la proliferación de células en la glomérula, lo que no se describe en el escenario del paciente.\n\n### **Perla MIR**: La respuesta inmune mediada por células (RIMC) es un factor importante en la etiología de la glomerulonefritis de cambios mínimos, especialmente en pacientes con linfoma de Hodgkin."
   },
   {
     "id": "q-144",
     "localNumber": 144,
     "category": "General",
-    "stem": "Mujer de 52 añ os que c onsulta p or un ras h eritematoso pruri ginoso. Com o antecedentes destacables consta un cólico nefrítico una semana antes, para el que re cibió tr atamiento c on dexketoprofeno y omepra zol. En la ana lítica destaca un filtrado glomerular estim ado de 45 ml/min (pre viamente norm al), sin pr oteinuria ni otras al teraciones. ¿Cuál de los si guientes diagnósticos es más probable y qué actitud terapéutica debe adoptarse?:",
+    "stem": "Mujer de 52 años que consulta por un rash herpetiforme pruriginoso. Como antecedentes destacables consta un cólico nefrítico una semana antes, para el que recibió tratamiento con dexketoprofeno y omeprazol. En la análisis destaca un filtrado glomerular estimado de 45 ml/min (previamente normal), sin proteinuria ni otras alteraciones.",
     "options": [
-      "Toxicidad renal directa del dexketoprofeno y /o omeprazol. Con la s uspensión d e lo s f ármacos sería suficiente.",
-      "Obstrucción de t racto urinario superior por litiasis. Realizar un a ecog rafía p ara con firmarlo y, de ser así, eliminar la obstrucción.",
-      "Necrosis tubular aguda. Dar un marg en d e tiempo para l a recuperación espontá nea de las células tubulares.",
-      "Nefritis intersticial. Hacer una biopsia renal para confirmarlo y, en cas o afirmativo, administrar corticoides."
+      "Toxicidad renal directa del dexketoprofeno y/o omeprazol. Con la suspensión de los fármacos sería suficiente.",
+      "Obstrucción del tracto urinario superior por litiasis. Realizar un ecografía para confirmarlo y, de ser así, eliminar la obstrucción.",
+      "Necrosis tubular aguda. Dar un margen de tiempo para la recuperación espontánea de las células tubulares.",
+      "Nefritis intersticial. Hacer una biopsia renal para confirmarlo y, en caso afirmativo, administrar corticoides."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 144 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La toxicidad renal directa del dexketoprofeno y/o omeprazol es la opción más probable en este caso. El tratamiento con dexketoprofeno y omeprazol se asocia con nefrotoxicidad y, en particular, el dexketoprofeno ha sido reportado en la literatura como causante de nefrotoxicidad en algunas ocasiones. La disminución del filtrado glomerular estimado de 45 ml/min en relación con el valor previamente normal sugiere una lesión renal aguda. La suspensión de los fármacos sería el tratamiento adecuado en este caso, ya que la nefrotoxicidad suele ser reversible una vez que se elimina la causa subyacente. La suspensión de los fármacos permitiría la recuperación del funcionamiento renal y, en consecuencia, el valor del filtrado glomerular estimado debería normalizarse en un plazo de tiempo razonable. Además, la falta de proteinuria y otras alteraciones en la analítica hace que esta opción sea aún más plausible. Por lo tanto, la toxicidad renal directa del dexketoprofeno y/o omeprazol es la opción más probable en este caso y la suspensión de los fármacos sería el tratamiento adecuado.\\ \n\\ \n- **🔴 Opción B (Incorrecta):** La obstrucción del tracto urinario superior por litiasis es una causa posible de lesión renal aguda, pero no es la opción más probable en este caso. La falta de proteinuria y otras alteraciones en la analítica sugiere que la lesión renal no es obstructiva, sino más bien una lesión renal directa causada por la nefrotoxicidad de los fármacos. Además, la obstrucción del tracto urinario superior por litiasis no se asocia con una disminución del filtrado glomerular estimado de 45 ml/min en relación con el valor previamente normal. Por lo tanto, esta opción no es la adecuada en este caso.\\ \n\\ \n- **🔴 Opción C (Incorrecta):** La necrosis tubular aguda es una causa posible de lesión renal aguda, pero no es la opción más probable en este caso. La necrosis tubular aguda se asocia con una lesión renal más severa y con una mayor cantidad de proteinuria y otras alteraciones en la analítica. En este caso, la falta de proteinuria y otras alteraciones en la analítica sugiere que la lesión renal no es tan severa como en la necrosis tubular aguda. Además, la necrosis tubular aguda no se asocia con una disminución del filtrado glomerular estimado de 45 ml/min en relación con el valor previamente normal. Por lo tanto, esta opción no es la adecuada en este caso.\\ \n\\ \n- **🔴 Opción D (Incorrecta):** La nefritis intersticial es una causa posible de lesión renal crónica, pero no es la opción más probable en este caso. La nefritis intersticial se asocia con una lesión renal más severa y con una mayor cantidad de proteinuria y otras alteraciones en la analítica. En este caso, la falta de proteinuria y otras alteraciones en la analítica sugiere que la lesión renal no es tan severa como en la nefritis intersticial. Además, la nefritis intersticial no se asocia con una disminución del filtrado glomerular estimado de 45 ml/min en relación con el valor previamente normal. Por lo tanto, esta opción no es la adecuada en este caso.\\ \n\\ \nLa perla MIR: La toxicidad renal directa del dexketoprofeno y/o omeprazol es la opción más probable en este caso, y la suspensión de los fármacos sería el tratamiento adecuado. Es importante tener en cuenta que la nefrotoxicidad de los fármacos puede ser reversible una vez que se elimina la causa subyacente, y la suspensión de los fármacos permitiría la recuperación del funcionamiento renal."
   },
   {
     "id": "q-145",
     "localNumber": 145,
     "category": "Neurología",
-    "stem": "Hombre de 5 2 años que a cude a urgencias por debilidad y dificultad para la articul ación de la palabra. Con stantes: TA 115/60 mmHg, F C 80 lpm, t emperatura 37,8ºC. Exp loración neurológica: bradilalia, bradipsiquia y pérdida de fuerza en mano izquierda. Auscultación y abdomen sin hallazgos. Petequias en c ara interna de musl os y dors o de los pies. An gioTC cerebral sin si gnos de sangrado intracraneal ni patol ogía isquémica a guda. Analítica: Hb 7,2 g/dl, 12 .340 leucocitos (92 % PMN), plaquetas 14.600, urea 183 mg/dl, creati nina 2,3 m g/dl, bilirrubina total 2 mg/dl, tra nsaminasas normales, LDH 2. 125 UI, ferritina 1.582 n g/mL, hapto globina < 30 m g/dl. Frotis de s angre perifé rica con anis ocitosis y abundantes microesferocitos y esquistocitos (3-4 por campo) s in a gregados plaque tarios. ¿Cuál de los siguentes tratamientos es MENOS apropiado?:",
+    "stem": "Hombre de 5 años que acude a urgencias por debilidad y dificultad para la articulación de la palabra. Con signos: TA 115/60 mmHg, FC 80 lpm, temperatura 37,8°C. Exploración neurológica: bradilalia, bradipsiquia y pérdida de fuerza en mano izquierda. Auscultación y abdomen sin hallazgos. Petequias en cara interna de muslos y dorso de los pies. AngioTC cerebral sin signos de sangrado intracraneal ni patología isquémica aguda. Analítica: Hb 7,2 g/dl, 12.340 leucocitos (92 % PMN), plaquetas 14.600, urea 183 mg/dl, creatina 2,3 mg/dl, bilirrubina total 2 mg/dl, transaminasas normales, LDH 2.125 UI, ferritina 1.582 ng/mL, haptoglobina < 30 mg/dl. Frotis de sangre periférica con anisocitosis y abundantes microesferocitos y esquistocitos (3-4 por campo) sin agregados plaquetarios.",
     "options": [
-      "Iniciar plas maféresis con plasma fresc o congelado de forma precoz.",
+      "Iniciar plasmaféreresis con plasma fresco congelado de forma precoz.",
       "Realizar transfusión de hematíes.",
       "Realizar transfusión de plaquetas.",
       "Iniciar tratamiento con corticoides."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 145 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La opción D, iniciar tratamiento con corticoides, es la menos adecuada en este caso. La presencia de petequias en la cara interna de los muslos y el dorso de los pies, junto con la anisocitosis y microesferocitos en el frotis de sangre periférica, sugiere una hemólisis intravascular coombs positiva (HIVCP). En este contexto, la administración de corticoides no es la medida adecuada, ya que no aborda la causa subyacente de la hemólisis. Además, la HIVCP es una condición grave que requiere un manejo inmediato y específico, incluyendo la realización de pruebas de Coombs y la administración de inmunoglobulinas intravenosas para neutralizar los autoanticuerpos causantes de la hemólisis.\n\n- **🔴 Opción A (Incorrecta):** Iniciar plasmaféreresis con plasma fresco congelado de forma precoz puede ser beneficioso en casos de HUS (Hemólisis Urémica Sindrómica), pero en este caso, la presencia de esquistocitos en el frotis de sangre periférica sugiere una infección por Plasmodium, lo que hace que esta opción no sea la adecuada.\n\n- **🔴 Opción B (Incorrecta):** La realización de una transfusión de hematíes no es la medida adecuada en este caso, ya que no aborda la causa subyacente de la anemia y puede empeorar la condición del paciente al introducir nuevos autoanticuerpos.\n\n- **🔴 Opción C (Incorrecta):** La realización de una transfusión de plaquetas no es necesaria en este caso, ya que la cuenta de plaquetas es normal y no hay signos de trombocitopenia.\n\nLa perla MIR para recordar este concepto es: **'HIVCP: no es solo un problema de hemólisis, es una emergencia que requiere un manejo específico y inmediato'**."
   },
   {
     "id": "q-146",
     "localNumber": 146,
     "category": "General",
-    "stem": "En relación c on el cáncer de prós tata, señale la respuesta INCORRECTA:",
+    "stem": "En relación con el cáncer de próstata, señale la respuesta incorrecta",
     "options": [
       "El principal factor de riesgo es la edad.",
-      "Los por tadores del gen BR CA-1 tienen mayor predisposición a sufrir la enfermedad.",
+      "Los portadores del gen BRCA-1 tienen mayor predisposición a sufrir la enfermedad.",
       "Es más frecuente en varones caucásicos.",
-      "Las grasas animales, la ob esidad, el háb ito tabáquico y el cad mio tamb ién se h an relacionado con su etiopatogenia."
+      "Las grasas animales, la obesidad, el hábito tabáquico y el cálculo también se han relacionado con su etiopatogenia."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 146 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Incorrecta):** El cáncer de próstata es más frecuente en varones que en mujeres, por lo que la afirmación de que es más común en \"varones caucásicos\" es incorrecta en el contexto de una pregunta sobre una afirmación erronea. La opción C presenta una información clínica incorrecta sobre la población afectada.\n- **🔴 Opción A (Incorrecta):** La edad es el principal factor de riesgo para el cáncer de próstata, por lo que esta opción describe correctamente un factor de riesgo.\n- **🔴 Opción B (Incorrecta):** Las variantes del gen BRCA-1 están asociadas con un mayor riesgo de cáncer de mama, no de próstata. Sin embargo, la repetición de esta frase en el enunciado original (donde se debería referir a cáncer de mama) no invalida la precisión clínica de esta opción si se interpretara en el contexto correcto.\n- **🔴 Opción D (Incorrecta):** Factores como grasas animales, obesidad, tabaco y sedentarismo son risk factors identificados para el cáncer de próstata, por lo que esta afirmación es clínicamente válida.\n\n**Perla MIR:** El cáncer de próstata tiene un patrón de prevalencia fuertemente masculino, con factores genéticos (como BRCA-1 para el mama) y de estilo de vida (obesidad) como claves en su etiopatogenia."
   },
   {
     "id": "q-147",
     "localNumber": 147,
     "category": "Nefrología",
-    "stem": "Varón de 66 años sin ante cedentes de interés que acude a urgencias por dolor ti po cólico en fos a renal der echa, sin re percusión analítica. El dolor se controla con el tratamiento analgésico pautado. La ecografía abdominal describe la existencia de un engrosamiento focal de 2,5 cm de diámetro en pelvis renal derecha. ¿Qué prueba se debe solicitar para completar el estudio?:",
+    "stem": "Varón de 66 años sin antecedentes de interés que acude a urgencias por dolor típico cólico en fosa renal derecha, sin repercusión analítica. El dolor se controla con el tratamiento analgésico pautado. La ecografía abdominal describe la existencia de un engrosamiento focal de 2,5 cm de diámetro en pelvis renal derecha. ¿Qué prueba se debe solicitar para completar el estudio?",
     "options": [
       "Resonancia magnética.",
       "Urografía intravenosa.",
       "Tomografía axial sin y con contraste IV.",
-      "Repetir la ecografía abdominal. (--MEDICINA-0--23/36) Pagina: 21 de 34"
+      "Repetir la ecografía abdominal."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 147 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La urografía intravenosa es la prueba más adecuada para completar el estudio en este caso. Esto se debe a que la ecografía abdominal ha detectado un engrosamiento focal en la pelvis renal derecha, lo que sugiere la posibilidad de una litiasis renal o un tumor. La urografía intravenosa permite visualizar la estructura renal y la función renal, lo que es fundamental para determinar la naturaleza del engrosamiento. Además, esta prueba es especialmente útil para detectar litiasis renales que no sean visibles en la ecografía.\n- **🔴 Opción A (Incorrecta):** La resonancia magnética no es la prueba más adecuada en este caso, ya que no proporciona información sobre la función renal ni sobre la presencia de litiasis renales.\n- **🔴 Opción C (Incorrecta):** La tomografía axial sin y con contraste IV es una prueba más invasiva y no es necesaria en este caso inicial. Además, la ecografía abdominal ha proporcionado información suficiente para planificar el siguiente paso.\n- **🔴 Opción D (Incorrecta):** Repetir la ecografía abdominal no proporcionará nueva información relevante para la toma de decisiones clínicas. La urografía intravenosa es la siguiente prueba más adecuada para completar el estudio.\nConclusión: La urografía intravenosa es la prueba más adecuada para completar el estudio en este caso, ya que permite visualizar la estructura renal y la función renal, y detectar litiasis renales. La ecografía abdominal ha detectado un engrosamiento focal en la pelvis renal derecha, lo que requiere una prueba más detallada para determinar su naturaleza."
   },
   {
     "id": "q-148",
