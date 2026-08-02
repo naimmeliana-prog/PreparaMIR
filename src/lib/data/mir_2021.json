@@ -563,7 +563,7 @@
     "id": "q-42",
     "localNumber": 42,
     "category": "Neumología",
-    "stem": "¿Qué tipo de medidas de precaución deben adoptarse ante un paciente con neumonía y antigenuria positiva a Legionella pneumophila?:",
+    "stem": "¿Qué tipo de medidas de precaución deben adoptarse ante un paciente con neumonía y antigenuria positiva a Legionella pneumophila?",
     "options": [
       "Precauciones de transmisión por gotas.",
       "Precauciones de transmisión por contacto.",
@@ -571,55 +571,55 @@
       "Precauciones estándar."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 42 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La Legionella pneumophila se transmite principalmente por inhalación de gotas de agua contaminada. En el caso de un paciente con neumonía y antigenuria positiva a Legionella pneumophila, se debe adoptar precauciones de transmisión por gotas para evitar la propagación del germen a otros pacientes y personal de salud. Esto incluye el uso de equipo de protección individual (EPI) como mascarillas y guantes, así como medidas de aislamiento y limpieza adecuadas en el entorno del paciente.\n\n- **🔴 Opción A (Incorrecta):** Las precauciones de transmisión por gotas son importantes en el caso de enfermedades respiratorias como la neumonía, pero no son específicas para la Legionella pneumophila. Por lo tanto, esta opción no es la más adecuada en este contexto.\n\n- **🔴 Opción B (Incorrecta):** Las precauciones de transmisión por contacto son importantes en el caso de enfermedades como la infección por el virus del herpes simple, pero no son relevantes para la transmisión de la Legionella pneumophila. Por lo tanto, esta opción no es la más adecuada en este contexto.\n\n- **🔴 Opción C (Incorrecta):** Las precauciones de transmisión por aire son importantes en el caso de enfermedades como la tuberculosis, pero no son específicas para la Legionella pneumophila. Además, la Legionella pneumophila se transmite principalmente por inhalación de gotas de agua contaminada, por lo que esta opción no es la más adecuada en este contexto.\n\nLa **perla MIR** es que en el caso de una infección por Legionella pneumophila, es fundamental adoptar medidas de precaución de transmisión por gotas para evitar la propagación del germen a otros pacientes y personal de salud."
   },
   {
     "id": "q-43",
     "localNumber": 43,
     "category": "General",
-    "stem": "En un meta-análisis, el estimador combinado de los resultados de los estudios revisados es:",
+    "stem": "En un metaanálisis, el estimador combinado de los resultados de los estudios revisados es:",
     "options": [
-      "L a s u m a d e l o s r e s u l t a d o s d e t o d o s l o s e s t u - dios.",
+      "La suma de los resultados de todos los estudios.",
       "La media aritmética de los resultados de todos los estudios.",
-      "La media ponderada de los resultados de to- dos los estudios.",
+      "La media ponderada de los resultados de todos los estudios.",
       "El porcentaje de resultados favorables a la hipótesis estudiada en todos los estudios."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 43 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La suma de los resultados de todos los estudios no es un estimador combinado adecuado, ya que no toma en cuenta la distribución de los resultados en cada estudio. Esto puede llevar a resultados sesgados y no representativos de la población general. Además, la suma no es una medida central que refleje la tendencia de los datos. \n\n - **🔴 Opción B (Incorrecta):** La media aritmética de los resultados de todos los estudios no es un estimador combinado adecuado, ya que no toma en cuenta la variabilidad de los resultados en cada estudio. La media aritmética puede ser afectada por valores extremos o outliers, lo que puede distorsionar la tendencia general de los datos. \n\n - **🔴 Opción D (Incorrecta):** El porcentaje de resultados favorables a la hipótesis estudiada en todos los estudios no es un estimador combinado adecuado, ya que no toma en cuenta la magnitud de los efectos en cada estudio. El porcentaje solo refleja la proporción de resultados favorables, pero no proporciona información sobre la importancia de estos resultados. \n\n - **🟢 Opción C (Correcta):** La media ponderada de los resultados de todos los estudios es el estimador combinado más adecuado, ya que toma en cuenta la distribución de los resultados en cada estudio y la magnitud de los efectos. La media ponderada se calcula usando los pesos de cada estudio, que se basan en la precisión y la relevancia de los resultados. Esto permite obtener una tendencia general más precisa y representativa de la población. \n\n La perla MIR: 'Metaanálisis, no suma ni media, sino media ponderada'."
   },
   {
     "id": "q-44",
     "localNumber": 44,
     "category": "General",
-    "stem": "La especificidad de una prueba diagnóstica es del 94 %. ¿Cuál es la interpretación correcta?:",
+    "stem": "La especificidad de una prueba diagnóstica es del 94%. ¿Cuál es la interpretación correcta?",
     "options": [
-      "De cada 100 resultados negativos, 94 corres- ponden a pacientes sanos.",
-      "De cada 100 pacientes sanos, en 94 el resulta- do de la prueba será negativo.",
-      "De cada 100 pacientes enfermos, en 6 el re- sultado de la prueba será negativo.",
-      "De cada 100 resultados positivos, 6 corres- ponden a pacientes enfermos. - 8 -"
+      "De cada 100 resultados negativos, 94 corresponden a pacientes sanos.",
+      "De cada 100 pacientes sanos, en 94 el resultado de la prueba será negativo.",
+      "De cada 100 pacientes enfermos, en 6 el resultado de la prueba será negativo.",
+      "De cada 100 resultados positivos, 6 corresponden a pacientes enfermos."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 44 del examen MIR de la convocatoria FSE."
+    "explanation": "La especificidad de una prueba diagnóstica se refiere a la proporción de pacientes sanos que obtienen un resultado negativo. Se expresa como una fracción o porcentaje. En este caso, la especificidad es del 94%, lo que significa que de cada 100 pacientes sanos, en 94 el resultado de la prueba será negativo. Esto se debe a que la prueba tiene una buena capacidad para identificar a los pacientes sanos y excluir a los pacientes enfermos. Por tanto, la interpretación correcta es:\n\n- **🟢 Opción B (Correcta):** De cada 100 pacientes sanos, en 94 el resultado de la prueba será negativo. Esta opción es correcta porque la especificidad se refiere a la proporción de pacientes sanos que obtienen un resultado negativo, no a la proporción de resultados negativos que corresponden a pacientes sanos.\n\n- **🔴 Opción A (Incorrecta):** De cada 100 resultados negativos, 94 corresponden a pacientes sanos. Esta opción es incorrecta porque la especificidad se refiere a la proporción de pacientes sanos que obtienen un resultado negativo, no a la proporción de resultados negativos que corresponden a pacientes sanos.\n\n- **🔴 Opción C (Incorrecta):** De cada 100 pacientes enfermos, en 6 el resultado de la prueba será negativo. Esta opción es incorrecta porque la especificidad se refiere a la proporción de pacientes sanos que obtienen un resultado negativo, no a la proporción de pacientes enfermos que obtienen un resultado negativo.\n\n- **🔴 Opción D (Incorrecta):** De cada 100 resultados positivos, 6 corresponden a pacientes enfermos. Esta opción es incorrecta porque la especificidad se refiere a la proporción de pacientes sanos que obtienen un resultado negativo, no a la proporción de resultados positivos que corresponden a pacientes enfermos.\n\nLa perla MIR: 'La especificidad es la proporción de pacientes sanos que obtienen un resultado negativo, no la proporción de resultados negativos que corresponden a pacientes sanos.'"
   },
   {
     "id": "q-45",
     "localNumber": 45,
     "category": "General",
-    "stem": "En la valoración del riesgo de sesgo en los ensa- yos clínicos ¿cuál de los siguientes criterios se considera?:",
+    "stem": "En la valoración del riesgo de sesgo en los ensayos clínicos, ¿cuál de los siguientes criterios se considera?",
     "options": [
-      "Pérdidas en el seguimiento.",
-      "Falta de representatividad de la muestra.",
-      "Insuficiente tamaño muestral.",
-      "Escasa comparabilidad de los casos y contro- les."
+      "Pérdidas en el seguimiento",
+      "Falta de representatividad de la muestra",
+      "Insuficiente tamaño muestral",
+      "Escasa comparabilidad de los casos y controles"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 45 del examen MIR de la convocatoria FSE."
+    "explanation": "La valoración del riesgo de sesgo en los ensayos clínicos es fundamental para garantizar la validez y confiabilidad de los resultados. A continuación, se presentan las explicaciones de cada opción:\n\n- **🟢 Opción A (Correcta):** La pérdida de seguimiento puede introducir sesgo en los ensayos clínicos, ya que puede ser más probable que los participantes que abandonen el estudio presenten resultados diferentes a los que se quedan en el estudio. Esto puede afectar la generalización de los resultados y la validez del estudio.\n\n- **🔴 Opción B (Incorrecta):** La falta de representatividad de la muestra no es un criterio directo para evaluar el riesgo de sesgo en los ensayos clínicos. Aunque una muestra no representativa puede afectar la generalización de los resultados, no es un criterio específico para evaluar el riesgo de sesgo.\n\n- **🔴 Opción C (Incorrecta):** El insuficiente tamaño muestral no es un criterio directo para evaluar el riesgo de sesgo en los ensayos clínicos. Un tamaño muestral insuficiente puede afectar la capacidad del estudio para detectar efectos significativos, pero no es un criterio específico para evaluar el riesgo de sesgo.\n\n- **🔴 Opción D (Incorrecta):** La escasa comparabilidad de los casos y controles no es un criterio directo para evaluar el riesgo de sesgo en los ensayos clínicos. Aunque la comparabilidad de los casos y controles es importante para evaluar la validez del estudio, no es un criterio específico para evaluar el riesgo de sesgo.\n\nLa perla MIR: La pérdida de seguimiento es un criterio importante para evaluar el riesgo de sesgo en los ensayos clínicos, ya que puede afectar la validez y confiabilidad de los resultados."
   },
   {
     "id": "q-46",
     "localNumber": 46,
     "category": "General",
-    "stem": "Un ensayo clínico controlado ha evaluado la eficacia de un nuevo antiagregante en pacientes graves con síndrome coronario agudo. En el grupo de tratamiento convencional (control) la mortalidad fue del 10 % en mujeres y del 8 % en hombres. En el grupo de intervención con el nuevo antiagregante, la mortalidad se redujo a l a m i t a d d e l o b s e r v a d o e n e l c o n t r o l t a n t o e n mujeres como en hombres. En relación con la eficacia del nuevo antiagregante para mejorar la supervivencia según el género, señale la res- puesta correcta:",
+    "stem": "Un ensayo clínico controlado ha evaluado la eficacia de un nuevo antiagregante en pacientes graves con síndrome coronario agudo. En el grupo de tratamiento convencional (control) la mortalidad fue del 10 % en mujeres y del 8 % en hombres. En el grupo de intervención con el nuevo antiagregante, la mortalidad se redujo a la mitad del observado en el control tanto en mujeres como en hombres.",
     "options": [
       "Es más eficaz en mujeres, porque el valor de NNT estimado en mujeres es inferior al de los hombres.",
       "Es más eficaz en hombres, porque el valor de NNT estimado en hombres es superior al de las mujeres.",
@@ -627,7 +627,7 @@
       "Es más eficaz en hombres, porque el valor de NNT estimado en hombres es inferior al de mujeres."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 46 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Esta opción es correcta porque el nuevo antiagregante reduce la mortalidad a la mitad tanto en mujeres como en hombres. La eficacia del tratamiento no se mide mediante el valor de NNT (Number Needed to Treat), sino mediante la reducción de la tasa de mortalidad. En este caso, la reducción de la mortalidad a la mitad es igual en ambos géneros, por lo que el nuevo antiagregante es igual de eficaz en mujeres y hombres.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque el valor de NNT no se utiliza para comparar la eficacia del tratamiento en diferentes grupos de pacientes. Además, el valor de NNT no se menciona en el enunciado del problema.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque, aunque el nuevo antiagregante reduce la mortalidad a la mitad en ambos géneros, la opción C afirma que la reducción de la mortalidad es igual en ambos géneros, lo que no se menciona explícitamente en el enunciado del problema.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque, según el enunciado del problema, el valor de NNT no se menciona ni se utiliza para comparar la eficacia del tratamiento en diferentes grupos de pacientes.\n\n**Perla MIR:** La eficacia de un tratamiento no se mide mediante el valor de NNT, sino mediante la reducción de la tasa de mortalidad o la mejora en la calidad de vida de los pacientes."
   },
   {
     "id": "q-47",
