@@ -2817,19 +2817,19 @@
     "category": "General",
     "stem": "Respecto a la Trombosis Venosa Profunda, señale lo correcto:",
     "options": [
-      "Tras la sospecha clínica, el diagnóstico suele realizarse mediante ecografía dop- pler.",
-      "Los pacientes con factores de riesgo o trombosis venosas de repetición suelen precisar anticoagulación durante 12 me- ses.",
+      "Tras la sospecha clínica, el diagnóstico suele realizarse mediante ecografía doppler.",
+      "Los pacientes con factores de riesgo o trombosis venosas de repetición suelen precisar anticoagulación durante 12 meses.",
       "Por norma general, la anticoagulación se suele mantener durante 3 semanas.",
-      "La tasa de recidiva es del 60%."
+      "La tasa de recidiva es del 60%. "
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 202 del examen MIR de la convocatoria FSE."
+    "explanation": "\n- **🟢 Opción A (Correcta):** La opción A es correcta porque, efectivamente, tras la sospecha clínica de Trombosis Venosa Profunda (TVP), el diagnóstico suele realizarse mediante ecografía doppler. Esta técnica es no invasiva y permite evaluar el flujo sanguíneo en las venas profundas de los miembros inferiores, lo que ayuda a detectar la presencia de trombos.\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque, aunque los pacientes con factores de riesgo o con antecedentes de trombosis venosa pueden requerir anticoagulación, el período de anticoagulación no se establece en 12 meses de manera generalizada. La duración de la anticoagulación depende de various factores, incluyendo la causa de la trombosis, la presencia de factores de riesgo y la respuesta del paciente al tratamiento.\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque la anticoagulación en el contexto de la TVP generalmente se mantiene durante un período más prolongado que 3 semanas. La anticoagulación es crucial para prevenir la propagación del trombo y la aparición de embolias pulmonares, y su duración se determina según las características individuales del paciente y la respuesta al tratamiento.\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque la tasa de recidiva de la trombosis venosa profunda no es del 60%. Aunque la recidiva es un riesgo significativo en pacientes con antecedentes de TVP, las tasas de recidiva varían según la población estudiada y los factores de riesgo presentes. La anticoagulación y otras medidas preventivas pueden reducir el riesgo de recidiva.\n\nLa perla MIR para recordar es que el diagnóstico de la Trombosis Venosa Profunda se realiza principalmente mediante ecografía doppler después de la sospecha clínica, y que el manejo debe ser individualizado considerando los factores de riesgo y la historia del paciente."
   },
   {
     "id": "q-203",
     "localNumber": 203,
     "category": "Infecciosas",
-    "stem": "¿Cuál de los siguientes microorganismos no es habitual en las infecciones del tracto urinario?:",
+    "stem": "¿Cuál de los siguientes microorganismos no es habitual en las infecciones del tracto urinario?",
     "options": [
       "Clostridium perfringens.",
       "Klebsiella pneumoniae.",
@@ -2837,49 +2837,49 @@
       "Staphylococcus saprophyticus."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 203 del examen MIR de la convocatoria FSE."
+    "explanation": "Las infecciones del tracto urinario (ITU) son causadas por una variedad de microorganismos. A continuación, se analizarán cada una de las opciones dadas:\n\n- **🟢 Opción A (Correcta):** Clostridium perfringens. Este microorganismo es típicamente asociado con infecciones del tracto gastrointestinal y no es comúnmente encontrado en las infecciones del tracto urinario. Su presencia en el tracto urinario podría indicar una infección oportunistas, especialmente en pacientes con sistemas inmunológicos comprometidos.\n\n- **🔴 Opción B (Incorrecta):** Klebsiella pneumoniae. Esta bacteria es una causa común de infecciones del tracto urinario, particularmente en pacientes con factores de riesgo como infecciones previas, catéteres urinarios o sistemas inmunológicos comprometidos.\n\n- **🔴 Opción C (Incorrecta):** Pseudomonas aeruginosa. Esta bacteria también es una causa común de infecciones del tracto urinario, especialmente en pacientes con infecciones previas, catéteres urinarios o sistemas inmunológicos comprometidos. Puede ser resistente a los antibióticos.\n\n- **🔴 Opción D (Incorrecta):** Staphylococcus saprophyticus. Esta bacteria es una causa común de infecciones del tracto urinario, particularmente en jóvenes sanos. Es más común en hombres que en mujeres.\n\n**Perla MIR:** Recuerda que Clostridium perfringens es un microorganismo poco habitual en las infecciones del tracto urinario, mientras que Klebsiella pneumoniae, Pseudomonas aeruginosa y Staphylococcus saprophyticus son causas comunes de estas infecciones."
   },
   {
     "id": "q-204",
     "localNumber": 204,
     "category": "General",
-    "stem": "¿Qué hallazgo clínico es más característico de una ParsPlanitis?:",
+    "stem": "¿Qué hallazgo clínico es más característico de una Pars Planitis?",
     "options": [
-      "Acumulo de material inflamatorio en el vi- treo (vitritis).",
+      "Acumulo de material inflamatorio en el vitreo (vitritis).",
       "Periflebitis periférica.",
-      "Aparición de bancos o copos de nieve en la base del vítreo.",
+      "Aparición de bancos o copos de nieve en la base del vitreo.",
       "Edema de papila."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 204 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La Pars Planitis es una queratitis anterior que se caracteriza por la aparición de copos de nieve en la base del vitreo, lo que se debe a la inflamación de la membrana de la cámara anterior del ojo. Esto se debe a la reacción inflamatoria a una infección o a un proceso autoinmune. Los copos de nieve son un signo característico de esta condición.\n\n- **🔴 Opción A (Incorrecta):** El acumulo de material inflamatorio en el vitreo (vitritis) es una complicación común de varias condiciones, incluyendo la uveítis, pero no es específico de la Pars Planitis.\n\n- **🔴 Opción B (Incorrecta):** La periflebitis periférica se refiere a la inflamación de la piel que rodea los vasos sanguíneos de la retina. Aunque puede estar relacionada con la Pars Planitis, no es un hallazgo clínico específico de esta condición.\n\n- **🔴 Opción D (Incorrecta):** El edema de papila se refiere a la inflamación de la punta de la córnea. No está directamente relacionado con la Pars Planitis.\n\nLa perla MIR: Para recordar el signo característico de la Pars Planitis, recuerda que los copos de nieve en la base del vitreo son como la nieve que cae en la base de un prisma, lo que los hace visibles en la base del vitreo."
   },
   {
     "id": "q-205",
     "localNumber": 205,
     "category": "General",
-    "stem": "La participación activa en Atención Prima- ria es un concepto clave dentro del modelo de salud comunitaria y centrada en la per- sona. Se refiere a la implicación real y con- tinua de los pacientes, sus familias y la co- munidad en las decisiones y acciones rela- cionadas con su salud, tanto a nivel indivi- dual como colectivo. ¿Cuál de las siguien- tes afirmaciones, refleja mejor el concepto de participación activa en la Atención Pri- maria?:",
+    "stem": "La participación activa en Atención Primaria es un concepto clave dentro del modelo de salud comunitaria y centrada en la persona. Se refiere a la implicación real y continua de los pacientes, sus familias y la comunidad en las decisiones y acciones relacionadas con su salud, tanto a nivel individual como colectivo.",
     "options": [
-      "Los profesionales de salud deben respon- der a las demandas explícitas de los pa- cientes cuando éstos acuden a consulta.",
-      "Los equipos de atención primaria deben ser proactivos, abordando tanto las nece- sidades expresadas por los pacientes como aquellas que no han sido verbaliza- das.",
-      "Los pacientes son responsables de expre- sar todas sus necesidades para que el equipo de atención primaria pueda ofrecer la atención adecuada.",
-      "La participación activa se refiere exclusi- vamente a la implicación de la comunidad en las decisiones sobre políticas de salud."
+      "Los profesionales de salud deben responder a las demandas explícitas de los pacientes cuando éstos acuden a consulta.",
+      "Los equipos de atención primaria deben ser proactivos, abordando tanto las necesidades expresadas por los pacientes como aquellas que no han sido verbalizadas.",
+      "Los pacientes son responsables de expresar todas sus necesidades para que el equipo de atención primaria pueda ofrecer la atención adecuada.",
+      "La participación activa se refiere exclusivamente a la implicación de la comunidad en las decisiones sobre políticas de salud."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 205 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La participación activa en Atención Primaria implica la implicación real y continua de los pacientes, sus familias y la comunidad en las decisiones y acciones relacionadas con su salud. Esto incluye no solo las necesidades expresadas por los pacientes, sino también aquellas que no han sido verbalizadas. Los equipos de atención primaria deben ser proactivos y abordar todas las necesidades de los pacientes para ofrecer una atención integral y efectiva. Esto requiere una actitud de anticipación y empatía por parte de los profesionales de salud para identificar y abordar las necesidades de los pacientes de manera oportuna y adecuada.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque se centra solo en la respuesta a las demandas explícitas de los pacientes, sin considerar las necesidades no verbalizadas. La participación activa en Atención Primaria requiere una implicación más amplia y profunda de los pacientes y la comunidad en la toma de decisiones y la atención a su salud.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque responsabiliza a los pacientes de expresar todas sus necesidades, lo que no es realista ni ético. Los profesionales de salud tienen la responsabilidad de identificar y abordar las necesidades de los pacientes de manera oportuna y adecuada, sin esperar a que los pacientes expresen todas sus necesidades.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque se centra solo en la implicación de la comunidad en las decisiones sobre políticas de salud, sin considerar la implicación de los pacientes y sus familias en la atención a su salud. La participación activa en Atención Primaria requiere una implicación más amplia y profunda de todos los actores involucrados en la atención a la salud de los pacientes.\n\nLa participación activa en Atención Primaria es un concepto clave que requiere la implicación real y continua de los pacientes, sus familias y la comunidad en las decisiones y acciones relacionadas con su salud. Los profesionales de salud deben ser proactivos y abordar todas las necesidades de los pacientes para ofrecer una atención integral y efectiva."
   },
   {
     "id": "q-206",
     "localNumber": 206,
     "category": "General",
-    "stem": "Un hombre de 62 años es diagnosticado de adenocarcinoma de recto medio, confir- mado por biopsia endoscópica. La tomo- grafía computarizada toracoabdominopél- vica no muestra metástasis a distancia. ¿Qué prueba de imagen es más adecuada para identificar la mejor opción terapéutica local en este paciente?:",
+    "stem": "Un hombre de 62 años es diagnosticado de adenocarcinoma de recto medio, confirmado por biopsia endoscópica. La tomografía computarizada toracoabdominopélvica no muestra metástasis a distancia. ¿Qué prueba de imagen es más adecuada para identificar la mejor opción terapéutica local en este paciente?",
     "options": [
-      "Tomografía computerizada de abdomen y pelvis con contraste intravenoso y angio- grafía (angio TAC).",
-      "Tomografía por emisión de positrones de pelvis combinada con Tomografía compu- terizada (PET/TC).",
-      "Resonancia magnética pélvica (RMN) con secuencias de alta resolución del meso- rrecto, con o sin contraste.",
-      "Ecografía combinada abdomino-pélvica y endorrectal."
+      "Tomografía computerizada de abdomen y pelvis con contraste intravenoso y angiografía (angio TAC).",
+      "Tomografía por emisión de positrones de pelvis combinada con Tomografía computarizada (PET/TC).",
+      "Resonancia magnética pélvica (RMN) con secuencias de alta resolución del mesorrecto, con o sin contraste.",
+      "Ecografía combinada abdominopélvica y endorrectal."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 206 del examen MIR de la convocatoria FSE."
+    "explanation": "Para determinar la mejor opción terapéutica local en un paciente con adenocarcinoma de recto medio, es fundamental realizar una prueba de imagen que brinde información detallada sobre la anatomía y la presencia de metástasis en la región pélvica.\n\n**🟢 Opción C (Correcta):** La Resonancia Magnética Pélvica (RMN) es la prueba de imagen más adecuada para identificar la mejor opción terapéutica local en este paciente. La RMN ofrece imágenes de alta resolución del mesorrecto, lo que permite evaluar la invasión tumoral y la presencia de metástasis en la pared pélvica y en la estructura nerviosa. Además, la RMN puede realizar secuencias de contraste para mejorar la detección de lesiones pequeñas y de baja señal.\n\n**🔴 Opción A (Incorrecta):** La Tomografía Computerizada de Abdomen y Pelvis con Angiografía (Angio TAC) puede ser útil para evaluar la presencia de metástasis a distancia, pero no ofrece la resolución necesaria para evaluar la anatomía del mesorrecto y la invasión tumoral en la región pélvica.\n\n**🔴 Opción B (Incorrecta):** La Tomografía por Emisión de Positrones de Pelvis Combinada con Tomografía Computarizada (PET/TC) es una prueba de imagen que combina la sensibilidad del PET con la resolución del TC. Sin embargo, el PET/TC no ofrece la resolución necesaria para evaluar la anatomía del mesorrecto y la invasión tumoral en la región pélvica.\n\n**🔴 Opción D (Incorrecta):** La Ecografía Combinada Abdominopélvica y Endorrectal no ofrece la resolución necesaria para evaluar la anatomía del mesorrecto y la invasión tumoral en la región pélvica, y no es la prueba de imagen más adecuada para determinar la mejor opción terapéutica local en este paciente.\n\n**Perla MIR:** 'La Resonancia Magnética Pélvica es la prueba de imagen más adecuada para evaluar la anatomía del mesorrecto y la invasión tumoral en la región pélvica en pacientes con adenocarcinoma de recto medio.'"
   },
   {
     "id": "q-207",
