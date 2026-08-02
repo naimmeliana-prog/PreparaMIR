@@ -717,49 +717,49 @@
     "id": "q-53",
     "localNumber": 53,
     "category": "General",
-    "stem": "Varón de 28 años que es trasladado a urgencias con signos de intoxicación aguda. Está conscien- te y presenta un cuadro caracterizado por vó- mitos, diarrea, sudoración, sialorrea, lagrimeo y miosis. Considerando la causa más probable de e s t e s í n d r o m e , ¿ q u é f á r m a c o i n d i c a r í a p a r a s u tratamiento de entre los siguientes?:",
+    "stem": "Varón de 28 años que es trasladado a urgencias con signos de intoxicación aguda. Está consciente y presenta un cuadro caracterizado por vómitos, diarrea, sudoración, sialorrea, lagrimeo y miosis. Considerando la causa más probable de estos síndromes, ¿qué fármaco indica para su tratamiento de entre los siguientes?",
     "options": [
       "Naloxona.",
       "Flumazenilo.",
       "Ciproheptadina.",
-      "Atropina. - 9 -"
+      "Atropina."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 53 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La respuesta correcta es Atropina. La intoxicación aguda con síntomas como vómitos, diarrea, sudoración, sialorrea, lagrimeo y miosis sugiere una sobredosis de un anticolinérgico, como un medicamento que bloquea los efectos del neurotransmisor acetilcolina. La atropina es un anticolinérgico que actúa como antagonista de la acetilcolina en el sistema nervioso central y periférico. En este contexto, la atropina es la opción correcta porque es un anticolinérgico que se utiliza para contrarrestar los efectos de la sobredosis de anticolinérgicos. Es importante destacar que la atropina no debe ser utilizada para tratar la sobredosis de opiáceos, para lo cual se utiliza la naloxona, como se analizará a continuación. La atropina puede causar efectos adversos como visión borrosa, sequedad en la boca y en los ojos, y otros efectos colaterales. Sin embargo, en este contexto, es la opción correcta debido a su acción anticolinérgica. \n\n- **🔴 Opción A (Incorrecta):** La naloxona es un antagonista de los receptores opioides y se utiliza para tratar la sobredosis de opiáceos. En el escenario descrito, la sobredosis no parece ser causada por opiáceos, ya que no se mencionan signos de sedación, letargo o dificultad para respirar, que son comunes en las sobredosis de opiáceos. Por lo tanto, la naloxona no es la opción adecuada para este caso. \n\n- **🔴 Opción B (Incorrecta):** El flumazenilo es un antagonista de los receptores benzodiazepínicos y se utiliza para tratar la sobredosis de benzodiazepinas. En el escenario descrito, no hay signos de sobredosis de benzodiazepinas, como la sedación excesiva o la dificultad para respirar. Por lo tanto, el flumazenilo no es la opción adecuada para este caso. \n\n- **🔴 Opción C (Incorrecta):** La ciproheptadina es un antihistamínico que se utiliza para tratar la alergia y la intolerancia a la lactosa. No se relaciona con la sobredosis de anticolinérgicos, que es la causa más probable en este escenario. Por lo tanto, la ciproheptadina no es la opción adecuada para este caso. \n\nLa perla MIR: La intoxicación aguda con síntomas como vómitos, diarrea, sudoración, sialorrea, lagrimeo y miosis sugiere una sobredosis de un anticolinérgico, y la atropina es el fármaco adecuado para contrarrestar los efectos de la sobredosis de anticolinérgicos."
   },
   {
     "id": "q-54",
     "localNumber": 54,
     "category": "General",
-    "stem": "¿Qué afirmación es correcta en relación con el omeprazol?:",
+    "stem": "¿Qué afirmación es correcta en relación con el omeprazol?",
     "options": [
       "Es un potente antiácido.",
-      "Bloquea reversiblemente la bomba de hidro- geniones en el estómago.",
+      "Bloquea reversiblemente la bomba de hidrógeno en el estómago.",
       "Es un profármaco.",
-      "Tras disolverse su cubierta entérica en el es- tómago se une directamente a la bomba de protones de la célula parietal."
+      "Tras disolverse su cubierta entérica en el estómago se une directamente a la bomba de protones de la célula parietal."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 54 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El omeprazol es un profármaco porque se une a la proteasa en el estómago y se convierte en su forma activa, el sulfo enoxol, que es el que bloquea la bomba de protones de la célula parietal. Esto es importante porque la forma activa del omeprazol es la que tiene efecto terapéutico, no la forma inactiva que se ingiere inicialmente.\n\n- **🔴 Opción A (Incorrecta):** El omeprazol no es un potente antiácido en el sentido de que no neutraliza los ácidos estomacales. En realidad, su mecanismo de acción es bloquear la producción de ácido en el estómago, lo que reduce la acidez estomacal.\n\n- **🔴 Opción B (Incorrecta):** La afirmación de que el omeprazol bloquea reversiblemente la bomba de hidrógeno en el estómago no es precisa. La forma activa del omeprazol, el sulfo enoxol, bloquea la bomba de protones de la célula parietal de manera irreversiblemente, no reversiblemente.\n\n- **🔴 Opción D (Incorrecta):** La afirmación de que el omeprazol se une directamente a la bomba de protones de la célula parietal tras disolverse su cubierta entérica en el estómago no es correcta. Como se mencionó anteriormente, el omeprazol se convierte en su forma activa, el sulfo enoxol, mediante la unión a la proteasa en el estómago, no directamente a la bomba de protones.\n\nLa perla MIR: 'Omeprazol es profármaco, se convierte en sulfo enoxol, que bloquea bomba de protones irreversiblemente'."
   },
   {
     "id": "q-55",
     "localNumber": 55,
     "category": "General",
-    "stem": "Paciente diabético de 63 años a quien su médico de familia ha solicitado una analítica para de- terminar los niveles de v itamina B12. ¿Cuál es el fármaco antidiabético que toma que justifica dicha solicitud?:",
+    "stem": "Paciente diabético de 63 años a quien su médico de familia ha solicitado una analítica para determinar los niveles de vitamina B12",
     "options": [
-      "Gliclazida.",
-      "Metformina.",
-      "Repaglinida.",
-      "Pioglitazona."
+      "Gliclazida",
+      "Metformina",
+      "Repaglinida",
+      "Pioglitazona"
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 55 del examen MIR de la convocatoria FSE."
+    "explanation": "## Explicación del enunciado y opciones\n\n### Análisis de la pregunta\n\nSe nos presenta un paciente de 63 años con diabetes, a quien se le ha solicitado una analítica para determinar los niveles de vitamina B12. La pregunta busca identificar el fármaco antidiabético que justifica dicha solicitud.\n\n### Análisis de cada opción\n\n* **🟢 Opción B (Correcta):** La metformina es un fármaco antidiabético que se conoce por su efecto sobre la absorción de vitamina B12 en el intestino. La metformina puede disminuir la absorción de vitamina B12, lo que lleva a una deficiencia de esta vitamina. Por lo tanto, es común que los pacientes que toman metformina presenten bajos niveles de vitamina B12, lo que justifica la solicitud de una analítica para determinar sus niveles.\n* **🔴 Opción A (Incorrecta):** La gliclazida es un fármaco antidiabético que no está asociado con una disminución de la absorción de vitamina B12. Es posible que los pacientes que toman gliclazida presenten otros efectos secundarios, pero no una deficiencia de vitamina B12.\n* **🔴 Opción C (Incorrecta):** La repaglinida es un fármaco antidiabético que no está asociado con una disminución de la absorción de vitamina B12. Es posible que los pacientes que toman repaglinida presenten otros efectos secundarios, pero no una deficiencia de vitamina B12.\n* **🔴 Opción D (Incorrecta):** La pioglitazona es un fármaco antidiabético que no está asociado con una disminución de la absorción de vitamina B12. Es posible que los pacientes que toman pioglitazona presenten otros efectos secundarios, pero no una deficiencia de vitamina B12.\n\n### Perla MIR\n\nPara recordar la respuesta correcta, recuerda que la metformina es el único fármaco antidiabético que puede disminuir la absorción de vitamina B12, lo que lleva a una deficiencia de esta vitamina. Esto justifica la solicitud de una analítica para determinar los niveles de vitamina B12 en pacientes que toman metformina."
   },
   {
     "id": "q-56",
     "localNumber": 56,
     "category": "Pediatría",
-    "stem": "Para tratar una infecci ón en un niño alérgico a la penicilina, de los siguientes antibióticos a los que el germen es sensible según el antibiograma ¿cuál utilizaría?:",
+    "stem": "Para tratar una infección en un niño alérgico a la penicilina, de los siguientes antibióticos a los que el germen es sensible según el antibiograma, cuál utilizaría?",
     "options": [
       "Claritromicina.",
       "Imipenem.",
@@ -767,13 +767,13 @@
       "Norfloxacino."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 56 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La claritromicina es un antibiótico macrólido que no contiene penicilina, por lo que es una excelente opción para tratar infecciones en pacientes alérgicos a la penicilina. Es eficaz contra una amplia gama de bacterias, incluyendo algunas resistentes a otros antibióticos. En este caso, la claritromicina es una buena elección para tratar la infección en el niño alérgico a la penicilina.\n\n- **🔴 Opción B (Incorrecta):** El imipenem es un antibiótico de amplio espectro que contiene un compuesto de penicilina, por lo que no es una buena opción para pacientes alérgicos a la penicilina. Aunque es eficaz contra una amplia gama de bacterias, su estructura química relacionada con la penicilina lo hace inadecuado para este caso.\n\n- **🔴 Opción C (Incorrecta):** La ceftriaxona es un antibiótico cefalosporínico que, aunque no es una penicilina, puede causar reacciones cruzadas en pacientes alérgicos a la penicilina. Aunque es una opción eficaz para tratar infecciones bacterianas, no es la mejor opción en este caso debido al riesgo de reacciones adversas.\n\n- **🔴 Opción D (Incorrecta):** El norfloxacino es un antibiótico de la clase de los fluorquinolonas, que puede no ser la mejor opción para tratar infecciones en pacientes pediátricos. Aunque es eficaz contra algunas bacterias, no es la primera línea de tratamiento para infecciones en niños y puede tener efectos secundarios en esta población."
   },
   {
     "id": "q-57",
     "localNumber": 57,
     "category": "Neurología",
-    "stem": "Uno de las siguientes signos clínicos impide realizar el diagnóstico de muerte cerebral:",
+    "stem": "Uno de los siguientes signos clínicos impide realizar el diagnóstico de muerte cerebral",
     "options": [
       "Presencia de reflejos medulares.",
       "Anisocoria.",
@@ -781,7 +781,7 @@
       "Ausencia de ventilación espontánea."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 57 del examen MIR de la convocatoria FSE."
+    "explanation": "La muerte cerebral se diagnostica según la ausencia de actividad cerebral y la pérdida de reflejos medulares. Consideremos cada opción:\n\n- **🟢 Opción B (Correcta):** La anisocoria se refiere a la diferencia en el tamaño de los pupilas, lo que puede indicar daño cerebral o alteración del sistema nervioso. En un paciente con muerte cerebral, la anisocoria puede ser un signo de daño cerebral adicional, lo que impide realizar el diagnóstico de muerte cerebral.\n\n- **🔴 Opción A (Incorrecta):** La presencia de reflejos medulares no impide el diagnóstico de muerte cerebral. De hecho, la pérdida de reflejos medulares es un signo de muerte cerebral. La presencia de reflejos medulares sugiere que el paciente aún tiene actividad cerebral.\n\n- **🔴 Opción C (Incorrecta):** La ausencia de hipotensión no impide el diagnóstico de muerte cerebral. La hipotensión se refiere a una presión arterial baja, que no es un criterio para el diagnóstico de muerte cerebral.\n\n- **🔴 Opción D (Incorrecta):** La ausencia de ventilación espontánea es un signo de muerte cerebral, no un impedimento para el diagnóstico. La ausencia de ventilación espontaña es uno de los criterios para el diagnóstico de muerte cerebral.\n\nLa muerte cerebral se diagnostica según la ausencia de actividad cerebral, la pérdida de reflejos medulares y la ausencia de ventilación espontánea. La anisocoria es un signo que puede indicar daño cerebral adicional y, por lo tanto, impide el diagnóstico de muerte cerebral."
   },
   {
     "id": "q-58",
