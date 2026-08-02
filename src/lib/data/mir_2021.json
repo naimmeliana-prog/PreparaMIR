@@ -143,35 +143,35 @@
     "id": "q-11",
     "localNumber": 11,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 11. Varón de 52 años, obeso, que acude a urgencias por pérdida de visión brusca en el ojo derecho. En la exploración del fondo de ojo encontramos la imagen representada. El resto de la explora- ción se encuentra dentro de la normalidad. ¿Cuál de las siguientes patologías presenta?:",
+    "stem": "Varón de 52 años, obeso, que acude a urgencias por pérdida de visión brusca en el ojo derecho. En la exploración del fondo de ojo encontramos la imagen representada. El resto de la exploración se encuentra dentro de la normalidad. ¿Cuál de las siguientes patologías presenta?",
     "options": [
       "Retinopatía hipertensiva aguda con estrella macular.",
-      "Retinopatía diabética proliferativa con afecta- ción de cuatro cuadrantes.",
+      "Retinopatía diabética proliferativa con afectación de cuatro cuadrantes.",
       "Retinitis por citomegalovirus.",
-      "Trombosis de vena central de la retina. - 3 -"
+      "Trombosis de vena central de la retina."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 11 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La trombosis de vena central de la retina (TVCR) es una emergencia oftalmológica que se caracteriza por la aparición de una pérdida brusca de visión en un ojo. La exploración del fondo de ojo muestra una imagen característica de una TVCR, con una área de retinopatía isquémica central y una vena central de la retina opacada. La obesidad del paciente es un factor de riesgo para la TVCR, ya que puede aumentar la presión arterial y la coagulación sanguínea. La exploración del resto del ojo está dentro de la normalidad, lo que es consistente con una TVCR aislada. La retinopatía hipertensiva aguda con estrella macular (Opción A) suele ser más común en pacientes con hipertensión crónica y no se asocia con una pérdida brusca de visión. La retinopatía diabética proliferativa (Opción B) es una complicación a largo plazo de la diabetes mellitus y no se asocia con una pérdida brusca de visión. La retinitis por citomegalovirus (Opción C) es una infección viral que puede afectar a pacientes inmunocomprometidos y no se asocia con una pérdida brusca de visión. Por lo tanto, la opción D es la más adecuada en este caso."
   },
   {
     "id": "q-12",
     "localNumber": 12,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 12. Varón de 62 años que consulta por una masa laterocervical derecha de crecimiento progresi- vo que se acompaña de odinofagia. Fumador de 1 paquete de cigarrillos al día desde hace 30 años. Las exploraciones de cavidad oral, orofa- ringoscópica, rinoscópica y otoscópica son nor- males. En la palpación cervical se identifica una adenopatía a nivel III de 4 cm, dura y adherida a planos profundos. ¿Cuál es el diagnóstico clínico más probable según la imagen de larin- goscopia?:",
+    "stem": "Varón de 62 años que consulta por una masa laterocervical derecha de crecimiento progresivo que se acompaña de odinofagia. Fumador de 1 paquete de cigarrillos al día desde hace 30 años. Las exploraciones de cavidad oral, orofaringoscópica, rinoscópica y otoscópica son normales. En la palpación cervical se identifica una adenopatía a nivel III de 4 cm, dura y adherida a planos profundos.",
     "options": [
-      "Carcinoma transglótico derecho con adenopa- tía metastásica.",
+      "Carcinoma transglótico derecho con adenopatía metastásica.",
       "Carcinoma de seno piriforme derecho con adenopatía metastásica.",
-      "Carcinoma de supraglotis derecha con adeno- patía metastásica.",
+      "Carcinoma de supraglotis derecha con adenopatía metastásica.",
       "Carcinoma de amígdala palatina derecha con adenopatía metastásica."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 12 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El carcinoma de seno piriforme derecho con adenopatía metastásica es la opción más probable debido a la localización de la adenopatía en el nivel III, lo que sugiere una metastasis desde el seno piriforme. La edad y el historial de fumador del paciente también aumentan el riesgo de desarrollar cáncer de seno piriforme. Además, la descripción de la adenopatía como dura y adherida a planos profundos es consistente con una metastasis linfática de un cáncer localizado en la región de la laringe. Por lo tanto, la opción B es la más adecuada en este caso. \n\n- **🔴 Opción A (Incorrecta):** El carcinoma transglótico derecho con adenopatía metastásica es una opción menos probable debido a que la adenopatía se encuentra en el nivel III, lo que no es típico para una metastasis linfática de un cáncer transglótico. El carcinoma transglótico suele metastatizar a los niveles II y VI. \n\n- **🔴 Opción C (Incorrecta):** El carcinoma de supraglotis derecha con adenopatía metastásica es una opción menos probable debido a que la adenopatía se encuentra en el nivel III, lo que no es típico para una metastasis linfática de un cáncer de supraglotis. El carcinoma de supraglotis suele metastatizar a los niveles II y VI. \n\n- **🔴 Opción D (Incorrecta):** El carcinoma de amígdala palatina derecha con adenopatía metastásica es una opción menos probable debido a que la adenopatía se encuentra en el nivel III, lo que no es típico para una metastasis linfática de un cáncer de amígdala palatina. El cáncer de amígdala palatina suele metastatizar a los niveles II y VI. \n\n**Perla MIR:** La localización de la adenopatía en el nivel III es clave para determinar el diagnóstico clínico en este caso. Recuerda que la adenopatía en el nivel III es más consistente con una metastasis linfática de un cáncer de seno piriforme que con otros tipos de cáncer de la laringe."
   },
   {
     "id": "q-13",
     "localNumber": 13,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 13. Mujer de 64 años que consulta por dolor cen- trotorácico de 24 horas de evolución sin otras manifestaciones clínicas. En la radiografía de tórax ¿qué hallazgo se encuentra?:",
+    "stem": "Mujer de 64 años que consulta por dolor central en tórax de 24 horas de evolución sin otras manifestaciones clínicas. En la radiografía de tórax ¿qué hallazgo se encuentra?",
     "options": [
       "Aneurisma aórtico.",
       "Pericarditis aguda.",
@@ -179,35 +179,35 @@
       "Hernia hiatal."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 13 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La hernia hiatal es una protrusión del estómago a través de la diaphragma, lo que puede causar dolor central en el tórax. Esta condición es más común en personas mayores y puede ser causada por debilidad en el músculo esfínter del esófago o por el aumento de la presión intraabdominal. En la radiografía de tórax, se puede visualizar la hernia como una masa en el tórax superior, que puede causar una compresión del esófago y del bronquio derecho, lo que puede explicar el dolor central en el tórax de la paciente.\n\n- **🔴 Opción A (Incorrecta):** El aneurisma aórtico es una dilatación anormal de la aorta, que puede ser asintomática o causar dolor en el pecho, pero no es la causa más común de dolor central en el tórax.\n\n- **🔴 Opción B (Incorrecta):** La pericarditis aguda es una inflamación del pericardio, que puede causar dolor en el pecho que se irradia a la espalda, pero no es la causa más común de dolor central en el tórax.\n\n- **🔴 Opción C (Incorrecta):** La neumonía es una infección del pulmón, que puede causar dolor en el pecho y tos, pero no es la causa más común de dolor central en el tórax en una paciente de 64 años sin otras manifestaciones clínicas.\n\nLa hernia hiatal es una condición que debe considerarse en la evaluación de un paciente con dolor central en el tórax, especialmente si la radiografía de tórax muestra una masa en el tórax superior. La clave para diagnosticar esta condición es reconocer los signos y síntomas clínicos y confirmar el diagnóstico con una prueba de imagen."
   },
   {
     "id": "q-14",
     "localNumber": 14,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 14. Varón de 74 años que consulta por dolor en hemitórax derecho de características pleuríticas de 1 semana de evolución, disnea de moderados esfuerzos, tos productiva y febrícula, sin sín- drome general. En la analítica destaca PCR 92,9 mg/L y dímero D 1.630 ng/ml (normal <500). Se muestra la radiografía de tórax póste- ro-anterior. ¿Cuál es el diagnóstico de sospecha y la actitud a seguir?:",
+    "stem": "Varón de 74 años que consulta por dolor en hemitórax derecho de características pleuríticas de 1 semana de evolución, disnea de moderados esfuerzos, tos productiva y febrícula, sin síndrome general. En la analítica destaca PCR 92,9 mg/L y dímero D 1.630 ng/ml (normal <500). Se muestra la radiografía de tórax posteror-anterior. ¿Cuál es el diagnóstico de sospecha y la actitud a seguir?",
     "options": [
       "Solicitar angioTC de arterias pulmonares por sospecha de tromboembolismo pulmonar.",
       "Iniciar tratamiento antibiótico por sospecha de neumonía sin signos de complicación y control radiológico en 4-6 semanas.",
-      "Derivarle a consulta especializada por sospe- cha radiológica de carcinoma de pulmón.",
-      "Solicitar radiografía en decúbito lateral dere- cho por sospecha de derrame pleural encapsu- lado previo a toracocentesis."
+      "Derivarle a consulta especializada por sospecha radiológica de carcinoma de pulmón.",
+      "Solicitar radiografía en decúbito lateral derecho por sospecha de derrame pleural encapsulado previo a toracocentesis."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 14 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La elección correcta es solicitar angioTC de arterias pulmonares por sospecha de tromboembolismo pulmonar. Esto se debe a que el paciente presenta síntomas de disnea de moderados esfuerzos, tos productiva y febrícula, lo que sugiere una posible embolia pulmonar. El aumento de la PCR y el dímero D en la analítica también es consistente con esta condición. El angioTC es una prueba diagnóstica sensible y específica para detectar tromboembolismo pulmonar, por lo que es la opción más adecuada en este caso.\n\n- **🔴 Opción B (Incorrecta):** Iniciar tratamiento antibiótico por sospecha de neumonía sin signos de complicación y control radiológico en 4-6 semanas no es la opción correcta. Si bien la neumonía es una causa posible de los síntomas del paciente, el aumento de la PCR y el dímero D sugiere una condición más grave, como la embolia pulmonar. Además, iniciar tratamiento antibiótico sin una prueba diagnóstica confirmatoria puede ser ineficaz y exponer al paciente a efectos adversos.\n\n- **🔴 Opción C (Incorrecta):** Derivarle a consulta especializada por sospecha radiológica de carcinoma de pulmón no es la opción correcta en este caso. Aunque el carcinoma de pulmón es una causa posible de los síntomas del paciente, el aumento de la PCR y el dímero D es más consistente con una condición aguda, como la embolia pulmonar. Además, la radiografía de tórax no muestra signos específicos de carcinoma de pulmón.\n\n- **🔴 Opción D (Incorrecta):** Solicitar radiografía en decúbito lateral derecho por sospecha de derrame pleural encapsulado previo a toracocentesis no es la opción correcta. Aunque el derrame pleural es una causa posible de los síntomas del paciente, el aumento de la PCR y el dímero D sugiere una condición más grave, como la embolia pulmonar. Además, la toracocentesis es una prueba invasiva que debe ser realizada con precaución y solo cuando se sospecha un derrame pleural encapsulado.\n\nLa perla MIR es recordar que en casos de disnea aguda y aumento de la PCR y el dímero D, se debe sospechar tromboembolismo pulmonar y realizar una prueba diagnóstica sensible y específica, como el angioTC."
   },
   {
     "id": "q-15",
     "localNumber": 15,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 15. En un paciente anticoagulado y antiagregado que presenta lenguaje incoherente sin otras manifestaciones clínicas asociadas, con una imagen en la TC craneal como la que se mues- tra, ¿cuál es el diagnóstico más probable?:",
+    "stem": "Pregunta asociada a la imagen 15. En un paciente anticoagulado y antiagregado que presenta lenguaje incoherente sin otras manifestaciones clínicas asociadas, con una imagen en la TC craneal como la que se muestra, ¿cuál es el diagnóstico más probable?",
     "options": [
-      "Hemorragia subaracnoidea.",
-      "Hematoma intraparenquimatoso.",
-      "Hematoma epidural.",
-      "Hematoma subdural."
+      "Hemorragia subaracnoidea",
+      "Hematoma intraparenquimatoso",
+      "Hematoma epidural",
+      "Hematoma subdural"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 15 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El diagnóstico más probable en este caso es un Hematoma subdural. Esto se debe a que el paciente presenta lenguaje incoherente, lo que sugiere una lesión en el lóbulo temporal izquierdo, donde se encuentra el área de Broca. La presencia de anticoagulación y antiagregación aumenta el riesgo de hemorragia subdural. La imagen de TC craneal probablemente muestra una acumulación de sangre en el espacio subdural, lo que coincide con esta opción.\n\n- **🔴 Opción A (Incorrecta):** La Hemorragia subaracnoidea es una acumulación de sangre en la cavidad subaracnoidea, que rodea el cerebro y la médula espinal. Sin embargo, en este caso, el paciente no presenta otras manifestaciones clínicas asociadas, como dolor de cabeza o convulsiones, que podrían sugerir una hemorragia subaracnoidea. Además, la imagen de TC craneal no muestra una acumulación de sangre en la cavidad subaracnoidea.\n\n- **🔴 Opción B (Incorrecta):** El Hematoma intraparenquimatoso es una acumulación de sangre dentro del tejido cerebral. Sin embargo, en este caso, el paciente presenta lenguaje incoherente, lo que sugiere una lesión en el lóbulo temporal izquierdo, no un hematoma intraparenquimatoso.\n\n- **🔴 Opción C (Incorrecta):** El Hematoma epidural es una acumulación de sangre en el espacio entre la calota craneal y la meninge externa. Sin embargo, en este caso, el paciente no presenta otras manifestaciones clínicas asociadas, como dolor de cabeza o debilidad muscular, que podrían sugerir un hematoma epidural.\n\nLa perla MIR es que en un paciente anticoagulado y antiagregado con lenguaje incoherente, el diagnóstico más probable es un Hematoma subdural."
   },
   {
     "id": "q-16",
