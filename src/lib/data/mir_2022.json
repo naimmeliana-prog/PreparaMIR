@@ -283,7 +283,7 @@
     "id": "q-21",
     "localNumber": 21,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 21. Mujer de 26 años que desde hace 6 días presenta dolor en fosa iliaca derec ha. La palpación es dolorosa en esa zona. La analítica muestra 17.000 leucocitos, con neutrófilos 88 %. Se mues- tra la TC de abdomen. ¿De los siguientes cuál es el diagnóstico más probable?:",
+    "stem": "Mujer de 26 años que desde hace 6 días presenta dolor en fosa iliaca derecha. La palpación es dolorosa en esa zona. La analítica muestra 17.000 leucocitos, con neutrófilos 88 %. Se muestra la TC de abdomen. ¿De los siguientes cuál es el diagnóstico más probable?",
     "options": [
       "Ooforitis.",
       "Apendicitis.",
@@ -291,63 +291,63 @@
       "Absceso de ciego."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 21 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La apendicitis es una causa común de dolor abdominal agudo, especialmente en la fosa iliaca derecha. La presencia de dolor en esta zona y la palpación dolorosa apoyan esta diagnóstico. La elevación de neutrófilos en la analítica sugiere una infección, lo que también es consistente con la apendicitis. La TC de abdomen puede mostrar una apendicitis inflamada o perforada, que es la causa más probable de dolor en la fosa iliaca derecha en este escenario.\n\n- **🔴 Opción A (Incorrecta):** La ooforitis es una inflamación del ovario, que puede causar dolor en la zona lumbar o inferior, pero no es una causa común de dolor en la fosa iliaca derecha.\n\n- **🔴 Opción C (Incorrecta):** La diverticulitis es una inflamación de los divertículos del colon, que puede causar dolor en la zona inferior izquierda, pero no es una causa común de dolor en la fosa iliaca derecha.\n\n- **🔴 Opción D (Incorrecta):** El absceso de ciego es una causa de dolor abdominal, pero es menos común que la apendicitis y no es la causa más probable en este escenario.\n\nLa perla MIR: 'Apendicitis: dolor en fosa iliaca derecha, palpación dolorosa, elevación de neutrófilos y TC de abdomen que muestra inflamación o perforación'."
   },
   {
     "id": "q-22",
     "localNumber": 22,
     "category": "Nefrología",
-    "stem": "Pregunta asociad a a la imagen 22. Varón de 75 años con dolor abdominal intermi- tente, dispepsia y pérdida de peso. Se realiza TC abdominal con contraste de la que se muestra una imagen. Además de la observación casual de un quiste renal izquierdo ¿cuál de los si guientes hallazgo se encuentra?:",
+    "stem": "Varón de 75 años con dolor abdominal intermitente, dispepsia y pérdida de peso. Se realiza TC abdominal con contraste de la que se muestra una imagen. Además de la observación casual de un quiste renal izquierdo, ¿cuál de los siguientes hallazgos se encuentra?",
     "options": [
-      "Tumoración en cola pancreática con calcifica- ciones e invasión tumoral de arteria esplénica.",
+      "Tumoración en cola de pancreática con calcificaciones e invasión tumoral de arteria esplénica.",
       "Calcificaciones pancreáticas difusas en cuerpo y cola pancreática, indicativas de pancreatitis aguda.",
-      "Tumoración en cabeza pancreática con calcifi- caciones e invasión tumoral de arteria espléni- ca.",
+      "Tumoración en cabeza pancreática con calcificaciones e invasión tumoral de arteria esplénica.",
       "Calcificaciones pancreáticas difusas en cuerpo y cola pancreática, indicativas de pancreatitis crónica."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 22 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Las calcificaciones pancreáticas difusas en cuerpo y cola pancreática son indicativas de pancreatitis crónica. La pancreatitis crónica es una enfermedad que puede desarrollarse después de una pancreatitis aguda o como resultado de una enfermedad crónica subyacente. Las calcificaciones pancreáticas son un signo común de pancreatitis crónica, ya que el páncreas puede formar cálculos debido a la inflamación y la necrosis crónica. En este caso, la presencia de calcificaciones en el cuerpo y la cola del páncreas sugiere una pancreatitis crónica, que es una condición común en personas mayores con dolor abdominal intermitente y pérdida de peso. La observación casual de un quiste renal izquierdo no está relacionada con la pancreatitis crónica, pero puede ser un hallazgo incidental en la TC abdominal realizada para evaluar el dolor abdominal. \n\n- **🔴 Opción A (Incorrecta):** La tumoración en cola de pancreática con calcificaciones e invasión tumoral de arteria esplénica es un hallazgo que sugiere un tumor pancreático maligno. Sin embargo, en este caso, no hay información sobre la presencia de un tumor pancreático, y las calcificaciones pancreáticas difusas son más indicativas de pancreatitis crónica que de un tumor. \n\n- **🔴 Opción B (Incorrecta):** Las calcificaciones pancreáticas difusas en cuerpo y cola pancreática indicativas de pancreatitis aguda son poco probables, ya que la pancreatitis aguda generalmente se asocia con dolor abdominal severo y síntomas agudos, lo que no se menciona en el escenario. Además, las calcificaciones en la pancreatitis aguda suelen ser más focales que difusas. \n\n- **🔴 Opción C (Incorrecta):** La tumoración en cabeza pancreática con calcificaciones e invasión tumoral de arteria esplénica es un hallazgo que sugiere un tumor pancreático maligno en la cabeza del páncreas. Sin embargo, en este caso, no hay información sobre la presencia de un tumor pancreático, y las calcificaciones pancreáticas difusas son más indicativas de pancreatitis crónica que de un tumor. \n\nLa perla MIR es que las calcificaciones pancreáticas difusas en cuerpo y cola pancreática son indicativas de pancreatitis crónica, que debe ser considerada en el diagnóstico de dolor abdominal intermitente y pérdida de peso en personas mayores."
   },
   {
     "id": "q-23",
     "localNumber": 23,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 23. Varón de 80 años, sin antecedentes de interés, que refiere dolor cervical progresivo e incapaci- tante que no cede con tratamiento anal gésico. En la ima gen de TC ¿c u á l e s e l d i agnóstico más probable y su posible origen?:",
+    "stem": "Varón de 80 años, sin antecedentes de interés, que refiere dolor cervical progresivo e incapacitante que no cede con tratamiento analgésico. En la imagen de TC, ¿cuál es el diagnóstico más probable y su posible origen?",
     "options": [
       "Espondilosis de origen degenerativo.",
       "Espondilodiscitis de origen infeccioso.",
-      "Metástasis blásticas por un cáncer de próstata.",
+      "Metástasis biliplásticas por un cáncer de próstata.",
       "Metástasis líticas por un cáncer de pulmón."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 23 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La espondilodiscitis de origen infeccioso es la opción más probable en este caso. La edad del paciente (80 años) y la incapacidad para aliviar el dolor cervical con tratamiento analgésico sugieren una causa infecciosa. La espondilodiscitis puede ser causada por una infección bacteriana o fúngica, especialmente en pacientes con sistema inmunológico comprometido. La imagen de TC puede mostrar signos de infección, como la presencia de líquido en la columna vertebral o la actividad inflamatoria en las estructuras óseas cercanas.\n\n- **🔴 Opción A (Incorrecta):** La espondilosis de origen degenerativo es una condición común en la edad avanzada, pero no es la causa más probable en este caso. La espondilosis degenerativa se caracteriza por la desgaste de las articulaciones intervertebrales y la formación de bursas, pero no es una causa infecciosa.\n\n- **🔴 Opción B (Incorrecta):** La espondilodiscitis de origen infeccioso es la opción correcta, no la espondilosis. Además, la espondilosis no es una condición infecciosa.\n\n- **🔴 Opción D (Incorrecta):** Las metástasis líticas por un cáncer de pulmón no son la causa más probable en este caso. Si bien las metástasis pueden ocurrir en la columna vertebral, las metástasis líticas son menos comunes y no están relacionadas con el dolor cervical progresivo descrito en el escenario.\n\nLa perla MIR: Recuerda que la espondilodiscitis de origen infeccioso es una causa importante de dolor cervical en pacientes mayores, especialmente si no responde al tratamiento analgésico."
   },
   {
     "id": "q-24",
     "localNumber": 24,
     "category": "Infecciosas",
-    "stem": "Pregunta asociad a a la imagen 24. Mujer de 36 años sin antecedentes de interés que acude a ur gencias por molestias retroesternales con la de glución, sin fiebre ni clínica infecciosa. Refiere un cuadro de años de evolución de episo- dios intermitentes de detención alimentaria a nivel retroesternal tras la in gesta de sólidos y líquidos. Se acompaña de pérdida de peso pro- gresiva. La analítica san guínea es normal. En la radiografía de tórax se observa ensanchamiento mediastínico, por lo que se realiza la TC torácica con contraste intravenoso que se muestra en la imagen. ¿Cuál es el diagnóstico más probable?:",
+    "stem": "Mujer de 36 años sin antecedentes de interés que acude a urgencias por molestias retroesternales con dolor, sin fiebre ni clínica infecciosa. Refiere un cuadro de años de evolución de episodios intermitentes de detención alimentaria a nivel retroesternal tras la ingesta de sólidos y líquidos. Se acompaña de pérdida de peso progresiva. La analítica saneada es normal. En la radiografía de tórax se observa ensanchamiento mediastínico, por lo que se realiza la TC torácica con contraste intravenoso que se muestra en la imagen. ¿Cuál es el diagnóstico más probable?",
     "options": [
       "Acalasia.",
       "Gran divertículo esofágico de Zenker.",
       "Espasmo esofágico difuso.",
-      "Retención alimentaria por tumor submucoso (leiomioma) obstructivo en tercio distal esofá- gico."
+      "Retención alimentaria por tumor submucoso (leiomioma) obstructivo en tercio distal esofágico."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 24 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La acalasia es un trastorno del esfínter inferior del esófago que impide la correcta deglución de alimentos, lo que lleva a episodios intermitentes de detención alimentaria. La pérdida de peso progresiva se debe a la malnutrición y la disfagia. La radiografía de tórax muestra ensanchamiento mediastínico debido a la dilatación del esófago. La TC torácica con contraste intravenoso confirma la acalasia como el diagnóstico más probable. \n\n- **🔴 Opción B (Incorrecta):** El gran divertículo esofágico de Zenker es un trastorno que ocurre en la parte superior del esófago y no se asocia con la detención alimentaria en el nivel retroesternal. Además, no causa pérdida de peso progresiva. \n\n- **🔴 Opción C (Incorrecta):** El espasmo esofágico difuso es un trastorno que causa dolor y dificultad para tragar, pero no se asocia con la detención alimentaria intermitente ni con pérdida de peso progresiva. \n\n- **🔴 Opción D (Incorrecta):** La retención alimentaria por tumor submucoso (leiomioma) obstructivo en tercio distal esofágico es un trastorno que causa obstrucción del esófago, pero no se asocia con la detención alimentaria intermitente ni con pérdida de peso progresiva. \n\nLa perla MIR es: \"Acalasia: recuerda que la detención alimentaria intermitente y la pérdida de peso progresiva en un paciente con ensanchamiento mediastínico en la radiografía de tórax sugieren acalasia\""
   },
   {
     "id": "q-25",
     "localNumber": 25,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 25. Mu jer de 58 años con un cuadro de meses de evolución de tos, odinofa gia y carraspeo, que consulta por presentar esputos hemoptoicos. No refiere fiebre ni disnea. Exfumadora hace más de 30 años (fumó durante 10 años 1 paq/día). La analítica es normal. Se muestra la radio grafía de tórax póstero-anterior. ¿Qué hallazgo se encuen- tra?:",
+    "stem": "Una mujer de 58 años con un cuadro de meses de evolución de tos, odinofagia y carraspeo, que consulta por presentar esputos hemoptoicos. No refiere fiebre ni disnea. Exfumadora hace más de 30 años (fumó durante 10 años 1 paquete/día). La analítica es normal.",
     "options": [
       "Atelectasia de lóbulo inferior izquierdo.",
       "Derrame pleural subpulmonar izquierdo.",
       "Hernia de Bochdalek o defecto diafragmático posterior izquierdo.",
-      "Hiperinsuflación pulmonar derecha por bron- quiectasias e impactos mucosos basales."
+      "Hiperinsuflación pulmonar derecha por bronquiectasias e impactos mucosos basales."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 25 del examen MIR de la convocatoria FSE."
+    "explanation": "La paciente presenta un cuadro clínico de enfermedad pulmonar obstructiva crónica (EPOC) con tos, odinofagia y carraspeo, así como esputos hemoptoicos. La exfumadora y la falta de fiebre y disnea apoyan esta diagnóstico. La radiografía de tórax es clave para determinar la causa de la EPOC.\n\n**🟢 Opción A (Correcta):** La atelectasia de lóbulo inferior izquierdo es una lesión pulmonar caracterizada por la compresión y la atrofia de una parte del pulmón, lo que puede causar dificultad respiratoria y tos. En el caso de la paciente, la atelectasia podría estar relacionada con la EPOC y la exposición a tabaco.\n\n**🔴 Opción B (Incorrecta):** El derrame pleural subpulmonar izquierdo es una condición en la que se acumula líquido en la cavidad pleural del pulmón izquierdo. Aunque esto podría causar dificultad respiratoria, no se relaciona directamente con la EPOC y la exposición a tabaco en este caso.\n\n**🔴 Opción C (Incorrecta):** La hernia de Bochdalek o defecto diafragmático posterior izquierdo es una condición en la que se perfora el diafragma, lo que puede causar una hernia en la cavidad torácica. Esto no se relaciona con la EPOC y la exposición a tabaco en este caso.\n\n**🔴 Opción D (Incorrecta):** La hiperinsuflación pulmonar derecha por bronquiectasias e impactos mucosos basales es una condición en la que se infla el pulmón derecho debido a la presencia de bronquiectasias y impactos mucosos basales. Aunque esto podría causar dificultad respiratoria, no se relaciona directamente con la EPOC y la exposición a tabaco en este caso.\n\nLa perla MIR es que la EPOC es una causa común de tos y dificultad respiratoria en fumadores, y la radiografía de tórax es clave para determinar la causa de la EPOC."
   },
   {
     "id": "q-26",
