@@ -353,7 +353,7 @@
     "id": "q-26",
     "localNumber": 26,
     "category": "General",
-    "stem": "En un paciente con síndrome nefrótico es posible encontrar una de las si guientes alteraciones plasmáticas en el perfil lipoproteico:",
+    "stem": "En un paciente con síndrome nefrótico es posible encontrar una de las siguientes alteraciones plasmáticas en el perfil lipoproteico:",
     "options": [
       "Disminución de las lipoproteínas de muy baja densidad (VLDL).",
       "Aumento de la apolipoproteína B-100.",
@@ -361,55 +361,55 @@
       "Aumento de la actividad lipoproteínlipasa (LPL)."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 26 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** En el síndrome nefrótico, se produce una hiperlipidemia secundaria a la hiperalbuminemia y la disminución de la proteína C- reactiva. La apolipoproteína B-100 es una proteína que se encuentra en las lipoproteínas de baja densidad (LDL) y las muy bajas densidades (VLDL). La hiperalbuminemia y la hiperlipidemia en el síndrome nefrótico llevan a un aumento de la apolipoproteína B-100, ya que el álbuminuria aumenta la producción de apolipoproteínas de las células de la placenta y otros tejidos.\n\n- **🔴 Opción A (Incorrecta):** La disminución de las lipoproteínas de muy baja densidad (VLDL) no es una característica del síndrome nefrótico. De hecho, se produce una hipertrigliceridemia en este trastorno, lo que implica un aumento de las VLDL.\n\n- **🔴 Opción C (Incorrecta):** El aumento de la apolipoproteína A-I tampoco es característico del síndrome nefrótico. La apolipoproteína A-I es una proteína que se encuentra en las lipoproteínas de alta densidad (HDL), y en el síndrome nefrótico, la hiperlipidemia se asocia con un aumento de las LDL y las VLDL, no de las HDL.\n\n- **🔴 Opción D (Incorrecta):** El aumento de la actividad lipoproteínlipasa (LPL) tampoco es una característica del síndrome nefrótico. La LPL es una enzima que descompone las triglicéridos de las VLDL y las LDL, y en el síndrome nefrótico, se produce una hipertrigliceridemia debido a la disminución de la actividad de la LPL.\n\nLa perla MIR: En el síndrome nefrótico, se produce una hiperlipidemia secundaria a la hiperalbuminemia y la disminución de la proteína C-reactiva, lo que lleva a un aumento de la apolipoproteína B-100."
   },
   {
     "id": "q-27",
     "localNumber": 27,
     "category": "General",
-    "stem": "En relación con el metabolismo de compuestos nitrogenados, el músculo esquelético es capaz de:",
+    "stem": "En relación con el metabolismo de compuestos nitrogenados, el músculo esquelético es capaz de",
     "options": [
-      "Sintetizar de forma limitada urea en situacio- nes de disfunción hepática para paliar la toxi- cidad del amoníaco.",
-      "Utilizar los alfa-cetoácidos derivados de los aminoácidos ramificados como fuente energé- tica.",
+      "Sintetizar de forma limitada urea en situaciones de disfunción hepática para paliar la toxicidad del amoníaco.",
+      "Utilizar los alfa-cetoácidos derivados de los aminoácidos ramificados como fuente energética.",
       "Producir alanina por transaminación a partir de piruvato y ácido aspártico, particularmente en determinadas situaciones de ayuno.",
       "Elaborar creatina utilizando glicina, ATP y amoníaco para obtener creatin-fosfato como reserva energética y posibilitar su uso durante el ejercicio."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 27 del examen MIR de la convocatoria FSE."
+    "explanation": "El examen MIR es un desafío importante para los médicos que aspiran a ser especialistas en una rama específica de la medicina. En el contexto del metabolismo de compuestos nitrogenados, el músculo esquelético tiene varias funciones importantes.\n\n**🟢 Opción B (Correcta):** El músculo esquelético es capaz de utilizar los alfa-cetoácidos derivados de los aminoácidos ramificados como fuente energética. Esto es posible gracias a la presencia de enzimas como la branched-chain ketoacid dehydrogenase (BCKD), que desempeña un papel crucial en la conversión de los alfa-cetoácidos en energía. Esta capacidad es especialmente importante en situaciones de ayuno o restricción alimentaria, donde el músculo esquelético debe proporcionar energía al organismo.\n\n**🔴 Opción A (Incorrecta):** La síntesis de urea en el músculo esquelético es limitada y no es una función principal de este tejido. La síntesis de urea es principalmente responsabilidad del hígado, que utiliza la orina como vía de eliminación de los productos nitrogenados.\n\n**🔴 Opción C (Incorrecta):** La producción de alanina por transaminación a partir de piruvato y ácido aspártico es una función de los tejidos hepáticos y no del músculo esquelético. La alanina es un aminoácido importante que se utiliza como fuente de energía y como intermediario en la síntesis de glucosa.\n\n**🔴 Opción D (Incorrecta):** La elaboración de creatina utilizando glicina, ATP y amoníaco es una función del músculo estriado, pero no es la principal función del músculo esquelético en el contexto del metabolismo de compuestos nitrogenados. La creatina es una importante fuente de energía para el músculo estriado, pero su síntesis no es directamente relacionada con el metabolismo de compuestos nitrogenados.\n\nLa perla MIR para recordar esta opción es: **'BCKD, el aliado del músculo esquelético en el metabolismo de compuestos nitrogenados'**."
   },
   {
     "id": "q-28",
     "localNumber": 28,
     "category": "General",
-    "stem": "En la glucogenosis de t ipo Ia (enfermedad de von Gierke) por déficit de glucosa-6-fosfatasa es característico:",
+    "stem": "En la glucogenosis de tipo Ia (enfermedad de von Gierke) por déficit de glucosa-6-fosfatasa es característico:",
     "options": [
       "El aumento de glucógeno muscular.",
-      "La hipouricemia por reducción en la reabsor- ción renal de ácido úrico.",
+      "La hipouricemia por reducción en la reabsorción renal de ácido úrico.",
       "El aumento del lactato plasmático.",
-      "La disminución de la síntesis hepática de tri- glicéridos."
+      "La disminución de la síntesis hepática de triglicéridos."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 28 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La glucogenosis de tipo Ia, también conocida como enfermedad de von Gierke, es una condición genética caracterizada por la deficiencia de la enzima glucosa-6-fosfatasa en el hígado. Esta enzima es responsable de la conversión de glucosa-6-fosfato en glucosa-1-fosfato, un paso crucial en la síntesis de glucógeno. La deficiencia de esta enzima conduce a una acumulación de glucógeno en el hígado y, en menor medida, en otros tejidos, como el músculo. Sin embargo, el aumento del glucógeno muscular no es la característica principal de esta condición. Por otro lado, el aumento del lactato plasmático es una consecuencia de la deficiencia de glucosa-6-fosfatasa, ya que el hígado no puede metabolizar la glucosa adecuadamente, lo que lleva a una acumulación de lactato en el torrente sanguíneo. Esta opción es correcta porque refleja la consecuencia clínica directa de la deficiencia de la enzima glucosa-6-fosfatasa en la glucogenosis de tipo Ia. \n\n- **🔴 Opción A (Incorrecta):** El aumento de glucógeno muscular no es una característica principal de la glucogenosis de tipo Ia. Si bien se puede observar una acumulación de glucógeno en el músculo, esto no es lo más destacado en esta condición. La deficiencia de glucosa-6-fosfatasa en el hígado es la causa principal de la enfermedad. \n\n- **🔴 Opción B (Incorrecta):** La hipouricemia no es una característica de la glucogenosis de tipo Ia. La deficiencia de glucosa-6-fosfatasa no afecta directamente la reabsorción renal de ácido úrico, por lo que la hipouricemia no es una consecuencia de esta condición. \n\n- **🔴 Opción D (Incorrecta):** La disminución de la síntesis hepática de triglicéridos no es una característica de la glucogenosis de tipo Ia. La deficiencia de glucosa-6-fosfatasa afecta la síntesis de glucógeno, pero no directamente la síntesis de triglicéridos en el hígado. \n\nLa glucogenosis de tipo Ia es una condición caracterizada por la deficiencia de la enzima glucosa-6-fosfatasa en el hígado, lo que conduce a una acumulación de glucógeno y, en menor medida, en otros tejidos. El aumento del lactato plasmático es una consecuencia directa de esta deficiencia, lo que lo hace la característica principal de esta condición."
   },
   {
     "id": "q-29",
     "localNumber": 29,
     "category": "General",
-    "stem": "En relación con las presiones que ori ginan el movimiento de entrada y salida de aire en los pulmones en una persona sana, señale la afirma- ción INCORRECTA:",
+    "stem": "En relación con las presiones que originan el movimiento de entrada y salida de aire en los pulmones en una persona sana, señale la afirmación INCORRECTA:",
     "options": [
-      "La aspiración continua del exceso de líquidos hacia los conductos linfáticos mantiene una li- gera presión negativa entre la superficie visce- ral del pulmón y la superficie pleural parietal de la cavidad torácica.",
-      "Durante la inspiración normal, la presión pleu- ral se hace más negativa.",
-      "Durante la espiración normal, la presión alveo- lar disminuye con respecto al valor de la pre- sión atmosférica.",
-      "La presión transpulmonar (presión alveolar menos presión pleural) tiende a colapsar los pulmones durante el ciclo respiratorio comple- to."
+      "La aspiración continua del exceso de líquidos hacia los conductos linfáticos mantiene una ligera presión negativa entre la superficie visceral del pulmón y la superficie pleural parietal de la cavidad torácica.",
+      "Durante la inspiración normal, la presión pleural se hace más negativa.",
+      "La presión transpulmonar (presión alveolar menos presión pleural) tiende a colapsar los pulmones durante el ciclo respiratorio completo.",
+      "Durante la espiración normal, la presión alveolar disminuye con respecto al valor de la presión atmosférica."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 29 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La presión transpulmonar (presión alveolar menos presión pleural) tiende a colapsar los pulmones durante el ciclo respiratorio completo. Esto se debe a que la presión pleural se hace más negativa durante la inspiración, lo que aumenta la presión transpulmonar y puede causar colapso alveolar. Durante la espiración, la presión pleural se vuelve más positiva, lo que reduce la presión transpulmonar y ayuda a mantener la expansión alveolar. Sin embargo, si la presión pleural se vuelve demasiado negativa, la presión transpulmonar puede ser suficiente para colapsar los alvéolos y reducir la capacidad de intercambio gaseoso en los pulmones.\n\n- **🔴 Opción A (Incorrecta):** La afirmación de que la aspiración continua del exceso de líquidos hacia los conductos linfáticos mantiene una ligera presión negativa entre la superficie visceral del pulmón y la superficie pleural parietal de la cavidad torácica es incorrecta. La presión negativa entre la superficie visceral del pulmón y la superficie pleural parietal se debe principalmente a la presión pleural, que es la presión en el espacio pleural que rodea los pulmones. La aspiración de líquidos hacia los conductos linfáticos no es un mecanismo importante en la regulación de la presión pleural.\n\n- **🔴 Opción B (Incorrecta):** La afirmación de que durante la inspiración normal, la presión pleural se hace más negativa es correcta. Sin embargo, la afirmación de que la presión pleural se vuelve más negativa durante la inspiración es un poco confusa. La presión pleural se vuelve más negativa durante la inspiración, pero esto no es lo que hace que la presión pleural se vuelve más negativa. La presión pleural se vuelve más negativa debido a la expansión del tórax y la contracción de los músculos intercostales, lo que aumenta la presión en el espacio pleural.\n\n- **🔴 Opción D (Incorrecta):** La afirmación de que durante la espiración normal, la presión alveolar disminuye con respecto al valor de la presión atmosférica es incorrecta. Durante la espiración, la presión alveolar aumenta con respecto al valor de la presión atmosférica. Esto se debe a que la espiración es un proceso de expansión del pulmón, lo que aumenta la presión en los alvéolos. La presión alveolar se vuelve más alta que la presión atmosférica para permitir que el aire salga de los pulmones.\n\nLa perla MIR: La clave para entender las presiones que originan el movimiento de entrada y salida de aire en los pulmones es comprender la relación entre la presión pleural y la presión alveolar. La presión pleural es la presión en el espacio pleural que rodea los pulmones, y la presión alveolar es la presión en los alvéolos. Durante la inspiración, la presión pleural se vuelve más negativa, lo que aumenta la presión transpulmonar y puede causar colapso alveolar. Durante la espiración, la presión pleural se vuelve más positiva, lo que reduce la presión transpulmonar y ayuda a mantener la expansión alveolar."
   },
   {
     "id": "q-30",
     "localNumber": 30,
     "category": "General",
-    "stem": "El flujo sanguíneo tur bulento tiende a aumentar en proporción directa a to dos los siguientes fac- tores EXCEPTO UNO. Señale cuál:",
+    "stem": "El flujo sanguíneo turbulento tiende a aumentar en proporción directa a dos los siguientes factores EXCEPTO UNO.",
     "options": [
       "Viscosidad de la sangre.",
       "Velocidad del flujo sanguíneo.",
@@ -417,7 +417,7 @@
       "Densidad de la sangre."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 30 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La viscosidad de la sangre es el factor que se opone al flujo sanguíneo. A medida que aumenta la viscosidad, el flujo sanguíneo turbulento disminuye, en lugar de aumentar en proporción directa. Esto se debe a que la viscosidad aumenta la resistencia al flujo, lo que reduce la turbulencia.\n\n- **🔴 Opción B (Incorrecta):** La velocidad del flujo sanguíneo es un factor que aumenta la turbulencia. A medida que la velocidad aumenta, el flujo sanguíneo se vuelve más turbulento. Esto se debe a que la velocidad aumenta la energía cinética del flujo, lo que facilita la formación de turbulencias.\n\n- **🔴 Opción C (Incorrecta):** El diámetro del vaso sanguíneo es otro factor que aumenta la turbulencia. A medida que el diámetro aumenta, el flujo sanguíneo se vuelve más turbulento. Esto se debe a que el diámetro aumenta la sección transversal del vaso, lo que facilita la formación de turbulencias.\n\n- **🔴 Opción D (Incorrecta):** La densidad de la sangre es un factor que aumenta la viscosidad, pero no directamente la turbulencia. A medida que la densidad aumenta, la viscosidad también aumenta, lo que reduce la turbulencia. Sin embargo, esto no se considera un factor que aumente la turbulencia.\n\nPerla MIR: La turbulencia en el flujo sanguíneo es influenciada por la viscosidad, velocidad y diámetro del vaso sanguíneo. La viscosidad es el factor que se opone al flujo sanguíneo, por lo que no aumenta la turbulencia en proporción directa."
   },
   {
     "id": "q-31",
