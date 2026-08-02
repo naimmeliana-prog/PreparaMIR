@@ -2201,7 +2201,7 @@
     "id": "q-158",
     "localNumber": 158,
     "category": "General",
-    "stem": "Una de las siguientes escalas, usadas para valorar la fragilidad, requiere la realización de pruebas de ejecución:",
+    "stem": "Una de las siguientes escalas usadas para valorar la fragilidad requiere la realización de pruebas de ejecución.",
     "options": [
       "La escala FRAIL.",
       "El índice de fragilidad de Rockwood.",
@@ -2209,41 +2209,41 @@
       "La Short Physical Performance Battery (SPPB)."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 158 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La escala FRAIL es una herramienta utilizada para evaluar la fragilidad en adultos mayores. No requiere la realización de pruebas de ejecución, sino que se basa en la evaluación de cinco componentes: inactividad, pérdida de peso, fatiga, malnutrición y cambios en la función física. Por lo tanto, esta opción no es la correcta en este caso.\n\n- **🔴 Opción B (Incorrecta):** El índice de fragilidad de Rockwood es una herramienta utilizada para evaluar la fragilidad en adultos mayores. No requiere la realización de pruebas de ejecución, sino que se basa en la evaluación de múltiples factores de riesgo. Por lo tanto, esta opción no es la correcta en este caso.\n\n- **🔴 Opción C (Incorrecta):** La Clinical Frailty Scale (CFS) es una herramienta utilizada para evaluar la fragilidad en adultos mayores. Aunque puede requerir la evaluación de la función física, no necesariamente requiere la realización de pruebas de ejecución. Por lo tanto, esta opción no es la correcta en este caso.\n\n- **🟢 Opción D (Correcta):** La Short Physical Performance Battery (SPPB) es una herramienta utilizada para evaluar la función física en adultos mayores. Requiere la realización de pruebas de ejecución, como caminar a paso rápido, subir escaleras y equilibrarse en una pierna. Por lo tanto, esta opción es la correcta en este caso.\n\n**Perla MIR:** La fragilidad es un estado de mayor vulnerabilidad a la enfermedad, la discapacidad y la muerte. La evaluación de la fragilidad es crucial en la práctica clínica, y las pruebas de ejecución, como la SPPB, son esenciales para evaluar la función física en adultos mayores."
   },
   {
     "id": "q-159",
     "localNumber": 159,
     "category": "General",
-    "stem": "Hombre de 84 años que acude a su m édico de familia porque, tr as haberse caído tres veces a lo largo del último año, tiene miedo a volver a caerse. Se le hace una prueba cronometrada \"Levántese y Ande\" (Get Up and Go), que tarda en completar 21 segundos (normal <10 s) . Respec to el ries go de caída que presenta, señale la respuesta correcta:",
+    "stem": "Hombre de 84 años que acude a su médico de familia porque, tras haberse caído tres veces a lo largo del último año, tiene miedo a volver a caerse. Se le hace una prueba cronometrada 'Levántese y Ande' (Get Up and Go), que tarda en completar 21 segundos (normal <10 s). Respecto al riesgo de caída que presenta, señale la respuesta correcta.",
     "options": [
       "El riesgo es bajo, por lo que se reevaluará dentro de un año.",
-      "El riesgo es i ntermedio, por lo que se rea lizará educación general para prevenir futura s caídas sin intervención individualizada.",
-      "No tiene riesgo de nueva s caídas, no precisa seguimiento.",
-      "El riesgo es alto, por l o que se realizará una valoración multifactorial del riesgo de caídas con intervención individualizada."
+      "El riesgo es intermedio, por lo que se realizará educación general para prevenir futuras caídas sin intervención individualizada.",
+      "No tiene riesgo de nuevas caídas, no precisa seguimiento.",
+      "El riesgo es alto, por lo que se realizará una valoración multifactorial del riesgo de caídas con intervención individualizada."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 159 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La respuesta correcta es D porque el paciente tiene un riesgo alto de caídas, como lo indica el resultado de la prueba cronometrada 'Levántese y Ande', que tarda 21 segundos en completar, lo que es considerado anormal (>10 s). Además, el paciente tiene una edad avanzada (84 años) y ha tenido tres caídas en el último año, lo que aumenta su riesgo de sufrir nuevas caídas. Por lo tanto, se requiere una valoración multifactorial del riesgo de caídas con intervención individualizada para prevenir futuras caídas y proteger la integridad del paciente.\n\n- **🔴 Opción A (Incorrecta):** La respuesta A no es correcta porque el paciente tiene un riesgo alto de caídas, como se indica en el escenario, por lo que no es adecuado reevaluarlo dentro de un año sin realizar una valoración multifactorial del riesgo de caídas.\n\n- **🔴 Opción B (Incorrecta):** La respuesta B no es correcta porque el paciente tiene un riesgo alto de caídas, como se indica en el escenario, por lo que no es adecuado realizar educación general para prevenir futuras caídas sin intervención individualizada.\n\n- **🔴 Opción C (Incorrecta):** La respuesta C no es correcta porque el paciente tiene un riesgo alto de caídas, como se indica en el escenario, por lo que no es adecuado decir que no tiene riesgo de nuevas caídas y no precisa seguimiento.\n\nLa perla MIR para recordar este concepto es: 'En pacientes con alto riesgo de caídas, se requiere una valoración multifactorial del riesgo de caídas con intervención individualizada para prevenir futuras caídas y proteger la integridad del paciente'."
   },
   {
     "id": "q-160",
     "localNumber": 160,
     "category": "General",
-    "stem": "Hombre de 93 años c on antecedentes de HT A, diabetes melli tus, hiperplasia be nigna de pr óstata y demencia mixta leve. Necesita a yuda d e un a persona p ara bajar las es caleras, es incontinente urinario per o él mismo se cambi a el pañal y es independiente para el res to de las actividades básicas de la vida diaria, con dependencia para la mayoría de actividades i nstrumentales. Ha sido intervenido de una fr actura subcapital de fém ur derecho Garden I V de etiología osteoporótica con colocación de hemiartr oplastia, sin presentar complicaciones médicas ni quirúr gicas. Seña le la respuesta correcta:",
+    "stem": "Hombre de 93 años con antecedentes de HTA, diabetes mellitus, hiperplasia benigna de próstata y demencia mixta leve necesita ayuda para bajar las escaleras, es incontinente urinario pero se cambia él mismo el pañal y es independiente para el resto de las actividades básicas de la vida diaria, con dependencia para la mayoría de actividades instrumentales. Ha sido intervenido de una fractura subcapital de fémur derecho de tipo Garden IV de etiología osteoporótica con colocación de hemiartróplastia, sin presentar complicaciones médicas ni quirúrgicas.",
     "options": [
       "No es candidato a tratamiento osteoprotector por edad y presencia de demencia.",
-      "No se deben iniciar bi fosfonatos si presenta hipocalcemia.",
-      "Debe s uplementarse co n calcio au nque su s valores sean normales.",
-      "Debe permanecer encamado seis semanas tras la intervención qu irúrgica p ara mejorar la consolidación de la fractura."
+      "No se deben iniciar bisfosfonatos si presenta hipocalcemia.",
+      "Debe suplementarse con calcio aunque sus valores sean normales.",
+      "Debe permanecer encamado seis semanas tras la intervención quirúrgica para mejorar la consolidación de la fractura."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 160 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta evalúa la capacidad del examinado para tomar decisiones clínicas basadas en la edad y la condición del paciente. El paciente es un anciano con múltiples comorbilidades y una fractura de fémur que ha sido intervenida quirúrgicamente. La respuesta correcta es la opción B, ya que la hipocalcemia es un contraindicación para el uso de bisfosfonatos, que son medicamentos utilizados para prevenir la pérdida de densidad ósea en pacientes con osteoporosis. La opción B es la correcta porque si el paciente presenta hipocalcemia, no se deben iniciar bisfosfonatos para evitar agravar la hipocalcemia y precipitar reacciones adversas.\n\n**🟢 Opción B (Correcta):** La hipocalcemia es un contraindicación para el uso de bisfosfonatos, por lo que no se deben iniciar en pacientes con hipocalcemia.\n\n**🔴 Opción A (Incorrecta):** La edad y la presencia de demencia no son contraindicaciones para el tratamiento osteoprotector. De hecho, los pacientes ancianos con osteoporosis pueden beneficiarse de un tratamiento osteoprotector para prevenir la pérdida de densidad ósea y reducir el riesgo de fracturas.\n\n**🔴 Opción C (Incorrecta):** Suplementar con calcio a pacientes con valores de calcio normales no es necesario. El calcio es un nutriente importante para la salud ósea, pero solo se recomienda suplementar en pacientes con déficit de calcio.\n\n**🔴 Opción D (Incorrecta):** La duración del período de reposo después de una fractura de fémur depende de la gravedad de la fractura y la condición del paciente. En general, se recomienda un período de reposo de 2-6 semanas, pero no es necesario permanecer encamado durante todo ese tiempo. El paciente puede realizar actividades suaves y caminar con apoyo para mejorar la consolidación de la fractura."
   },
   {
     "id": "q-161",
     "localNumber": 161,
     "category": "General",
-    "stem": "Hombre de 91 años que consul ta por creciente dificultad para hacer su s tareas h abituales y sensación de debilidad. Su IMC es de 22,5 y su masa muscular medida po r bioim pedanciometría es de 14 k g (normal >20 k g) con aumento del porcentaje de grasa, su fuerza de prensión es de 19 kg (> 27 k g) y su velocidad de la marcha 0,7 m/s (>1,0 m/s). ¿Cuál de l os siguientes diagnósticos es más probable?:",
+    "stem": "Hombre de 91 años que consulta por creciente dificultad para hacer sus tareas habituales y sensación de debilidad. Su IMC es de 22,5 y su masa muscular medida por bioimpedanciometría es de 14 kg (normal >20 kg) con aumento del porcentaje de grasa, su fuerza de prensión es de 19 kg (> 27 kg) y su velocidad de la marcha 0,7 m/s (>1,0 m/s).",
     "options": [
       "Envejecimiento normal.",
       "Sarcopenia grave.",
@@ -2251,21 +2251,21 @@
       "Caquexia."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 161 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La caquexia es un estado de pérdida de peso y debilidad muscular asociado a enfermedades crónicas, como el cáncer o la enfermedad de Alzheimer. En este caso, el paciente tiene 91 años y presenta una masa muscular baja (14 kg), lo que sugiere una pérdida de masa muscular significativa. Además, su fuerza de prensión es baja (19 kg) y su velocidad de la marcha es lenta (0,7 m/s), lo que indica una debilidad muscular y una disminución en la capacidad funcional. La caquexia es un diagnóstico más probable en este paciente debido a su edad avanzada y los signos de debilidad muscular y pérdida de peso que presenta.\n\n- **🔴 Opción A (Incorrecta):** El envejecimiento normal no se caracteriza por una pérdida significativa de masa muscular y una debilidad muscular. Aunque es cierto que la masa muscular disminuye con la edad, en este caso el paciente tiene una masa muscular muy baja (14 kg) y una fuerza de prensión y velocidad de la marcha anormalmente bajas, lo que sugiere una condición patológica más que una simple disminución con la edad.\n\n- **🔴 Opción B (Incorrecta):** La sarcopenia grave se caracteriza por una pérdida significativa de masa muscular en personas mayores, pero en este caso el paciente tiene una masa muscular muy baja (14 kg) y una fuerza de prensión y velocidad de la marcha anormalmente bajas. Además, la sarcopenia grave no se asocia necesariamente con un aumento del porcentaje de grasa, lo que es un signo presente en este paciente.\n\n- **🔴 Opción C (Incorrecta):** La malnutrición moderada puede causar una pérdida de peso y debilidad muscular, pero en este caso el paciente tiene una masa muscular muy baja (14 kg) y una fuerza de prensión y velocidad de la marcha anormalmente bajas. Además, la malnutrición moderada no se asocia necesariamente con un aumento del porcentaje de grasa, lo que es un signo presente en este paciente.\n\nLa caquexia es un diagnóstico crítico que debe considerarse en pacientes mayores con pérdida significativa de masa muscular y debilidad muscular, ya que puede estar asociada con una disminución en la capacidad funcional y una mayor morbimortalidad."
   },
   {
     "id": "q-162",
     "localNumber": 162,
     "category": "General",
-    "stem": "Respecto a los c ambios d el sistema in munitario que aparece n con el enve jecimiento, definidos como inmunosenescencia, señale la respues ta correcta:",
+    "stem": "Respecto a los cambios del sistema inmunológico que aparecen con el envejecimiento, definidos como inmunosenescencia, señale la respuesta correcta:",
     "options": [
-      "La di sminución de i nterleuquina 6 se relaciona con fragilidad y demencia.",
+      "La disminución de interleucina 6 se relaciona con fragilidad y demencia.",
       "Disminuye el número de linfocitos T.",
       "Disminuye el factor de necrosis tumoral.",
-      "Disminuye la producción de autoanticuerpos por los linfocitos B. (--MEDICINA-0--25/36) Pagina: 23 de 34"
+      "Disminuye la producción de autoanticuerpos por los linfocitos B."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 162 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La inmunosenescencia se caracteriza por una disminución en la función y cantidad de linfocitos T, lo que puede afectar la respuesta inmunológica y aumentar el riesgo de infecciones y enfermedades. Esta disminución en la función de los linfocitos T es una de las principales causas de la inmunosenescencia. Por lo tanto, esta opción es la correcta ya que describe uno de los cambios más relevantes en el sistema inmunológico con el envejecimiento.\n\n- **🔴 Opción A (Incorrecta):** La disminución de interleucina 6 (IL-6) no se relaciona directamente con la fragilidad y la demencia. Aunque la IL-6 es una citocina que desempeña un papel importante en la inflamación y la respuesta inmunológica, su disminución no es un marcador de fragilidad o demencia. Por lo tanto, esta opción no es la adecuada en este caso.\n\n- **🔴 Opción C (Incorrecta):** El factor de necrosis tumoral (TNF) es una citocina que desempeña un papel importante en la inflamación y la respuesta inmunológica. La inmunosenescencia puede afectar la producción de TNF, pero no es una disminución directa. De hecho, algunos estudios han sugerido que la producción de TNF puede aumentar con el envejecimiento, lo que puede contribuir a la inflamación crónica y la aparición de enfermedades relacionadas con la edad. Por lo tanto, esta opción no es la correcta.\n\n- **🔴 Opción D (Incorrecta):** La producción de autoanticuerpos por los linfocitos B puede aumentar con el envejecimiento, lo que puede contribuir a la aparición de enfermedades autoinmunes. Sin embargo, esta opción no describe un cambio característico de la inmunosenescencia. La inmunosenescencia se caracteriza más por una disminución en la función y cantidad de linfocitos T que por un aumento en la producción de autoanticuerpos. Por lo tanto, esta opción no es la adecuada en este caso.\n\nLa inmunosenescencia es un proceso natural que ocurre con el envejecimiento y puede afectar la respuesta inmunológica, aumentando el riesgo de infecciones y enfermedades. Es importante entender los cambios que ocurren en el sistema inmunológico con el envejecimiento para desarrollar estrategias efectivas para prevenir y tratar enfermedades relacionadas con la edad."
   },
   {
     "id": "q-163",
