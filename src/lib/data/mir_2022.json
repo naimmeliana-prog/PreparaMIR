@@ -1963,71 +1963,71 @@
     "id": "q-142",
     "localNumber": 142,
     "category": "General",
-    "stem": "En el cáncer de pró stata es cierto que:",
+    "stem": "En el cáncer de próstata es cierto que",
     "options": [
-      "Los pacientes con enfe rmedad clínicamente localizada se tratan con prostatectomía radical, radioterapia o vigilancia activa.",
-      "Para su diagnóstico, los esquemas contempo- ráneos aconsejan biopsias con 10 cilindros.",
-      "Después de la prostatectomía radical, el PSA se vuelve indetectable en sangre en dos sema- nas.",
+      "Los pacientes con enfermedad clínicamente localizada se tratan con prostatectomía radical, radioterapia o vigilancia activa.",
+      "Para su diagnóstico, los esquemas contemporáneos aconsejan biopsias con 10 cilindros.",
+      "Después de la prostatectomía radical, el PSA se vuelve indetectable en sangre en dos semanas.",
       "En su tratamiento se utilizan antiandrógenos no esteroideos de primera generación, como bicalutamida y abiraterona."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 142 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La opción A es correcta porque la prostatectomía radical, la radioterapia y la vigilancia activa son opciones de tratamiento válidas para pacientes con cáncer de próstata localizado. La prostatectomía radical implica la extirpación del glande, la radioterapia utiliza radiación para destruir las células cancerosas y la vigilancia activa implica la monitorización regular del paciente para detectar cualquier signo de progresión del cáncer. \n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque las biopsias con 10 cilindros no son el esquema de diagnóstico recomendado para el cáncer de próstata. En realidad, se recomiendan biopsias con 12 cilindros para obtener una muestra representativa del tejido prostático. \n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque el PSA (antígeno prostático específico) no se vuelve indetectable en sangre después de la prostatectomía radical. Aunque el PSA puede disminuir significativamente después de la cirugía, no se vuelve completamente indetectable. \n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque los antiandrógenos no esteroideos de primera generación, como la bicalutamida y la abiraterona, no son los tratamientos más comunes para el cáncer de próstata. En realidad, se utilizan más a menudo los antiandrógenos no esteroideos de segunda generación, como la enzalutamida y la apalutamida. \n\nLa perla MIR es que el tratamiento del cáncer de próstata debe ser individualizado según la etapa y el estadio del cáncer, así como las preferencias y la condición general del paciente."
   },
   {
     "id": "q-143",
     "localNumber": 143,
     "category": "General",
-    "stem": "La realización de la biopsia selectiva del ganglio centinela y el mapa linfático en el cáncer de ma- ma:",
+    "stem": "La realización de la biopsia selectiva del ganglio centinela y el mapa linfático en el cáncer de mama:",
     "options": [
-      "Está indicada en el cáncer de mama disemina- do.",
+      "Está indicada en el cáncer de mama diseminado.",
       "Está indicada si hay afectación clínica de los ganglios axilares.",
       "Si es negativa no necesita ampliar la cirugía axilar.",
       "No está indicada en varones con cáncer de mama."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 143 del examen MIR de la convocatoria FSE."
+    "explanation": "\n- **🟢 Opción C (Correcta):** La biopsia selectiva del ganglio centinela es una técnica que se utiliza para identificar el primer ganglio linfático al que llega el cáncer de mama, lo que ayuda a determinar si el cáncer se ha extendido a los ganglios linfáticos. Si la biopsia del ganglio centinela es negativa, generalmente no se requiere una cirugía axilar más extensa, ya que la probabilidad de que el cáncer se haya propagado a otros ganglios es baja. Esto reduce el riesgo de complicaciones como la linfedema y mejora la calidad de vida del paciente.\n- **🔴 Opción A (Incorrecta):** La biopsia del ganglio centinela no está indicada en el cáncer de mama diseminado, ya que en este caso, el cáncer ya se ha extendido más allá de los ganglios linfáticos axilares y se requieren tratamientos más agresivos.\n- **🔴 Opción B (Incorrecta):** La biopsia del ganglio centinela está indicada precisamente en aquellos casos en los que no hay afectación clínica de los ganglios axilares, ya que su objetivo es identificar la propagación del cáncer a los ganglios linfáticos de manera temprana, antes de que se produzcan síntomas clínicos.\n- **🔴 Opción D (Incorrecta):** Aunque el cáncer de mama en varones es raro, la biopsia del ganglio centinela puede estar indicada en varones con cáncer de mama, siguiendo los mismos criterios que para las mujeres, ya que el objetivo es evaluar la propagación del cáncer a los ganglios linfáticos.\n\nLa perla MIR a recordar es que la biopsia selectiva del ganglio centinela es una herramienta valiosa en el manejo del cáncer de mama, permitiendo una evaluación más precisa de la enfermedad y una reducción en las complicaciones quirúrgicas, siempre y cuando se realice en los casos adecuados y siguiendo las guías clínicas establecidas."
   },
   {
     "id": "q-144",
     "localNumber": 144,
     "category": "General",
-    "stem": "En relación con el tratamiento con radioterapia, señale la respuesta INCORRECTA:",
+    "stem": "En relación con el tratamiento con radioterapia, señale la respuesta INCORRECTA",
     "options": [
-      "Puede ser una alternativ a de tratamiento cura- tivo en diversas situaciones en oncología.",
-      "Se emplea también para determinadas patolo- gías benignas.",
-      "Está contraindicada para el tratamiento de tu- mores pediátricos.",
+      "Puede ser una alternativa de tratamiento curativo en diversas situaciones en oncología.",
+      "Se emplea también para determinadas patologías benignas.",
+      "Está contraindicada para el tratamiento de tumores pediátricos.",
       "Tiene una demostrada utilidad en el control del dolor por metástasis óseas."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 144 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A:** Puede ser una alternativa de tratamiento curativo en diversas situaciones en oncología. Esto es correcto, ya que la radioterapia se utiliza como tratamiento curativo en ciertos tipos de cáncer, como el cáncer de mama, el cáncer de próstata y el cáncer de cervix, entre otros. La radioterapia puede ser utilizada en lugar de la cirugía o como complemento a ella para tratar el cáncer en diferentes etapas de su evolución.\n\n- **🟢 Opción B:** Se emplea también para determinadas patologías benignas. Esto es correcto, ya que la radioterapia se utiliza para tratar ciertas patologías benignas, como la hiperplasia prostática benigna de zona externa (HPBZE) y la enfermedad de Paget. La radioterapia puede ser utilizada para reducir el tamaño de la próstata y aliviar los síntomas relacionados con la HPBZE.\n\n- **🔴 Opción C:** Está contraindicada para el tratamiento de tumores pediátricos. Esto es incorrecto, ya que la radioterapia se utiliza para tratar ciertos tipos de tumores pediátricos, como el cáncer de médula ósea y el cáncer de cerebro. La radioterapia puede ser utilizada para tratar los tumores pediátricos de manera efectiva y con un mínimo de efectos secundarios.\n\n- **🟢 Opción D:** Tiene una demostrada utilidad en el control del dolor por metástasis óseas. Esto es correcto, ya que la radioterapia se utiliza para tratar el dolor causado por metástasis óseas. La radioterapia puede ser utilizada para reducir el tamaño de los tumores óseos y aliviar el dolor relacionado con las metástasis óseas.\n\nLa radioterapia es un tratamiento importante en la oncología, y su utilidad se extiende más allá de la curación de los tumores. La perla MIR para recordar esta pregunta es: *Radioterapia: tratamiento curativo y paliativo*."
   },
   {
     "id": "q-145",
     "localNumber": 145,
     "category": "General",
-    "stem": "Paciente con diagnóstico de glioblastoma multi- forme. El informe de anatomía patológica refiere la presencia de metilación del promotor del gen MGMT (metil guanina metil transferasa). Con respecto al tratamiento de este paciente:",
+    "stem": "Paciente con diagnóstico de glioblastoma multifor- me. El informe de anatomía patológica refiere la presencia de metilación del promotor del gen MGMT (metilguanina metiltransferasa). Con respecto al tratamiento de este paciente:",
     "options": [
       "Esta información no es relevante.",
-      "La presencia de la metilación aumenta la su- pervivencia en paciente s tratados con temozo- lamida.",
+      "La presencia de la metilación aumenta la supervivencia en pacientes tratados con temozolamida.",
       "La presencia de la metilación contraindicaría el tratamiento con temozolamida.",
       "La presencia de la metilación nos apoyaría la decisión de tratamiento con cisplatino frente al uso de un agente alquilante."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 145 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La metilación del promotor del gen MGMT es un fenómeno epigenético que impide la expresión del gen. En el caso del glioblastoma multifor- me, la metilación del gen MGMT es un indicador de que el tumor no tiene la capacidad de reparar el daño a la ADN, lo que lo hace más sensible a los agentes alquilantes. Por lo tanto, la presencia de metilación del gen MGMT aumenta la eficacia del tratamiento con temozolamida, un agente alquilante, lo que mejora la supervivencia de los pacientes. \n\n- **🔴 Opción A (Incorrecta):** La información sobre la metilación del gen MGMT es altamente relevante para el tratamiento del glioblastoma multifor- me, ya que puede influir en la elección del tratamiento y la supervivencia del paciente. Por lo tanto, esta opción es incorrecta. \n\n- **🔴 Opción C (Incorrecta):** La metilación del gen MGMT no contraindica el tratamiento con temozolamida. De hecho, como se mencionó anteriormente, la metilación aumenta la eficacia del tratamiento con temozolamida. Por lo tanto, esta opción es incorrecta. \n\n- **🔴 Opción D (Incorrecta):** La metilación del gen MGMT no apoya la decisión de tratamiento con cisplatino frente al uso de un agente alquilante. De hecho, la metilación aumenta la eficacia del tratamiento con temozolamida, que es un agente alquilante. Por lo tanto, esta opción es incorrecta. \n\nLa presencia de metilación del gen MGMT en el glioblastoma multifor- me es un factor importante para determinar la eficacia del tratamiento con temozolamida. Es fundamental considerar este aspecto en la toma de decisiones clínicas para mejorar la supervivencia de los pacientes con glioblastoma multifor- me."
   },
   {
     "id": "q-146",
     "localNumber": 146,
     "category": "General",
-    "stem": "La radioterapia en el tratamiento del cáncer de mama localmente avanzado y pronóstico molecu- lar adverso:",
+    "stem": "La radioterapia en el tratamiento del cáncer de mama localmente avanzado y pronóstico molecular adverso",
     "options": [
-      "Debe incluir las regiones ganglionares locorre- gionales.",
-      "Está contraindicada después de la mastecto- mía.",
-      "Está contraindicada después de la quimiotera- pia neoadyuvante.",
+      "Debe incluir las regiones ganglionares locoregionales.",
+      "Está contraindicada después de la mastectomía.",
+      "Está contraindicada después de la quimioterapia neoadyuvante.",
       "Su mejor alternativa estética es la irradiación parcial de la mama."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 146 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta se refiere a la indicación de radioterapia en el tratamiento del cáncer de mama localmente avanzado y con pronóstico molecular adverso. La radioterapia es un tratamiento que utiliza ondas de energía para destruir las células cancerosas. En el caso del cáncer de mama, la radioterapia se utiliza para tratar el cáncer en estadio avanzado o recurrente.\n\n**🟢 Opción A (Correcta):** La radioterapia debe incluir las regiones ganglionares locoregionales. Esto se debe a que el cáncer de mama puede extenderse a los ganglios linfáticos cercanos, y la radioterapia es efectiva para tratar la enfermedad en estos ganglios. Incluir las regiones ganglionares locoregionales en la radioterapia es esencial para controlar la enfermedad y prevenir la recidiva.\n\n**🔴 Opción B (Incorrecta):** La radioterapia está contraindicada después de la mastectomía. Esto no es cierto. La radioterapia puede ser utilizada después de la mastectomía para tratar el cáncer residual o la enfermedad en los ganglios linfáticos cercanos.\n\n**🔴 Opción C (Incorrecta):** La radioterapia está contraindicada después de la quimioterapia neoadyuvante. Esto tampoco es cierto. La quimioterapia neoadyuvante se utiliza para reducir el tamaño del cáncer antes de la cirugía o la radioterapia, y la radioterapia puede ser utilizada después de la quimioterapia para tratar la enfermedad residual.\n\n**🔴 Opción D (Incorrecta):** La mejor alternativa estética para la radioterapia es la irradiación parcial de la mama. Esto no es cierto. La irradiación parcial de la mama puede ser utilizada como alternativa estética a la radioterapia, pero no es la mejor opción para todos los pacientes. La decisión de utilizar la irradiación parcial de la mama debe ser individualizada y basada en las necesidades y preferencias del paciente.\n\nLa perla MIR es: 'La radioterapia en el cáncer de mama localmente avanzado debe incluir las regiones ganglionares locoregionales para controlar la enfermedad y prevenir la recidiva'."
   },
   {
     "id": "q-147",
