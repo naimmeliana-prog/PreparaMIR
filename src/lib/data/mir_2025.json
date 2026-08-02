@@ -2395,7 +2395,7 @@
     "id": "q-172",
     "localNumber": 172,
     "category": "General",
-    "stem": "Recién nacido a término con macrosomía, macroglosia, onfalocele e hipoglucemias persistentes por hiperinsulinismo. Ecogra- fía normal excepto visceromegalia. ¿Qué al- teración molecular explica mejor este feno- tipo clásico?:",
+    "stem": "Recién nacido a término con macrosomía, macroglosia, onfalocele e hipoglucemias persistentes por hiperinsulinismo. Ecografía normal excepto visceromegalia. ¿Qué alteración molecular explica mejor este fenotipo clásico?",
     "options": [
       "Pérdida de metilación en IC2 (KCNQ1OT1) paterna.",
       "Ganancia de metilación en IC1 (H19/IGF2) materna.",
@@ -2403,27 +2403,27 @@
       "Deleción de IGF2 en alelo paterno."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 172 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La ganancia de metilación en IC1 (H19/IGF2) materna es la alteración molecular que explica mejor este fenotipo clásico. La sobreexpresión de IGF2 (factor de crecimiento similar a la insulina tipo 1) debido a la ganancia de metilación en el alelo materno de IC1 (regiones 1 y 2) conduce a una sobreproducción de IGF2, lo que resulta en un aumento de la masa corporal y la macroglosia. Además, la sobreexpresión de IGF2 también puede contribuir a la hipoglucemia persistente por hiperinsulinismo, ya que IGF2 puede estimular la producción de insulina. Por lo tanto, la ganancia de metilación en IC1 (H19/IGF2) materna es la alteración molecular que mejor explica este fenotipo clásico.\n\n- **🔴 Opción A (Incorrecta):** La pérdida de metilación en IC2 (KCNQ1OT1) paterna no es la alteración molecular que explica mejor este fenotipo clásico. La pérdida de metilación en IC2 (KCNQ1OT1) paterna se asocia con la síndrome de Beckwith-Wiedemann (SBW), que se caracteriza por macrosomía, macroglosia y visceromegalia, pero no por hipoglucemias persistentes por hiperinsulinismo.\n\n- **🔴 Opción C (Incorrecta):** La mutación pérdida de sentido paterna en CDKN1C no es la alteración molecular que explica mejor este fenotipo clásico. La mutación pérdida de sentido paterna en CDKN1C se asocia con la síndrome de Beckwith-Wiedemann (SBW), pero no con la hipoglucemia persistente por hiperinsulinismo.\n\n- **🔴 Opción D (Incorrecta):** La deleción de IGF2 en alelo paterno no es la alteración molecular que explica mejor este fenotipo clásico. La deleción de IGF2 en alelo paterno se asocia con la síndrome de Russell-Silver, que se caracteriza por macrosomía y macroglosia, pero no por hipoglucemias persistentes por hiperinsulinismo.\n\nLa perla MIR: La ganancia de metilación en IC1 (H19/IGF2) materna es la alteración molecular que explica mejor el fenotipo clásico de macrosomía, macroglosia, onfalocele e hipoglucemias persistentes por hiperinsulinismo en un recién nacido a término con visceromegalia."
   },
   {
     "id": "q-173",
     "localNumber": 173,
     "category": "General",
-    "stem": "Respecto a los aminoácidos que participan en el ciclo de la urea, señale la opción co- rrecta:",
+    "stem": "Respecto a los aminoácidos que participan en el ciclo de la urea, señale la opción correcta",
     "options": [
-      "La citrulina se condensa con glutamato para formar arginino succinato en el cito- sol.",
-      "La ornitina aporta directamente el se- gundo nitrógeno que se elimina como urea.",
-      "La asparagina dona el primer nitrógeno a la carbamoil fosfato sintasa de la mitocon- dria.",
-      "El aspartato aporta el segundo nitrógeno de la urea al condensarse con citrulina para formar arginino succinato."
+      "La citrulina se condensa con glutamato para formar argininosuccinato en el citosol.",
+      "La ornitina aporta directamente el segundo nitrógeno que se elimina como urea.",
+      "La asparagina dona el primer nitrógeno a la carbamoyl fosfato sintasa de la mitocondria.",
+      "El aspartato aporta el segundo nitrógeno de la urea al condensarse con citrulina para formar argininosuccinato."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 173 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La opción D es la correcta porque el aspartato no aporta el segundo nitrógeno de la urea al condensarse con citrulina para formar argininosuccinato. En realidad, es el citrato el que se condensa con la argininosuccinato sintasa para formar argininosuccinato, y el aspartato no tiene participación en este paso. El segundo nitrógeno de la urea proviene de la carbamoyl fosfato sintasa, que a su vez recibe el nitrógeno de la asparagina y el carbamoyl fosfato. Por lo tanto, la opción D es incorrecta y el aspartato no aporta el segundo nitrógeno de la urea al condensarse con citrulina para formar argininosuccinato.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque la citrulina se condensa con el carbamoyl fosfato, no con el glutamato, para formar argininosuccinato. El glutamato es un aminoácido que participa en otros procesos metabólicos, pero no en el ciclo de la urea.\n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque la ornitina no aporta directamente el segundo nitrógeno que se elimina como urea. En realidad, la ornitina se forma a partir de la arginina y el carbamoyl fosfato, y luego se convierte en urea en el riñón.\n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque la asparagina no dona el primer nitrógeno a la carbamoyl fosfato sintasa de la mitocondria. En realidad, es el carbamoyl fosfato el que se forma en la mitocondria a partir del carbamoyl fosfato sintasa, y luego se transporta a la urea ciclo en el citosol.\n\nLa perla MIR: El ciclo de la urea es un proceso complejo que involucra la participación de varios aminoácidos, incluyendo la citrulina, la arginina, el carbamoyl fosfato y la urea. Es importante recordar que la citrulina se condensa con el carbamoyl fosfato para formar argininosuccinato, y que el segundo nitrógeno de la urea proviene de la carbamoyl fosfato sintasa."
   },
   {
     "id": "q-174",
     "localNumber": 174,
     "category": "Neumología",
-    "stem": "Lactante varón de 10 meses llevado a ur- gencias por fiebre y dificultad respiratoria. Presenta otitis medias recurrentes desde los 6 meses y un episodio previo de neumo- nía bacteriana. La madre refiere que “nunca tuvo amígdalas grandes”. En el hemograma destaca leucocitosis neutrofílica. Inmuno- globulinas IgG, IgA e IgM muy disminuidas. La citometría de flujo muestra linfocitos T dentro de rango de normalidad y linfocitos B CD19+ prácticamente ausentes. ¿Cuál es la alteración genética más probable?:",
+    "stem": "Lactante varón de 10 meses llevado a urgencias por fiebre y dificultad respiratoria. Presenta otitis medias recurrentes desde los 6 meses y un episodio previo de neumonía bacteriana. La madre refiere que 'nunca tuvo amígdalas grandes'. En el hemograma destaca leucocitosis neutrofílica. Inmunoglobulinas IgG, IgA e IgM muy disminuidas. La citometría de flujo muestra linfocitos T dentro de rango de normalidad y linfocitos B CD19+ prácticamente ausentes.",
     "options": [
       "Mutación en RAG1.",
       "Deleción 22q11.2.",
@@ -2431,27 +2431,27 @@
       "Deficiencia de ADA."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 174 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La mutación en RAG1 está asociada con una deficiencia en la reparación de los segmentos de V(D)J en las células B y T, lo que lleva a una disminución en la producción de inmunoglobulinas. Sin embargo, en este caso, la citometría de flujo muestra linfocitos T dentro de rango de normalidad, lo que sugiere que la mutación en RAG1 no es la causa principal de la disminución de inmunoglobulinas. Además, la citometría de flujo muestra linfocitos B CD19+ prácticamente ausentes, lo que sugiere una disfunción específica en la línea B de las células inmunes.\n\n- **🔴 Opción B (Incorrecta):** La deleción 22q11.2 está asociada con una variedad de trastornos, incluyendo el síndrome de DiGeorge, que se caracteriza por una disminución en la producción de inmunoglobulinas y una disfunción de la glándula tiroides. Sin embargo, en este caso, la citometría de flujo muestra linfocitos T dentro de rango de normalidad, lo que sugiere que la deleción 22q11.2 no es la causa principal de la disminución de inmunoglobulinas.\n\n- **🔴 Opción D (Incorrecta):** La deficiencia de ADA está asociada con una disminución en la actividad de la enzima adenosina desaminasa, lo que lleva a una acumulación de sustancias tóxicas en las células inmunes. Sin embargo, en este caso, la citometría de flujo muestra linfocitos T dentro de rango de normalidad y una disminución en la producción de inmunoglobulinas, lo que sugiere que la deficiencia de ADA no es la causa principal de la disminución de inmunoglobulinas.\n\n- **🟢 Opción C (Correcta):** La mutación en BTK está asociada con una disfunción en la señalización de la brótula de tirosina, lo que lleva a una disminución en la producción de inmunoglobulinas. La citometría de flujo muestra linfocitos B CD19+ prácticamente ausentes, lo que sugiere que la mutación en BTK es la causa principal de la disminución de inmunoglobulinas. Además, la disminución en la producción de inmunoglobulinas se asocia con una mayor susceptibilidad a las infecciones, lo que se refleja en la historia clínica del paciente.\n\n**Perla MIR:** 'La mutación en BTK es la causa principal de la disminución de inmunoglobulinas en pacientes con linfocitos B CD19+ prácticamente ausentes.'"
   },
   {
     "id": "q-175",
     "localNumber": 175,
     "category": "General",
-    "stem": "En relación con el síndrome de liberación de citocinas relacionado con la terapia con células CAR -T (linfocitos T modificados para expresar un CAR o chimeric antigen receptor) contra el antígeno CD -19 para el tratamiento de linfomas agresivos, señale la opción verdadera:",
+    "stem": "En relación con el síndrome de liberación de citocinas relacionado con la terapia con células CAR-T (linfocitos T modificados para expresar un CAR o chimeric antigen receptor) contra el antígeno CD-19 para el tratamiento de linfomas agresivos, señale la opción verdadera.",
     "options": [
-      "Se considera una complicación tardía que suele presentarse a las 2 -3 semanas de recibir el tratamiento.",
-      "Se produce por un incremento suprafisio- lógico de algunas citosinas tales como la interleucina 6 (IL-6) e interleucina 1 (IL-1).",
-      "Las manifestaciones clínicas característi- cas incluyen fiebre e hipertensión.",
-      "El tozilizumab se utiliza de forma excep- cional para su tratamiento."
+      "Se considera una complicación tardía que suele presentarse a las 2-3 semanas de recibir el tratamiento.",
+      "Se produce por un incremento suprafisiológico de algunas citocinas tales como la interleucina 6 (IL-6) e interleucina 1 (IL-1).",
+      "Las manifestaciones clínicas características incluyen fiebre e hipertensión.",
+      "El tozilizumab se utiliza de forma excepcional para su tratamiento."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 175 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El síndrome de liberación de citocinas relacionado con la terapia con células CAR-T se caracteriza por un incremento suprafisiológico de algunas citocinas, tales como la interleucina 6 (IL-6) e interleucina 1 (IL-1). Esto se debe a la actividad de las células CAR-T que libera estas citocinas, lo que puede causar una variedad de síntomas y complicaciones. La opción B es correcta porque describe con precisión el mecanismo subyacente del síndrome de liberación de citocinas relacionado con la terapia con células CAR-T.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque el síndrome de liberación de citocinas relacionado con la terapia con células CAR-T no se considera una complicación tardía que suele presentarse a las 2-3 semanas de recibir el tratamiento. En realidad, el síndrome puede presentarse en cualquier momento durante el tratamiento con células CAR-T, y no hay un plazo específico para su aparición.\n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque las manifestaciones clínicas características del síndrome de liberación de citocinas relacionado con la terapia con células CAR-T no se limitan a la fiebre e hipertensión. El síndrome puede causar una variedad de síntomas, incluyendo fiebre, hipertensión, dolor articular, hinchazón, dolor de cabeza y otros síntomas.\n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque el tozilizumab no se utiliza de forma excepcional para tratar el síndrome de liberación de citocinas relacionado con la terapia con células CAR-T. El tozilizumab es un medicamento que se utiliza para tratar la enfermedad inflamatoria intestinal, y no está indicado para el tratamiento del síndrome de liberación de citocinas relacionado con la terapia con células CAR-T.\n\n**Perla MIR:** El síndrome de liberación de citocinas relacionado con la terapia con células CAR-T es una complicación grave que puede ocurrir durante el tratamiento con células CAR-T. Es importante reconocer los síntomas y signos del síndrome y tratarlo adecuadamente para evitar complicaciones y mejorar la calidad de vida del paciente."
   },
   {
     "id": "q-176",
     "localNumber": 176,
     "category": "General",
-    "stem": "Un varón de 11 meses de edad presenta irri- tabilidad y llanto al movilizar la extremidad inferior derecha. En la exploración física destaca una tumefacción de la rodilla dere- cha, que se muestra caliente y enrojecida. En el estudio básico de coagulación se ob- serva: tiempo de protrombina (TP) de 11 se- gundos (rango: 9-15 segundos) y un tiempo de tromboplastina parcial activada (TTPA) de 80 segundos (rango: 20 -40 segundos). Se solicita una prueba de mezclas que co- rrige la alteración de la coagulación. ¿Qué opción diagnóstica NO se ajusta a las alte- raciones analíticas observadas?:",
+    "stem": "Un varón de 11 meses de edad presenta irritabilidad y llanto al movilizar la extremidad inferior derecha. En la exploración física destaca una tumefacción de la rodilla derecha, que se muestra caliente y enrojecida. En el estudio básico de coagulación se observa: tiempo de protrombina (TP) de 11 segundos (rango: 9-15 segundos) y un tiempo de tromboplastina parcial activada (TTPA) de 80 segundos (rango: 20-40 segundos). Se solicita una prueba de mezclas que corrige la alteración de la coagulación. ¿Qué opción diagnóstica NO se ajusta a las alteraciones analíticas observadas?",
     "options": [
       "Déficit de factor VII.",
       "Déficit de factor VIII.",
@@ -2459,7 +2459,7 @@
       "Enfermedad de von Willebrand tipo 3."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 176 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El déficit de factor VII es la opción correcta porque el tiempo de protrombina (TP) está dentro del rango normal (11 segundos), lo que sugiere que la coagulación intrínseca está intacta. Sin embargo, el tiempo de tromboplastina parcial activada (TTPA) es prolongado (80 segundos), lo que indica una alteración en la coagulación extrínseca. El factor VII es esencial para la coagulación extrínseca y su déficit puede causar una prolongación del TTPA sin afectar el TP. Por lo tanto, el déficit de factor VII es la opción correcta en este caso.\n\n- **🔴 Opción B (Incorrecta):** El déficit de factor VIII es incorrecto porque afectaría tanto el tiempo de protrombina (TP) como el tiempo de tromboplastina parcial activada (TTPA), ya que el factor VIII participa en la coagulación intrínseca y extrínseca. En este caso, el TP está dentro del rango normal, lo que sugiere que la coagulación intrínseca está intacta.\n\n- **🔴 Opción C (Incorrecta):** El déficit de factor IX es incorrecto por razones similares al déficit de factor VIII. Afectaría tanto el TP como el TTPA, ya que el factor IX participa en la coagulación intrínseca y extrínseca. En este caso, el TP está dentro del rango normal, lo que sugiere que la coagulación intrínseca está intacta.\n\n- **🔴 Opción D (Incorrecta):** La enfermedad de von Willebrand tipo 3 es incorrecta porque afectaría principalmente el tiempo de tromboplastina parcial activada (TTPA) y el tiempo de protrombina (TP) no estaría afectado. En este caso, el TP está dentro del rango normal, lo que sugiere que la coagulación intrínseca está intacta.\n\nLa perla MIR es que el déficit de factor VII es una opción diagnóstica que se debe considerar en casos de prolongación del TTPA sin afectar el TP."
   },
   {
     "id": "q-177",
