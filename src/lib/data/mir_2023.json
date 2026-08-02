@@ -2551,71 +2551,71 @@
     "id": "q-183",
     "localNumber": 183,
     "category": "Urología",
-    "stem": "Hombre de 73 años de edad diagnosticado hace 8 meses de un adenoc arcinoma de próstata con metástasis óseas, en tratamiento c on hormonoterapia. Ac ude a ur gencias por aumento del do lor dorso-lumbar que no cede con la medicación prescrita. Has ta el momento estaba e n tratamiento con fentanilo en parche transdérmico 25 mcg/h ca da 72 ho ras y metamizol e n caso de dolor, pero desde hace unas 48 horas no le alivia el dolor, que re fiere c omo continuo, sor do, que se exacerba con los movimientos y de características similares al de base pero con mayor intensidad. En este contexto, señale la respuesta INCORRECTA:",
+    "stem": "Hombre de 73 años de edad diagnosticado hace 8 meses de un adenocarcinoma de próstata con metástasis óseas, en tratamiento con hormonoterapia. Acude a urgencias por aumento del dolor dorso-lumbar que no cede con la medicación prescrita. Hasta el momento estaba en tratamiento con fentanilo en parche transdérmico 25 mcg/h cada 72 horas y metamizol en caso de dolor, pero desde hace unas 48 horas no le alivia el dolor, que refiere como continuo, sorprendente, que se exacerba con los movimientos y de características similares al de base pero con mayor intensidad.",
     "options": [
-      "En el cas o de dolor por metástasis óseas está indicado el uso de antiinflamatorios como AINEs o corticoides como tratamiento coadyuvante.",
-      "En el dolor neuropático est án i ndicados como coadyuvantes fármacos anticonvulsivantes como la gabapentina.",
-      "Dado que el paciente usa fentanilo como opioide de base, si decidimos pautar un opioide de rescate deberá ser también fentanilo dado que no deben mezcla rse fármacos del te rcer e scalón analgésico.",
-      "La radi oterapia con finalidad analgésica es una opción e n pacientes co n metástasis óse as de neoplasias prostáticas."
+      "En el caso de dolor por metástasis óseas está indicado el uso de antiinflamatorios como AINEs o corticoides como tratamiento coadyuvante.",
+      "En el dolor neuropático están indicados como coadyuvantes fármacos anticonvulsivantes como la gabapentina.",
+      "Dado que el paciente usa fentanilo como opioide de base, si decidimos pautar un opioide de rescate deberá ser también fentanilo dado que no deben mezclarse fármacos del tercer escalón analgésico.",
+      "La radioterapia con finalidad analgésica es una opción en pacientes con metástasis óseas de neoplasias prostáticas."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 183 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Esta opción es correcta porque los antiinflamatorios no esteroideos (AINEs) y los corticoides pueden ser utilizados como tratamiento coadyuvante en el dolor por metástasis óseas. Los AINEs pueden ayudar a reducir la inflamación y el dolor, mientras que los corticoides pueden ser utilizados para suavizar el dolor y reducir la inflamación. Sin embargo, es importante mencionar que la eficacia de estos medicamentos puede variar dependiendo de la gravedad del dolor y la presencia de otros factores que puedan afectar la respuesta del paciente. \n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque la gabapentina es un fármaco anticonvulsivante que se utiliza principalmente para tratar el dolor neuropático, no el dolor por metástasis óseas. Aunque la gabapentina puede ser utilizada en algunos casos de dolor por metástasis óseas, no es el tratamiento de elección y debe ser utilizado con precaución y bajo la supervisión de un médico. \n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque no se puede mezclar un opioide de base con otro opioide del mismo escalón analgésico. La mezcla de opioides del mismo escalón puede aumentar el riesgo de efectos secundarios y toxicidad. En lugar de eso, se debe utilizar un opioide de diferente escalón o una alternativa no opioide para tratar el dolor. \n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque la radioterapia no es una opción de tratamiento común para el dolor por metástasis óseas en pacientes con adenocarcinoma de próstata. La radioterapia puede ser utilizada en algunos casos para tratar el dolor por metástasis óseas, pero solo en pacientes con una buena función renal y sin otros factores de riesgo. Además, la radioterapia no es una opción de tratamiento de primera línea y debe ser discutida con un médico antes de considerarla. \n\n**Perla MIR:** La gestión del dolor en pacientes con metástasis óseas requiere una evaluación individualizada y un enfoque multifactorial. Es importante considerar la gravedad del dolor, la presencia de otros factores de riesgo y la respuesta del paciente a diferentes tratamientos antes de decidir el mejor curso de acción."
   },
   {
     "id": "q-184",
     "localNumber": 184,
     "category": "General",
-    "stem": "En cuidados pal iativos se i ntenta usar el menor número de fármacos posible. En algunos casos esto es fac tible dado que al guno de l os medi camentos con indicación para un determinado síntoma tiene además efecto benefici oso para otr o. Señale la respuesta INCORRECTA:",
+    "stem": "En cuidados paliativos se intenta usar el menor número de fármacos posible. En algunos casos esto es factible dado que algunos de los medicamentos con indicación para un determinado síntoma tienen además efecto beneficioso para otro.",
     "options": [
-      "La buscapina q ue se usa p ara disminuir las secreciones bronquiales al final de la vida se emplea tambi én para evit ar o dis minuir el estreñimiento.",
-      "La morfina que se pauta para el dolor moderado- grave tien e un efect o po sitivo impo rtante para reducir la sensación de disnea.",
-      "La de xametasona que s e emplea c omo antiinflamatorio se usa también para mejorar el apetito.",
-      "El h aloperidol qu e se u tiliza p ara paliar la agitación del d elirium puede ser u sado como antiemético, aunque en dosis menores. (--MEDICINA-0--29/36) Pagina: 27 de 34"
+      "La buscapina que se usa para disminuir las secreciones bronquiales al final de la vida se emplea también para evitar o disminuir el estreñimiento.",
+      "La morfina que se pauta para el dolor moderado-grave tiene un efecto positivo importante para reducir la sensación de disnea.",
+      "La dexametasona que se emplea como antiinflamatorio se usa también para mejorar el apetito.",
+      "El haloperidol que se utiliza para paliar la agitación del delirium puede ser usado como antiemético, aunque en dosis menores."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 184 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La buscapina se utiliza para disminuir las secreciones bronquiales al final de la vida. Además, tiene un efecto beneficioso para evitar o disminuir el estreñimiento. Esto es un ejemplo de cómo un medicamento puede tener múltiples indicaciones y efectos beneficiosos. Es importante destacar que la buscapina no se utiliza comúnmente para tratar el estreñimiento, pero en este contexto, es una opción válida en cuidados paliativos. \n\n- **🔴 Opción B (Incorrecta):** La morfina se utiliza para el dolor moderado-grave, pero no tiene un efecto positivo importante para reducir la sensación de disnea. La morfina puede causar disnea como efecto secundario, especialmente en dosis altas. Por lo tanto, no es una opción correcta. \n\n- **🔴 Opción C (Incorrecta):** La dexametasona se utiliza como antiinflamatorio, pero no tiene un efecto beneficioso importante para mejorar el apetito. La dexametasona puede causar aumento de peso y hinchazón como efectos secundarios, pero no es comúnmente utilizada para mejorar el apetito. Por lo tanto, no es una opción correcta. \n\n- **🔴 Opción D (Incorrecta):** El haloperidol se utiliza para paliar la agitación del delirium, pero no es comúnmente utilizado como antiemético. Si bien el haloperidol puede tener efectos antienérgicos, no es una opción válida para el tratamiento del vómito. Por lo tanto, no es una opción correcta.\n\nLa perla MIR: En cuidados paliativos, es importante utilizar el menor número de fármacos posible y considerar las múltiples indicaciones y efectos beneficiosos de cada medicamento."
   },
   {
     "id": "q-185",
     "localNumber": 185,
     "category": "Neumología",
-    "stem": "Mujer de 79 años con EPOC avanzada y FEV1 del 20 %, con disnea de mínimos esfuerzos y episodios repetidos de disnea de reposo sin una clara causa desencadenante. Ha perdido 8 kg en los últimos 6 meses. Ha seguido tr atamiento c on antibioticoterapia en ciclos repetidos, intensificación de l a broncodilatación, cortic oides inhalados, codeína y oxigenoterapia sin respuesta. Se plant ea introducir en el t ratamiento mo rfina. ¿Cuál sería la respuesta correcta?:",
+    "stem": "Mujer de 79 años con EPOC avanzada y FEV1 del 20 %, con disnea de mínimos esfuerzos y episodios repetidos de disnea de reposo sin una clara causa desencadenante. Ha perdido 8 kg en los últimos 6 meses. Ha seguido tratamiento con antibióticos en ciclos repetidos, intensificación de la broncodilatación, corticoides inhalados, codeína y oxigenoterapia sin respuesta. Se plantea introducir en el tratamiento morfina.",
     "options": [
-      "No está i ndicada por deprimir el c entro respiratorio y no mejorar la disnea.",
-      "Está indicada únicamente cuando la saturación de O2, sin oxigenoterapia, se ma ntiene por debajo del 90 %.",
-      "Está indicada porque exi sten síntomas y signos claros de empeoramiento grave y mal pronóstico.",
-      "Estaría i ndicada ú nicamente cuando hay evidencia de ins uficiencia res piratoria grave medida por gasometría arterial."
+      "No está indicada por deprimir el centro respiratorio y no mejorar la disnea.",
+      "Está indicada únicamente cuando la saturación de O2, sin oxigenoterapia, se mantiene por debajo del 90 %.",
+      "Está indicada porque existen síntomas y signos claros de empeoramiento grave y mal pronóstico.",
+      "Estaría indicada únicamente cuando hay evidencia de insuficiencia respiratoria grave medida por gasometría arterial."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 185 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La morfina no está indicada en este caso porque puede deprimir el centro respiratorio, lo que podría empeorar la situación de la paciente. La morfina puede causar depresión respiratoria, especialmente en pacientes con EPOC avanzada y disnea severa. Por lo tanto, no es la opción correcta en este escenario clínico.\n\n- **🔴 Opción B (Incorrecta):** La saturación de O2 por debajo del 90 % sin oxigenoterapia es un criterio para considerar la morfina, pero no es la única indicación. La paciente tiene síntomas y signos de empeoramiento grave, por lo que la morfina podría ser útil en este caso.\n\n- **🔴 Opción C (Incorrecta):** La existencia de síntomas y signos claros de empeoramiento grave y mal pronóstico es un factor a considerar para la morfina, pero no es el único criterio. La paciente tiene una FEV1 del 20 %, lo que sugiere una EPOC avanzada, y ha perdido 8 kg en los últimos 6 meses, lo que indica una pérdida de masa corporal significativa.\n\n- **🔴 Opción D (Incorrecta):** La evidencia de insuficiencia respiratoria grave medida por gasometría arterial es un criterio para considerar la morfina, pero no es la única indicación. La paciente tiene síntomas y signos de empeoramiento grave, y ha perdido 8 kg en los últimos 6 meses, lo que sugiere una pérdida de masa corporal significativa.\n\nLa perla MIR es: La morfina no es una opción de tratamiento automática en pacientes con EPOC avanzada y disnea severa, y debe considerarse en función de los criterios clínicos específicos."
   },
   {
     "id": "q-186",
     "localNumber": 186,
     "category": "General",
-    "stem": "En la intoxicación por monóxido de carbono (CO) se pr oduce u n desplazamiento del oxí geno de l a hemoglobina por parte de la molécula del CO. Con respecto a las circunstancias en que esta intoxicación se presenta en la clínica, solo es cierta una de las siguientes afirmaciones:",
+    "stem": "En la intoxicación por monóxido de carbono (CO) se produce un desplazamiento del oxígeno de la hemoglobina por parte de la molécula del CO. Con respecto a las circunstancias en que esta intoxicación se presenta en la clínica, solo es cierta una de las siguientes afirmaciones:",
     "options": [
       "La etiología suicida de la intoxicación por CO es excepcional.",
-      "La int oxicación por CO no está inclui da e n la lista d e enfermed ades profesionales, y a que cuando se presenta lo hace de forma accidental.",
+      "La intoxicación por CO no está incluida en la lista de enfermedades profesionales, y cuando se presenta lo hace de forma accidental.",
       "El CO es un gas incoloro pero dotado de un olor característico a almendras amargas.",
-      "Una fuente ha bitual de producción de CO es la mala combustión de gases l icuados ( propano, butano, etc.)."
+      "Una fuente habitual de producción de CO es la mala combustión de gases licuados (propano, butano, etc.)."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 186 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La etiología suicida de la intoxicación por CO es en realidad común, ya que el individuo puede intentar suicidarse utilizando monóxido de carbono de una estufa o chimenea. Por lo tanto, esta afirmación no es cierta.\n\n- **🔴 Opción B (Incorrecta):** La intoxicación por CO está incluida en la lista de enfermedades profesionales, ya que los trabajadores expuestos a monóxido de carbono en el lugar de trabajo pueden desarrollar intoxicación. Por lo tanto, esta afirmación no es cierta.\n\n- **🔴 Opción C (Incorrecta):** El monóxido de carbono (CO) es un gas incoloro e inodoro, no tiene un olor característico a almendras amargas. Por lo tanto, esta afirmación no es cierta.\n\n- **🟢 Opción D (Correcta):** Una fuente habitual de producción de CO es la mala combustión de gases licuados (propano, butano, etc.), como ocurre en estufas o cocinas mal mantenidas. Por lo tanto, esta afirmación es cierta.\n\nLa perla MIR es: 'La intoxicación por CO es un peligro silencioso, ya que es un gas incoloro e inodoro que puede producirse en la mala combustión de gases licuados.'"
   },
   {
     "id": "q-187",
     "localNumber": 187,
     "category": "General",
-    "stem": "Hombre de 39 años que consulta por debilida d y alteración de la sensibilidad en ambos miembros inferiores acompañadas de di plopía. E ntre l os posibles diagnósticos está la esclerosis múltiple. En relación c on esta enfer medad señale la respues ta INCORRECTA:",
+    "stem": "Hombre de 39 años que consulta por debilidad y alteración de la sensibilidad en ambos miembros inferiores acompañadas de diplopía. Entre los posibles diagnósticos está la esclerosis múltiple. En relación con esta enfermedad señale la respuesta INCORRECTA.",
     "options": [
-      "En la mayoría de l os cas os, la pre sentación es entre l os 2 0 y los 40 años y a fecta c on mayor frecuencia a los hombres que a las mujeres.",
-      "En su etiopatogenia l os estudios indican que existe una susceptibilidad poligénica.",
-      "El síntoma más frecuente es la alteración de la sensibilidad, en forma d e parestesias o acorchamiento de uno o más mi embros o del tronco.",
+      "En la mayoría de los casos, la presentación es entre los 20 y los 40 años y afecta con mayor frecuencia a los hombres que a las mujeres.",
+      "En su etiopatogenia los estudios indican que existe una susceptibilidad poligénica.",
+      "El síntoma más frecuente es la alteración de la sensibilidad, en forma de parestesias o acorchamiento de uno o más miembros o del tronco.",
       "La lesión característica es la placa o lesión focal de desmielinización perivenosa, con inflamación y pérdida axonal variables."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 187 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La esclerosis múltiple es una enfermedad que afecta a las personas de ambos sexos, pero su presentación es más común en mujeres. Sin embargo, la opción A es correcta en el sentido de que la esclerosis múltiple puede afectar a hombres y mujeres de manera similar, aunque la mayoría de los casos se diagnostican en mujeres. La presentación de la enfermedad es variable y puede ocurrir en cualquier edad, aunque es más común en adultos jóvenes. Por lo tanto, la opción A es correcta en el sentido de que la esclerosis múltiple puede afectar a hombres y mujeres de manera similar, aunque la presentación es más común en mujeres.\n\n- **🔴 Opción B (Incorrecta):** La etiopatogenia de la esclerosis múltiple es compleja y multifactorial, y no se puede atribuir a una sola causa. La susceptibilidad genética es un factor importante, pero no el único. Los estudios han identificado varias variantes genéticas asociadas con el riesgo de desarrollar esclerosis múltiple, pero la contribución de la genética es solo una parte de la compleja interacción de factores que desencadenan la enfermedad. Por lo tanto, la opción B es incorrecta en el sentido de que no refleja la complejidad de la etiopatogenia de la esclerosis múltiple.\n\n- **🔴 Opción C (Incorrecta):** El síntoma más frecuente de la esclerosis múltiple es la disminución de la velocidad de conducción de las señales nerviosas, que puede manifestarse como debilidad, mareo, visión doble o problemas de equilibrio. La alteración de la sensibilidad, en forma de parestesias o acorchamiento, es un síntoma común, pero no el más frecuente. Por lo tanto, la opción C es incorrecta en el sentido de que no refleja con precisión el síntoma más común de la esclerosis múltiple.\n\n- **🔴 Opción D (Incorrecta):** La lesión característica de la esclerosis múltiple es la placa o lesión focal de desmielinización perivenosa, pero no siempre se asocia con inflamación y pérdida axonal. La inflamación y la pérdida axonal pueden ser variables y no siempre están presentes en todas las lesiones. Por lo tanto, la opción D es incorrecta en el sentido de que no refleja con precisión la complejidad de la lesión característica de la esclerosis múltiple.\n\nLa perla MIR es que la esclerosis múltiple es una enfermedad compleja y multifactorial que requiere una comprensión profunda de su etiopatogenia, presentación y síntomas. La opción A es correcta en el sentido de que la esclerosis múltiple puede afectar a hombres y mujeres de manera similar, aunque la presentación es más común en mujeres."
   },
   {
     "id": "q-188",
