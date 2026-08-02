@@ -2537,21 +2537,21 @@
     "id": "q-182",
     "localNumber": 182,
     "category": "General",
-    "stem": "Hombre de 85 años con enfermedad de Alzheimer de 6 años de evolución, actualmente en estadio GDS-FAST 7c. Está institucionalizado en centro sociosanitario desde hace 1 año. En los últimos 6 meses tiene frecuentes episodios de broncoaspiración por los que ha acudido a Urgencias y han sido tratados con antibioterapia de amplio espectro con mejoría clínica. Acude nuevamente a urgencias por disnea en relación con nuevo episodio de broncoaspiración y negativa a la ingesta. ¿Cuál debe ser la actitud a seguir?:",
+    "stem": "Hombre de 85 años con enfermedad de Alzheimer de 6 años de evolución, actualmente en estadio GDS-FAST 7c. Está institucionalizado en centro sociosanitario desde hace 1 año. En los últimos 6 meses tiene frecuentes episodios de broncoaspiración por los que ha acudido a Urgencias y han sido tratados con antibiótica de amplio espectro con mejoría clínica. Acude nuevamente a urgencias por disnea en relación con nuevo episodio de broncoaspiración y negativa a la ingesta. ¿Cuál debe ser la actitud a seguir?",
     "options": [
-      "Evitar ingreso. Indicar sonda nasogástrica (SNG) con el fin de prevenir nuevas broncoaspiraciones y facilitar ingesta. Antibioterapia empírica con amoxicilina-clavulánico por SNG.",
-      "Ingresar para colocación de gastrostomía (PEG) con el fin de evitar nuevas broncoaspiraciones y facilitar ingesta. Antibioterapia empírica con piperacilina-tazobactam iv.",
-      "Evitar ingreso. No está indicada la colocación de sonda para nutrición enteral. Considerar adecuación del esfuerzo terapéutico evitando antibioterapia y dando cuidados de confort.",
-      "Ingresar para antibioterapia empírica con piperacilina-tazobactam, pero evitar la colocación de sonda para nutrición enteral. La curación del proceso infeccioso mejorará casi siempre la ingesta."
+      "Ingresar para colocación de gastrostomía (PEG) con el fin de evitar nuevas broncoaspiraciones y facilitar ingesta. Antibiótica empírica con piperacilina-tazobactam iv.",
+      "Evitar ingreso. Indicar sonda nasogástrica (SNG) con el fin de prevenir nuevas broncoaspiraciones y facilitar ingesta. Antibiótica empírica con amoxicilina-clavulánico por SNG.",
+      "Evitar ingreso. No está indicada la colocación de sonda para nutrición enteral. Considerar adecuación del esfuerzo terapéutico evitando antibiótica y dando cuidados de confort.",
+      "Ingresar para antibiótica empírica con piperacilina-tazobactam, pero evitar la colocación de sonda para nutrición enteral. La curación del proceso infeccioso mejorará casi siempre la ingesta."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 182 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La opción correcta es la que no recomienda la colocación de sonda nasogástrica (SNG) ni la gastrostomía (PEG) en un paciente con enfermedad de Alzheimer en estadio avanzado. En lugar de eso, se considera la adecuación del esfuerzo terapéutico, evitando antibiótica innecesaria y enfocándose en cuidados de confort. Esto se debe a que en pacientes con enfermedad de Alzheimer en etapa terminal, los esfuerzos para mejorar la ingesta pueden ser infructuosos y generar un mayor estrés para el paciente y la familia.\n\n- **🔴 Opción A (Incorrecta):** La colocación de sonda nasogástrica (SNG) con antibiótica empírica puede ser una medida razonable en casos de broncoaspiración recurrente, pero no es la mejor opción en un paciente con enfermedad de Alzheimer en estadio avanzado. Además, la sonda nasogástrica puede generar un mayor estrés y discomodidad para el paciente.\n\n- **🔴 Opción B (Incorrecta):** Ingresar al paciente para colocar una sonda nasogástrica es una opción inapropiada en un paciente con enfermedad de Alzheimer en estadio avanzado. Además, la sonda nasogástrica no es una solución definitiva para evitar broncoaspiraciones y puede generar complicaciones.\n\n- **🔴 Opción D (Incorrecta):** La opción de ingreso para antibiótica empírica con piperacilina-tazobactam sin colocar sonda para nutrición enteral es una opción inapropiada en un paciente con enfermedad de Alzheimer en estadio avanzado. La broncoaspiración es un proceso infeccioso que requiere tratamiento adecuado, pero no hay evidencia de que la colocación de sonda para nutrición enteral sea necesaria en este caso.\n\n- La perla MIR: En pacientes con enfermedad de Alzheimer en estadio avanzado, es fundamental considerar la adecuación del esfuerzo terapéutico y enfocarse en cuidados de confort, en lugar de intentar mejorar la ingesta a través de medidas invasivas."
   },
   {
     "id": "q-183",
     "localNumber": 183,
     "category": "General",
-    "stem": "La telemonitorización domiciliaria ha demostrado beneficios en pacientes con insuficiencia cardíaca. Una mujer de 82 años con insuficiencia cardíaca y diabetes tratada con insulina está en programa de telemonitorización y remite cada semana una serie de parámetros a su médico de familia. La semana pasada presentaba presión arterial 140/85 mmHg. Glucemia capilar basal 120 mg/dL. Glucemia postprandial 2 h tras la comida 160 mg/dL. Peso 83 kg. Frecuencia cardíaca 72 lpm. Al recibir los parámetros de esta semana que se exponen a continuación, su médico decide citar a la paciente en consulta. ¿Cuál de los siguientes parámetros ha motivado dicha decisión?:",
+    "stem": "Una mujer de 82 años con insuficiencia cardíaca y diabetes tratada con insulina está en programa de telemonitorización y remite cada semana una serie de parámetros a su médico de familia. La semana pasada presentaba presión arterial 140/85 mmHg. Glucemia capilar basal 120 mg/dL. Glucemia postprandial 2 h tras la comida 160 mg/dL. Peso 83 kg. Frecuencia cardíaca 72 lpm. Al recibir los parámetros de esta semana que se exponen a continuación, su médico decide citar a la paciente en consulta. ¿Cuál de los siguientes parámetros ha motivado dicha decisión?",
     "options": [
       "Presión arterial 135/82 mmHg.",
       "Peso 85 Kg.",
@@ -2559,27 +2559,27 @@
       "Glucemia capilar postprandial 190 mg/dL."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 183 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El aumento del peso en 2 kg puede ser un indicador de retención de líquidos, lo que puede ser un signo de insuficiencia cardíaca descompensada. Esto justifica la decisión del médico de citar a la paciente en consulta.\n- **🔴 Opción A (Incorrecta):** Un aumento leve de la presión arterial no es suficiente para motivar una consulta si la paciente no presenta síntomas o signos de insuficiencia cardíaca descompensada.\n- **🔴 Opción C (Incorrecta):** Un pequeño aumento de la glucemia basal no es alarmante en pacientes con diabetes controlada con insulina.\n- **🔴 Opción D (Incorrecta):** Un aumento de la glucemia postprandial no es suficiente para motivar una consulta si la paciente no presenta síntomas o signos de insuficiencia cardíaca descompensada.\nLa perla MIR: 'Un aumento de 2 kg en una semana puede ser un signo de insuficiencia cardíaca descompensada'."
   },
   {
     "id": "q-184",
     "localNumber": 184,
     "category": "Cardiología",
-    "stem": "En un paciente con diabetes y obesidad en prevención secundaria cardiovascular, tratado con metformina y iSGLT2, que presenta mal control glucémico, ¿cuál es el fármaco de elección para mejorar dicho control?:",
+    "stem": "En un paciente con diabetes y obesidad en prevención secundaria cardiovascular, tratado con metformina e ISGLT2, que presenta mal control glucémico, ¿cuál es el fármaco de elección para mejorar dicho control?",
     "options": [
       "Insulina.",
-      "Análogos del recepto r del péptido similar al glucagón tipo 1 (arGLP-1).",
+      "Análogos del receptor del péptido similar al glucagón tipo 1 (arGLP-1).",
       "Sulfonilurea.",
-      "Repaglinida. Página: 30 de 33"
+      "Repaglinida."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 184 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Los análogos del receptor del péptido similar al glucagón tipo 1 (arGLP-1) son una excelente opción para mejorar el control glucémico en pacientes con diabetes tipo 2 tratados con metformina e ISGLT2. Estos fármacos estimulan la secreción de insulina en respuesta a la ingesta de comida y también producen efectos beneficiosos sobre la función beta-célula y la sensibilidad a la insulina. Además, tienen un perfil de seguridad favorable y pueden reducir el riesgo de complicaciones cardiovasculares en pacientes con diabetes y obesidad.\n- **🔴 Opción A (Incorrecta):** La insulina no es la primera línea de tratamiento para mejorar el control glucémico en pacientes con diabetes tipo 2 tratados con metformina e ISGLT2. Aunque la insulina es efectiva para reducir los niveles de glucosa en sangre, su inicio de tratamiento requiere una evaluación cuidadosa del paciente y una estrecha supervisión por parte del médico.\n- **🔴 Opción C (Incorrecta):** Las sulfonilureas son un grupo de fármacos que estimulan la secreción de insulina por parte de las células beta del páncreas. Sin embargo, en pacientes con diabetes tipo 2 tratados con metformina e ISGLT2, las sulfonilureas pueden aumentar el riesgo de hipoglucemia y no son la opción más segura para mejorar el control glucémico.\n- **🔴 Opción D (Incorrecta):** La repaglinida es un fármaco que estimula la secreción de insulina por parte de las células beta del páncreas. Aunque puede ser útil en algunas pacientes con diabetes tipo 2, no es la opción más segura o efectiva para mejorar el control glucémico en pacientes tratados con metformina e ISGLT2.\n- La perla MIR: 'En pacientes con diabetes tipo 2 tratados con metformina e ISGLT2, los análogos del receptor del péptido similar al glucagón tipo 1 (arGLP-1) son la opción de elección para mejorar el control glucémico'."
   },
   {
     "id": "q-185",
     "localNumber": 185,
     "category": "Neurología",
-    "stem": "Mujer de 61 años con adenocarcinoma rectal avanzado. Presenta dolor neuropático con irradiación perineal y molestias urinarias en relación con masa presacra. Mejoró con tratamiento con opioides (morfina 60 mg cada 12h) pero no tolera más aumento de dosis ni fármacos adyuvantes. ¿Cuál es el tratamiento de elección?:",
+    "stem": "Mujer de 61 años con adenocarcinoma rectal avanzado. Presenta dolor neuropático con irradiación perineal y molestias urinarias en relación con masa presacra. Mejoró con tratamiento con opioides (morfina 60 mg cada 12 horas) pero no tolera más aumento de dosis ni fármacos adyuvantes. ¿Cuál es el tratamiento de elección?",
     "options": [
       "Bloqueo del plexo celiaco.",
       "Bloqueo del ganglio impar.",
@@ -2587,13 +2587,13 @@
       "Bloqueo del nervio pudendo."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 185 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La mejor opción en este caso es el bloqueo del ganglio impar, ya que el dolor neuropático se encuentra irradiado perineal y está relacionado con una masa presacra, lo que sugiere que la causa del dolor está en la raíz nerviosa S2-S4. El ganglio impar es responsabilidad de la raíz S2-S4 y su bloqueo puede proporcionar alivio eficaz del dolor neuropático en esta región.\n\n- **🔴 Opción A (Incorrecta):** El bloqueo del plexo celiaco no es la mejor opción en este caso, ya que el dolor neuropático se encuentra en la región perineal y no está relacionado con el plexo celiaco. El bloqueo del plexo celiaco puede proporcionar alivio del dolor abdominal superior o del dolor referido a la región abdominal superior.\n\n- **🔴 Opción C (Incorrecta):** El bloqueo de nervios esplácnicos no es la mejor opción en este caso, ya que el dolor neuropático se encuentra en la región perineal y no está relacionado con los nervios esplácnicos. Los nervios esplácnicos se encuentran en la región lumbar y su bloqueo puede proporcionar alivio del dolor lumbar.\n\n- **🔴 Opción D (Incorrecta):** El bloqueo del nervio pudendo no es la mejor opción en este caso, ya que el dolor neuropático se encuentra irradiado perineal y no está relacionado con el nervio pudendo. El nervio pudendo es responsable de la sensibilidad en la región perineal, pero no es la causa principal del dolor neuropático en esta región.\n\nLa perla MIR es recordar que el bloqueo del ganglio impar es una excelente opción para aliviar el dolor neuropático en la región perineal, especialmente cuando la causa del dolor está relacionada con una masa presacra."
   },
   {
     "id": "q-186",
     "localNumber": 186,
     "category": "General",
-    "stem": "En una guardia de centro de salud avisan para atender a un hombre de 63 años, que ha sido sometido a bajas temperaturas, sin precisar cuánto tiempo ha estado en exposición. A su llegada, tiene una temperatura corporal de 28ºC. ¿Cuál de los siguientes hallazgos NO cabría esperar en este cuadro?:",
+    "stem": "En una guardia de centro de salud avisan para atender a un hombre de 63 años, que ha sido sometido a bajas temperaturas, sin precisar cuánto tiempo ha estado en exposición. A su llegada, tiene una temperatura corporal de 28°C. ¿Cuál de los siguientes hallazgos NO cabría esperar en este cuadro?",
     "options": [
       "Taquipnea.",
       "Fibrilación ventricular.",
@@ -2601,7 +2601,7 @@
       "Pupilas mióticas."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 186 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La taquipnea es un signo patognomónico de hipotermia aguda. Al estar expuesto durante un período prolongado a bajas temperaturas, el paciente puede experimentar una respuesta compensatoria a la inadecuada producción de calor corporal, lo que lleva a una frecuencia cardíaca aumentada.\n\n- **🔴 Opción B (Incorrecta):** La fibrilación ventricular no es un signo directo de hipotermia. Aunque es posible que el paciente presente arritmias, la fibrilación ventricular no es la respuesta típica a la exposición a bajas temperaturas.\n\n- **🔴 Opción C (Incorrecta):** Las alucinaciones pueden ser un signo de hipotermia severa, particularmente si el paciente ha estado expuesto durante un período prolongado. La pérdida de sensibilidad corporal y la alteración de la temperatura corporal pueden afectar la percepción y el estado de ánimo del paciente.\n\n- **🔴 Opción D (Incorrecta):** Las pupilas mióticas no son un signo directo de hipotermia. Aunque el paciente puede experimentar cambios en la reactividad pupilar, las pupilas mióticas no son un signo típico de exposición a bajas temperaturas.\n\nLa hipotermia aguda es un estado de emergencia que requiere atención inmediata. Es importante reconocer los signos y síntomas típicos, incluyendo la taquipnea, para proporcionar el tratamiento adecuado y prevenir complicaciones. La hipotermia aguda puede causar daños irreversibles si no se trata de inmediato."
   },
   {
     "id": "q-187",
