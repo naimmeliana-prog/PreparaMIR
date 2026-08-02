@@ -2607,7 +2607,7 @@
     "id": "q-188",
     "localNumber": 188,
     "category": "General",
-    "stem": "¿Cuál de las siguientes características no es propia de los síntomas que presentan los pa- cientes con enfermedad crónica avanzada con pronóstico de vida limitada?:",
+    "stem": "¿Cuál de las siguientes características no es propia de los síntomas que presentan los pacientes con enfermedad crónica avanzada con pronóstico de vida limitada?",
     "options": [
       "Múltiples.",
       "Intensos.",
@@ -2615,41 +2615,41 @@
       "Multifactoriales."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 188 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Los síntomas en pacientes con enfermedad crónica avanzada con pronóstico de vida limitada suelen ser estables. A medida que el paciente se acerca a la muerte, los síntomas pueden volverse más intensos y frecuentes, pero generalmente no son estables. Esto se debe a que el cuerpo del paciente está en un estado terminal y los síntomas pueden variar según la enfermedad subyacente y el grado de compromiso de los órganos. Sin embargo, en la etapa final de la enfermedad, los síntomas pueden volverse más estables y menos variables. Por lo tanto, la estabilidad de los síntomas es una característica que no es propia de los síntomas en pacientes con enfermedad crónica avanzada con pronóstico de vida limitada.\n\n- **🔴 Opción A (Incorrecta):** Los síntomas en pacientes con enfermedad crónica avanzada con pronóstico de vida limitada pueden ser múltiples, ya que pueden presentar síntomas relacionados con la enfermedad subyacente, así como síntomas relacionados con la complicaciones y el tratamiento. Por lo tanto, la multiplicidad de síntomas es una característica propia de los síntomas en estos pacientes.\n\n- **🔴 Opción B (Incorrecta):** Los síntomas en pacientes con enfermedad crónica avanzada con pronóstico de vida limitada pueden ser intensos, ya que pueden presentar síntomas graves y incapacitantes relacionados con la enfermedad subyacente. Por lo tanto, la intensidad de los síntomas es una característica propia de los síntomas en estos pacientes.\n\n- **🔴 Opción D (Incorrecta):** Los síntomas en pacientes con enfermedad crónica avanzada con pronóstico de vida limitada pueden ser multifactoriales, ya que pueden presentar síntomas relacionados con la enfermedad subyacente, así como síntomas relacionados con la complicaciones y el tratamiento. Por lo tanto, la multifactorialidad de los síntomas es una característica propia de los síntomas en estos pacientes.\n\nLa perla MIR: 'En la enfermedad crónica avanzada, los síntomas pueden ser múltiples, intensos y multifactoriales, pero no estables.'"
   },
   {
     "id": "q-189",
     "localNumber": 189,
     "category": "Neurología",
-    "stem": "Al cumplimentar el certificado médico de de- función de una persona que ha fallecido como consecuencia de una hemorragia cerebral por traumatismo craneoencefálico tras caída casual en el domicilio, en el apartado I-d (causa inicial o fundamental), deberem os hacer constar que se ha producido por:",
+    "stem": "Al cumplimentar el certificado médico de defunción de una persona que ha fallecido como consecuencia de una hemorragia cerebral por traumatismo craneoencefálico tras caída casual en el domicilio, en el apartado I-d (causa inicial o fundamental), deberemos hacer constar que se ha producido por:",
     "options": [
-      "Parada cardiorrespiratoria por lesión de cen- tros encefálicos.",
+      "Parada cardiorrespiratoria por lesión de centros encefálicos.",
       "Hemorragia intracraneal por traumatismo craneoencefálico.",
       "Caída en el mismo nivel por deslizamiento, tropezón y traspié (Código W01 de CIE-10).",
       "No se debe cumplimentar el certificado por tratarse de muerte violenta."
     ],
     "correctIndex": -1,
-    "explanation": "Pregunta oficial número 189 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La muerte de la persona se debió a una hemorragia cerebral como consecuencia de un traumatismo craneoencefálico. Esta causa inicial o fundamental es la que debería constar en el apartado I-d del certificado médico de defunción. Las otras opciones no son la causa principal de la muerte en este caso. \n\n- **🔴 Opción A (Incorrecta):** La parada cardiorrespiratoria por lesión de centros encefálicos es una consecuencia de la hemorragia cerebral, pero no es la causa inicial o fundamental de la muerte. \n\n- **🔴 Opción B (Incorrecta):** La hemorragia intracraneal por traumatismo craneoencefálico es la causa directa de la muerte, pero la pregunta se refiere a la causa inicial o fundamental, que en este caso es el traumatismo craneoencefálico. \n\n- **🔴 Opción C (Incorrecta):** La caída en el mismo nivel por deslizamiento, tropezón y traspié (Código W01 de CIE-10) es la causa inicial del traumatismo craneoencefálico, pero no es la causa principal de la muerte. La muerte se debió a la hemorragia cerebral como consecuencia del traumatismo craneoencefálico. \n\nLa perla MIR es que en el certificado médico de defunción, la causa inicial o fundamental de la muerte es la que debería constar en el apartado I-d, y no las consecuencias o causas secundarias."
   },
   {
     "id": "q-190",
     "localNumber": 190,
     "category": "General",
-    "stem": "Las heridas de disposición paralela y de dife- rente profundidad, que aparecen en ocasiones en la muñeca del miembro no dominante de una persona como consecuencia de la acción de un a r m a b l a n c a , s o n s u g e s t i v a s d e u n a d e l a s s i - guientes opciones:",
+    "stem": "Las heridas de disposición paralela y de diferente profundidad, que aparecen en ocasiones en la muñeca del miembro no dominante de una persona como consecuencia de la acción de un arma blanca, son sugerentes de una de las siguientes opciones:",
     "options": [
       "Heridas de lucha, producidas por el manejo de arma.",
       "Heridas de defensa.",
       "Heridas de tanteo (intención autolítica).",
-      "Heridas autoproducidas con finalidad de si- mulación."
+      "Heridas autoproducidas con finalidad de simulación."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 190 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Las heridas de disposición paralela y de diferente profundidad en la muñeca del miembro no dominante pueden ser indicativas de heridas de tanteo (intención autolítica). Esto se debe a que la persona que sufre la herida intenta evitar el impacto del arma blanca, lo que lleva a heridas de diferentes profundidades y disposiciones en la misma área del cuerpo. La muñeca del miembro no dominante es un área comúnmente afectada en este tipo de heridas debido a la naturaleza defensiva del movimiento del brazo.\n\n- **🔴 Opción A (Incorrecta):** Las heridas de lucha, producidas por el manejo de arma, suelen ser más complejas y extensas, y no se limitan a la muñeca del miembro no dominante. Además, las heridas de lucha pueden tener una disposición más aleatoria y no necesariamente paralela.\n\n- **🔴 Opción B (Incorrecta):** Las heridas de defensa pueden ser más variadas y no necesariamente tienen una disposición paralela y de diferente profundidad en la muñeca del miembro no dominante. Además, las heridas de defensa pueden ser una respuesta a un ataque y no necesariamente una intención autolítica.\n\n- **🔴 Opción D (Incorrecta):** Las heridas autoproducidas con finalidad de simulación suelen ser más deliberadas y no tienen una disposición paralela y de diferente profundidad en la muñeca del miembro no dominante. Además, las heridas autoproducidas con finalidad de simulación no suelen ser indicativas de una intención autolítica.\n\n**Perla MIR:** 'Muñeca del miembro no dominante, heridas de tanteo y disposición paralela, intención autolítica'."
   },
   {
     "id": "q-191",
     "localNumber": 191,
     "category": "Cardiología",
-    "stem": "Varón de 54 años de edad que acude a su centro de salud tras el alta hospitalaria por un infarto agudo de miocardio. Destacan como anteceden- tes ser fumador de 25 cigarrillos/día desde los 20 años, bebedor habitual de 6 UBE/día y en varios análisis de años anteriores cifras de co- lesterol total de 247-298 mg/dl, triglicéridos de 150-216 mg/dl, colesterol-HDL de entre 45-52 mg/dl. En sus antecedentes familiares tiene recogidos que sus padres (86 y 83 años) son diabéticos e hipertensos y que sus dos hermanos (58 y 60 años) están sanos, todos sin enfermeda- des cardiovasculares. ¿Qué tipo de dislipemia es más probable?:",
+    "stem": "Un varón de 54 años de edad acude a su centro de salud tras el alta hospitalaria por un infarto agudo de miocardio. Destacan como antecedentes ser fumador de 25 cigarrillos/día desde los 20 años, bebedor habitual de 6 Unidades de Bebida Etílica (UBE)/día y en varios análisis de años anteriores cifras de colesterol total de 247-298 mg/dl, triglicéridos de 150-216 mg/dl, colesterol-HDL de entre 45-52 mg/dl. En sus antecedentes familiares tiene recogidos que sus padres (86 y 83 años) son diabéticos e hipertensos y que sus dos hermanos (58 y 60 años) están sanos, todos sin enfermedades cardiovasculares.",
     "options": [
       "Disbetalipoproteinemia.",
       "Hipercolesterolemia familiar heterocigota.",
@@ -2657,13 +2657,13 @@
       "Hipercolesterolemia poligénica."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 191 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta plantea una situación clínica en la que un paciente de 54 años de edad ha tenido un infarto agudo de miocardio y tiene antecedentes familiares de diabetes e hipertensión. Se le presentan cifras de colesterol total, triglicéridos y colesterol-HDL elevadas. Tenemos que evaluar las opciones de dislipemia más probables según los antecedentes y la situación clínica del paciente.\n\n**🟢 Opción D (Correcta):** La Hipercolesterolemia poligénica es la opción más probable en este caso. La hipercolesterolemia poligénica es una condición en la que las cifras de colesterol total se elevan debido a factores genéticos y ambientales, como la dieta y el estilo de vida. En este paciente, se mencionan cifras de colesterol total elevadas en análisis de años anteriores, lo que sugiere una tendencia a la hipercolesterolemia. Además, su historia familiar de diabetes e hipertensión puede indicar una predisposición genética a enfermedades cardiovasculares. La hipercolesterolemia poligénica es una condición común que se asocia con un mayor riesgo de enfermedades cardiovasculares.\n\n**🔴 Opción A (Incorrecta):** La Disbetalipoproteinemia es una condición rara que se asocia con una disminución del colesterol-HDL y una elevación de las partículas de LDL (lipoproteína de baja densidad) pequeñas y densas. No hay indicios en la historia clínica del paciente que sugieran esta condición.\n\n**🔴 Opción B (Incorrecta):** La Hipercolesterolemia familiar heterocigota es una condición genética rara que se asocia con un aumento de las partículas de LDL. Aunque el paciente tiene antecedentes familiares de enfermedades cardiovasculares, no hay indicios de que esta condición sea la causante de sus problemas de salud.\n\n**🔴 Opción C (Incorrecta):** La Hiperlipemia familiar combinada es una condición que se asocia con un aumento de las partículas de LDL y triglicéridos. Aunque el paciente tiene cifras de triglicéridos elevadas, no hay indicios de que esta condición sea la causante de sus problemas de salud.\n\nLa perla MIR para memorizar el concepto clave es: *La hipercolesterolemia poligénica es la opción más probable en un paciente con antecedentes familiares de enfermedades cardiovasculares y cifras de colesterol total elevadas*."
   },
   {
     "id": "q-192",
     "localNumber": 192,
     "category": "General",
-    "stem": "Una vez establecido el diagnóstico de diabetes mellitus tipo 2 y logrado un control bueno o aceptable, dentro de las actividades periódicas de seguimiento, ¿cuándo hay que solicitar una hemoglobina A1c?:",
+    "stem": "Una vez establecido el diagnóstico de diabetes mellitus tipo 2 y logrado un control bueno o aceptable, dentro de las actividades periódicas de seguimiento, ¿cuándo hay que solicitar una hemoglobina A1c?",
     "options": [
       "Cada 3 meses.",
       "Cada 6 meses.",
@@ -2671,7 +2671,7 @@
       "Cada 12 meses."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 192 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La hemoglobina A1c (HbA1c) es un marcador de la glucemia media a lo largo de los últimos 2-3 meses. En pacientes con diabetes mellitus tipo 2 que tienen un control bueno o aceptable, se recomienda medir la HbA1c cada 6 meses para evaluar la eficacia del tratamiento y ajustar la estrategia terapéutica si es necesario. Esta frecuencia de medición permite identificar cambios en la glucemia y tomar decisiones informadas sobre la gestión del paciente.\n\n- **🔴 Opción A (Incorrecta):** Solicitar la HbA1c cada 3 meses en pacientes con control bueno o aceptable puede ser excesivo y no proporciona información adicional significativa. Esta frecuencia de medición puede llevar a un mayor uso de recursos y no necesariamente mejora la calidad de la atención al paciente.\n\n- **🔴 Opción C (Incorrecta):** Solicitar la HbA1c cada 9 meses en pacientes con control bueno o aceptable puede no ser lo suficientemente frecuente para detectar cambios en la glucemia que requieran ajustes en el tratamiento. Esta frecuencia de medición puede no ser adecuada para pacientes con diabetes en evolución o con factores de riesgo aumentados.\n\n- **🔴 Opción D (Incorrecta):** Solicitar la HbA1c cada 12 meses en pacientes con control bueno o aceptable puede ser demasiado infrecuente para evaluar la eficacia del tratamiento y detectar cambios en la glucemia. Esta frecuencia de medición puede no ser adecuada para pacientes con diabetes que requieren una atención más estrecha.\n\n**Perla MIR:** La hemoglobina A1c es un marcador importante para evaluar el control de la diabetes. Se debe medir cada 6 meses en pacientes con control bueno o aceptable para ajustar el tratamiento según sea necesario."
   },
   {
     "id": "q-193",
