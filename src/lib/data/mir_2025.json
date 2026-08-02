@@ -925,71 +925,71 @@
     "id": "q-67",
     "localNumber": 67,
     "category": "Cardiología",
-    "stem": "¿Cuál de las siguientes afirmaciones es co- rrecta respecto al electrocardiograma (ECG) normal en la fisiología cardíaca?:",
+    "stem": "¿Cuál de las siguientes afirmaciones es correcta respecto al electrocardiograma (ECG) normal en la fisiología cardíaca?",
     "options": [
-      "El complejo QRS representa la repolariza- ción de los ventrículos.",
-      "La onda T indica la despolarización com- pleta del músculo ventricular.",
-      "La onda P corresponde a la despolariza- ción de las aurículas antes de la contrac- ción auricular.",
+      "El complejo QRS representa la repolarización de los ventrículos.",
+      "La onda T indica la despolarización completa del músculo ventricular.",
+      "La onda P corresponde a la despolarización de las aurículas antes de la contracción auricular.",
       "El electrodo ubicado cerca de la base del corazón registra una positividad durante la despolarización ventricular."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 67 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La onda P corresponde a la despolarización de las aurículas antes de la contracción auricular. Esto se debe a que la onda P es el resultado de la despolarización de las células auriculares, que se propaga a través del sistema de conducción auricular, lo que finalmente lleva a la contracción auricular. Esta onda es un indicador importante de la función auricular y se utiliza para evaluar la función cardíaca en diferentes contextos clínicos. Además, la onda P es la primera onda del ECG y se caracteriza por ser una onda de biphasia ascendente, lo que la distingue de otras ondas en el ECG. En resumen, la onda P es fundamental para comprender la fisiología cardíaca y la función auricular en el contexto del ECG normal. \n\n- **🔴 Opción A (Incorrecta):** El complejo QRS representa la repolarización de los ventrículos. Esto es incorrecto porque el complejo QRS es, de hecho, el resultado de la depolarización de los ventrículos, no la repolarización. La repolarización es el proceso por el cual los músculos cardíacos recuperan su estado de reposo después de la contracción, lo que se refleja en la onda T del ECG. Por tanto, la opción A es incorrecta. \n\n- **🔴 Opción B (Incorrecta):** La onda T indica la despolarización completa del músculo ventricular. Esto es incorrecto porque, como mencionado anteriormente, la onda T se refiere a la repolarización del músculo ventricular, no a la despolarización. La despolarización se refiere al proceso de excitación de las células cardíacas, que se inicia con la onda P y continúa con la depolarización de los ventrículos, lo que se refleja en el complejo QRS. Por tanto, la opción B es incorrecta. \n\n- **🔴 Opción D (Incorrecta):** El electrodo ubicado cerca de la base del corazón registra una positividad durante la despolarización ventricular. Esto es incorrecto porque, en general, los electrodos ubicados cerca de la base del corazón registran negatividad durante la despolarización ventricular, no positividad. La negatividad se debe a que la corriente de despolarización se dirige hacia la base del corazón, lo que genera una onda negativa en el electrodo. Por tanto, la opción D es incorrecta."
   },
   {
     "id": "q-68",
     "localNumber": 68,
     "category": "General",
-    "stem": "¿Cuál de las siguientes afirmaciones sobre la regulación intracelular del ion calcio es correcta?:",
+    "stem": "¿Cuál de las siguientes afirmaciones sobre la regulación intracelular del ion calcio es correcta?",
     "options": [
-      "La concentración citosólica de calcio se mantiene baja gracias a bombas ATPasas que transportan calcio hacia el retículo en- doplásmico.",
-      "El trifosfato de inositol (IP3) bloquea la li- beración de calcio desde el retículo endo- plásmico.",
-      "La entrada de calcio en la célula ocurre principalmente por difusión pasiva a tra- vés de la membrana.",
-      "El calcio intracelular no participa como se- gundo mensajero en la señalización celu- lar."
+      "La concentración citosólica de calcio se mantiene baja gracias a bombas ATP-asa que transportan calcio hacia el retículo endoplásmico.",
+      "El trifosfato de inositol (IP3) bloquea la liberación de calcio desde el retículo endoplásmico.",
+      "La entrada de calcio en la célula ocurre principalmente por difusión pasiva a través de la membrana.",
+      "El calcio intracelular no participa como segundo mensajero en la señalización celular."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 68 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La concentración citosólica de calcio se mantiene baja gracias a la acción de bombas ATP-asaas, específicamente la bomba de calcio del retículo endoplásmico, que transportan calcio hacia el interior del retículo endoplásmico. Esto ayuda a mantener la concentración de calcio dentro de la célula baja y controlada.\n\n- **🔴 Opción B (Incorrecta):** El trifosfato de inositol (IP3) es un segundo mensajero que se produce en respuesta a la estimulación de receptores acoplados a proteínas G. El IP3 desencadena la liberación de calcio desde el retículo endoplásmico, no la bloquea. Por lo tanto, esta afirmación es incorrecta.\n\n- **🔴 Opción C (Incorrecta):** La entrada de calcio en la célula ocurre principalmente a través de canales de calcio, que son proteínas que permiten el flujo de calcio a través de la membrana celular. La difusión pasiva no es el mecanismo principal de entrada de calcio en la célula. Por lo tanto, esta afirmación es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** El calcio intracelular es un segundo mensajero importante en la señalización celular. Se involucra en la regulación de la activación de proteínas cinasas, la regulación de la transcripción génica y la regulación de la apoptosis. Por lo tanto, esta afirmación es incorrecta.\n\nLa perla MIR: La regulación del ion calcio es crucial para mantener la homeostasis celular y la función normal de las células. La bomba de calcio del retículo endoplásmico es fundamental para mantener la concentración de calcio baja dentro de la célula."
   },
   {
     "id": "q-69",
     "localNumber": 69,
     "category": "Nefrología",
-    "stem": "Una sustancia nefrotóxica se elimina por fil- tración glomerular y se reabsorbe pasiva- mente en el túbulo renal. Considerando que esta sustancia posee una pKa = 5 en el equilibrio ácido-base, ¿cuál de estas actua- ciones consideras que puede reducir su ne- frotoxicidad?:",
+    "stem": "Una sustancia nefrotóxica se elimina por filtración glomerular y se reabsorbe pasivamente en el túbulo renal. Considerando que esta sustancia posee una pKa = 5 en el equilibrio ácido-base, ¿cuál de estas acciones consideras que puede reducir su nefrotoxicidad?",
     "options": [
-      "Acidificaremos la orina con cloruro amó- nico, para aumentar la fracción ionizada de la sustancia y potenciar así la excre- ción renal de la sustancia.",
+      "Acidificaremos la orina con cloruro amónico, para aumentar la fracción ionizada de la sustancia y potenciar así la excreción renal de la sustancia.",
       "Alcalinizaremos la orina con bicarbonato sódico, para aumentar la fracción ionizada de la sustancia y acelerar así su diuresis.",
-      "Acidificaremos la orina con cloruro amó- nico, para reducir la fracción ionizada de la sustancia y acelerar así la excreción re- nal de la sustancia.",
-      "No actuaremos de forma específica con el pH, porque la reabsorción y excreción re- nal de sustancias es independiente del pH urinario."
+      "Acidificaremos la orina con cloruro amónico, para reducir la fracción ionizada de la sustancia y acelerar así la excreción renal de la sustancia.",
+      "No actuaremos de forma específica con el pH, porque la reabsorción y excreción renal de sustancias es independiente del pH urinario."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 69 del examen MIR de la convocatoria FSE."
+    "explanation": "Para evaluar las opciones, debemos comprender la relación entre la pKa de la sustancia y su estado de ionización en función del pH de la orina.\n\n**🟢 Opción B (Correcta):** Alcalinizando la orina con bicarbonato sódico, se aumenta la fracción ionizada de la sustancia, lo que facilita su excreción renal. Esta acción es beneficiosa porque la sustancia se encuentra en su forma ionizada, lo que permite su eliminación más eficiente.\n\n**🔴 Opción A (Incorrecta):** Acidificar la orina con cloruro amónico puede parecer una buena opción, pero en realidad, reduciría la fracción ionizada de la sustancia, lo que dificultaría su excreción renal. Esta acción no es beneficiosa en este caso.\n\n**🔴 Opción C (Incorrecta):** Similar a la opción A, acidificar la orina con cloruro amónico reduciría la fracción ionizada de la sustancia, lo que dificultaría su excreción renal. Esta acción no es beneficiosa en este caso.\n\n**🔴 Opción D (Incorrecta):** La reabsorción y excreción renal de sustancias no es independiente del pH urinario. La forma en que se ioniza la sustancia en función del pH de la orina puede afectar su eliminación renal. Por lo tanto, esta opción no es correcta.\n\nLa perla MIR para recordar este concepto es: 'Aumentar la fracción ionizada de una sustancia nefrotóxica con pKa = 5 se puede lograr alcalinizando la orina, lo que facilita su excreción renal'."
   },
   {
     "id": "q-70",
     "localNumber": 70,
     "category": "Neurología",
-    "stem": "En relación con el potencial de placa termi- nal en la unión neuromuscular, ¿cuál de las siguientes afirmaciones es correcta?:",
+    "stem": "En relación con el potencial de placa terminal en la unión neuromuscular, ¿cuál de las siguientes afirmaciones es correcta?",
     "options": [
       "Su amplitud depende de la suma temporal de los potenciales de acción en la fibra muscular.",
-      "Se origina principalmente por la apertura de receptores nicotínicos para acetilcolina que permiten el flujo de Na ⁺ y, en menor cantidad, de K⁺.",
-      "Se genera cuando la acetilcolina activa conductos de Ca² ⁺ dependientes de vol- taje.",
-      "Se propaga a lo largo de toda la fibra mus- cular como un potencial de acción inde- pendiente."
+      "Se origina principalmente por la apertura de receptores nicotínicos para acetilcolina que permiten el flujo de Na⁺ y, en menor cantidad, de K⁺.",
+      "Se genera cuando la acetilcolina activa conductos de Ca²⁺ dependientes de voltaje.",
+      "Se propaga a lo largo de toda la fibra muscular como un potencial de acción independiente."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 70 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La placa terminal es un potencial eléctrico que se genera en la unión neuromuscular como respuesta a la liberación de acetilcolina por parte de la terminal del nervio motor. La acetilcolina actúa en los receptores nicotínicos en la membrana muscular, lo que permite el flujo de iones sodio (Na⁺) y, en menor cantidad, iones potasio (K⁺). Esto conduce a la depolarización de la membrana muscular y la generación de la placa terminal. Por lo tanto, la opción B es la correcta ya que describe la correcta relación entre la acetilcolina y la generación de la placa terminal en la unión neuromuscular.\n\n- **🔴 Opción A (Incorrecta):** La amplitud de la placa terminal no depende únicamente de la suma temporal de los potenciales de acción en la fibra muscular. La placa terminal es un evento eléctrico específico que se produce en la unión neuromuscular y no es la suma de los potenciales de acción en la fibra muscular.\n\n- **🔴 Opción C (Incorrecta):** La acetilcolina no activa conductos de Ca²⁺ dependientes de voltaje directamente. La liberación de acetilcolina y la activación de los receptores nicotínicos en la membrana muscular son los eventos clave que conducen a la generación de la placa terminal.\n\n- **🔴 Opción D (Incorrecta):** La placa terminal no se propaga a lo largo de toda la fibra muscular como un potencial de acción independiente. La placa terminal es un evento eléctrico específico que se produce en la unión neuromuscular y no se propaga como un potencial de acción a lo largo de la fibra muscular.\n\nLa perla MIR: La placa terminal es un potencial eléctrico que se genera en la unión neuromuscular en respuesta a la liberación de acetilcolina por parte del nervio motor. Recuerda que la acetilcolina actúa en los receptores nicotínicos en la membrana muscular para permitir el flujo de iones sodio y potasio, lo que conduce a la depolarización de la membrana muscular y la generación de la placa terminal."
   },
   {
     "id": "q-71",
     "localNumber": 71,
     "category": "General",
-    "stem": "Un adulto toma comprimidos orales de morfina (60 mg/día) desde hace 9 meses por un dolor oncológico intenso. Como el dolor no está bien controlado, se decide sustituir la morfina por una dosis elevada de otro opioide que tiene una mayor poten- cia analgésica y una mayor afinidad por el receptor opioide que la propia morfina, pero una actividad intrínseca mucho más pequeña. Al día siguie nte comienza con la nueva medicación. ¿Cuál será el efecto es- perado de este cambio en el paciente?:",
+    "stem": "Un adulto toma comprimidos orales de morfina (60 mg/día) desde hace 9 meses por un dolor oncológico intenso. Como el dolor no está bien controlado, se decide sustituir la morfina por una dosis elevada de otro opioide que tiene una mayor potencia analgésica y una mayor afinidad por el receptor opioide que la propia morfina, pero una actividad intrínseca mucho más pequeña. Al día siguiente comienza con la nueva medicación.",
     "options": [
       "Un incremento del efecto analgésico y una mejora del control del dolor.",
       "El desencadenamiento de un síndrome de abstinencia opioide.",
       "La aparición de una marcada dificultad respiratoria.",
-      "El paciente no experimentará ningún cam- bio apreciable."
+      "El paciente no experimentará ningún cambio apreciable."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 71 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La sustitución de la morfina por otro opioide con mayor potencia analgésica y afinidad por el receptor opioide, pero menor actividad intrínseca, puede llevar a un síndrome de abstinencia opioide. Esto se debe a que el nuevo opioide puede tener una afinidad similar por el receptor opioide, pero no necesariamente una acción similar, lo que puede causar un desequilibrio en la estimulación del sistema nervioso central. En este caso, el paciente puede experimentar síntomas de abstinencia, como ansiedad, náuseas, sudoración y dolores musculares, especialmente si se reduce o suspende la dosis de morfina sin un período de ajuste adecuado. Es importante mencionar que la aparición de un síndrome de abstinencia opioide es una respuesta común a la sustitución de un opioide por otro con diferentes propiedades farmacológicas, especialmente si se ha estado utilizando el mismo opioide durante un período prolongado. Por lo tanto, la opción B es la correcta en este escenario clínico.\n\n- **🔴 Opción A (Incorrecta):** La sustitución de la morfina por otro opioide con mayor potencia analgésica y afinidad por el receptor opioide no necesariamente lleva a un incremento del efecto analgésico y una mejora del control del dolor. Si bien el nuevo opioide puede tener una mayor potencia analgésica, su menor actividad intrínseca puede no ser suficiente para controlar el dolor de manera efectiva. Además, la aparición de un síndrome de abstinencia opioide puede ser un problema adicional, lo que puede afectar la eficacia del tratamiento y la calidad de vida del paciente. Por lo tanto, la opción A no es la adecuada en este caso.\n\n- **🔴 Opción C (Incorrecta):** La sustitución de la morfina por otro opioide no necesariamente lleva a la aparición de una marcada dificultad respiratoria. Si bien los opioideos pueden causar somnolencia y disminuir la ventilación, la aparición de una dificultad respiratoria grave no es una consecuencia directa de la sustitución de un opioide por otro con diferentes propiedades farmacológicas. La opción C no es la adecuada en este caso.\n\n- **🔴 Opción D (Incorrecta):** La sustitución de la morfina por otro opioide no necesariamente lleva a que el paciente no experimente ningún cambio apreciable. Si bien el nuevo opioide puede tener una menor actividad intrínseca, su mayor potencia analgésica y afinidad por el receptor opioide pueden causar efectos adversos y síntomas de abstinencia, especialmente si se reduce o suspende la dosis de morfina sin un período de ajuste adecuado. Por lo tanto, la opción D no es la adecuada en este caso."
   },
   {
     "id": "q-72",
