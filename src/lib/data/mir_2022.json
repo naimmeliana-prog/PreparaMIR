@@ -1053,21 +1053,21 @@
     "id": "q-77",
     "localNumber": 77,
     "category": "Pediatría",
-    "stem": "¿Cuál de las siguientes vacunas NO debe admi- nistrarse a un lactante de 9 meses que tiene una inmunodeficiencia primaria combinada?:",
+    "stem": "¿Cuál de las siguientes vacunas no debe administrarse a un lactante de 9 meses que tiene una inmunodeficiencia primaria combinada?",
     "options": [
-      "Vacuna antineumocócica conjugada 13- valente.",
+      "Vacuna antineumocócica conjugada 13-valente.",
       "Vacuna antigripal.",
       "Vacuna frente al rotavirus.",
       "Vacuna antimeningocócica tipo B."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 77 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La vacuna frente al rotavirus no debe administrarse a un lactante de 9 meses con inmunodeficiencia primaria combinada debido a que esta vacuna puede ser inactivada por la inmunodeficiencia, lo que podría comprometer su eficacia en prevenir la enfermedad. Las vacunas antineumocócica conjugada 13-valente, antigripal y antimeningocócica tipo B son seguras para administrarse en lactantes con inmunodeficiencia primaria combinada, ya que no requieren una respuesta inmunológica intensa para ser efectivas. Por lo tanto, la vacuna frente al rotavirus es la opción incorrecta en este caso. La vacuna frente al rotavirus es una vacuna vivas, atenuadas (VLA), lo que significa que requiere una respuesta inmunológica normal para ser efectiva. En lactantes con inmunodeficiencia primaria combinada, la respuesta inmunológica puede estar comprometida, lo que podría hacer que la vacuna frente al rotavirus no sea efectiva en prevenir la enfermedad. Por el contrario, las vacunas antineumocócica conjugada 13-valente, antigripal y antimeningocócica tipo B son vacunas inactivadas, que no requieren una respuesta inmunológica intensa para ser efectivas. Por lo tanto, son seguras para administrarse en lactantes con inmunodeficiencia primaria combinada. La respuesta correcta es la vacuna frente al rotavirus, ya que es la única opción que no debe administrarse a un lactante de 9 meses con inmunodeficiencia primaria combinada."
   },
   {
     "id": "q-78",
     "localNumber": 78,
     "category": "General",
-    "stem": "Varón de 19 meses, correctamente vacunado para su edad. Previamente bien, inicia de forma brusca un cuadro clínico con fiebre alta de hasta 40 ºC sin otra sintomatolo gía, salvo irritabilidad. La exploración al día si guiente es normal, salvo por ligera hiperemia de mucosa oral y membra- na timpánica, y microadenopatías laterocervica- les. Al cuarto día desaparece totalmente la fiebre y aparece un exantema eri tematoso morbilifor- me, maculopapuloso de distribución en cara, tronco y extremidades. De los siguientes, ¿cuál es el diagnóstico más probable?:",
+    "stem": "Varón de 19 meses, correctamente vacunado para su edad. Previamente bien, inicia de forma brusca un cuadro clínico con fiebre alta de hasta 40ºC sin otra sintomatología, salvo irritabilidad. La exploración al día siguiente es normal, salvo por ligera hiperemia de mucosa oral y membrana timpánica, y microadenopatías laterocervicales. Al cuarto día desaparece totalmente la fiebre y aparece un exantema eritematoso morbiliforo, maculopapuloso de distribución en cara, tronco y extremidades.",
     "options": [
       "Eritema infeccioso o quinta enfermedad.",
       "Sarampión o primera enfermedad.",
@@ -1075,13 +1075,13 @@
       "Escarlatina o segunda enfermedad."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 78 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La roséola, también conocida como exantema súbito o sexta enfermedad, es una infección viral causada por el virus de la roséola, que afecta principalmente a los niños pequeños. Los síntomas comienzan con una fiebre alta, seguida de una erupción cutánea característica. En este caso, la descripción clínica del paciente, con fiebre alta y luego exantema eritematoso maculopapuloso en cara, tronco y extremidades, es coherente con el diagnóstico de roséola. Además, la edad del paciente y la presentación clínica son consistentes con esta enfermedad. \n\n- **🔴 Opción A (Incorrecta):** El eritema infeccioso o quinta enfermedad es una infección viral que causa una erupción cutánea. Sin embargo, la descripción clínica del paciente no es coherente con este diagnóstico, ya que el eritema infeccioso suele ser más grave y tener una distribución más extensa en el cuerpo. \n\n- **🔴 Opción B (Incorrecta):** El sarampión o primera enfermedad es una infección viral que causa una erupción cutánea y síntomas respiratorios. Sin embargo, en este caso, la descripción clínica del paciente no es coherente con este diagnóstico, ya que el sarampión suele causar una erupción cutánea más extensa y tener síntomas respiratorios más graves. \n\n- **🔴 Opción D (Incorrecta):** La escarlatina o segunda enfermedad es una infección bacterial que causa una erupción cutánea y síntomas generales. Sin embargo, en este caso, la descripción clínica del paciente no es coherente con este diagnóstico, ya que la escarlatina suele causar una erupción cutánea más extensa y tener síntomas generales más graves. \n\nLa perla MIR para recordar este concepto es que la roséola es una infección viral que causa una erupción cutánea característica, y su diagnóstico se basa en la descripción clínica del paciente y la edad del paciente."
   },
   {
     "id": "q-79",
     "localNumber": 79,
     "category": "Pediatría",
-    "stem": "Lactante de 14 meses que acude a ur gencias por un cuadro de irritabilidad en las últimas 12 ho- ras y heces sanguinolentas con moco. En la ex- ploración destacan episodios de llanto, con fle- xión de las extremidades inferiores. En la palpa- ción abdominal se ob jetiva una masa cilíndrica mal definida, incrementándos e el llanto del niño cuando se presiona en la parte derecha del ab- domen. ¿Cuál es su dia gnóstico de sospecha y que prueba realizaría para confirmarlo?:",
+    "stem": "Lactante de 14 meses que acude a urgencias por un cuadro de irritabilidad en las últimas 12 horas y heces sanguinolentas con moco. En la exploración destacan episodios de llanto, con flexión de las extremidades inferiores. En la palpación abdominal se observa una masa cilíndrica mal definida, incrementándose el llanto del niño cuando se presiona en la parte derecha del abdomen. ¿Cuál es su diagnóstico de sospecha y que prueba realizaría para confirmarlo?",
     "options": [
       "Apendicitis aguda. Ecografía abdominal.",
       "Invaginación intestinal. Ecografía abdominal.",
@@ -1089,35 +1089,35 @@
       "Invaginación intestinal. TC abdominal."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 79 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La invaginación intestinal es un diagnóstico que se sospecha en el caso del lactante de 14 meses que presenta irritabilidad, heces sanguinolentas con moco y una masa cilíndrica mal definida en el abdomen. La invaginación intestinal es una condición en la que una parte del intestino se invagina a través de una abertura en la pared intestinal, lo que puede causar obstrucción intestinal y síntomas como el dolor abdominal, el vómito y la diarrea sanguinolenta. La ecografía abdominal es una prueba de imagen que puede ayudar a confirmar el diagnóstico, ya que permite visualizar la estructura del intestino y detectar la invaginación. Por lo tanto, la opción B es la correcta clínicamente.\n\n- **🔴 Opción A (Incorrecta):** La apendicitis aguda es un diagnóstico que se sospecha en casos de dolor abdominal agudo, especialmente en la parte inferior del abdomen. Sin embargo, en el caso del lactante de 14 meses que se describe, no hay indicios de dolor abdominal agudo en la parte inferior del abdomen, lo que hace que la apendicitis aguda sea una opción poco probable. Además, la ecografía abdominal es una prueba de imagen que puede ayudar a confirmar el diagnóstico, pero no es la prueba más adecuada para la apendicitis aguda.\n\n- **🔴 Opción C (Incorrecta):** La apendicitis aguda es un diagnóstico que se sospecha en casos de dolor abdominal agudo, especialmente en la parte inferior del abdomen. Sin embargo, en el caso del lactante de 14 meses que se describe, no hay indicios de dolor abdominal agudo en la parte inferior del abdomen, lo que hace que la apendicitis aguda sea una opción poco probable. Además, la TC abdominal es una prueba de imagen que puede ayudar a confirmar el diagnóstico, pero no es la prueba más adecuada para la apendicitis aguda.\n\n- **🔴 Opción D (Incorrecta):** La invaginación intestinal es un diagnóstico que se sospecha en el caso del lactante de 14 meses que presenta irritabilidad, heces sanguinolentas con moco y una masa cilíndrica mal definida en el abdomen. Sin embargo, la TC abdominal no es la prueba de imagen más adecuada para confirmar el diagnóstico de invaginación intestinal, ya que la ecografía abdominal es más sensible para detectar la invaginación intestinal.\n\nLa perla MIR es: 'La invaginación intestinal es un diagnóstico que se sospecha en casos de irritabilidad, heces sanguinolentas con moco y una masa cilíndrica mal definida en el abdomen, y se confirma con ecografía abdominal'."
   },
   {
     "id": "q-80",
     "localNumber": 80,
     "category": "Pediatría",
-    "stem": "Respecto a la gastroenteritis a guda (GEA) en pediatría, señale la afirmación INCORRECTA:",
+    "stem": "Respecto a la gastroenteritis aguda (GEA) en pediatría, señale la afirmación INCORRECTA:",
     "options": [
       "Los rotavirus son una causa infrecuente de GEA en los niños a nivel mundial.",
-      "Los principales patógenos bacterianos que causan GEA son Salmonella no tifoidea, Shi- gella, Campylobacter y Yersinia.",
+      "Los principales patógenos bacterianos que causan GEA son Salmonella no tifoidea, Shigella, Campylobacter y Yersinia.",
       "La enfermedad por Clostridioides difficile puede ser tanto nosocomial como adquirida en la comunidad en los niños.",
-      "Entre los patógenos bacterianos que causan enfermedades vehiculadas por alimentos se in- cluyen Bacillus cereus , Clostridium perfrin- gens y Staphylococcus aureus."
+      "Entre los patógenos bacterianos que causan enfermedades vehiculadas por alimentos se incluyen Bacillus cereus, Clostridium perfringens y Staphylococcus aureus."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 80 del examen MIR de la convocatoria FSE."
+    "explanation": "Para resolver este problema, debemos analizar cada una de las opciones y determinar cuál es la afirmación incorrecta.\n\n- **🟢 Opción A (Correcta):** Los rotavirus son una causa común de gastroenteritis aguda en los niños, especialmente en áreas con poca cobertura de vacunas. En cambio, la afirmación de que son una causa infrecuente es incorrecta.\n\n- **🔴 Opción B (Incorrecta):** La afirmación de que los principales patógenos bacterianos que causan GEA son Salmonella no tifoidea, Shigella, Campylobacter y Yersinia es parcialmente correcta. Sin embargo, otros patógenos bacterianos como Escherichia coli (E. coli) también pueden causar GEA.\n\n- **🔴 Opción C (Incorrecta):** La afirmación de que la enfermedad por Clostridioides difficile puede ser tanto nosocomial como adquirida en la comunidad en los niños es correcta. Sin embargo, la pregunta parece buscar una afirmación incorrecta.\n\n- **🔴 Opción D (Incorrecta):** La afirmación de que entre los patógenos bacterianos que causan enfermedades vehiculadas por alimentos se incluyen Bacillus cereus, Clostridium perfringens y Staphylococcus aureus es correcta.\n\nLa perla MIR para recordar es: \"Los rotavirus son una causa común de gastroenteritis aguda en los niños, no infrecuente\"."
   },
   {
     "id": "q-81",
     "localNumber": 81,
     "category": "General",
-    "stem": "Entre las características clínicas siguientes rela- tivas a la anorexia nerviosa , señale la afirmación correcta:",
+    "stem": "Entre las características clínicas siguientes relatives a la anorexia nerviosa, señale la afirmación correcta",
     "options": [
-      "Una forma clínica se asocia a atracones y con- ductas purgativas.",
-      "Se distribuye por igual entre ambos sexos.",
-      "La amenorrea es un criterio diagnóstico nece- sario de enfermedad en mujeres.",
-      "Hay deseo de perder peso, pero con una per- cepción normal de la propia constitución."
+      "Una forma clínica se asocia a atracones y conductas purgativas",
+      "Se distribuye por igual entre ambos sexos",
+      "La amenorrea es un criterio diagnóstico necesario de enfermedad en mujeres",
+      "Hay deseo de perder peso, pero con una percepción normal de la propia constitución"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 81 del examen MIR de la convocatoria FSE."
+    "explanation": "\n   - **🟢 Opción A (Correcta):** La anorexia nerviosa se subclasifica en dos formas principales: restrictiva y bulímica. La forma bulímica se caracteriza por la presencia de atracones y conductas purgativas, como el uso de laxantes, diuréticos, inducción de vómitos, o ejercicio excesivo para compensar el consumo calórico. Esto justifica por qué la opción A es la afirmación correcta, ya que refleja una de las formas clínicas de la anorexia nerviosa.\n   - **🔴 Opción B (Incorrecta):** La anorexia nerviosa no se distribuye por igual entre ambos sexos. Es significativamente más común en mujeres que en hombres, con una relación que varía según las fuentes pero generalmente se estima que es al menos 9 veces más frecuente en mujeres.\n   - **🔴 Opción C (Incorrecta):** La amenorrea, definida como la ausencia de menstruación durante al menos tres meses en mujeres con menstruación previa regular, es un criterio diagnóstico importante pero no necesario para el diagnóstico de anorexia nerviosa en mujeres. La presencia de amenorrea puede ser un indicador de la gravedad de la enfermedad y sus efectos en el sistema endocrino, pero su ausencia no descarta el diagnóstico.\n   - **🔴 Opción D (Incorrecta):** La anorexia nerviosa se caracteriza por una distorsión significativa de la percepción de la forma y el peso corporal, junto con un miedo intenso a ganar peso y una alteración en la percepción de la propia constitución. Por lo tanto, la percepción normal de la propia constitución es contradictoria con los criterios diagnósticos de la anorexia nerviosa.\n\nLa perla MIR a recordar es que la anorexia nerviosa puede presentarse de diferentes maneras, incluyendo formas restrictivas y bulímicas, y su diagnóstico y tratamiento requieren una comprensión profunda de sus complejas características clínicas."
   },
   {
     "id": "q-82",
