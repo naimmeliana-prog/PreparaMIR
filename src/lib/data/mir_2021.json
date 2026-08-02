@@ -1207,7 +1207,7 @@
     "id": "q-88",
     "localNumber": 88,
     "category": "Pediatría",
-    "stem": "Niño de 23 meses que presenta fiebre, hipoten- sión, vómitos repetidos, signos meníngeos, pete- quias y equimosis. El hemograma muestra 25.000 leucocitos (75 % neutrófilos, 10 % caya- dos) y 12.000 plaquetas/microL y el estudio de coagulación una actividad de protrombina de 35 %. ¿Qué opción NO es adecuada en su ma- nejo?:",
+    "stem": "Niño de 23 meses que presenta fiebre, hipotensión, vómitos repetidos, signos meníngeos, petequias y equimosis. El hemograma muestra 25.000 leucocitos (75 % neutrófilos, 10 % cálidos) y 12.000 plaquetas/microL y el estudio de coagulación una actividad de protrombina de 35 %.",
     "options": [
       "Administración de cefotaxima intravenosa.",
       "Realización de punción lumbar.",
@@ -1215,13 +1215,13 @@
       "Fluidos intravenosos."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 88 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La punción lumbar no es adecuada en este caso porque el paciente presenta signos de hemorragia intracraneal (petequias y equimosis) y signos meníngeos, lo que sugiere un aumento de la presión intracraneal. La punción lumbar podría empeorar la situación y aumentar la presión intracraneal, lo que podría llevar a una hemorragia subaracnoidea o a una lesión del nervio raquídeo. Por lo tanto, es importante evitar procedimientos que puedan aumentar la presión intracraneal en este paciente.\n\n- **🔴 Opción A (Incorrecta):** La administración de cefotaxima intravenosa es adecuada en este caso porque el paciente presenta signos de infección (fiebre, vómitos repetidos, signos meníngeos) y el hemograma muestra un aumento en la cuenta de leucocitos, lo que sugiere una respuesta inflamatoria. La cefotaxima es un antibiótico de amplio espectro que es efectivo contra una variedad de bacterias, incluyendo las que causan infecciones meníngeas.\n\n- **🔴 Opción C (Incorrecta):** La recogida de hemocultivo es adecuada en este caso porque ayuda a identificar la causa subyacente de la infección. Los hemocultivos pueden detectar la presencia de bacterias en la sangre y ayudar a determinar la sensibilidad de las bacterias a los antibióticos.\n\n- **🔴 Opción D (Incorrecta):** Los fluidos intravenosos son adecuados en este caso porque ayudan a reponer los líquidos perdidos debido a los vómitos repetidos y a mantener la hidratación del paciente. La hipotensión también puede ser tratada con fluidos intravenosos para ayudar a mantener la presión arterial."
   },
   {
     "id": "q-89",
     "localNumber": 89,
     "category": "General",
-    "stem": "Niña de 4 años que presenta fiebre alta de 6 días de evolución. En la exploración clínica presenta un exantema eritematoso maculopapular en t r o n c o y z o n a g e n i t a l , c o n t e n d e n c i a a l a c o n - fluencia, sin llegar a ser escarlatiniforme; in- yección conjuntival sin secreciones y labios rojos con lengua aframbuesada. Presenta tam- bién eritema con edema en manos y pies y una adenopatía cervical unilateral de 2 cm de diá- metro. El diagnóstico clínico de sospecha más probable es:",
+    "stem": "Niña de 4 años que presenta fiebre alta de 6 días de evolución. En la exploración clínica presenta un exantema eritematoso maculopapular en el tronco y zona genital, con tendencia a la congestión, sin llegar a ser escarlatiniforme; inyección conjuntival sin secreciones y labios rojos con lengua aframbuesada. Presenta también eritema con edema en manos y pies y una adenopatía cervical unilateral de 2 cm de diámetro. El diagnóstico clínico de sospecha más probable es:",
     "options": [
       "Enfermedad de Kawasaki.",
       "Sarampión.",
@@ -1229,27 +1229,27 @@
       "Escarlatina."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 89 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La Enfermedad de Kawasaki es una condición inflamatoria de la capa media de la pared arterial, que afecta principalmente a niños menores de 5 años. Los síntomas incluyen fiebre alta, exantema eritematoso maculopapular en el tronco y zona genital, eritema con edema en manos y pies, adenopatía cervical y cambios en la lengua. La presentación clínica de la niña en la pregunta es consistente con la Enfermedad de Kawasaki, por lo que es la opción correcta.\n\n- **🔴 Opción B (Incorrecta):** El Sarampión es una enfermedad viral que causa exantema eritematoso maculopapular en todo el cuerpo, pero no es característico la adenopatía cervical unilateral ni los cambios en la lengua. Además, el Sarampión se diagnostica mediante pruebas de laboratorio, como la detección de anticuerpos, no solo por la presentación clínica.\n\n- **🔴 Opción C (Incorrecta):** La Rubeola es una enfermedad viral que causa exantema eritematoso maculopapular en todo el cuerpo, pero es característico la conjuntivitis y el exantema se inicia en la cara. La Rubeola también se diagnostica mediante pruebas de laboratorio, como la detección de anticuerpos, no solo por la presentación clínica.\n\n- **🔴 Opción D (Incorrecta):** La Escarlatina es una enfermedad infecciosa que causa exantema eritematoso maculopapular en todo el cuerpo, pero es característico la conjuntivitis, el exantema se inicia en la cara y la presencia de "
   },
   {
     "id": "q-90",
     "localNumber": 90,
     "category": "Cardiología",
-    "stem": "Dentro de las cardiopatías cianóticas destaca la tetralogía de Fallot. En relación con este cua- dro, señale la respuesta INCORRECTA:",
+    "stem": "Dentro de las cardiopatías cianóticas destaca la tetralogía de Fallot. En relación con este cuadro, señale la respuesta INCORRECTA.",
     "options": [
       "En la prueba de hiperoxia con O2 al 100 % no se eleva significativamente la saturación de O2.",
-      "Es típica la presencia de hiperaflujo sanguí- neo pulmonar.",
-      "Ante toda sospecha debe administrarse pre- cozmente una perfusión de prostaglandina E1.",
+      "Es típica la presencia de hiperaflujo sanguíneo pulmonar.",
+      "Ante toda sospecha debe administrarse previamente una perfusión de prostaglandina E1.",
       "La silueta cardiaca presenta la típica imagen de corazón en bota."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 90 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La tetralogía de Fallot se caracteriza por un cuadro de cianosis, hipoxia y esfuerzos en un paciente con cardiopatía congénita. En esta condición, se produce una comunicación ventricular intermedia, un estenosis pulmonar, un hipertrofia ventricular derecha y un defecto ventricular septal. En la prueba de hiperoxia con O2 al 100%, no se eleva significativamente la saturación de O2 debido a la obstrucción del flujo sanguíneo pulmonar por el estenosis pulmonar y la comunicación ventricular intermedia. Por lo tanto, esta opción es correcta. \n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque la prueba de hiperoxia con O2 al 100% es una herramienta útil para evaluar la capacidad de oxigenación del cuerpo y es capaz de aumentar la saturación de O2 en pacientes con ciertas cardiopatías. Sin embargo, en la tetralogía de Fallot, la obstrucción del flujo sanguíneo pulmonar impide que la saturación de O2 aumente significativamente. \n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque la administración de prostaglandina E1 no es una medida estándar para la sospecha de tetralogía de Fallot. La prostaglandina E1 se utiliza principalmente para mantener la circulación arterial en casos de aorta atresica o hipoplásica. En la tetralogía de Fallot, la atención se centra en mantener el flujo sanguíneo pulmonar y mejorar la oxigenación. \n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque la silueta cardiaca en la tetralogía de Fallot no presenta la imagen de un corazón en bota. En realidad, la silueta cardiaca en esta condición se caracteriza por un corazón en cuadrilátero o con una forma irregular, debido a la hipertrofia ventricular derecha y el defecto ventricular septal."
   },
   {
     "id": "q-91",
     "localNumber": 91,
     "category": "Neurología",
-    "stem": "¿Cuál de las siguientes NO es una indicación para la realización de pruebas de neuroimagen en psiquiatría?:",
+    "stem": "¿Cuál de las siguientes NO es una indicación para la realización de pruebas de neuroimagen en psiquiatría?",
     "options": [
       "Trastorno mental de inicio después de los 50 años.",
       "Crisis convulsivas con síntomas psiquiátricos.",
@@ -1257,21 +1257,21 @@
       "Presencia de síntomas psiquiátricos atípicos."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 91 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La opción C es correcta porque la realización de pruebas de neuroimagen en psiquiatría no se indica en casos de trastornos mentales de inicio después de los 50 años. En general, los trastornos psiquiátricos que se presentan en esta edad de inicio suelen ser más relacionados con factores médicos subyacentes, como demencias o enfermedades cerebrovasculares, que con trastornos psiquiátricos primarios. Por lo tanto, la neuroimagen puede ser útil en estos casos para identificar una posible causa subyacente médica. Sin embargo, la pregunta pide lo que NO es una indicación para la neuroimagen, por lo que la opción C es la correcta porque no se indica la neuroimagen en casos de trastornos mentales de inicio después de los 50 años de manera rutinaria o como primera línea de investigación.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque la realización de pruebas de neuroimagen puede ser indicada en casos de trastornos mentales de inicio después de los 50 años, especialmente si hay síntomas neurológicos o signos de enfermedad cerebral subyacente. Por ejemplo, una demencia con cuerpos de Lewy puede presentarse en esta edad de inicio y requiere una evaluación neurológica exhaustiva, incluyendo neuroimagen.\n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque la crisis convulsiva con síntomas psiquiátricos es una indicación clásica para la realización de pruebas de neuroimagen, especialmente si se sospecha una epilepsia o una lesión cerebral. La neuroimagen puede ayudar a identificar la causa subyacente de la crisis convulsiva y a planificar el tratamiento adecuado.\n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque la presencia de síntomas psiquiátricos atípicos puede ser una indicación para la realización de pruebas de neuroimagen, especialmente si se sospecha una enfermedad cerebral subyacente. Por ejemplo, un trastorno bipolar con síntomas atípicos puede requerir una evaluación neurológica exhaustiva, incluyendo neuroimagen, para descartar una enfermedad cerebral subyacente.\n\n**Perla MIR:** La neuroimagen no es siempre necesaria en psiquiatría, especialmente en casos de trastornos mentales de inicio después de los 50 años. Sin embargo, la neuroimagen puede ser útil en casos de crisis convulsivas con síntomas psiquiátricos, recaídas psicóticas al suspender el tratamiento tras un primer episodio psicótico, y presencia de síntomas psiquiátricos atípicos, donde se sospecha una enfermedad cerebral subyacente."
   },
   {
     "id": "q-92",
     "localNumber": 92,
     "category": "General",
-    "stem": "Mujer de 75 años traída a consulta por su fami- lia porque le encuentran desde hace meses de- primida y con fallos de memoria. Les preocupa que pueda tener una enfermedad de Alzheimer. La paciente refiere que no cree que le pase nada y q u e e s t á c o m o s i e m p r e . ¿ E n q u é o r d e n s e presentan generalmente los siguientes síntomas en la progresión de la enfermedad de Alzhei- mer?:",
+    "stem": "Mujer de 75 años traída a consulta por su familia porque le encuentran desde hace meses deprimida y con fallos de memoria. Les preocupa que pueda tener una enfermedad de Alzheimer. La paciente refiere que no cree que le pase nada y que está como siempre.",
     "options": [
       "Cambios de humor, síntomas conductuales, déficit cognitivo.",
       "Síntomas conductuales, síntomas motores, declive de la independencia funcional.",
       "Cambios de humor, déficit cognitivo, declive de la independencia funcional.",
-      "Síntomas conductuales, cambios de humor, síntomas motores. - 14 -"
+      "Síntomas conductuales, cambios de humor, síntomas motores."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 92 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La enfermedad de Alzheimer se caracteriza por una progresión de la enfermedad que comienza con cambios de humor, déficit cognitivo y declive de la independencia funcional. Esto se debe a que la enfermedad afecta primeramente la función cognitiva y emocional de la persona, lo que lleva a cambios de humor y déficit cognitivo. Con el tiempo, esto se traduce en un declive de la independencia funcional, lo que significa que la persona necesita ayuda para realizar actividades básicas como vestirse, comer y bañarse. Por lo tanto, la opción C es la correcta porque refleja la progresión natural de la enfermedad de Alzheimer.\n\n- **🔴 Opción A (Incorrecta):** Esta opción no es correcta porque no refleja la secuencia correcta de síntomas en la progresión de la enfermedad de Alzheimer. Los síntomas conductuales suelen aparecer más tarde en la enfermedad, después de que los síntomas cognitivos y emocionales hayan comenzado a manifestarse.\n\n- **🔴 Opción B (Incorrecta):** Esta opción no es correcta porque no refleja la secuencia correcta de síntomas en la progresión de la enfermedad de Alzheimer. Los síntomas motores no son una característica temprana de la enfermedad, y suelen aparecer más tarde en la enfermedad.\n\n- **🔴 Opción D (Incorrecta):** Esta opción no es correcta porque no refleja la secuencia correcta de síntomas en la progresión de la enfermedad de Alzheimer. Los síntomas conductuales suelen aparecer más tarde en la enfermedad, después de que los síntomas cognitivos y emocionales hayan comenzado a manifestarse."
   },
   {
     "id": "q-93",
