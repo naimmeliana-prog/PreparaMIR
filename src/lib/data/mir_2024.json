@@ -423,7 +423,7 @@
     "id": "q-31",
     "localNumber": 31,
     "category": "General",
-    "stem": "En relación con el control químico de la respiración en condiciones fisiológicas señale la afirmación INCORRECTA:",
+    "stem": "En relación con el control químico de la respiración en condiciones fisiológicas señale la afirmación INCORRECTA",
     "options": [
       "Los quimiorreceptores carotídeos y aórticos detectan especialmente cambios en la presión parcial de O2 en la sangre.",
       "Los quimiorreceptores carotídeos y aórticos reciben un flujo arterial muy elevado por lo que se consideran expuestos en todo momento a sangre arterial.",
@@ -431,27 +431,27 @@
       "El efecto estimulador de la ventilación del CO2 se mantiene sin atenuación en los primeros días."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 31 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El efecto estimulador de la ventilación del CO2 se atenúa con el tiempo. Esto se debe a la adaptación de la célula quimiorreceptora a la hipercapnia crónica. Con el tiempo, la célula quimiorreceptora aumenta la expresión de la bomba de protones, lo que reduce la sensibilidad a la CO2 y evita la hiperventilación excesiva. Por lo tanto, esta afirmación es incorrecta porque el efecto estimulador de la ventilación del CO2 se atenúa con el tiempo, no se mantiene sin atenuación en los primeros días. <br><br>- **🔴 Opción A (Incorrecta):** Los quimiorreceptores carotídeos y aórticos detectan especialmente cambios en la presión parcial de O2 en la sangre. Esto es correcto porque los quimiorreceptores carotídeos y aórticos son sensibles a cambios en la presión parcial de O2 en la sangre y responden a la hipoxia o hiperoxia para ajustar la ventilación. <br><br>- **🔴 Opción B (Incorrecta):** Los quimiorreceptores carotídeos y aórticos reciben un flujo arterial muy elevado por lo que se consideran expuestos en todo momento a sangre arterial. Esto es correcto porque los quimiorreceptores carotídeos y aórticos están ubicados en áreas con alta perfusión sanguínea, lo que los mantiene expuestos a sangre arterial en todo momento. <br><br>- **🔴 Opción C (Incorrecta):** Los quimiorreceptores centrales detectan fundamentalmente cambios en la concentración de H+ (procedente sobre todo de la disociación de CO2 y H2O). Esto es correcto porque los quimiorreceptores centrales son sensibles a cambios en la concentración de H+ en la sangre, que se produce principalmente a través de la disociación de CO2 y H2O. <br><br>La perla MIR es que los quimiorreceptores carotídeos y aórticos son sensibles a cambios en la presión parcial de O2 y la concentración de H+ en la sangre, mientras que los quimiorreceptores centrales son sensibles a cambios en la concentración de H+ en la sangre. El efecto estimulador de la ventilación del CO2 se atenúa con el tiempo."
   },
   {
     "id": "q-32",
     "localNumber": 32,
     "category": "Neurología",
-    "stem": "En un paciente diagnosticado de una neoplasia maligna de nasofaringe que presenta dolor y edema orbitario, neuropatía de los pares craneales III, IV y VI, y neuropatía de la rama V1 del V par craneal, indique qué estructura es más probable que se encuentre infiltrada:",
+    "stem": "En un paciente diagnosticado de una neoplasia maligna de nasofaringe que presenta dolor y edema orbitario, neuropatía de los pares craneales III, IV y VI, y neuropatía de la rama V1 del V par craneal, indique qué estructura es más probable que se encuentre infiltrada",
     "options": [
-      "Seno cavernoso.",
-      "Hipófisis.",
-      "Agujero yugular.",
-      "Fosa pterigopalatina."
+      "Seno cavernoso",
+      "Hipófisis",
+      "Agujero yugular",
+      "Fosa pterigopalatina"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 32 del examen MIR de la convocatoria FSE."
+    "explanation": "\n   - **🟢 Opción A (Correcta):** La opción A, Seno cavernoso, es la estructura más probable que se encuentre infiltrada en este caso. Esto se debe a que el seno cavernoso es una estructura venosa que se encuentra cerca de la nasofaringe y está rodeada por varias estructuras craneales, incluyendo los pares craneales III, IV, V (rama V1) y VI. La infiltración del seno cavernoso por una neoplasia maligna de nasofaringe puede causar dolor y edema orbitario debido a la compresión o invasión de los nervios craneales que pasan a través de esta región, lo que explica los síntomas descritos en el caso.\n   - **🔴 Opción B (Incorrecta):** La hipófisis, aunque es una estructura importante en la base del cráneo, no está directamente relacionada con la neuropatía de los pares craneales III, IV, VI y la rama V1 del par craneal V en el contexto de una neoplasia de nasofaringe. La hipófisis podría verse afectada en casos de tumores que crecen hacia arriba desde la nasofaringe, pero los síntomas descritos no apuntan directamente a una afectación primaria de la hipófisis.\n   - **🔴 Opción C (Incorrecta):** El agujero yugular es una abertura en la base del cráneo a través de la cual pasan los pares craneales IX, X y XI. Aunque es una estructura importante, no está directamente relacionada con los síntomas descritos en el caso, que involucran pares craneales diferentes y síntomas orbitarios.\n   - **🔴 Opción D (Incorrecta):** La fosa pterigopalatina es una región anatómica que contiene ganglios y nervios, incluyendo ramas del par craneal V. Sin embargo, la presentación clínica descrita, con neuropatía de los pares craneales III, IV, VI y la rama V1 del par craneal V, sugiere una lesión más proximal y central, como el seno cavernoso, en lugar de una lesión periférica en la fosa pterigopalatina.\n   \n   La perla MIR a recordar es que la neoplasia maligna de nasofaringe puede infiltrar el seno cavernoso y causar neuropatías múltiples de los pares craneales, especialmente III, IV, V (rama V1) y VI, junto con dolor y edema orbitario, debido a la proximidad anatómica del seno cavernoso con estas estructuras."
   },
   {
     "id": "q-33",
     "localNumber": 33,
     "category": "General",
-    "stem": "Niña de 7 años con una sospecha de anemia de Fanconi. ¿Cuál de las siguientes manifestaciones clínicas NO se ajusta a los rasgos típicos de esta enfermedad?:",
+    "stem": "Niña de 7 años con una sospecha de anemia de Fanconi. ¿Cuál de las siguientes manifestaciones clínicas NO se ajusta a los rasgos típicos de esta enfermedad?",
     "options": [
       "Anomalías pigmentarias.",
       "Anomalías renales.",
@@ -459,13 +459,13 @@
       "Estatura alta."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 33 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La estatura alta no es una manifestación clínica típica de la anemia de Fanconi. Esta enfermedad es caracterizada por una serie de anomalías, incluyendo anormalidades de la medula ósea, que pueden afectar la producción de células sanguíneas y causar anemia. Además, puede presentarse con anormalidades renales, esqueléticas y pigmentarias, como la albinismo oculocutáneo. Sin embargo, la estatura alta no es un rasgo típico de esta enfermedad.\n\n- **🔴 Opción A (Incorrecta):** Las anomalías pigmentarias son un rasgo típico de la anemia de Fanconi, ya que puede presentarse con albinismo oculocutáneo, que afecta la producción de melanina y causa cambios en la pigmentación de la piel, ojos y cabello.\n\n- **🔴 Opción B (Incorrecta):** Las anomalías renales son también un rasgo típico de la anemia de Fanconi, ya que puede presentarse con problemas renales graves, incluyendo insuficiencia renal y necesidad de diálisis.\n\n- **🔴 Opción C (Incorrecta):** Las anomalías esqueléticas también son un rasgo típico de la anemia de Fanconi, ya que puede presentarse con problemas óseos, incluyendo osteoporosis y fracturas.\n\nLa anemia de Fanconi es una enfermedad rara y grave que afecta la producción de células sanguíneas en la medula ósea. Es importante reconocer sus manifestaciones clínicas para proporcionar un diagnóstico y tratamiento adecuados. La estatura alta no es un rasgo típico de esta enfermedad, por lo que es la respuesta correcta a esta pregunta."
   },
   {
     "id": "q-34",
     "localNumber": 34,
     "category": "Ginecología y Obstetricia",
-    "stem": "La exploración ecográfica de una mujer gestante de 26 semanas muestra hallazgos consistentes con osteogénesis imperfecta tipo II (gen COL1A1/COL1A2). La paciente tuvo un embarazo previo con la misma patología. Ni ella ni su pareja tienen manifestaciones clínicas de osteogénesis imperfecta. ¿Cuál de las siguientes es la explicación más probable para la recurrencia?:",
+    "stem": "La exploración ecográfica de una mujer gestante de 26 semanas muestra hallazgos consistentes con osteogénesis imperfecta tipo II (gen COL1A1/COL1A2). La paciente tuvo un embarazo previo con la misma patología. Ni ella ni su pareja tienen manifestaciones clínicas de osteogénesis imperfecta. ¿Cuál de las siguientes es la explicación más probable para la recurrencia?",
     "options": [
       "Herencia autosómica recesiva.",
       "Mutación de novo.",
@@ -473,7 +473,7 @@
       "Mosaicismo germinal."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 34 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El mosaicismo germinal se refiere a la presencia de células germinales con una mezcla de cromosomas normales y anormales. En este caso, la paciente y su pareja no tienen manifestaciones clínicas de osteogénesis imperfecta, lo que sugiere que solo una parte de las células germinales de la paciente tiene la mutación que causa la enfermedad. Esto explica la recurrencia del embarazo con la misma patología. El mosaicismo germinal es una causa importante de recurrencia de enfermedades genéticas en la descendencia, especialmente en aquellas que se asocian con una baja penetrancia o expresión de la enfermedad.\n- **🔴 Opción A (Incorrecta):** La herencia autosómica recesiva implica que la enfermedad se transmite de manera autosómica y que ambos padres deben ser portadores de la mutación para que la enfermedad se manifieste en la descendencia. Sin embargo, en este caso, ni la paciente ni su pareja tienen manifestaciones clínicas de osteogénesis imperfecta, lo que hace poco probable esta explicación.\n- **🔴 Opción B (Incorrecta):** La mutación de novo implica que la mutación que causa la enfermedad se produce de manera espontánea en la descendencia. Sin embargo, en este caso, la paciente tuvo un embarazo previo con la misma patología, lo que sugiere que la mutación no es de novo.\n- **🔴 Opción C (Incorrecta):** La penetrancia incompleta implica que la enfermedad se manifiesta de manera incompleta en la descendencia. Sin embargo, en este caso, la paciente y su pareja no tienen manifestaciones clínicas de osteogénesis imperfecta, lo que hace poco probable esta explicación.\n\nLa perla MIR: 'Mosaicismo germinal: una causa importante de recurrencia de enfermedades genéticas en la descendencia'."
   },
   {
     "id": "q-35",
@@ -482,12 +482,12 @@
     "stem": "Las vacunas contra el neumococo recomendadas para prevenir la enfermedad neumocócica en personas mayores de 65 años y en pacientes inmunocomprometidos pueden estar constituidas por polisacáridos del neumococo purificados (PPV23) o polisacáridos conjugados a proteínas (PCV15 o PCV20). Desde una perspectiva inmunológica las vacunas conjugadas:",
     "options": [
       "No generan memoria inmunológica.",
-      "Activan una respuesta inmunitaria T -dependiente (o timo-dependiente).",
+      "Activan una respuesta inmunitaria T-dependiente (o timo-dependiente).",
       "No activan el proceso de hipermutación somática.",
       "No inducen cambio de isotipo."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 35 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Las vacunas conjugadas activan una respuesta inmunitaria T-dependiente, es decir, una respuesta inmunitaria que requiere la ayuda del timo para su activación. Esto se debe a que los polisacáridos conjugados a proteínas pueden ser reconocidos por los linfocitos B de manera más eficiente que los polisacáridos purificados. La respuesta T-dependiente es característica de las vacunas conjugadas y es fundamental para la inducción de una respuesta inmunitaria efectiva contra el neumococo.\n- **🔴 Opción A (Incorrecta):** Las vacunas conjugadas sí generan memoria inmunológica, lo que permite una respuesta inmunitaria rápida y efectiva en caso de una exposición futura al neumococo.\n- **🔴 Opción C (Incorrecta):** El proceso de hipermutación somática es un mecanismo importante para la diversificación de la respuesta inmunitaria, pero no está directamente relacionado con la naturaleza conjugada o purificada de las vacunas.\n- **🔴 Opción D (Incorrecta):** El cambio de isotipo es un proceso importante en la respuesta inmunitaria, pero no está específicamente relacionado con la naturaleza conjugada o purificada de las vacunas.\nLa respuesta inmunitaria T-dependiente es una característica clave de las vacunas conjugadas, lo que las hace más efectivas en la prevención de la enfermedad neumocócica en personas mayores de 65 años y en pacientes inmunocomprometidos."
   },
   {
     "id": "q-36",
