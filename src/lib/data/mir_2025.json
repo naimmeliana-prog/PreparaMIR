@@ -2185,71 +2185,71 @@
     "id": "q-157",
     "localNumber": 157,
     "category": "General",
-    "stem": "¿En qué casos debe priorizarse la indica- ción de tratamiento con CPAP para la apnea obstructiva del sueño (AOS)?:",
+    "stem": "¿En qué casos debe priorizarse la indicación de tratamiento con CPAP para la apnea obstructiva del sueño (AOS)?",
     "options": [
-      "Pacientes con índice de apneas -hipo- pneas (IAH) ≥ 5 eventos/hora sin síntomas ni comorbilidades.",
-      "Todo paciente con AOS independiente- mente de la clínica o las comorbilidades.",
-      "Pacientes con IAH ≥ 30 eventos/hora asin- tomáticos.",
-      "Pacientes con IAH ≥ 15 eventos/hora y somnolencia diurna (Epworth> 10 puntos)."
+      "Pacientes con índice de apneas-hipo-pneas (IAH) ≥ 5 eventos/hora sin síntomas ni comorbilidades.",
+      "Todo paciente con AOS independientemente de la clínica o las comorbilidades.",
+      "Pacientes con IAH ≥ 30 eventos/hora asintomáticos.",
+      "Pacientes con IAH ≥ 15 eventos/hora y somnolencia diurna (Epworth > 10 puntos)."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 157 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque prioriza la indicación de tratamiento con CPAP en pacientes asintomáticos con un IAH de ≥ 5 eventos/hora. Sin embargo, la guía actual recomienda la indicación de tratamiento con CPAP en pacientes asintomáticos con un IAH de ≥ 15 eventos/hora, lo que hace que esta opción sea insuficiente. Además, la presencia de síntomas o comorbilidades no debe ser un factor de exclusión para la indicación de tratamiento con CPAP en pacientes con un IAH elevado. Por lo tanto, esta opción no es la adecuada en este caso.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque recomienda la indicación de tratamiento con CPAP en todos los pacientes con AOS, independientemente de la clínica o las comorbilidades. Sin embargo, la guía actual recomienda una evaluación individualizada de cada paciente antes de indicar el tratamiento con CPAP, considerando factores como la gravedad de la apnea, la presencia de comorbilidades y la calidad de vida del paciente. Por lo tanto, esta opción no es la adecuada en este caso.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque prioriza la indicación de tratamiento con CPAP en pacientes asintomáticos con un IAH de ≥ 30 eventos/hora. Sin embargo, la guía actual recomienda la indicación de tratamiento con CPAP en pacientes asintomáticos con un IAH de ≥ 15 eventos/hora, lo que hace que esta opción sea excesivamente restrictiva. Además, la presencia de síntomas o comorbilidades no debe ser un factor de exclusión para la indicación de tratamiento con CPAP en pacientes con un IAH elevado. Por lo tanto, esta opción no es la adecuada en este caso.\n\n- **🟢 Opción D (Correcta):** Esta opción es correcta porque prioriza la indicación de tratamiento con CPAP en pacientes con un IAH de ≥ 15 eventos/hora y somnolencia diurna (Epworth > 10 puntos). Esta recomendación se basa en la guía actual, que sugiere que la indicación de tratamiento con CPAP debe considerar la presencia de síntomas y comorbilidades, además de la gravedad de la apnea. Por lo tanto, esta opción es la adecuada en este caso.\n\nLa perla MIR: \"Prioriza la indicación de tratamiento con CPAP en pacientes con un IAH elevado y somnolencia diurna\"."
   },
   {
     "id": "q-158",
     "localNumber": 158,
     "category": "Neumología",
-    "stem": "En el Síndrome de Distrés Respiratorio Agudo (SDRA), ¿cuál de las siguientes op- ciones es el hallazgo fisiopatológico carac- terístico?:",
+    "stem": "En el Síndrome de Distrés Respiratorio Agudo (SDRA), ¿cuál de las siguientes opciones es el hallazgo fisiopatológico característico?",
     "options": [
       "Aumento del espacio muerto anatómico sin alteración del intercambio gaseoso.",
-      "Hipoxemia con PaO₂/FiO₂ ≤ 300 asociada a shunt intrapulmonar y disminución de la distensibilidad.",
-      "Hipercapnia leve con aumento de la com- pliance pulmonar.",
-      "Aumento de la presión alveolar de CO ₂ con distensibilidad normal."
+      "Hipoxemia con PaO2/FiO2 ≤ 300 asociada a shunt intrapulmonar y disminución de la distensibilidad.",
+      "Hipercapnia leve con aumento de la complianza pulmonar.",
+      "Aumento de la presión alveolar de CO2 con distensibilidad normal."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 158 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La respuesta correcta es la opción B. En el Síndrome de Distrés Respiratorio Agudo (SDRA), se caracteriza por una hipoxemia grave con un índice de oxígeno arterial alveolar a oxígeno inspirado (PaO2/FiO2) menor o igual a 300. Esto se debe a un shunt intrapulmonar significativo y a una disminución de la distensibilidad pulmonar, lo que dificulta la expansión alveolar y, por lo tanto, el intercambio gaseoso adecuado. La disminución de la distensibilidad pulmonar se debe a la inflamación y la consolidación pulmonar que caracterizan el SDRA. Por lo tanto, la hipoxemia grave con un PaO2/FiO2 ≤ 300 es el hallazgo fisiopatológico característico del SDRA.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque el aumento del espacio muerto anatómico sin alteración del intercambio gaseoso no es característico del SDRA. En realidad, el SDRA se caracteriza por una alteración significativa del intercambio gaseoso debido a la inflamación y la consolidación pulmonar. Por lo tanto, la opción A no describe adecuadamente el hallazgo fisiopatológico característico del SDRA.\n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque la hipercapnia leve con aumento de la complianza pulmonar no es característico del SDRA. En realidad, el SDRA se caracteriza por una disminución de la complianza pulmonar debido a la inflamación y la consolidación pulmonar, lo que dificulta la expansión alveolar y, por lo tanto, el intercambio gaseoso adecuado. Por lo tanto, la opción C no describe adecuadamente el hallazgo fisiopatológico característico del SDRA.\n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque el aumento de la presión alveolar de CO2 con distensibilidad normal no es característico del SDRA. En realidad, el SDRA se caracteriza por una disminución de la distensibilidad pulmonar debido a la inflamación y la consolidación pulmonar, lo que dificulta la expansión alveolar y, por lo tanto, el intercambio gaseoso adecuado. Por lo tanto, la opción D no describe adecuadamente el hallazgo fisiopatológico característico del SDRA.\n\nLa perla MIR es: En el Síndrome de Distrés Respiratorio Agudo (SDRA), la hipoxemia grave con un PaO2/FiO2 ≤ 300 es el hallazgo fisiopatológico característico."
   },
   {
     "id": "q-159",
     "localNumber": 159,
     "category": "General",
-    "stem": "Un paciente con bronquitis crónica tabá- quica ha desarrollado hipertensión pulmo- nar crónica secundaria. ¿Cuál es el meca- nismo fisiopatológico principal que pro- duce la hipertensión arterial pulmonar en esta situación?:",
+    "stem": "Un paciente con bronquitis crónica tabáquica ha desarrollado hipertensión pulmonar crónica secundaria. ¿Cuál es el mecanismo fisiopatológico principal que produce la hipertensión arterial pulmonar en esta situación?",
     "options": [
       "Microtromboembolismo pulmonar crónico múltiple por disfunción endotelial hipóxica.",
-      "Remodelado vascular por disfunción en- dotelial primaria.",
+      "Remodelado vascular por disfunción endotelial primaria.",
       "Vasoconstricción hipóxica crónica.",
-      "Disfunción ventricular izquierda y au- mento retrógrado de la presión."
+      "Disfunción ventricular izquierda y aumento retrógrado de la presión."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 159 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La hipertensión pulmonar crónica secundaria a la bronquitis crónica tabáquica se produce principalmente por vasoconstricción hipóxica crónica. Esto se debe a la disminución de la oxigenación del torrente sanguíneo pulmonar debido a la bronquitis crónica, lo que lleva a la liberación de factores vasoconstrictores y a la activación de mecanismos de vasoconstricción en las arterias pulmonares. Esto resulta en la elevación de la presión arterial pulmonar y la hipertensión pulmonar crónica.\n\n- **🔴 Opción A (Incorrecta):** El microtromboembolismo pulmonar crónico múltiple es un mecanismo que puede contribuir a la hipertensión pulmonar, pero no es el principal en este contexto. La disfunción endotelial hipóxica es un factor que puede jugar un papel en la vasoconstricción, pero no es la causa principal de la hipertensión pulmonar en este escenario.\n\n- **🔴 Opción B (Incorrecta):** El remodelado vascular por disfunción endotelial primaria es un mecanismo que se asocia con la hipertensión pulmonar idiopática, pero no es el principal en este contexto. La bronquitis crónica tabáquica no es una causa primaria de disfunción endotelial.\n\n- **🔴 Opción D (Incorrecta):** La disfunción ventricular izquierda y el aumento retrógrado de la presión no son mecanismos directos de hipertensión pulmonar crónica secundaria a la bronquitis crónica tabáquica. La disfunción ventricular izquierda puede contribuir a la hipertensión pulmonar, pero no es el mecanismo principal en este escenario.\n\nLa hipertensión pulmonar crónica secundaria a la bronquitis crónica tabáquica se debe principalmente a la vasoconstricción hipóxica crónica, que se debe a la disminución de la oxigenación del torrente sanguíneo pulmonar debido a la bronquitis crónica."
   },
   {
     "id": "q-160",
     "localNumber": 160,
     "category": "General",
-    "stem": "En el contexto de la Fibrosis Quística (FQ), ¿qué función principal tiene la proteína CFTR en el epitelio de las vías respirato- rias?:",
+    "stem": "En el contexto de la Fibrosis Quística (FQ), ¿qué función principal tiene la proteína CFTR en el epitelio de las vías respiratorias?",
     "options": [
       "Actúa como un canal que transporta cloro y regula la hidratación de las secreciones.",
-      "Transporta glucosa al interior de las célu- las epiteliales para obtener energía.",
-      "Es una enzima que degrada el moco es- peso acumulado en los bronquios.",
+      "Transporta glucosa al interior de las células epiteliales para obtener energía.",
+      "Es una enzima que degrada el moco espeso acumulado en los bronquios.",
       "Estimula la contracción de los cilios para expulsar las secreciones bronquiales."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 160 del examen MIR de la convocatoria FSE."
+    "explanation": "\n- **🟢 Opción A (Correcta):** La proteína CFTR (Regulador de Conductancia de Transmembrana en Fibrosis Quística) actúa fundamentalmente como un canal de cloro. En el epitelio de las vías respiratorias, su función principal es regular la hidratación de las secreciones, permitiendo que el moco y otros fluidos sean adecuadamente lubricados y transportados a través de las vías respiratorias. Esto es crucial para la eliminación de patógenos y partículas extrañas. La disfunción de CFTR conduce a la producción de secreciones viscosas y espesas, característica de la Fibrosis Quística, lo que dificulta la respiración y hace que los pacientes sean más susceptibles a infecciones respiratorias.\n\n- **🔴 Opción B (Incorrecta):** La proteína CFTR no está involucrada en el transporte de glucosa al interior de las células epiteliales. El transporte de glucosa es esencial para proporcionar energía a las células, pero esta función es realizada por otros transportadores específicos, no por CFTR.\n\n- **🔴 Opción C (Incorrecta):** CFTR no es una enzima que degrada el moco espeso acumulado en los bronquios. Aunque la degradación del moco es un proceso importante en el mantenimiento de la homeostasis respiratoria, CFTR se encarga de regular la hidratación y el transporte de iones a través de la membrana celular, no de la degradación enzimática del moco.\n\n- **🔴 Opción D (Incorrecta):** La estimulación de la contracción de los cilios para expulsar las secreciones bronquiales no es una función principal de la proteína CFTR. Aunque el movimiento ciliar es crucial para la eliminación de partículas y secreciones de las vías respiratorias, la función de CFTR se centra en la regulación del contenido de agua en las secreciones, lo que a su vez afecta la eficacia del clearance mucociliar.\n\nLa Fibrosis Quística es una enfermedad genética que afecta principalmente a las vías respiratorias y al sistema digestivo, causada por mutaciones en el gen CFTR. La comprensión de la función de CFTR es crucial para el desarrollo de tratamientos efectivos para esta condición. Una 'perla MIR' para recordar es que CFTR es fundamental para regular la hidratación de las secreciones respiratorias, y su disfunción conduce a las complicaciones características de la Fibrosis Quística."
   },
   {
     "id": "q-161",
     "localNumber": 161,
     "category": "Neumología",
-    "stem": "Mujer de 73 años, exbebedora importante, con cuadros de palpitaciones ocasionales no estudiados, intervenida hace 2 años de una neoplasia de mama izquierda, con re- sección completa y vaciamiento ganglionar que acude a consulta para estudio por una tos seca de 3 meses de evolución que va aumentando progresivamente. El cuadro se acompaña de sensación disneica con los esfuerzos. En la radiografía simple del tórax se aprecia un derrame pleural izquierdo. Se realiza una toracocentesis diagnóstica y nos da un líquido ligeramente hemático con la siguiente bioquímica: pH 7,34, proteínas 6,8 gr/dl (en plasma 8 gr/dl), glucosa 73 mg/dl (plasma 70 mg/dl). ¿Cuál es la causa más probable del derrame pleural?:",
+    "stem": "Mujer de 73 años, exbebedora importante, con cuadros de palpitaciones ocasionales no estudiados, intervenida hace 2 años de una neoplasia de mama izquierda, con resección completa y vaciamiento ganglionar que acude a consulta para estudio por una tos seca de 3 meses de evolución que va aumentando progresivamente. El cuadro se acompaña de sensación disneica con los esfuerzos. En la radiografía simple del tórax se aprecia un derrame pleural izquierdo. Se realiza una toracocentesis diagnóstica y nos da un líquido ligeramente hemático con la siguiente bioquímica: pH 7,34, proteínas 6,8 gr/dl (en plasma 8 gr/dl), glucosa 73 mg/dl (plasma 70 mg/dl). ¿Cuál es la causa más probable del derrame pleural?",
     "options": [
-      "Insuficiencia cardíaca de novo.",
+      "Insuficiencia cardíaca de nuevo.",
       "Cirrosis hepática.",
       "Metástasis pleural de la neoplasia de mama.",
-      "Síndrome nefrótico La citrulina se con- densa con glutamato para formar argini- nosuccinato en el citosol."
+      "Síndrome nefrótico"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 161 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La metástasis pleural de la neoplasia de mama es la causa más probable del derrame pleural en este paciente. La paciente tiene una historia de neoplasia de mama intervenida hace 2 años, lo que aumenta el riesgo de metástasis. La presencia de un derrame pleural ligeramente hemático con una bioquímica similar a la del plasma sugiere un origen maligno. Además, la sensación disnea con los esfuerzos y la tos seca pueden ser síntomas de una enfermedad pleural subyacente, como una metástasis. La insuficiencia cardíaca de novo y la cirrosis hepática son menos probables, ya que no hay indicaciones en el enunciado de que la paciente tenga problemas cardíacos o hepáticos. El síndrome nefrótico también es poco probable, ya que no hay indicaciones de que la paciente tenga una enfermedad renal subyacente. \n\n- **🔴 Opción A (Incorrecta):** La insuficiencia cardíaca de novo es poco probable, ya que no hay indicaciones en el enunciado de que la paciente tenga problemas cardíacos. La insuficiencia cardíaca crónica puede causar un derrame pleural, pero en este caso, no hay indicaciones de que la paciente tenga una enfermedad cardíaca subyacente. \n\n- **🔴 Opción B (Incorrecta):** La cirrosis hepática es poco probable, ya que no hay indicaciones en el enunciado de que la paciente tenga problemas hepáticos. La cirrosis hepática puede causar un derrame pleural debido a la hiperproteínaemia y la hemoconcentración, pero en este caso, no hay indicaciones de que la paciente tenga una enfermedad hepática subyacente. \n\n- **🔴 Opción D (Incorrecta):** El síndrome nefrótico es poco probable, ya que no hay indicaciones en el enunciado de que la paciente tenga una enfermedad renal subyacente. El síndrome nefrótico puede causar un derrame pleural debido a la hiperproteínaemia y la hemoconcentración, pero en este caso, no hay indicaciones de que la paciente tenga una enfermedad renal subyacente. \n\nLa perla MIR es que la presencia de un derrame pleural ligeramente hemático con una bioquímica similar a la del plasma sugiere un origen maligno, como una metástasis pleural. Esto debe ser tenido en cuenta a la hora de diagnosticar y tratar un derrame pleural en un paciente con una historia de neoplasia."
   },
   {
     "id": "q-162",
