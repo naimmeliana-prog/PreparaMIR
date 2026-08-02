@@ -1905,21 +1905,21 @@
     "id": "q-137",
     "localNumber": 137,
     "category": "General",
-    "stem": "En un paciente ingresado por un shock hi- povolémico, con oliguria ¿cuál de los si- guientes hallazgos sugiere el desarrollo de necrosis tubular aguda?:",
+    "stem": "En un paciente ingresado por un shock hipovolémico, con oliguria ¿cuál de los siguientes hallazgos sugiere el desarrollo de necrosis tubular aguda?",
     "options": [
       "Sodio urinario < 20 mEq/L.",
       "Excreción fraccional de sodio <1%.",
       "Cociente creatinina urinaria/creatinina plasmática mayor de 40.",
-      "Osmolalidad urinaria menor de 350 mOs- moles/Kg."
+      "Osmolalidad urinaria menor de 350 mOsmoles/Kg."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 137 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La osmolalidad urinaria menor de 350 mOsmoles/Kg. sugiere el desarrollo de necrosis tubular aguda en el contexto de un shock hipovolémico. Esto se debe a que la necrosis tubular aguda afecta la capacidad de los túbulos renales para reabsorber y secregar iones y agua, lo que conduce a una disminución de la osmolalidad urinaria. En un estado normal, la orina tiene una osmolalidad mayor a 500 mOsmoles/Kg debido a la reabsorción de sodio y agua en los túbulos renales. Una osmolalidad urinaria menor de 350 mOsmoles/Kg indica una pérdida de función renal significativa, lo que sugiere el desarrollo de necrosis tubular aguda. \n\n- **🔴 Opción A (Incorrecta):** Un sodio urinario menor a 20 mEq/L. no es un indicador confiable del desarrollo de necrosis tubular aguda. El sodio urinario puede variar ampliamente en función de la cantidad de líquido perdido por la vía urinaria, por lo que no es un parámetro útil para diagnosticar necrosis tubular aguda. \n\n- **🔴 Opción B (Incorrecta):** La excreción fraccional de sodio menor a 1% tampoco es un indicador confiable del desarrollo de necrosis tubular aguda. La excreción fraccional de sodio se refiere a la proporción de sodio excretado en la orina en relación con la cantidad de sodio filtrado por los riñones. En un estado normal, la excreción fraccional de sodio es mayor a 1%. Una excreción fraccional de sodio menor a 1% puede indicar una disminución en la función renal, pero no es un indicador específico de necrosis tubular aguda. \n\n- **🔴 Opción C (Incorrecta):** El cociente creatinina urinaria/creatinina plasmática mayor de 40 no es un indicador confiable del desarrollo de necrosis tubular aguda. El cociente creatinina urinaria/creatinina plasmática se utiliza para calcular la tasa de filtración glomerular (TFG). Un cociente mayor a 40 puede indicar una disminución en la función renal, pero no es un indicador específico de necrosis tubular aguda. \n\nLa perla MIR es la siguiente: **La necrosis tubular aguda se caracteriza por una disminución en la función renal, lo que se refleja en una osmolalidad urinaria menor de 350 mOsmoles/Kg.**"
   },
   {
     "id": "q-138",
     "localNumber": 138,
     "category": "Reumatología",
-    "stem": "Varón de 80 años con gonartrosis. Acude a estudio preoperatorio previo a prótesis de rodilla derecha. Su hemograma es normal. Los tests de coagulación muestran INR:1, tiempo de cefalina-caolín 47´´ (valor normal 27-37). La agregación plaquetaria con risto- cetina está ligeramente alterada, pero es normal con colágeno y ADP. El paciente no refiere ninguna clínica hemorrágica. ¿Cuál es la causa de esta alteración en las prue- bas de coagulación?:",
+    "stem": "Un varón de 80 años con gonartrosis acude a estudio preoperatorio previo a prótesis de rodilla derecha. Su hemograma es normal. Los tests de coagulación muestran INR de 1, tiempo de cefalina-caolín de 47 segundos (valor normal de 27-37). La agregación plaquetaria con ristocetina está ligeramente alterada, pero es normal con colágeno y ADP. El paciente no refiere ninguna clínica hemorrágica.",
     "options": [
       "Heterocigosis para hemofilia A.",
       "Enfermedad de von Willebrand tipo I.",
@@ -1927,13 +1927,13 @@
       "Síndrome de Bernard-Soulier."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 138 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La enfermedad de von Willebrand tipo I es una condición genética que afecta la función de la von Willebrand, una proteína que desempeña un papel crucial en la coagulación sanguínea. La alteración en la agregación plaquetaria con ristocetina es un indicio de esta condición, ya que la von Willebrand actúa como un ligando para la ristocetina, facilitando la agregación plaquetaria. La normalidad de la agregación plaquetaria con colágeno y ADP sugiere que la función plaquetaria en general no está alterada, lo que es consistente con la enfermedad de von Willebrand tipo I. Además, el paciente no refiere clínica hemorrágica, lo que es compatible con esta condición, ya que muchos pacientes con enfermedad de von Willebrand tipo I pueden presentar una clínica asintomática o leve. Por lo tanto, la opción B es la correcta clínicamente en este caso."
   },
   {
     "id": "q-139",
     "localNumber": 139,
     "category": "Reumatología",
-    "stem": "Mujer de 55 años diagnosticada de lupus eritematoso sistémico. Consulta por aste- nia en los últimos tres meses. En la analí- tica destacan eritrocitos: 3x10¹²/L, Hemo- globina: 9,1 g/dL, volumen corpuscular me- dio: 81 fL, reticulocitos: 250x10⁹/L, leucoci- tos: 7.2x10⁹/L, plaquetas: 230x10⁹/L. Sidere- mia: 25 mcg/dL, saturación de transferrina: 19%. Ferritina: 400 ng/mL ¿Qué tipo de anemia tiene esta paciente?:",
+    "stem": "Mujer de 55 años diagnosticada de lupus eritematoso sistémico. Consulta por astenia en los últimos tres meses. En la análisis destacan eritrocitos: 3x10^12/L, Hemoglobina: 9,1 g/dL, volumen corpuscular medio: 81 fL, reticulocitos: 250x10^9/L, leucocitos: 7.2x10^9/L, plaquetas: 230x10^9/L. Sidemia: 25 mcg/dL, saturación de transferrina: 19%. Ferritina: 400 ng/mL. ¿Qué tipo de anemia tiene esta paciente?",
     "options": [
       "Anemia inflamatoria crónica.",
       "Anemia ferropénica.",
@@ -1941,27 +1941,27 @@
       "Talasemia menor."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 139 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La paciente presenta lupus eritematoso sistémico, una enfermedad autoinmune que puede afectar a varios órganos y sistemas. La anemia inflamatoria crónica se asocia con enfermedades inflamatorias crónicas, como el lupus eritematoso sistémico. La disminución de la hemoglobina (9,1 g/dL) y el aumento de la ferritina (400 ng/mL) son indicativos de anemia inflamatoria crónica. Además, la saturación de transferrina es baja (19%), lo que sugiere una respuesta inflamatoria crónica. Por lo tanto, la opción A es la correcta. \n\n- **🔴 Opción B (Incorrecta):** La anemia ferropénica se caracteriza por un déficit de hierro, lo que no se ve reflejado en la saturación de transferrina (19%) o en la ferritina (400 ng/mL), que no son indicativas de un déficit de hierro. Por lo tanto, la opción B no es la adecuada en este caso. \n\n- **🔴 Opción C (Incorrecta):** La anemia hemolítica se caracteriza por la destrucción de glóbulos rojos, lo que no se ve reflejado en la disminución de la hemoglobina (9,1 g/dL) o en el aumento de la ferritina (400 ng/mL). Además, la paciente no presenta síntomas de anemia hemolítica, como jaquecas o vértigos. Por lo tanto, la opción C no es la adecuada en este caso. \n\n- **🔴 Opción D (Incorrecta):** La talasemia menor se caracteriza por un déficit de beta-globina, lo que no se ve reflejado en la disminución de la hemoglobina (9,1 g/dL) o en el aumento de la ferritina (400 ng/mL). Además, la paciente no presenta síntomas de talasemia, como anemia grave o síndrome de Fanconi. Por lo tanto, la opción D no es la adecuada en este caso. \n\nEn resumen, la perla MIR para recordar este concepto es que la anemia inflamatoria crónica se asocia con enfermedades inflamatorias crónicas, como el lupus eritematoso sistémico, y se caracteriza por una disminución de la hemoglobina y un aumento de la ferritina."
   },
   {
     "id": "q-140",
     "localNumber": 140,
     "category": "Cardiología",
-    "stem": "Varón de 55 años que tuvo un síndrome co- ronario agudo hace un año. Acude a con- sulta de su médico de atención primaria para hacer una revisión, encontrándose asintomático. Su presión arterial es de 135/85 mmHg, sus niveles de colesterol - LDL son de 100 mg/dL . En relación con la prevención secundaria de la cardiopatía is- quémica, ¿es necesario hacer algún ajuste terapéutico?:",
+    "stem": "Varón de 55 años que tuvo un síndrome coronario agudo hace un año acude a consulta de su médico de atención primaria para hacer una revisión, encontrándose asintomático. Su presión arterial es de 135/85 mmHg, sus niveles de colesterol - LDL son de 100 mg/dL. En relación con la prevención secundaria de la cardiopatía isquémica, ¿es necesario hacer algún ajuste terapéutico?",
     "options": [
-      "Hay que optimizar el tratamiento antihiper- tensivo porque los niveles de presión arte- rial están por encima de los niveles obje- tivo.",
-      "Hay que optimizar el tratamiento hipolipe- miante porque los niveles de colesterol - LDL están por encima de los niveles obje- tivo.",
-      "Tanto los niveles de presión arterial como los niveles de colesterol -LDL se encuen- tran dentro del rango objetivo.",
-      "Hay que optimizar el tratamiento de la pre- sión arterial y el tratamiento hipolipe- miante."
+      "Hay que optimizar el tratamiento antihipersensivo porque los niveles de presión arterial están por encima de los niveles objetivo.",
+      "Hay que optimizar el tratamiento hipolipemiante porque los niveles de colesterol - LDL están por encima de los niveles objetivo.",
+      "Tanto los niveles de presión arterial como los niveles de colesterol -LDL se encuentran dentro del rango objetivo.",
+      "Hay que optimizar el tratamiento de la presión arterial y el tratamiento hipolipemiante."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 140 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La respuesta correcta es Opción D porque el paciente ya tiene un tratamiento hipolipemiante (colesterol-LDL de 100 mg/dL) y no hay indicación de que necesite un ajuste terapéutico en este sentido. Además, la presión arterial del paciente (135/85 mmHg) se encuentra dentro del rango objetivo, por lo que no es necesario optimizar el tratamiento antihipersensivo. Por lo tanto, la respuesta correcta es la opción que indica que no es necesario hacer ningún ajuste terapéutico en ambos tratamientos.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque la presión arterial del paciente (135/85 mmHg) se encuentra dentro del rango objetivo, por lo que no es necesario optimizar el tratamiento antihipersensivo. \n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque los niveles de colesterol - LDL del paciente (100 mg/dL) se encuentran dentro del rango objetivo, por lo que no es necesario optimizar el tratamiento hipolipemiante. \n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque, aunque los niveles de presión arterial del paciente se encuentran dentro del rango objetivo, la respuesta no contempla la posibilidad de que el tratamiento hipolipemiante necesite ajustes, lo que es un aspecto importante en la prevención secundaria de la cardiopatía isquémica.\n\nLa perla MIR: La prevención secundaria de la cardiopatía isquémica implica el ajuste continuo de los tratamientos para mantener los niveles de presión arterial y colesterol - LDL dentro del rango objetivo. En este caso, el paciente ya tiene un tratamiento hipolipemiante y su presión arterial se encuentra dentro del rango objetivo, por lo que no es necesario hacer ningún ajuste terapéutico."
   },
   {
     "id": "q-141",
     "localNumber": 141,
     "category": "General",
-    "stem": "Acude al servicio de urgencias una mujer de 67 años con astenia, náuseas y cefalea. Tiene antecedentes de hipertensión arterial actualmente en tratamiento con enalapril - hidroclorotiazida (20/12.5mg) y diabetes mellitus tipo 2 en tratamiento con metfor- mina. Su tensión arterial es de 138/88 mmHg y su frecuencia cardíaca 80 latidos por minuto. La exploración física es normal, se encuentra bien hidratada y no tiene ede- mas. En la analítica realizada en urgencias encontramos: sodio 122 mEq/L, potasio: 4.3mEq/L, creatinina 0.8mg/dL. La osmola- lidad plasmática es 257mOsm/kg y el sodio urinario 45 mEq/L. Hace un mes estuvo en la consulta de su médico de familia, quien le cambió el tratamiento antihipertensivo y le hizo una analítica general que fue normal. ¿Cuál es su diagnóstico?:",
+    "stem": "Acude al servicio de urgencias una mujer de 67 años con astenia, náuseas y cefalea. Tiene antecedentes de hipertensión arterial actualmente en tratamiento con enalapril-hidroclorotiazida (20/12,5 mg) y diabetes mellitus tipo 2 en tratamiento con metformina. Su tensión arterial es de 138/88 mmHg y su frecuencia cardíaca 80 latidos por minuto. La exploración física es normal, se encuentra bien hidratada y no tiene edemas. En la analítica realizada en urgencias encontramos: sodio 122 mEq/L, potasio: 4,3 mEq/L, creatinina 0,8 mg/dL. La osmolaridad plasmática es 257 mOsm/kg y el sodio urinario 45 mEq/L. Hace un mes estuvo en la consulta de su médico de familia, quien le cambió el tratamiento antihipertensivo y le hizo una analítica general que fue normal.",
     "options": [
       "Hiponatremia inducida por tiazidas.",
       "Insuficiencia suprarrenal.",
@@ -1969,7 +1969,7 @@
       "Pseudohiponatremia por hiperglucemia."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 141 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La hiponatremia inducida por tiazidas es una causa común de hiponatremia en pacientes con hipertensión arterial que están siendo tratados con diuréticos tiazídicos como la hidroclorotiazida. La hidroclorotiazida puede aumentar la excreción de sodio en la orina, lo que puede llevar a una disminución del nivel de sodio en la sangre. En este caso, la paciente está siendo tratada con enalapril-hidroclorotiazida, lo que sugiere que la hiponatremia es probablemente causada por la hidroclorotiazida. La falta de edemas y la normalidad de la exploración física sugieren que la hiponatremia es no hipovolemica, lo que es consistente con la hiponatremia inducida por tiazidas.\n\n- **🔴 Opción B (Incorrecta):** La insuficiencia suprarrenal es una causa de hiponatremia que se caracteriza por la falta de producción de hormonas suprarrenales, lo que puede llevar a una disminución del nivel de sodio en la sangre. Sin embargo, en este caso, la paciente no tiene síntomas típicos de insuficiencia suprarrenal, como fatiga, debilidad muscular o pérdida de peso, y su exploración física es normal.\n\n- **🔴 Opción C (Incorrecta):** La potomanía es una condición en la que un paciente bebe grandes cantidades de líquidos, lo que puede llevar a una dilución del nivel de sodio en la sangre. Sin embargo, en este caso, la paciente se encuentra bien hidratada y no tiene edemas, lo que sugiere que la potomanía no es la causa principal de la hiponatremia.\n\n- **🔴 Opción D (Incorrecta):** La pseudohiponatremia por hiperglucemia es una condición en la que la glucosa en la sangre es muy alta, lo que puede llevar a una falsa lectura de hiponatremia en las pruebas de laboratorio. Sin embargo, en este caso, la osmolaridad plasmática es normal, lo que sugiere que la pseudohiponatremia no es la causa de la hiponatremia.\n\nLa perla MIR es que la hiponatremia inducida por tiazidas es una causa común de hiponatremia en pacientes con hipertensión arterial que están siendo tratados con diuréticos tiazídicos."
   },
   {
     "id": "q-142",
