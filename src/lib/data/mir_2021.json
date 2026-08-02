@@ -283,7 +283,7 @@
     "id": "q-21",
     "localNumber": 21,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 21. La presencia de lesiones cutáneas en forma de pápulas violáceas en dorso de articulaciones interfalángicas, como las que se aprecian en la figura, son muy características de:",
+    "stem": "La presencia de lesiones cutáneas en forma de pápulas violáceas en dorso de articulaciones interfalángicas, como las que se aprecian en la figura, son muy características de:",
     "options": [
       "Lupus cutáneo subagudo.",
       "Porfiria cutánea tarda.",
@@ -291,13 +291,13 @@
       "Artropatía psoriásica."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 21 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** El lupus cutáneo subagudo se caracteriza por lesiones cutáneas en forma de pápulas o plaques, pero no necesariamente violáceas ni en el dorso de las articulaciones interfalángicas. Las lesiones en este trastorno suelen ser más extensas y pueden afectar otras áreas del cuerpo. Además, el lupus cutáneo subagudo no se asocia típicamente con esta presentación específica de lesiones cutáneas y articulares.\n\n- **🔴 Opción B (Incorrecta):** La porfiria cutánea tarda se caracteriza por lesiones cutáneas en forma de pápulas o plaques, pero no necesariamente violáceas ni en el dorso de las articulaciones interfalángicas. Las lesiones en este trastorno suelen ser más extensas y pueden afectar otras áreas del cuerpo. Además, la porfiria cutánea tarda no se asocia típicamente con esta presentación específica de lesiones cutáneas y articulares.\n\n- **🔴 Opción C (Incorrecta):** La dermatomiositis se caracteriza por inflamación de la piel y los músculos, pero no necesariamente por lesiones cutáneas en forma de pápulas violáceas en el dorso de las articulaciones interfalángicas. Las lesiones en este trastorno suelen ser más extensas y pueden afectar otras áreas del cuerpo, como la cara y el cuello.\n\n- **🟢 Opción D (Correcta):** La artropatía psoriásica se caracteriza por lesiones cutáneas en forma de pápulas violáceas en el dorso de las articulaciones interfalángicas, lo que es muy típico en esta condición. La artropatía psoriásica es una forma de artritis que se asocia con la psoriasis, una enfermedad cutánea crónica. La presencia de estas lesiones cutáneas y articulares es una clínica muy sugestiva de la artropatía psoriásica.\n\nLa perla MIR es que la asociación entre lesiones cutáneas y articulares es fundamental para diagnosticar la artropatía psoriásica. Recuerda que la presencia de lesiones cutáneas en forma de pápulas violáceas en el dorso de las articulaciones interfalángicas es muy característica de esta condición."
   },
   {
     "id": "q-22",
     "localNumber": 22,
     "category": "Cardiología",
-    "stem": "Pregunta asociad a a la imagen 22. Mujer de 64 años con antecedentes de diabetes mellitus, hipertensión arterial y obesidad (índi- ce de masa corporal 34) que es atendida en su domicilio por el servicio de emergencias tras presentar durante el descanso nocturno dolor torácico, sudoración int ensa, mareos y vómitos de dos horas de evolución. Se realiza electro- cardiograma urgente (imagen). En la explora- ción física se aprecia una ligera disminución del nivel de conciencia, frialdad acra y tensión arte- rial de 75/30 mmHg, además de un aumento de la presión venosa yugular durante la inspira- ción y la aparición de pulso paradójico, sin evidencia de edema pulmonar en la ausculta- ción. Con los datos clínicos, exploratorios y electrocardiográficos expuestos, ¿qué complica- ción del infarto sospecha en esta paciente?:",
+    "stem": "Mujer de 64 años con antecedentes de diabetes mellitus, hipertensión arterial y obesidad (índice de masa corporal 34) que es atendida en su domicilio por el servicio de emergencias tras presentar durante el descanso nocturno dolor torácico, sudoración intensa, mareos y vómitos de dos horas de evolución. Se realiza electrocardiograma urgente (imagen). En la exploración física se aprecia una ligera disminución del nivel de conciencia, frialdad acrótica y tensión arterial de 75/30 mmHg, además de un aumento de la presión venosa yugular durante la inspiración y la aparición de pulso paradójico, sin evidencia de edema pulmonar en la auscultación.",
     "options": [
       "Afectación de ventrículo derecho.",
       "Rotura del septo interventricular basal.",
@@ -305,27 +305,27 @@
       "Pseudoaneurisma ventricular inferobasal."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 22 del examen MIR de la convocatoria FSE."
+    "explanation": "Pregunta compleja que requiere una comprensión profunda de la cardiología y la ecografía en la emergencia.\n\n- **🟢 Opción A (Correcta):** La afectación del ventrículo derecho es la complicación más probable en esta paciente. El dolor torácico, la disminución del nivel de conciencia, la frialdad acrótica y el pulso paradójico sugieren una insuficiencia cardíaca congestiva, lo que podría estar asociado con una afectación del ventrículo derecho. Además, el aumento de la presión venosa yugular durante la inspiración es un signo de tamponamiento cardíaco, lo que también apunta hacia una afectación del ventrículo derecho.\n\n- **🔴 Opción B (Incorrecta):** La rotura del septo interventricular basal es una complicación grave, pero no es la más probable en esta paciente. La rotura del septo interventricular basal se asocia con un aumento de la tensión arterial y un pulso fuerte, lo que no se observa en esta paciente.\n\n- **🔴 Opción C (Incorrecta):** La rotura del músculo papilar posteromedial mitral es una complicación menos común y no está directamente relacionada con los síntomas y signos presentados por la paciente.\n\n- **🔴 Opción D (Incorrecta):** El pseudoaneurisma ventricular inferobasal es una complicación grave que se asocia con una rotura del músculo papilar, pero no está directamente relacionada con los síntomas y signos presentados por la paciente.\n\nPerla MIR: 'La afectación del ventrículo derecho es la complicación más probable en un paciente con dolor torácico, disminución del nivel de conciencia y pulso paradójico, especialmente si se asocia con un aumento de la presión venosa yugular durante la inspiración.'"
   },
   {
     "id": "q-23",
     "localNumber": 23,
     "category": "Cardiología",
-    "stem": "Pregunta asociad a a la imagen 23. Varón de 19 años con antecedentes familiares de muerte súbita en padre que acude por clínica de ángor y síncopes en esfuerzo, con sensación de palpitaciones rápidas con el esfuerzo. Pre- senta el ECG que se adjunta. Se realiza un eco- cardiograma y es diagnosticado de una miocar- diopatía. Considerando su sospecha del tipo de miocardiopatía que presenta, señale la respues- ta verdadera:",
+    "stem": "Varón de 19 años con antecedentes familiares de muerte súbita en padre que acude por clínica de angor y síncopes en esfuerzos, con sensación de palpitaciones rápidas con el esfuerzo. Se presenta el ECG que se adjunta. Se realiza un ecocardiograma y es diagnosticado de una miocardiopatía.",
     "options": [
-      "La fracción de eyección del ventrículo iz- quierdo muy frecuentemente es inferior al 55 %.",
-      "E s t a e n t i d a d e s d e b i d a a u n a h i p e r t r o f i a d e l tabique con obstrucción dinámica en el tracto de salida del ventrículo izquierdo.",
+      "La fracción de eyección del ventrículo izquierdo muy frecuentemente es inferior al 55 %.",
+      "Se están indicadas las enfermedades debidas a una hipertrofia del tabique con obstrucción dinámica en el tracto de salida del ventrículo izquierdo.",
       "No se asocia a disfunción diastólica.",
-      "El grosor de la pared del ventrículo izquierdo es normal o esta disminuido. - 5 -"
+      "El grosor de la pared del ventrículo izquierdo es normal o está disminuido."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 23 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La hipertrofia del tabique es un tipo de miocardiopatía caracterizada por un aumento anormal del grosor del tabique interventricular, lo que puede llevar a una obstrucción dinámica en el tracto de salida del ventrículo izquierdo. Esta condición se asocia a un aumento del riesgo de muerte súbita, especialmente en pacientes con antecedentes familiares de muerte súbita. La obstrucción dinámica puede llevar a una disminución de la fracción de eyección del ventrículo izquierdo y a una disfunción diastólica, lo que dificulta la función de bombeo del corazón. Por lo tanto, la opción B es la correcta ya que describe una condición que se asocia a la miocardiopatía de la que se está hablando en la pregunta.\n\n- **🔴 Opción A (Incorrecta):** La fracción de eyección del ventrículo izquierdo puede variar dependiendo de la gravedad de la miocardiopatía, pero no siempre es inferior al 55%. En algunos casos, la fracción de eyección puede estar dentro del rango normal, especialmente en las fases tempranas de la enfermedad. Por lo tanto, esta opción no es adecuada en este caso.\n\n- **🔴 Opción C (Incorrecta):** La disfunción diastólica es una característica común de la hipertrofia del tabique, ya que la obstrucción dinámica en el tracto de salida del ventrículo izquierdo puede dificultar la relajación del ventrículo durante la diástole. Por lo tanto, esta opción no es correcta ya que la disfunción diastólica se asocia a la hipertrofia del tabique.\n\n- **🔴 Opción D (Incorrecta):** El grosor de la pared del ventrículo izquierdo puede estar aumentado en la hipertrofia del tabique, lo que no se ajusta a esta descripción. Por lo tanto, esta opción no es adecuada en este caso.\n\n**Perla MIR:** La hipertrofia del tabique es una condición grave que requiere atención médica inmediata, especialmente en pacientes con antecedentes familiares de muerte súbita. La obstrucción dinámica en el tracto de salida del ventrículo izquierdo puede llevar a una disminución de la fracción de eyección y a una disfunción diastólica, lo que dificulta la función de bombeo del corazón."
   },
   {
     "id": "q-24",
     "localNumber": 24,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 24. En esta genealogía se observa un patrón de herencia autosómica dominante con un salto de generación en II-1 (su padre I-1 y su hijo III-1 están afectados por la enfermedad mientras que II-1 no la manifiesta). ¿Cómo se llama este fe- nómeno?:",
+    "stem": "En esta genealogía se observa un patrón de herencia autosómica dominante con un salto de generación en II-1 (su padre I-1 y su hijo III-1 están afectados por la enfermedad mientras que II-1 no la manifiesta). ¿Cómo se llama este fenómeno?",
     "options": [
       "Herencia mitocondrial.",
       "Expresividad variable.",
@@ -333,21 +333,21 @@
       "Variación en el fenotipo debida al ambiente."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 24 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La penetrancia incompleta se refiere a la situación en la que una persona hereda una copia del alelo mutado, pero no desarrolla la enfermedad. En este caso, el padre (I-1) y el hijo (III-1) están afectados por la enfermedad, mientras que el padre del padre (II-1) no la manifiesta. Esto se debe a que la penetrancia incompleta implica que no todos los portadores del alelo mutado desarrollan la enfermedad. La penetrancia incompleta es un concepto clave en la genética de las enfermedades autosómicas dominantes.\n\n- **🔴 Opción A (Incorrecta):** La herencia mitocondrial se refiere a la transmisión de genes que se encuentran en el ADN mitocondrial, lo que no es relevante en este escenario. La herencia mitocondrial es un tipo de herencia que se transmite solo por vía materna.\n\n- **🔴 Opción B (Incorrecta):** La expresividad variable se refiere a la variación en la gravedad o severidad de la enfermedad en diferentes individuos que comparten el mismo alelo mutado. Esto no se ajusta a la situación descrita, en la que el padre y el hijo están afectados por la enfermedad, mientras que el padre del padre no la manifiesta.\n\n- **🔴 Opción D (Incorrecta):** La variación en el fenotipo debida al ambiente se refiere a la influencia del entorno en la expresión de la enfermedad. Esto no es relevante en este escenario, ya que la pregunta se refiere a un patrón de herencia autosómica dominante con un salto de generación.\n\nLa penetrancia incompleta es un concepto fundamental en la genética de las enfermedades autosómicas dominantes, y es crucial para comprender la transmisión de enfermedades en familias."
   },
   {
     "id": "q-25",
     "localNumber": 25,
     "category": "Neumología",
-    "stem": "Pregunta asociad a a la imagen 25. La imagen corresponde a 5 minutos de estudio de una poligrafía respiratoria en un varón de 62 años. ¿Qué tipo de evento respiratorio se ve en la misma?:",
+    "stem": "Pregunta asociada a la imagen 25. La imagen corresponde a 5 minutos de estudio de una poligrafía respiratoria en un varón de 62 años. ¿Qué tipo de evento respiratorio se ve en la misma?",
     "options": [
-      "Apnea obstructiva.",
-      "Esfuerzo respiratorio asociado a microdesper- tar.",
-      "Apnea central.",
-      "Hipopnea."
+      "Apnea obstructiva",
+      "Esfuerzo respiratorio asociado a microdespertar",
+      "Apnea central",
+      "Hipopnea"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 25 del examen MIR de la convocatoria FSE."
+    "explanation": "\n- **🟢 Opción D (Correcta):** La hipopnea es un evento respiratorio caracterizado por una disminución del flujo aéreo durante al menos 10 segundos, que resulta en una caída del oxígeno en sangre (desaturación) o un microdespertar. En este contexto, la imagen de la poligrafía respiratoria muestra probablemente una disminución significativa en el flujo aéreo sin una completa interrupción del flujo, lo que sugiere hipopnea.\n- **🔴 Opción A (Incorrecta):** La apnea obstructiva se caracteriza por una completa interrupción del flujo aéreo durante al menos 10 segundos debido a una obstrucción de la vía aérea superior, a pesar de la presencia de esfuerzos respiratorios. Si la imagen mostrara una ausencia total de flujo aéreo con esfuerzos torácicos visibles, esta sería la opción correcta, pero el enunciado sugiere otro patrón.\n- **🔴 Opción B (Incorrecta):** El esfuerzo respiratorio asociado a microdespertar puede ser un resultado de various eventos respiratorios anormales, incluyendo apneas e hipopneas, pero no describe específicamente el tipo de evento respiratorio observado en la imagen.\n- **🔴 Opción C (Incorrecta):** La apnea central se define como una ausencia de esfuerzo respiratorio durante al menos 10 segundos, lo que resulta en una caída del oxígeno en sangre o un microdespertar. Esta opción es incorrecta porque implica una falta total de esfuerzo respiratorio, lo cual no se ajusta a la descripción del evento observado en la imagen.\n\nLa perla MIR para recordar es que la hipopnea se caracteriza por una reducción en el flujo aéreo sin una completa interrupción, lo que la distingue de la apnea, y suele estar asociada con microdespertares y desaturación de oxígeno."
   },
   {
     "id": "q-26",
