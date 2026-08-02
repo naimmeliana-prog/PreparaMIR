@@ -2467,7 +2467,7 @@
     "id": "q-177",
     "localNumber": 177,
     "category": "General",
-    "stem": "Mujer de 80 años que ingresa en el hospital para estudio de anemia tras ser llevada por sus hijos a urgencias por rectorragia y decaimiento físico. Clínicamente se encuentra estable. Está diagnosticada de un deterioro cognitivo, con ideación y juicio frecuentemente incoherentes y alteraciones conductuales para lo que toma risperidona. Se sospecha neoplasia maligna de colon y se plantea realizar una colonoscopia. Usted verifica que la paciente es incapaz de entender adecuadamente lo que se le explica sobre tal prueba, su naturaleza, objetivos, posibles complicaciones, o sus consecuencias diagnósticas y eventualmente terapéuticas. En tal caso, ¿cuál de las siguientes respuestas es correcta?:",
+    "stem": "Mujer de 80 años ingresa en el hospital para estudio de anemia tras ser llevada por sus hijos a urgencias por rectorragia y decaimiento físico. Clínicamente se encuentra estable. Está diagnosticada de un deterioro cognitivo, con ideación y juicio frecuentemente incoherentes y alteraciones conductuales para lo que toma risperidona. Se sospecha neoplasia maligna de colon y se plantea realizar una colonoscopia. El médico verifica que la paciente es incapaz de entender adecuadamente lo que se le explica sobre tal prueba, su naturaleza, objetivos, posibles complicaciones, o sus consecuencias diagnósticas y eventualmente terapéuticas.",
     "options": [
       "El médico queda eximido de plantear un proceso de consentimiento informado a la paciente, y se considera suficiente su criterio como médico para que se realice la colonoscopia.",
       "El médico deberá solicitar la comparecencia del Juez, para que autorice la prueba, ante la incapacidad intelectual de la enferma para decidir convenientemente por sí misma.",
@@ -2475,27 +2475,27 @@
       "Es jurídicamente aceptable un acuerdo entre el médico y los familiares de la enferma basado en un consentimiento informado verbal para que se practique la colonoscopia."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 177 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La capacidad para tomar decisiones informadas es un derecho fundamental de las personas. En este caso, la paciente es incapaz de entender y decidir sobre su propio tratamiento, por lo que los familiares deben tomar la decisión por ella. Sin embargo, es importante que queden constancia escrita de la decisión en el impreso de consentimiento informado, para garantizar la transparencia y la responsabilidad del proceso.\n\n- **🔴 Opción A (Incorrecta):** No es correcto que el médico se exima de plantear un proceso de consentimiento informado a la paciente, ya que es un derecho fundamental que debe ser respetado. La incapacidad de la paciente para entender la prueba no es motivo para eximir al médico de su responsabilidad.\n\n- **🔴 Opción B (Incorrecta):** La comparecencia del Juez no es necesaria en este caso, ya que la incapacidad de la paciente para decidir no es un delito ni una infracción penal. El proceso de consentimiento informado debe ser llevado a cabo por los familiares de la paciente.\n\n- **🔴 Opción D (Incorrecta):** Un acuerdo verbal entre el médico y los familiares de la paciente no es suficiente para obtener un consentimiento informado válido. La escritura de la decisión en el impreso de consentimiento informado es importante para garantizar la transparencia y la responsabilidad del proceso.\n\n**Perla MIR:** La capacidad para tomar decisiones informadas es un derecho fundamental de las personas. En casos de incapacidad, los familiares deben tomar la decisión por la persona, pero es importante que queden constancia escrita de la decisión en el impreso de consentimiento informado."
   },
   {
     "id": "q-178",
     "localNumber": 178,
     "category": "Neumología",
-    "stem": "Atiende a una paciente ingresada desde hace tres semanas en la unidad de cuidados intensivos por un cuadro de shock séptico respiratorio. Su evolución durante el ingreso no ha sido favorable y todavía continúa dependiente de ventilación mecánica invasiva. En los últimos días, tras recibir la información de que probablemente precise ventilación mecánica a medio -largo plazo, durante los periodos en que la paciente ha estado despierta, ha manifestado de forma clara su deseo de no continuar utilizando el ventilador. La paciente afirma comprender las consecuencias de esta decisión. Este caso habla de:",
+    "stem": "Atiende a una paciente ingresada desde hace tres semanas en la unidad de cuidados intensivos por un cuadro de shock séptico respiratorio. Su evolución durante el ingreso no ha sido favorable y todavía continúa dependiente de ventilación mecánica invasiva. En los últimos días, tras recibir la información de que probablemente precise ventilación mecánica a medio-largo plazo, durante los periodos en que la paciente ha estado despierta, ha manifestado de forma clara su deseo de no continuar utilizando el ventilador. La paciente afirma comprender las consecuencias de esta decisión.",
     "options": [
-      "Rechazo al tratamiento.",
-      "Limitación del esfuerzo terapéutico o adecuación de medidas de tratamiento.",
-      "Suicidio asistido.",
-      "Eutanasia. Página: 29 de 33"
+      "Rechazo al tratamiento",
+      "Limitación del esfuerzo terapéutico o adecuación de medidas de tratamiento",
+      "Suicidio asistido",
+      "Eutanasia"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 178 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El rechazo al tratamiento se refiere a la decisión de la paciente de no seguir con un tratamiento específico, en este caso, la ventilación mecánica invasiva. La paciente ha manifestado claramente su deseo de no continuar con el tratamiento y ha expresado su comprensión de las consecuencias de esta decisión. Esto se considera un rechazo del tratamiento, ya que la paciente está tomando la decisión de no seguir con un tratamiento que podría ser beneficioso para ella.\n\n- **🔴 Opción B (Incorrecta):** La limitación del esfuerzo terapéutico o adecuación de medidas de tratamiento se refiere a la decisión de reducir o adecuar el nivel de tratamiento que se está proporcionando a una paciente, pero siempre con el objetivo de mejorar su condición. En este caso, la paciente ha expresado su deseo de no continuar con el tratamiento, no de limitar o adecuar el nivel de tratamiento.\n\n- **🔴 Opción C (Incorrecta):** El suicidio asistido es un término que se refiere a la ayuda proporcionada a una persona para que se suicide. En este caso, no hay indicios de que la paciente esté pidiendo ayuda para suicidarse, sino que ha expresado su deseo de no continuar con el tratamiento.\n\n- **🔴 Opción D (Incorrecta):** La eutanasia se refiere a la muerte inducida a una persona, generalmente con el objetivo de aliviar su sufrimiento. En este caso, no hay indicios de que la paciente esté pidiendo ser ayudada a morir, sino que ha expresado su deseo de no continuar con el tratamiento.\n\nLa clave para esta pregunta es reconocer que el rechazo al tratamiento se refiere a la decisión de la paciente de no seguir con un tratamiento específico, en este caso, la ventilación mecánica invasiva. Esto se debe a que la paciente ha expresado claramente su deseo de no continuar con el tratamiento y ha expresado su comprensión de las consecuencias de esta decisión."
   },
   {
     "id": "q-179",
     "localNumber": 179,
     "category": "General",
-    "stem": "Respecto al tratamiento del dolor en cuidados paliativos, indique, de las siguientes afirmaciones, cuál es correcta:",
+    "stem": "Respecto al tratamiento del dolor en cuidados paliativos, indique, de las siguientes afirmaciones, cuál es correcta",
     "options": [
       "En la actualidad existen comercializados diferentes fármacos opioides para el tratamiento del dolor moderado o grave en personas que reciben cuidados paliativos, superando en perfil de efectos adversos y en efectividad a la morfina y relegándola a un papel testimonial.",
       "La adicción es un problema creciente en pacientes que precisan morfina en su fase final de vida y es más frecuente cuando se emplean fármacos con efecto de larga duración (metadona o morfina de liberación prolongada).",
@@ -2503,13 +2503,13 @@
       "La metadona es un fármaco analgésico con escasa excreción renal por lo que es útil en personas con aclaramiento renal disminuido."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 179 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La metadona es un fármaco analgésico con una excreción predominantemente hepática, lo que la hace útil en pacientes con insuficiencia renal. Por lo tanto, esta opción es correcta ya que no se refiere a una propiedad de la metadona que la hace inútil en pacientes con aclaramiento renal disminuido.\n\n- **🔴 Opción A (Incorrecta):** Esta opción sugiere que los fármacos opioides modernos han supuesto el uso de morfina en cuidados paliativos, lo que no es cierto. La morfina sigue siendo un fármaco de primera línea para el tratamiento del dolor en cuidados paliativos.\n\n- **🔴 Opción B (Incorrecta):** La adicción a la morfina en pacientes en su fase final de vida es un problema importante, pero no es más frecuente en pacientes que reciben fármacos con efecto de larga duración. La adicción a la morfina es un problema complejo que se debe a una variedad de factores, incluyendo la dosis y la duración del tratamiento.\n\n- **🔴 Opción C (Incorrecta):** El fentanilo oral transmucoso es un fármaco potente pero tiene un perfil de acción similar a la morfina, lo que significa que puede causar efectos secundarios como somnolencia y constipación. No es específicamente útil en el dolor crónico no irruptivo y de carácter crónico.\n\n**Perla MIR:** La elección del fármaco adecuado para el tratamiento del dolor en cuidados paliativos depende de la evaluación individual de cada paciente, teniendo en cuenta factores como la gravedad del dolor, la presencia de efectos secundarios y la función renal."
   },
   {
     "id": "q-180",
     "localNumber": 180,
     "category": "General",
-    "stem": "En relación con la atención en urgencias al paciente menor de edad y de acuerdo con la Ley de protección integral a la infancia y la adolescencia frente a la violencia, cuando el profesional sanitario advierta indicios de una situación de violencia ejercida sobre un menor, en un contexto en el que no exista una amenaza evidente sobre su salud o seguridad, tendrá obligación de comunicarlo de forma inmediata:",
+    "stem": "En relación con la atención en urgencias al paciente menor de edad y de acuerdo con la Ley de protección integral a la infancia y la adolescencia frente a la violencia, cuando el profesional sanitario advierta indicios de una situación de violencia ejercida sobre un menor, en un contexto en el que no exista una amenaza evidente sobre su salud o seguridad, tendrá obligación de comunicarlo de forma inmediata a los servicios sociales competentes.",
     "options": [
       "A los servicios sociales competentes.",
       "Al juzgado de guardia mediante parte de lesiones.",
@@ -2517,21 +2517,21 @@
       "Al Instituto de Medicina Legal y Ciencias Forenses de su demarcación."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 180 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** De acuerdo con la Ley de protección integral a la infancia y la adolescencia frente a la violencia, cuando un profesional sanitario advierte indicios de violencia sobre un menor en un contexto sin amenaza evidente sobre su salud o seguridad, debe comunicarlo de forma inmediata a los servicios sociales competentes. Esto permite que se puedan tomar medidas para proteger y apoyar a la víctima y prevenir futuras situaciones de violencia.\n- **🔴 Opción B (Incorrecta):** Al juzgado de guardia mediante parte de lesiones no es la medida adecuada en este caso, ya que se trata de una situación de violencia sobre un menor y no de una lesión física imputable a un tercero. Además, comunicar este tipo de situaciones a través de un parte de lesiones no es la forma más adecuada de proteger al menor.\n- **🔴 Opción C (Incorrecta):** Comunicar la situación a las Fuerzas y Cuerpos de Seguridad no es la medida más adecuada en este caso, ya que se trata de una situación de violencia sobre un menor y no de un delito o una amenaza inmediata a la seguridad pública. Además, las fuerzas del orden pueden no estar capacitadas para manejar situaciones de violencia sobre menores de manera adecuada.\n- **🔴 Opción D (Incorrecta):** Comunicar la situación al Instituto de Medicina Legal y Ciencias Forenses de su demarcación no es la medida más adecuada en este caso, ya que se trata de una situación de violencia sobre un menor y no de un delito o una lesión física que requiere la intervención de este tipo de instituciones.\n- **🔵 Perla MIR:** En situaciones de violencia sobre menores, es fundamental comunicar la situación de forma inmediata a los servicios sociales competentes para proteger y apoyar a la víctima y prevenir futuras situaciones de violencia. Esto se debe a que los servicios sociales tienen la formación y los recursos necesarios para manejar estas situaciones de manera adecuada y proporcionar apoyo a las víctimas."
   },
   {
     "id": "q-181",
     "localNumber": 181,
     "category": "Traumatología",
-    "stem": "En relación con la marca producida por el paso de la corriente eléctrica a través de la piel (también conocida como lesión electroespecífica o “marca de Jellinek”), ¿cuál de las siguientes afirmaciones es cierta?:",
+    "stem": "En relación con la marca producida por el paso de la corriente eléctrica a través de la piel, también conocida como lesión electroespecífica o 'marca de Jellinek', ¿cuál de las siguientes afirmaciones es cierta?",
     "options": [
-      "La mayor parte de las lesiones producidas por la corriente eléctrica en medio doméstico y laboral proceden de fuentes de alto voltaje.",
+      "La mayor parte de las lesiones producidas por la corriente eléctrica en medios domésticos y laborales proceden de fuentes de alto voltaje.",
       "Las lesiones dérmicas dependen del efecto de un aumento de la temperatura generado sobre la dermis.",
       "La corriente de bajo voltaje produce lesiones profundas, mientras que la de alto voltaje da lugar a lesiones superficiales adyacentes al punto de contacto con la corriente eléctrica.",
       "La marca eléctrica es diagnóstica del lugar en el que se ha producido el contacto y, por tanto, el punto de entrada de la corriente en el cuerpo."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 181 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La lesión electroespecífica o 'marca de Jellinek' es el efecto de la corriente eléctrica sobre la piel, que puede causar daños dérmicos debido al aumento de la temperatura. Esto se debe a que la corriente eléctrica induce un voltaje en la piel, lo que puede causar un aumento de la temperatura en la región afectada, lo que a su vez puede provocar lesiones dérmicas.\n\n- **🔴 Opción A (Incorrecta):** Esta afirmación no es cierta porque las lesiones producidas por la corriente eléctrica no solo proceden de fuentes de alto voltaje, sino también de fuentes de bajo voltaje. La intensidad de la corriente eléctrica es lo que determina la gravedad de la lesión, no solo el voltaje.\n\n- **🔴 Opción C (Incorrecta):** Esta afirmación no es cierta porque la corriente de bajo voltaje puede producir lesiones profundas, mientras que la corriente de alto voltaje puede producir lesiones superficiales, pero no necesariamente adyacentes al punto de contacto. La gravedad de la lesión depende de la intensidad de la corriente eléctrica, no solo del voltaje.\n\n- **🔴 Opción D (Incorrecta):** Esta afirmación no es cierta porque la marca eléctrica no es diagnóstica del lugar en el que se ha producido el contacto. La lesión electroespecífica o 'marca de Jellinek' puede aparecer en cualquier lugar del cuerpo donde se haya producido el contacto con la corriente eléctrica.\n\nLa marca eléctrica es un efecto importante de la corriente eléctrica en la piel, y es importante tener en cuenta que puede variar en gravedad dependiendo de la intensidad de la corriente eléctrica y la duración del contacto."
   },
   {
     "id": "q-182",
