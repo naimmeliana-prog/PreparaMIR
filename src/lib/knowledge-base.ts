@@ -19,6 +19,7 @@ export interface Topic {
   summary: string;
   keyPoints: string[];
   highYield: string[];
+  practiceQuestion?: QuizQuestion;
 }
 
 export const topics: Topic[] = [
