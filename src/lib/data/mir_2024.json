@@ -1193,7 +1193,7 @@
     "id": "q-86",
     "localNumber": 86,
     "category": "General",
-    "stem": "El APACHE-II (Acute Physiologic Assessment and Chronic Health Evaluation II) es un índice cuantitativo de gravedad que se calcula en el paciente crítico utilizando las siguientes variables, EXCEPTO:",
+    "stem": "El APACHE-II es un índice cuantitativo de gravedad que se calcula en el paciente crítico utilizando las siguientes variables, EXCEPTO:",
     "options": [
       "Recuento de leucocitos en sangre.",
       "Escala de coma de Glasgow.",
@@ -1201,13 +1201,13 @@
       "pH en sangre."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 86 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El APACHE-II no incluye el pH en sangre como variable para su cálculo. Esto se debe a que el pH en sangre es una medida que refleja la acidosis o alcalosis respiratoria o metabólica, pero no necesariamente refleja la gravedad del paciente crítico. Las otras variables mencionadas sí se incluyen en el cálculo del APACHE-II, como el recuento de leucocitos, la escala de coma de Glasgow y el lactato en sangre, que son indicadores importantes de la gravedad del paciente crítico.\n\n- **🔴 Opción A (Incorrecta):** El recuento de leucocitos en sangre es una variable que se incluye en el cálculo del APACHE-II. Este indicador puede reflejar la respuesta inmune del paciente a la infección o a la inflamación, y se utiliza para evaluar la gravedad del paciente crítico.\n\n- **🔴 Opción B (Incorrecta):** La escala de coma de Glasgow es una herramienta de evaluación de la conciencia y la función cerebral del paciente, y se utiliza para evaluar la gravedad del paciente con lesión cerebral. Sin embargo, no se incluye en el cálculo del APACHE-II, que se centra en evaluar la gravedad del paciente crítico en el contexto de la fisiopatología y la patología subyacente.\n\n- **🔴 Opción D (Incorrecta):** El lactato en sangre es una variable que se incluye en el cálculo del APACHE-II. Este indicador puede reflejar la presencia de acidosis láctica, que puede ser un signo de gravedad en el paciente crítico. Por lo tanto, no se puede considerar como una opción correcta para la respuesta a la pregunta."
   },
   {
     "id": "q-87",
     "localNumber": 87,
     "category": "Cardiología",
-    "stem": "Mujer de 57 años ingresada en la Unidad de Cuidados Intensivos por hipotensión persistente y fracaso multiorgánico. Tras monitorización hemodinámica avanzada, la paciente presenta frecuencia cardíaca de 105 lpm, resistencias vasculares sistémicas de 400 din -seg-m2/cm5, gasto cardíaco de 8 L/min, presión venosa central de 5 mmHg, variación del volumen sistólico del 9% e índice de agua pulmonar extravascular indexado de 5 mL/kg. ¿A qué tipo de shock orienta dicha monitorización hemodinámica avanzada?:",
+    "stem": "Mujer de 57 años ingresada en la Unidad de Cuidados Intensivos por hipotensión persistente y fracaso multiorgánico. Tras monitorización hemodinámica avanzada, la paciente presenta frecuencia cardíaca de 105 lpm, resistencias vasculares sistémicas de 400 din·seg·m2/cm5, gasto cardíaco de 8 L/min, presión venosa central de 5 mmHg, variación del volumen sistólico del 9% e índice de agua pulmonar extravascular indexado de 5 mL/kg. ¿A qué tipo de shock orienta dicha monitorización hemodinámica avanzada?",
     "options": [
       "Shock distributivo.",
       "Shock cardiogénico.",
@@ -1215,7 +1215,7 @@
       "Shock obstructivo."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 87 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La monitorización hemodinámica avanzada sugiere un shock distributivo debido a la combinación de factores clínicos y hemodinámicos. La presencia de hipotensión persistente y fracaso multiorgánico es consistente con un shock distributivo, ya que implica una mala perfusión de los órganos. La frecuencia cardíaca elevada y el gasto cardíaco reducido también son indicadores de un shock distributivo. Además, la variación del volumen sistólico del 9% y el índice de agua pulmonar extravascular indexado de 5 mL/kg sugieren una distribución inadecuada del flujo sanguíneo. Por lo tanto, la monitorización hemodinámica avanzada orienta hacia un shock distributivo.\n\n- **🔴 Opción B (Incorrecta):** La presión venosa central de 5 mmHg es baja, lo que no es consistente con un shock cardiogénico, que normalmente se caracteriza por una presión venosa central elevada debido a la congestión cardíaca. Además, la frecuencia cardíaca elevada y el gasto cardíaco reducido no son indicadores de un shock cardiogénico.\n\n- **🔴 Opción C (Incorrecta):** La presencia de hipotensión persistente y fracaso multiorgánico no es consistente con un shock hipovolémico, que se caracteriza por una pérdida de volumen sanguíneo significativa. La frecuencia cardíaca elevada y el gasto cardíaco reducido también no son indicadores de un shock hipovolémico.\n\n- **🔴 Opción D (Incorrecta):** La presión venosa central de 5 mmHg es baja, lo que no es consistente con un shock obstructivo, que normalmente se caracteriza por una presión venosa central elevada debido a la obstrucción del flujo sanguíneo. Además, la frecuencia cardíaca elevada y el gasto cardíaco reducido no son indicadores de un shock obstructivo.\n\nLa perla MIR es que la monitorización hemodinámica avanzada es fundamental para determinar el tipo de shock y guiar el tratamiento adecuado."
   },
   {
     "id": "q-88",
@@ -1229,7 +1229,7 @@
       "Tendinosis del supraespinoso derecho. Crioterapia, AINEs orales y ejercicios en su domicilio. Visita de control y si no mejora solicitar prueba de imagen."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 88 del examen MIR de la convocatoria FSE."
+    "explanation": "### Análisis de la pregunta MIR sobre tendinosis del hombro derecho en una mujer de 63 años con diabetes.\n\n#### **🟢 Opción D (Correcta):**\nLa tendinosis del supraespinoso derecho es la causa más probable del dolor en el hombro derecho de esta paciente, dada la limitación para el movimiento activo de la abducción a más de 100º, la flexión a 110º y la rotación externa a 45º. La actuación inicial adecuada sería aplicar crioterapia, administrar AINEs orales y recomendar ejercicios en el domicilio para mejorar la movilidad del hombro. Si no hay mejora, se debería solicitar una prueba de imagen para confirmar el diagnóstico.\n\n#### **🔴 Opción A (Incorrecta):**\nLa tendinosis del manguito rotador no se menciona en el enunciado como causa del dolor en el hombro derecho. Además, la crioterapia, los AINEs tópicos y el cabestrillo no son la actuación inicial adecuada para esta condición.\n\n#### **🔴 Opción B (Incorrecta):**\nLa tendinosis cálcica del supraespinoso derecho no se menciona en el enunciado como causa del dolor en el hombro derecho. La crioterapia 3 veces al día no es una recomendación adecuada para esta condición, y la fisioterapia no se menciona como parte de la actuación inicial.\n\n#### **🔴 Opción C (Incorrecta):**\nLa tendinosis del supraespinoso derecho es la causa más probable del dolor en el hombro derecho de esta paciente, pero la infiltración y el paracetamol no son la actuación inicial adecuada. La resonancia magnética se debería solicitar si no hay mejora con la actuación inicial.\n\n### Perla MIR: La tendinosis del supraespinoso derecho es una causa común de dolor en el hombro derecho en pacientes mayores, y la crioterapia, los AINEs orales y los ejercicios en el domicilio son una actuación inicial adecuada para mejorar la movilidad del hombro."
   },
   {
     "id": "q-89",
@@ -1237,27 +1237,27 @@
     "category": "General",
     "stem": "Jugador de baloncesto de 42 años que acude a urgencias por dolor de tres días de evolución en cara anterior de muslo derecho de tipo lancinante. Inicia el dolor tras mal gesto en flexión de la columna lumbar, presentando primero lumbalgia y después este dolor irradiado. En la exploración presenta un Lasegue invertido positivo, con un reflejo osteotendinoso rotuliano derecho 2/4. No hay déficit motor. La orientación diagnóstica más probable es:",
     "options": [
-      "Hernia di scal L4 -L5 migrada posterior que ocasiona una clínica de silla de montar.",
-      "Hernia discal foraminal L4 -L5 derecha que comprime la raíz de L4.",
-      "Hernia discal foraminal L4 -L5 derecha que comprime la raíz de L5.",
+      "Hernia discal foraminal L4 - L5 derecha que comprime la raíz de L4.",
+      "Hernia discal foraminal L4 - L5 derecha que comprime la raíz de L5.",
+      "Hernia di discal L4 - L5 migrada posterior que ocasiona una clínica de silla de montar.",
       "Meralgia parestésica derecha."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 89 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La hernia discal foraminal L4-L5 derecha que comprime la raíz de L5 es la opción correcta porque el dolor irradiado en la cara anterior del muslo es típico de una lesión de la raíz de L5. El Lasegue invertido positivo también apunta hacia una lesión de la raíz de L5, ya que el dolor se irradia hacia la cara anterior del muslo. El reflejo osteotendinoso rotuliano 2/4 también es consistente con una lesión de la raíz de L5. La hernia discal foraminal L4-L5 derecha que comprime la raíz de L5 es una lesión común en el nivel L4-L5 y es consistente con la clínica descrita en el enunciado del examen.\n\n- **🔴 Opción A (Incorrecta):** La hernia di discal L4 - L5 migrada posterior que ocasiona una clínica de silla de montar no es la opción correcta porque la clínica de silla de montar se refiere a una lesión de la raíz de L4, no de L5. Además, el Lasegue invertido positivo y el reflejo osteotendinoso rotuliano no son consistentes con una lesión de la raíz de L4.\n\n- **🔴 Opción C (Incorrecta):** La hernia discal foraminal L4 - L5 derecha que comprime la raíz de L4 no es la opción correcta porque el dolor irradiado en la cara anterior del muslo es típico de una lesión de la raíz de L5, no de L4. El Lasegue invertido positivo también apunta hacia una lesión de la raíz de L5, no de L4.\n\n- **🔴 Opción D (Incorrecta):** La Meralgia parestésica derecha no es la opción correcta porque no se menciona en el enunciado del examen ningún síntoma típico de la Meralgia parestésica, como dolor en el muslo o en los dedos.\n\nLa perla MIR para recordar esta pregunta es: 'La cara anterior del muslo es L5, no L4'."
   },
   {
     "id": "q-90",
     "localNumber": 90,
     "category": "Neurología",
-    "stem": "Paciente de 75 años con estancia prolongada en UCI. En una exploración rutinaria se observa dificultad para la flexión dorsal del pie izquierdo con un tibial anterior a 1/5, una dificultad para la extensión de los dedos 1/5 y dificultad para la eversión con peroneos 3/5. No presenta otro foco neurológico, ni dolor en la región lumbar ni en la extremidad. ¿Cuál de las siguientes es la actitud más correcta?:",
+    "stem": "Paciente de 75 años con estancia prolongada en UCI. En una exploración rutinaria se observa dificultad para la flexión dorsal del pie izquierdo con un tibial anterior a 1/5, una dificultad para la extensión de los dedos 1/5 y dificultad para la eversión con peroneos 3/5. No presenta otro foco neurológico, ni dolor en la región lumbar ni en la extremidad. ¿Cuál de las siguientes es la actitud más correcta?",
     "options": [
       "Indicar férula antiequino y fisioterapia por sospecha de compresión del nervio ciático poplíteo externo.",
       "Solicitar electromiograma urgente y dejarlo en reposo.",
       "Realizar punción lumbar por sospecha de complicación por Guillain-Barre.",
-      "Solicitar resonancia magnética y pautar, si no está recibiendo, corticoides. Página: 15 de 33"
+      "Solicitar resonancia magnética y pautar, si no está recibiendo, corticoides."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 90 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La actitud más correcta en este caso es indicar una férula antiequino y fisioterapia por sospecha de compresión del nervio ciático poplíteo externo. La presencia de dificultad para la flexión dorsal del pie izquierdo, tibial anterior a 1/5, dificultad para la extensión de los dedos 1/5 y dificultad para la eversión con peroneos 3/5 sugiere una lesión o compresión del nervio ciático poplíteo externo. La férula antiequino puede ayudar a reducir la presión sobre el nervio y la fisioterapia puede mejorar la función del nervio y la movilidad del pie y dedos.\n\n- **🔴 Opción B (Incorrecta):** Solicitar electromiograma urgente y dejarlo en reposo no es la actitud más correcta en este caso. El electromiograma puede ser útil para diagnosticar la lesión del nervio, pero no es necesario solicitarlo de inmediato. Además, dejar al paciente en reposo puede no ser lo mejor, ya que la fisioterapia y la férula antiequino pueden ser más beneficiosas para la recuperación.\n\n- **🔴 Opción C (Incorrecta):** Realizar punción lumbar por sospecha de complicación por Guillain-Barre no es la actitud más correcta en este caso. La punción lumbar no es un procedimiento adecuado para diagnosticar la complicación por Guillain-Barre, y puede ser perjudicial para el paciente. Además, la dificultad para la flexión dorsal del pie izquierdo y la extensión de los dedos 1/5 sugiere una lesión del nervio ciático poplíteo externo, no una complicación por Guillain-Barre.\n\n- **🔴 Opción D (Incorrecta):** Solicitar resonancia magnética y pautar, si no está recibiendo, corticoides no es la actitud más correcta en este caso. La resonancia magnética puede ser útil para diagnosticar la lesión del nervio, pero no es necesario solicitarla de inmediato. Además, los corticoides no son necesarios en este caso, ya que la férula antiequino y la fisioterapia pueden ser suficientes para la recuperación.\n\nLa perla MIR es que en casos de sospecha de lesión del nervio ciático poplíteo externo, la actitud más correcta es indicar una férula antiequino y fisioterapia, y no solicitar pruebas o procedimientos innecesarios."
   },
   {
     "id": "q-91",
