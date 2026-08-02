@@ -157,49 +157,49 @@
     "id": "q-12",
     "localNumber": 12,
     "category": "Cardiología",
-    "stem": "Pregunta asociada a la imagen 12. Hombre de 75 años sin factores de ries go cardiovascular. Acude a su centro de salud por disnea de m oderados esfuerzos de un año de evolución, que en las últimas semanas aparece ante pequeños es fuerzos. En la explor ación física se ausculta en e l 2º es pacio i ntercostal de recho un soplo sis tólico r udo, irradiado a car ótidas c on borramiento del 2º ton o cardiaco. Se p ractica un ecocardiograma que muestr a una funci ón biventricular norm al y un en grosamiento de una de las válvulas cardiacas que presenta un área de 0,95 cm2 (imagen). ¿Cuál es el diagnóstico más probable y la actitud terapéutica a seguir?:",
+    "stem": "Hombre de 75 años sin factores de riesgo cardiovascular. Acude a su centro de salud por disnea de moderados esfuerzos de un año de evolución, que en las últimas semanas aparece ante pequeños esfuerzos. En la exploración física se ausculta en el 2º espacio intercostal de derecho un soplo sistólico ruido, irradiado a carótidas con borramiento del 2º tono cardiaco. Se practica un ecocardiograma que muestra una función biventricular normal y un engrosamiento de una de las válvulas cardiacas que presenta un área de 0,95 cm2. ¿Cuál es el diagnóstico más probable y la actitud terapéutica a seguir?",
     "options": [
       "Estenosis valvular aórtica grave con indicación de recambio valvular.",
-      "Estenosis valvular aórtica m oderada co n indicación de seguimiento clínico ambulatorio.",
-      "Estenosis mitral gra ve c on i ndicación de recambio valvular.",
-      "Estenosis mitral modera da con indicación de seguimiento clínico ambulatorio."
+      "Estenosis valvular aórtica moderada con indicación de seguimiento clínico ambulatorio.",
+      "Estenosis mitral grave con indicación de recambio valvular.",
+      "Estenosis mitral moderada con indicación de seguimiento clínico ambulatorio."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 12 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La opción correcta es la estenosis valvular aórtica grave con indicación de recambio valvular. La disnea de moderados esfuerzos en un hombre de 75 años sin factores de riesgo cardiovascular sugiere una afección cardiovascular significativa. El soplo sistólico ruido en el 2º espacio intercostal de derecho irradiado a carótidas y el borramiento del 2º tono cardiaco sugieren una estenosis valvular aórtica. El ecocardiograma confirma el engrosamiento de la válvula aórtica con un área de 0,95 cm2, lo que indica una estenosis grave. El recambio valvular es el tratamiento indicado para evitar complicaciones como la insuficiencia cardiaca y la muerte súbita.\n\n- **🔴 Opción B (Incorrecta):** La estenosis valvular aórtica moderada no es la opción correcta debido a que el área de la válvula aórtica es de 0,95 cm2, lo que indica una estenosis grave, no moderada. Además, la disnea de pequeños esfuerzos en las últimas semanas sugiere una afección cardiovascular significativa que requiere un tratamiento más agresivo.\n\n- **🔴 Opción C (Incorrecta):** La estenosis mitral grave no es la opción correcta debido a que el soplo sistólico ruido se auscultó en el 2º espacio intercostal de derecho, lo que sugiere una estenosis aórtica, no mitral. Además, la disnea de moderados esfuerzos en un hombre de 75 años sin factores de riesgo cardiovascular sugiere una afección cardiovascular significativa que requiere un tratamiento más agresivo.\n\n- **🔴 Opción D (Incorrecta):** La estenosis mitral moderada no es la opción correcta debido a que el área de la válvula aórtica es de 0,95 cm2, lo que indica una estenosis grave, no moderada. Además, la disnea de pequeños esfuerzos en las últimas semanas sugiere una afección cardiovascular significativa que requiere un tratamiento más agresivo.\n\nLa perla MIR es que la disnea de moderados esfuerzos en un hombre de 75 años sin factores de riesgo cardiovascular sugiere una afección cardiovascular significativa que requiere un tratamiento más agresivo. En este caso, el recambio valvular es el tratamiento indicado para evitar complicaciones como la insuficiencia cardiaca y la muerte súbita."
   },
   {
     "id": "q-13",
     "localNumber": 13,
     "category": "Cardiología",
-    "stem": "Pregunta asociada a la imagen 13. En relaci ón con el electrocardiograma de 12 derivaciones que se muestra, señale la descripción INCORRECTA:",
+    "stem": "Pregunta asociada a la imagen 13. En relación con el electrocardiograma de 12 derivaciones que se muestra, señale la descripción INCORRECTA:",
     "options": [
-      "Ritmo auricul ar de sorganizado con frecuencia ventricular irregular muy sugestiva de fibrilación auricular.",
-      "Alteración del sistema de c onducción ca rdiaca con bloqueo bifascicular ( bloqueo completo de rama derecha y hemibloqueo anterosuperior izquierdo del haz de His).",
-      "Alteración del sistema de c onducción ca rdiaca con episodios de bloqueo aurículo-ventricular de alto grado o completo.",
-      "Elevación significativa del segme nto ST en derivaciones inferiores muy sugestiva de isquemia miocárdica aguda. (--MEDICINA-0--4/36) Pagina: 2 de 34"
+      "Ritmo auricular de origen organizado con frecuencia ventricular irregular muy sugestiva de fibrilación auricular.",
+      "Alteración del sistema de conducción cardíaca con bloqueo bifascicular (bloqueo completo de rama derecha y hemibloqueo anterosuperior izquierdo del haz de His).",
+      "Alteración del sistema de conducción cardíaca con episodios de bloqueo aurículo-ventricular de alto grado o completo.",
+      "Elevación significativa del segmento ST en derivaciones inferiores muy sugestiva de isquemia miocárdica aguda."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 13 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La descripción correcta de un electrocardiograma que muestra un ritmo auricular de origen organizado con frecuencia ventricular irregular es muy sugestiva de fibrilación auricular. Esto se debe a que la fibrilación auricular es una condición en la que el ritmo auricular es irregular y no organizado, lo que se refleja en la frecuencia ventricular irregular. Por lo tanto, esta opción es correcta clínicamente.\n\n- **🔴 Opción B (Incorrecta):** La descripción de bloqueo bifascicular no se refiere a un bloqueo completo de rama derecha y hemibloqueo anterosuperior izquierdo del haz de His. El bloqueo bifascicular se refiere a un bloqueo de dos de las tres ramas del haz de His, pero no necesariamente incluye un bloqueo completo de rama derecha y hemibloqueo anterosuperior izquierdo del haz de His. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción C (Incorrecta):** La descripción de episodios de bloqueo aurículo-ventricular de alto grado o completo no es precisa. El bloqueo aurículo-ventricular se refiere a un bloqueo entre el aurículo y el ventrículo, pero no necesariamente se refiere a episodios. Además, el término 'alto grado' o 'completo' no es comúnmente utilizado en la descripción de bloqueos aurículo-ventriculares. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** La descripción de elevación significativa del segmento ST en derivaciones inferiores no es sugestiva de isquemia miocárdica aguda. La isquemia miocárdica aguda se caracteriza por una elevación del segmento ST en derivaciones superiores, no inferiores. Por lo tanto, esta opción es incorrecta.\n\nLa perla MIR: Recuerda que la fibrilación auricular se caracteriza por un ritmo auricular de origen organizado con frecuencia ventricular irregular. También recuerda que el bloqueo bifascicular se refiere a un bloqueo de dos de las tres ramas del haz de His, y no necesariamente incluye un bloqueo completo de rama derecha y hemibloqueo anterosuperior izquierdo del haz de His."
   },
   {
     "id": "q-14",
     "localNumber": 14,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 14. Paciente de 5 4 años que a cude a realizarse un a ecografía abdominal c omo c ontrol de una enfermedad de Crohn. Nunca ha presentado cólicos biliares y no tiene otra co morbilidad relevante. En la ima gen se muestran los hallazgos de la ec ografía (izquierda modo B y de recha c on contraste I V). De las siguientes, s eñale la afirmación correcta:",
+    "stem": "Paciente de 5 años que acude a realizarse un ecografía abdominal como control de una enfermedad de Crohn. Nunca ha presentado cólicos biliares y no tiene otra comorbilidad relevante. En la imagen se muestran los hallazgos de la ecografía (izquierda modo B y derecha con contraste IV). De las siguientes, se señale la afirmación correcta.",
     "options": [
-      "A pesa r de que n unca ha tenido sí ntomas de origen biliar está ind icada la co lecistectomía como prevención del cáncer de vesícula biliar.",
-      "Dado qu e est á asin tomático y no tien e riesgo aumentado de cáncer de v esícula b iliar no se recomienda la colecistect omía y no es preciso seguimiento por este motivo.",
-      "La image n no es s uficientemente c oncluyente como para tomar una decisión terapéutica. Sería necesario ampliar el estudio con R M y/o PET/TC.",
-      "No está indicada la colecis tectomía por estar asintomático, pero sí el seguimiento periódico."
+      "A pesar de que nunca ha tenido síntomas de origen biliar está indicada la colecistectomía como prevención del cáncer de vesícula biliar.",
+      "Dado que está asintomático y no tiene riesgo aumentado de cáncer de vesícula biliar no se recomienda la colecistectomía y no es preciso seguimiento por este motivo.",
+      "La imagen no es suficientemente concluyente como para tomar una decisión terapéutica. Sería necesario ampliar el estudio con RM y/o PET/TC.",
+      "No está indicada la colecistectomía por estar asintomático, pero sí el seguimiento periódico."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 14 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La colecistectomía se indica en pacientes con enfermedad de vesícula biliar aguda o crónica, síntomas biliares recurrentes o cáncer de vesícula biliar. En este caso, el paciente es asintomático y no tiene comorbilidad relevante, por lo que no está indicada la colecistectomía. Sin embargo, es importante realizar un seguimiento periódico para detectar cualquier cambio en su condición de salud. Además, la ecografía no es suficiente para tomar una decisión terapéutica y se necesitaría ampliar el estudio con técnicas como la resonancia magnética (RM) y/o la tomografía por emisión de positrones (PET/TC) para obtener una imagen más completa del estado de salud del paciente.\n\n- **🔴 Opción A (Incorrecta):** La colecistectomía no se indica como prevención del cáncer de vesícula biliar en pacientes asintomáticos. La indicación de la colecistectomía se basa en la presencia de enfermedad de vesícula biliar aguda o crónica, síntomas biliares recurrentes o cáncer de vesícula biliar.\n\n- **🔴 Opción B (Incorrecta):** La colecistectomía no se indica en pacientes asintomáticos y sin riesgo aumentado de cáncer de vesícula biliar. Además, el seguimiento periódico se realiza en pacientes con enfermedad de vesícula biliar aguda o crónica, síntomas biliares recurrentes o cáncer de vesícula biliar.\n\n- **🔴 Opción C (Incorrecta):** La ecografía no es suficiente para tomar una decisión terapéutica. Se necesitaría ampliar el estudio con técnicas como la resonancia magnética (RM) y/o la tomografía por emisión de positrones (PET/TC) para obtener una imagen más completa del estado de salud del paciente.\n\nLa perla MIR: La colecistectomía se indica en pacientes con enfermedad de vesícula biliar aguda o crónica, síntomas biliares recurrentes o cáncer de vesícula biliar. En pacientes asintomáticos, se realiza un seguimiento periódico para detectar cualquier cambio en su condición de salud."
   },
   {
     "id": "q-15",
     "localNumber": 15,
     "category": "Neurología",
-    "stem": "Pregunta asociada a la imagen 15. Mujer de 63 años , c on antecentes de obesidad, diabetes mellitus, tabaquismo, hipercole sterolemia y enfer medad pulmonar obstructiva cró nica. Intervenciones quirúrgicas previas : mastectomía izquierda por cáncer de mam a hace 12 años y pancreatectomía distal por tumor neuroendocrino de páncreas hace 2 años. Acude a urgencias por dolor abdom inal difus o de reciente aparición, distensión ab dominal, vó mitos y es treñimiento. Analítica sanguínea con leucocitosis y desviación a la izquierda, sin alter aciones hidro electrolíticas. Pruebas bioquímicas y de coagulaci ón normales. Tras realización de l a TC abdominal que se muestra en la ima gen ¿cuál de los si guientes es el diagnóstico más probable?:",
+    "stem": "Mujer de 63 años, con antecedentes de obesidad, diabetes mellitus, tabaquismo, hipercolesterolemia y enfermedad pulmonar obstructiva crónica. Intervenciones quirúrgicas previas: mastectomía izquierda por cáncer de mama hace 12 años y pancreatectomía distal por tumor neuroendocrino de páncreas hace 2 años. Acude a urgencias por dolor abdominal difuso de reciente aparición, distensión abdominal, vómitos y estreñimiento. Analítica sanguínea con leucocitosis y desviación a la izquierda, sin alteraciones hidroelectrolíticas. Pruebas bioquímicas y de coagulación normales. Tras realización de la TC abdominal que se muestra en la imagen.",
     "options": [
       "Neoplasia de colon.",
       "Eventración abdominal.",
@@ -207,13 +207,13 @@
       "Isquemia mesentérica."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 15 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La neoplasia de colon es el diagnóstico más probable en este caso debido a la combinación de factores de riesgo para el cáncer de colon, como la obesidad, el tabaquismo, la hipercolesterolemia y la enfermedad pulmonar obstructiva crónica. Además, la historia de cáncer de mama y pancreatectomía distal puede sugerir una predisposición a desarrollar cánceres de otros órganos. La presentación clínica de dolor abdominal difuso, distensión abdominal y vómitos también es compatible con una neoplasia de colon. La TC abdominal puede mostrar una masa o un cambio en la pared intestinal que sugiera esta condición.\n\n- **🔴 Opción B (Incorrecta):** La eventración abdominal no es un diagnóstico probable en este caso, ya que la paciente presenta síntomas de dolor abdominal difuso, distensión abdominal y vómitos, que sugieren una causa más grave que una simple hernia abdominal. Además, la historia de cáncer de mama y pancreatectomía distal puede sugerir una condición más compleja.\n\n- **🔴 Opción C (Incorrecta):** La perforación de víscera hueca no es un diagnóstico probable en este caso, ya que la paciente no presenta síntomas de peritonitis aguda, como dolor abdominal intenso y rigidez abdominal. Además, la TC abdominal puede mostrar una masa o un cambio en la pared intestinal que sugiera una neoplasia de colon en lugar de una perforación.\n\n- **🔴 Opción D (Incorrecta):** La isquemia mesentérica no es un diagnóstico probable en este caso, ya que la paciente no presenta síntomas de dolor abdominal crónico o intermitente, ni signos de shock o hipoperfusión. Además, la TC abdominal puede mostrar una masa o un cambio en la pared intestinal que sugiera una neoplasia de colon en lugar de una isquemia mesentérica.\n\nLa perla MIR es: 'Cuando un paciente con antecedentes de cáncer de mama y pancreatectomía distal presenta dolor abdominal difuso, distensión abdominal y vómitos, la neoplasia de colon debe ser considerada como un diagnóstico probable.'"
   },
   {
     "id": "q-16",
     "localNumber": 16,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 16. En la mielofi brosis prim aria se obs ervan en el frotis s anguíneo (ver imagen) unos hematíes con una forma característica denominados:",
+    "stem": "En la mielofibrosis primaria se observan en el frotis sangüneo unos hematíes con una forma característica denominados: ",
     "options": [
       "Dacriocitos.",
       "Piropoiquilocitos.",
@@ -221,7 +221,7 @@
       "Acantocitos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 16 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Los piropoiquilocitos son un tipo de hematíes anormales que se observan en la mielofibrosis primaria. Estos hematíes tienen una forma característica con una parte central de color rojo oscuro y una parte periférica de color rojo claro, lo que les da un aspecto de 'puntero de tinta'. Esta alteración se debe a la acumulación de inclusions de hemoglobina dentro del citoplasma del hematíe.\n\n- **🔴 Opción B (Incorrecta):** Los dacriocitos no están directamente relacionados con la mielofibrosis primaria. Los dacriocitos son una forma de células inmunes que se encuentran en la piel y no se asocian con esta condición médica.\n\n- **🔴 Opción C (Incorrecta):** Los esquistocitos son una forma de parásito que se encuentra en la orina de las personas infectadas con schistosomiasis, una enfermedad causada por ciertos géneros de helmintos. No tienen relación con la mielofibrosis primaria.\n\n- **🔴 Opción D (Incorrecta):** Los acantocitos son una forma de células que se encuentran en la piel y son responsables de la producción de queratina, una proteína que forma la capa superior de la piel. No se asocian con la mielofibrosis primaria.\n\nLa perla MIR: En la mielofibrosis primaria, los piropoiquilocitos son un signo clave de esta condición. Recuerda la forma característica de estos hematíes para identificar la mielofibrosis primaria en el frotis sangüneo."
   },
   {
     "id": "q-17",
