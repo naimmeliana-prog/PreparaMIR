@@ -1081,7 +1081,7 @@
     "id": "q-78",
     "localNumber": 78,
     "category": "General",
-    "stem": "Niña de 18 m eses pr ocedente de u n país african o que aca ba de ser adoptada y es atendida e n consulta para un examen de salud. En la analítica se observan unos niveles de vitamina D muy bajos. Respecto a este hallaz go ¿cuál es el dato exploratorio menos probable?:",
+    "stem": "Niña de 18 meses procedente de un país africano que acaba de ser adoptada y es atendida en consulta para un examen de salud. En la analítica se observan unos niveles de vitamina D muy bajos. Respecto a este hallazgo ¿cuál es el dato exploratorio menos probable?",
     "options": [
       "Persistencia de fontanela anterior.",
       "Ensanchamiento de muñecas y rodillas.",
@@ -1089,13 +1089,13 @@
       "Genu valgo."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 78 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El genu valgo no está directamente relacionado con los niveles bajos de vitamina D. La vitamina D es importante para la salud ósea y su déficit puede llevar a problemas como la raquitismo, que se manifiesta con signos como la deformidad de las piernas, pero no específicamente con el genu valgo. Por lo tanto, es el dato exploratorio menos probable en este contexto.\n\n- **🔴 Opción A (Incorrecta):** La persistencia de la fontanela anterior es un signo de raquitismo, que puede ser causado por la deficiencia de vitamina D. Por lo tanto, esta opción no es la menos probable.\n\n- **🔴 Opción B (Incorrecta):** El ensanchamiento de muñecas y rodillas también es un signo de raquitismo, que puede estar relacionado con la deficiencia de vitamina D. Por lo tanto, esta opción tampoco es la menos probable.\n\n- **🔴 Opción C (Incorrecta):** La hepatomegalia (hinchazón del hígado) puede estar relacionada con una variedad de condiciones, incluyendo la deficiencia de vitamina D, aunque no es un signo directo de ella. Sin embargo, es una posibilidad más probable que el genu valgo en este contexto.\n\nPerla MIR: Cuando se diagnostique una deficiencia de vitamina D, especialmente en niños, es importante buscar signos de raquitismo, como la persistencia de la fontanela anterior y el ensanchamiento de muñecas y rodillas, en lugar de suponer que el genu valgo es el dato exploratorio menos probable."
   },
   {
     "id": "q-79",
     "localNumber": 79,
     "category": "General",
-    "stem": "La puntuación de Apgar es un método práctico en la valoración del recién nacido. Inclu ye t odos los siguientes signos EXCEPTO uno. ¿Cuál?:",
+    "stem": "La puntuación de Apgar es un método práctico en la valoración del recién nacido. Incluye todos los siguientes signos EXCEPTO uno.",
     "options": [
       "Frecuencia cardiaca.",
       "Frecuencia respiratoria.",
@@ -1103,13 +1103,13 @@
       "Color."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 79 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La frecuencia cardiaca es uno de los signos que se evalúan en la puntuación de Apgar, ya que es un indicador importante de la salud cardiovascular del recién nacido. Por lo tanto, no puede ser la respuesta correcta.\n\n- **🔴 Opción B (Incorrecta):** De manera similar, la frecuencia respiratoria es otro signo clave que se evalúa en la puntuación de Apgar, ya que es un indicador importante de la salud respiratoria del recién nacido. Por lo tanto, no puede ser la respuesta correcta.\n\n- **🔴 Opción C (Incorrecta):** El tono muscular es un signo que se evalúa en la puntuación de Apgar, ya que es un indicador importante de la salud muscular del recién nacido. Por lo tanto, no puede ser la respuesta correcta.\n\n- **🟢 Opción D (Correcta):** El color es uno de los signos que se evalúan en la puntuación de Apgar, pero no es el único. Sin embargo, la puntuación de Apgar incluye otros signos como la frecuencia cardiaca, frecuencia respiratoria y tono muscular. Por lo tanto, la respuesta correcta es la opción que no se menciona como uno de los signos de la puntuación de Apgar.\n\nLa perla MIR es: 'La puntuación de Apgar evalúa 5 signos: color, tono muscular, reflexos, frecuencia cardiaca y frecuencia respiratoria'."
   },
   {
     "id": "q-80",
     "localNumber": 80,
     "category": "Pediatría",
-    "stem": "Niño de 8 años, atendido por dolor abdominal de 2 días de evolución. La noche anterior presentó una deposición c on s angre. Es ta ma ñana s e ha levantado co n do lor en ambos to billos, no quiere andar y le han visto unas manchas en las piernas. A la explo ración p resenta buen es tado general, auscultación n ormal, abdomen d oloroso a l a palpación sin si gnos irritación peritoneal. E n la esfera ORL solo se apre cia una farin ge r oja. Presenta lesiones petequiales y equímosis en ambas piernas con infla mación de a mbos tobillo s. El diagnóstico clínico más probable con los da tos aportados es:",
+    "stem": "Niño de 8 años, atendido por dolor abdominal de 2 días de evolución. La noche anterior presentó una deposición con sangre. Esta mañana se ha levantado con dolor en ambos tobillos, no quiere andar y le han visto unas manchas en las piernas. A la exploración presenta buen estado general, auscultación normal, abdomen doloroso a la palpación sin signos de irritación peritoneal. En la esfera ORL solo se aprecia una faringe roja. Presenta lesiones petequiales y equimosis en ambas piernas con inflamación de ambos tobillos.",
     "options": [
       "Púrpura de Schönlein-Henoch.",
       "Sarampión.",
@@ -1117,21 +1117,21 @@
       "Escarlatina."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 80 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La Púrpura de Schönlein-Henoch es una enfermedad inflamatoria que afecta los vasos sanguíneos pequeños y es común en niños. Los síntomas incluyen dolor abdominal, petequias (manchas pequeñas de sangre en la piel), equimosis (manchas más grandes de sangre en la piel), y dolor en los tobillos. La presencia de petequias y equimosis en ambas piernas, junto con dolor abdominal y dolor en los tobillos, hace que esta opción sea la más probable. Además, la faringe roja podría ser un signo de infección, que es común en esta enfermedad. La exploración física no muestra signos de irritación peritoneal, lo que descarta una pancreatitis aguda o una perforación intestinal, que podrían explicar el dolor abdominal. Por lo tanto, la Púrpura de Schönlein-Henoch es el diagnóstico más probable en este caso.\n\n- **🔴 Opción A (Incorrecta):** La Púrpura de Schönlein-Henoch no es una enfermedad de Kawasaki, que es una enfermedad inflamatoria que afecta a los vasos sanguíneos y es común en niños. La enfermedad de Kawasaki se caracteriza por un dolor de garganta, un dolor de cabeza, una fiebre, y manchas rojas en la piel. No hay signos de enfermedad de Kawasaki en este caso.\n\n- **🔴 Opción B (Incorrecta):** El sarampión es una enfermedad viral que se caracteriza por una erupción cutánea, fiebre, tos, y dolor de garganta. No hay signos de sarampión en este caso, como la erupción cutánea o la tos.\n\n- **🔴 Opción D (Incorrecta):** La escarlatina es una enfermedad infecciosa que se caracteriza por una erupción cutánea, fiebre, y dolor de garganta. No hay signos de escarlatina en este caso, como la erupción cutánea o la tos.\n\nLa perla MIR: Recuerda que la Púrpura de Schönlein-Henoch es una enfermedad inflamatoria que afecta los vasos sanguíneos pequeños y es común en niños. Los síntomas incluyen dolor abdominal, petequias, equimosis, y dolor en los tobillos. Si ves petequias y equimosis en un niño con dolor abdominal y dolor en los tobillos, piensa en Púrpura de Schönlein-Henoch."
   },
   {
     "id": "q-81",
     "localNumber": 81,
     "category": "Nefrología",
-    "stem": "El síndrome hemolític o-urémico es una de las causas más frecuentes de insuficiencia renal aguda en niños pequeños. Se caracteriza típicamente por todo lo siguiente, EXCEPTO:",
+    "stem": "El síndrome hemolítico-urémico es una de las causas más frecuentes de insuficiencia renal aguda en niños pequeños. Se caracteriza típicamente por todo lo siguiente, EXCEPTO:",
     "options": [
       "Anemia hemolítica microangiopática.",
       "Trombocitopenia.",
-      "Alargamiento de l os t iempos de coa gulación (TPTA y protrombina).",
-      "Puede dese ncadenarlo una infección previa por Streptococcus pneumoniae."
+      "Alargamiento de los tiempos de coagulación (TPTA y protrombina).",
+      "Puede descenderlo una infección previa por Streptococcus pneumoniae."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 81 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Esta opción es la correcta porque el síndrome hemolítico-urémico no se caracteriza por el alargamiento de los tiempos de coagulación (TPTA y protrombina). De hecho, el síndrome hemolítico-urémico está asociado con una coagulación intravascular diseminada, que se caracteriza por la formación de trombi en pequeños vasos sanguíneos y una prolongación de los tiempos de tromboplastina parcial activada (TPTA) y protrombina. Sin embargo, el alargamiento de los tiempos de coagulación no es una característica típica del síndrome hemolítico-urémico. Por otro lado, las otras opciones (A, B y C) son características típicas del síndrome hemolítico-urémico, como la anemia hemolítica microangiopática, la trombocitopenia y la asociación con infecciones previas por Streptococcus pneumoniae."
   },
   {
     "id": "q-82",
@@ -1139,13 +1139,13 @@
     "category": "General",
     "stem": "Sobre el tratamiento farmacológico de la manía aguda en el trastorno bipolar, señale la respuesta INCORRECTA:",
     "options": [
-      "El litio es igua l o lige ramente más e ficaz que el valproato.",
-      "Los an tipsicóticos son efectivos tanto en monoterapia como e n asociación con eutimizantes.",
-      "El litio muestra una eficacia similar a lo s antipsicóticos, aunque con un i nicio de a cción más rápido.",
-      "No existe un antipsic ótico de elección en el tratamiento."
+      "El litio es igual o ligeramente más eficaz que el valproato.",
+      "Los antipsicóticos son efectivos tanto en monoterapia como en asociación con eutimizantes.",
+      "El litio muestra una eficacia similar a los antipsicóticos, aunque con un inicio de acción más rápido.",
+      "No existe un antipsicótico de elección en el tratamiento."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 82 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Esta afirmación es verdadera. En el tratamiento de la manía aguda, tanto el litio como el valproato (y los antipsicóticos) son pilares terapéuticos con una eficacia comparativa muy similar, siendo el litio el estándar de oro para la prevención de episodios hipomaníacos/maníacos y de depresión.\n- **🟢 Opción B (Correcta):** La opción es incorrecta porque los antipsicóticos (como el haloperidol, quetiapina, risperidona o olanzapina) son ampliamente reconocidos como eficaces tanto de forma aislada (monoterapia) como combinada con un estabilizador del ánimo (eutimizante) en cuadros de manía aguda moderada o grave.\n- **🔴 Opción C (Incorrecta):** Esta afirmación es falsa en la práctica clínica comparativa (por lo que es la respuesta correcta al pedir la incorrecta), ya que los antipsicóticos suelen tener un inicio de acción mucho más rápido que el litio para controlar los síntomas psicóticos o la agitación en la fase aguda.\n- **🔴 Opción D (Incorrecta):** Es una afirmación incorrecta en el contexto de la pregunta (aunque la pregunta pide la incorrecta, esta opción es falsa porque sí existen antipsicóticos de elección como la quetiapina o el olanzapina). *Nota de análisis: En el contexto de la pregunta MIR, la opción B se marca como correcta debido a la errata en la premisa de la opción C respecto a la rapidez de acción del litio vs antipsicóticos en fases agudas.*\n\n**Perla MIR:** En el tratamiento de la manía aguda, los antipsicóticos tienen un inicio de acción más rápido que los eutimizantes (litio/valproato), siendo la opción de elección cuando hay agitación psicomotriz predominante."
   },
   {
     "id": "q-83",
