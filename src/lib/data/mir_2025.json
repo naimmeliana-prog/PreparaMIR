@@ -576,7 +576,7 @@
     "id": "q-42",
     "localNumber": 42,
     "category": "General",
-    "stem": "¿Cuál es una manifestación de la fase febril aguda de la enfermedad de Kawasaki?:",
+    "stem": "¿Cuál es una manifestación de la fase febril aguda de la enfermedad de Kawasaki?",
     "options": [
       "Inyección ocular conjuntival bilateral no exudativa.",
       "Descamación de los dedos de las manos y los pies.",
@@ -584,63 +584,63 @@
       "Aparición de los aneurismas coronarios."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 42 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La fase febril aguda de la enfermedad de Kawasaki se caracteriza por la presencia de una inyección ocular conjuntival bilateral no exudativa, que es una de las manifestaciones más comunes de esta fase. Esta inyección ocular se debe a la inflamación de los vasos sanguíneos del ojo y es un signo importante para diagnosticar la enfermedad de Kawasaki en sus etapas iniciales.\n\n- **🔴 Opción B (Incorrecta):** La descamación de los dedos de las manos y los pies es una manifestación de la fase subaguda de la enfermedad de Kawasaki, no de la fase febril aguda. En esta fase, los pacientes pueden presentar descamación y cambios en la piel de los dedos de las manos y los pies, lo que puede ser un signo de la enfermedad en su etapa subaguda.\n\n- **🔴 Opción C (Incorrecta):** La trombopenia menor de 100.000 plaquetas/mm3 es una manifestación de la fase subaguda de la enfermedad de Kawasaki, no de la fase febril aguda. En esta fase, los pacientes pueden presentar una disminución en la cantidad de plaquetas en la sangre, lo que puede aumentar el riesgo de hemorragias.\n\n- **🔴 Opción D (Incorrecta):** La aparición de aneurismas coronarios es una complicación a largo plazo de la enfermedad de Kawasaki, no una manifestación de la fase febril aguda. En algunos casos, la enfermedad de Kawasaki puede provocar la formación de aneurismas coronarios, que pueden ser un riesgo importante para la salud del paciente.\n\nLa perla MIR: Recuerda que la fase febril aguda de la enfermedad de Kawasaki se caracteriza por la inyección ocular conjuntival bilateral no exudativa, y que esta manifestación es fundamental para diagnosticar la enfermedad en sus etapas iniciales."
   },
   {
     "id": "q-43",
     "localNumber": 43,
     "category": "Pediatría",
-    "stem": "Lactante de 2 meses alimentado con lactan- cia materna exclusiva. ¿Con qué vitamina se recomien da suple- mentar su alimentación?:",
+    "stem": "Lactante de 2 meses alimentado con lactancia materna exclusiva. ¿Con qué vitamina se recomienda suplementar su alimentación?",
     "options": [
-      "No se recomienda ningún suplemento vi- tamínico en niños sanos a término.",
+      "No se recomienda ningún suplemento vitamínico en niños sanos a término.",
       "Vitamina D.",
       "Vitamina C.",
       "Hierro oral desde los 2 meses."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 43 del examen MIR de la convocatoria FSE."
+    "explanation": "\n- **🟢 Opción B (Correcta):** La vitamina D es esencial para el crecimiento y desarrollo óseo en lactantes. La lactancia materna exclusiva, aunque ideal para el desarrollo general, puede no proveer cantidades suficientes de vitamina D, especialmente si la madre tiene deficiencia de vitamina D o si el lactante tiene una exposición limitada al sol. La suplementación con vitamina D es recomendada para lactantes alimentados con lactancia materna exclusiva para prevenir el raquitismo y asegurar un crecimiento óseo saludable.\n- **🔴 Opción A (Incorrecta):** Aunque es cierto que no se recomiendan suplementos vitamínicos para todos los niños sanos a término de manera general, hay excepciones importantes como la vitamina D para lactantes alimentados con lactancia materna exclusiva, debido a la importancia de esta vitamina para el metabolismo del calcio y la formación ósea.\n- **🔴 Opción C (Incorrecta):** La vitamina C es crucial para el crecimiento y reparación de tejidos, pero la lactancia materna proporciona suficiente vitamina C para el lactante. La deficiencia de vitamina C (escorbuto) es rara en lactantes alimentados con lactancia materna exclusiva.\n- **🔴 Opción D (Incorrecta):** El hierro es esencial para la producción de hemoglobina y el desarrollo cerebral. Sin embargo, la suplementación con hierro oral no se recomienda de manera rutinaria a los 2 meses en lactantes sanos alimentados con lactancia materna exclusiva, ya que el hierro almacenado durante el embarazo generalmente es suficiente hasta los 4 a 6 meses de edad.\n\nLa perla MIR a recordar es que la vitamina D es la suplementación recomendada para lactantes alimentados con lactancia materna exclusiva desde los primeros meses de vida, para prevenir deficiencias y asegurar un desarrollo óseo saludable."
   },
   {
     "id": "q-44",
     "localNumber": 44,
     "category": "General",
-    "stem": "¿Cuál de las siguientes afirmaciones sobre vacunas vivas atenuadas en edad pediá- trica es correcta?:",
+    "stem": "¿Cuál de las siguientes afirmaciones sobre vacunas vivas atenuadas en edad pediátrica es correcta?",
     "options": [
       "Por su perfil de seguridad para el feto, pueden administrarse durante cualquier periodo del embarazo.",
-      "Se recomienda retrasar su administración en niños que han recibido recientemente inmunoglobulinas inespecíficas a altas do- sis.",
-      "Dado que no se trata de virus salvajes, pueden administrarse en niños con inmu- nosupresión grave.",
-      "Ya no forman parte de los calendarios ofi- ciales de vacunación pediátrica de nues- tro país."
+      "Se recomienda retrasar su administración en niños que han recibido recientemente inmunoglobulinas inespecíficas a altas dosis.",
+      "Dado que no se trata de virus salvajes, pueden administrarse en niños con inmunosupresión grave.",
+      "Ya no forman parte de los calendarios oficiales de vacunación pediátrica de nuestro país."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 44 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La opción B es correcta porque las vacunas vivas atenuadas pueden contener virus que, aunque debilitados, pueden replicarse en el huésped. En niños que han recibido inmunoglobulinas inespecíficas a altas dosis, la administración de estas vacunas puede neutralizar la respuesta inmune generada por la inmunoglobulina, lo que puede comprometer la eficacia de la vacunación. Por tanto, se recomienda retrasar la administración de estas vacunas en estos casos. \n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque las vacunas vivas atenuadas no son seguras para el feto en cualquier período del embarazo. Algunas vacunas vivas atenuadas pueden contener virus que pueden replicarse en el feto, lo que puede provocar complicaciones durante el embarazo. \n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque las vacunas vivas atenuadas no son seguras para niños con inmunosupresión grave. En estos pacientes, la administración de estas vacunas puede provocar una respuesta inmune anormal, lo que puede aumentar el riesgo de complicaciones. \n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque las vacunas vivas atenuadas aún forman parte de los calendarios oficiales de vacunación pediátrica en muchos países. Estas vacunas son importantes para prevenir enfermedades graves en la infancia y se siguen recomendando en los calendarios oficiales de vacunación.\n\n**Perla MIR:** Las vacunas vivas atenuadas requieren un enfoque cuidadoso en la administración, especialmente en niños con inmunosupresión grave o que han recibido inmunoglobulinas inespecíficas a altas dosis. La respuesta inmune generada por estas vacunas puede ser comprometida en estos casos, lo que puede afectar la eficacia de la vacunación."
   },
   {
     "id": "q-45",
     "localNumber": 45,
     "category": "General",
-    "stem": "¿Cuál es la afirmación correcta con res- pecto al síndrome hemolítico urémico en edad pediátrica?:",
+    "stem": "¿Cuál es la afirmación correcta con respecto al síndrome hemolítico urémico en edad pediátrica?",
     "options": [
-      "El Campylobacter productor de toxina es el agente bacteriano más frecuentemente involucrado en las formas asociadas a dia- rrea.",
-      "La insuficiencia renal combinada con he- mólisis puede provocar hiperpotasemia potencialmente grave.",
-      "Cuando está asociado a bacterias entéri- cas productoras de toxinas shiga o vero- toxinas, es más frecuente en adolescen- tes que en menores de 5 años.",
-      "En los casos asociados a diarrea por E. coli O157:H7 , el tratamiento antibiótico precoz con quinolonas mejora el pronós- tico del paciente."
+      "El Campylobacter productor de toxina es el agente bacteriano más frecuentemente involucrado en las formas asociadas a diarrea.",
+      "La insuficiencia renal combinada con hemólisis puede provocar hiperpotasemia potencialmente grave.",
+      "Cuando está asociado a bacterias entericas productoras de toxinas shiga o verotoxinas, es más frecuente en adolescentes que en menores de 5 años.",
+      "En los casos asociados a diarrea por E. coli O157:H7, el tratamiento antibiótico precoz con quinolonas mejora el pronóstico del paciente."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 45 del examen MIR de la convocatoria FSE."
+    "explanation": "La explicación estructurada del enunciado es la siguiente:\n\n* **🟢 Opción B (Correcta):** El síndrome hemolítico urémico (SHU) es una enfermedad grave que afecta principalmente a niños. La insuficiencia renal combinada con hemólisis puede provocar hiperpotasemia, lo que es un factor de riesgo importante para la mortalidad en estos pacientes. La hiperpotasemia se debe a la liberación de potasio desde las células hemolizadas en la sangre. Por lo tanto, la afirmación de que la insuficiencia renal combinada con hemólisis puede provocar hiperpotasemia potencialmente grave es correcta.\n\n* **🔴 Opción A (Incorrecta):** El Campylobacter es un germen que puede causar diarrea, pero no es el agente bacteriano más frecuentemente involucrado en las formas asociadas al síndrome hemolítico urémico. Las bacterias entericas productoras de toxinas shiga o verotoxinas, como E. coli O157:H7, son las causantes más comunes de SHU.\n\n* **🔴 Opción C (Incorrecta):** Si bien las bacterias entericas productoras de toxinas shiga o verotoxinas pueden causar SHU, esta condición es más común en niños menores de 5 años que en adolescentes. La edad de presentación más común de SHU es entre 1 y 10 años, aunque puede ocurrir en cualquier edad.\n\n* **🔴 Opción D (Incorrecta):** El tratamiento antibiótico precoz con quinolonas no mejora el pronóstico del paciente en los casos asociados a diarrea por E. coli O157:H7. De hecho, el tratamiento antibiótico puede incluso empeorar el pronóstico en algunos casos. El tratamiento del SHU se centra en la administración de fluidos y la manutención de la función renal, más que en el tratamiento antibiótico.\n\nLa perla MIR es la siguiente: 'SHU es una enfermedad grave que requiere un diagnóstico y tratamiento oportunos para evitar complicaciones'."
   },
   {
     "id": "q-46",
     "localNumber": 46,
     "category": "General",
-    "stem": "¿Cuál de las siguientes señales elevan la sospecha de un posible maltrato físico en urgencias pediátricas?:",
+    "stem": "¿Cuál de las siguientes señales eleva la sospecha de un posible maltrato físico en urgencias pediátricas?",
     "options": [
-      "Historia coherente con la lesión y el meca- nismo lesional referido por su cuidador.",
-      "Hematomas u otras lesiones en diferen- tes estadios evolutivos, afectación de zo- nas no expuestas o protegidas, lesiones pares, simétricas o con forma de objeto.",
+      "Historia coherente con la lesión y el mecanismo lesional referido por su cuidador.",
+      "Hematomas u otras lesiones en diferentes estadios evolutivos, afectación de zonas no expuestas o protegidas, lesiones pares, simétricas o con forma de objeto.",
       "Rasguños leves en zonas expuestas al juego.",
-      "Lesiones compatibles con molluscu con- tagiosum en tronco, axilas y miembros su- periores."
+      "Lesiones compatibles con molusco contagioso en tronco, axilas y miembros superiores."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 46 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Las lesiones en diferentes estadios evolutivos, afectación de zonas no expuestas o protegidas, lesiones pares, simétricas o con forma de objeto, son señales de maltrato físico en urgencias pediátricas. Esto se debe a que la mayoría de las lesiones en niños se producen por caídas o accidentalidades, que suelen ser asimétricas y no afectan áreas específicas. Las lesiones pares o simétricas pueden indicar un mecanismo lesional no accidental, como golpes o abusos.\n\n- **🔴 Opción A (Incorrecta):** Una historia coherente con la lesión y el mecanismo lesional referido por el cuidador no es una señal de maltrato físico. De hecho, una historia coherente es lo contrario de lo que se esperaría en un caso de maltrato físico, donde el cuidador puede intentar ocultar la verdad.\n\n- **🔴 Opción C (Incorrecta):** Los rasguños leves en zonas expuestas al juego no son una señal de maltrato físico. Los niños pueden rasguñarse fácilmente en áreas expuestas al juego, como las rodillas o las manos, y estos rasguños no suelen ser una indicación de maltrato.\n\n- **🔴 Opción D (Incorrecta):** Las lesiones compatibles con molusco contagioso en tronco, axilas y miembros superiores no son una señal de maltrato físico. El molusco contagioso es una infección común en niños que se caracteriza por la aparición de pústulas en áreas específicas del cuerpo. Las lesiones compatibles con molusco contagioso no suelen ser una indicación de maltrato físico.\n\nPerla MIR: Las lesiones pares, simétricas o con forma de objeto en diferentes estadios evolutivos son señales de maltrato físico en urgencias pediátricas."
   },
   {
     "id": "q-47",
