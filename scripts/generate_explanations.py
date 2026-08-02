@@ -262,6 +262,25 @@ def call_any_api(prompt: str) -> str:
     return None
 
 
+def push_progress():
+    # Solo ejecutar si estamos dentro del entorno de GitHub Actions
+    if not os.environ.get("GITHUB_ACTIONS"):
+        return
+    try:
+        import subprocess
+        subprocess.run(["git", "config", "--global", "user.name", "github-actions[bot]"], check=False)
+        subprocess.run(["git", "config", "--global", "user.email", "github-actions[bot]@users.noreply.github.com"], check=False)
+        subprocess.run(["git", "add", "src/lib/data/*.json"], check=False)
+        # Comprobar si hay cambios listos para el commit
+        diff_res = subprocess.run(["git", "diff", "--staged", "--quiet"], check=False)
+        if diff_res.returncode != 0: # Hay cambios detectados
+            print("  💾 Guardando y subiendo progreso parcial a GitHub...")
+            subprocess.run(["git", "commit", "-m", "Auto-update MIR justifications (intermediate progress)"], check=False)
+            subprocess.run(["git", "push"], check=False)
+    except Exception as e:
+        print(f"  ⚠️ No se pudo realizar el autoguardado en GitHub: {e}")
+
+
 def process_questions(year: str, limit: int = 210) -> int:
     json_path = os.path.join(base_dir, "src", "lib", "data", f"mir_{year}.json")
     if not os.path.exists(json_path):
@@ -329,6 +348,10 @@ Devuelve EXCLUSIVAMENTE un objeto JSON válido con este formato exacto:
                 # Guardar progreso cada pregunta
                 with open(json_path, "w", encoding="utf-8") as f:
                     json.dump(questions, f, ensure_ascii=False, indent=2)
+                    
+                # Subir progreso intermedio a GitHub cada 5 preguntas procesadas
+                if modified % 5 == 0:
+                    push_progress()
             except Exception as e:
                 print(f"  ⚠️ Error procesando respuesta JSON de la IA: {e}")
         else:
@@ -336,6 +359,7 @@ Devuelve EXCLUSIVAMENTE un objeto JSON válido con este formato exacto:
             time.sleep(30)
             
     print(f"📊 MIR {year} finalizado. Se actualizaron {modified} preguntas.")
+    push_progress()
     return modified
 
 if __name__ == "__main__":
