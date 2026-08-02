@@ -2663,7 +2663,7 @@
     "id": "q-192",
     "localNumber": 192,
     "category": "Cardiología",
-    "stem": "Varón de 70 años, con antecedentes de hiperten- sión arterial y dislipemia, que consulta a su mé- dico de familia tras ingreso reciente por insufi- ciencia cardiaca. Actualmente se encuentra asin- tomático, en tratamiento con enalapril, furose- mida, atorvastatina y ácid o acetilsalicílico. En la exploración física se observa frecuencia cardíaca 78 lpm, sin si gnos de insuficiencia cardiaca. En el ecocardiograma realizado durante el in greso se observa hipertrofia ventricular izquierda y frac- ción de eyección del 30 %. ¿Cuál es la actitud terapéutica más adecuada?:",
+    "stem": "Varón de 70 años, con antecedentes de hipertensión arterial y dislipemia, que consulta a su médico de familia tras ingreso reciente por insuficiencia cardiaca. Actualmente se encuentra asintomático, en tratamiento con enalapril, furosemida, atorvastatina y ácido acetilsalicílico. En la exploración física se observa frecuencia cardíaca 78 lpm, sin signos de insuficiencia cardiaca. En el ecocardiograma realizado durante el ingreso se observa hipertrofia ventricular izquierda y frac- ción de eyección del 30 %.",
     "options": [
       "Añadir bisoprolol.",
       "Añadir diltiazem.",
@@ -2671,13 +2671,13 @@
       "Ningún cambio en la medicación."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 192 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La mejor opción es añadir bisoprolol. El paciente tiene una hipertrofia ventricular izquierda y una frac- ción de eyección del 30 %, lo que sugiere una cardiomiopatía hipertensiva. La bisoprolol es un beta-bloqueante que reduce la frecuencia cardíaca y la presión arterial, lo que puede ayudar a reducir la carga sobre el corazón y mejorar la función cardíaca. Además, es un tratamiento estándar para la cardiomiopatía hipertensiva y la insuficiencia cardiaca con reducción de función. En este caso, se justifica la adición de bisoprolol debido a la hipertrofia ventricular izquierda y la frac- ción de eyección significativa, lo que sugiere una necesidad de tratamiento adicional para mejorar la función cardíaca y reducir el riesgo de eventos cardiovasculares futuros.\n\n- **🔴 Opción B (Incorrecta):** Añadir diltiazem no es la mejor opción en este caso. El diltiazem es un bloqueante de calcio que se utiliza para tratar la hipertensión arterial y la arritmia, pero no es el tratamiento de elección para la cardiomiopatía hipertensiva o la insuficiencia cardiaca con reducción de función. Además, el diltiazem puede tener efectos secundarios como la hipotensión y la disfunción hepática, especialmente en pacientes con insuficiencia cardiaca avanzada.\n\n- **🔴 Opción C (Incorrecta):** Suspender enalapril e iniciar losartán no es la mejor opción en este caso. El enalapril es un inhibidor de la ECA que se utiliza para tratar la hipertensión arterial y la insuficiencia cardiaca. La suspensión del enalapril sin reemplazo con un tratamiento equivalente puede exacerbar la hipertensión y la insuficiencia cardiaca, lo que puede ser perjudicial para el paciente. Además, el losartán es un antagonista de los receptores de angiotensina II que se utiliza para tratar la hipertensión arterial y la insuficiencia cardiaca, pero no es el tratamiento de elección para la cardiomiopatía hipertensiva.\n\n- **🔴 Opción D (Incorrecta):** Ningún cambio en la medicación no es la mejor opción en este caso. El paciente tiene una hipertrofia ventricular izquierda y una frac- ción de eyección significativa, lo que sugiere una necesidad de tratamiento adicional para mejorar la función cardíaca y reducir el riesgo de eventos cardiovasculares futuros. La falta de cambios en la medicación puede dejar al paciente sin el tratamiento adecuado para su condición clínica, lo que puede ser perjudicial para su salud.\n\nLa perla MIR es que en la cardiomiopatía hipertensiva y la insuficiencia cardiaca con reducción de función, la bisoprolol es un tratamiento de elección que puede ayudar a reducir la carga sobre el corazón y mejorar la función cardíaca."
   },
   {
     "id": "q-193",
     "localNumber": 193,
     "category": "General",
-    "stem": "Paciente de 50 años con diabetes mellitus en tratamiento con insulina. ¿Cuál es el ob jetivo recomendado para la concentración de glucosa plasmática capilar postprandial?:",
+    "stem": "Paciente de 50 años con diabetes mellitus en tratamiento con insulina. ¿Cuál es el objetivo recomendado para la concentración de glucosa plasmática capilar postprandial?",
     "options": [
       "< 126 mg/dL.",
       "< 140 mg/dL.",
@@ -2685,13 +2685,13 @@
       "< 220 mg/dL."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 193 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La concentración de glucosa plasmática capilar postprandial ideal en pacientes con diabetes mellitus es inferior a 180 mg/dL. Esto se debe a que un nivel de glucosa entre 140-180 mg/dL puede indicar que el paciente no está alcanzando su objetivo de control glucémico, lo que puede aumentar el riesgo de complicaciones a largo plazo. Un nivel de glucosa superior a 180 mg/dL puede indicar resistencia a la insulina o insuficiencia pancreática, lo que requiere ajustes en el tratamiento. Por lo tanto, el objetivo recomendado es mantener la glucosa postprandial inferior a 180 mg/dL para prevenir daño a las estructuras microvasculares y reducir el riesgo de complicaciones a largo plazo. <br><br>- **🔴 Opción A (Incorrecta):** Un nivel de glucosa postprandial inferior a 126 mg/dL puede ser demasiado estricto para la mayoría de los pacientes con diabetes mellitus, especialmente si se están tomando medicamentos orales o insulina. Esto puede llevar a hipoglucemias y requerir ajustes en el tratamiento para evitar este efecto adverso. <br><br>- **🔴 Opción B (Incorrecta):** Un nivel de glucosa postprandial inferior a 140 mg/dL puede ser demasiado estricto para algunos pacientes con diabetes mellitus, especialmente si se están tomando medicamentos orales o insulina. Esto puede llevar a hipoglucemias y requerir ajustes en el tratamiento para evitar este efecto adverso. <br><br>- **🔴 Opción D (Incorrecta):** Un nivel de glucosa postprandial inferior a 220 mg/dL no es un objetivo recomendado para la mayoría de los pacientes con diabetes mellitus. Esto puede indicar que el paciente no está alcanzando su objetivo de control glucémico, lo que puede aumentar el riesgo de complicaciones a largo plazo. <br><br>La perla MIR es: 'La glucosa postprandial ideal en diabetes mellitus es inferior a 180 mg/dL para prevenir daño microvascular y reducir el riesgo de complicaciones a largo plazo.'"
   },
   {
     "id": "q-194",
     "localNumber": 194,
     "category": "Cardiología",
-    "stem": "En pacientes con diabetes mellitus tipo 2 en tra- tamiento a lar go plazo con el mismo fármaco, ¿cuál de los si guientes NO se asocia con una disminución de la probabilidad de complicacio- nes cardiovasculares?:",
+    "stem": "En pacientes con diabetes mellitus tipo 2 en tratamiento a largo plazo con el mismo fármaco, ¿cuál de los siguientes NO se asocia con una disminución de la probabilidad de complicaciones cardiovasculares?",
     "options": [
       "Inhibidores del cotransportador sodio-glucosa tipo 2 (iSGLT2).",
       "Agonistas de los receptores de glucagón tipo 1 (arGLP1).",
@@ -2699,35 +2699,35 @@
       "Metformina."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 194 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La insulina no se asocia directamente con una disminución de la probabilidad de complicaciones cardiovasculares en pacientes con diabetes mellitus tipo 2. Aunque la insulina es fundamental para controlar los niveles de glucosa en sangre, su efecto en la reducción de eventos cardiovasculares es limitado en comparación con otros fármacos como los inhibidores del cotransportador sodio-glucosa tipo 2 (iSGLT2) y los agonistas de los receptores de glucagón tipo 1 (arGLP1), que han demostrado una reducción significativa en la incidencia de enfermedades cardiovasculares en pacientes con diabetes tipo 2. La metformina también se asocia con una reducción en la probabilidad de complicaciones cardiovasculares en pacientes con diabetes tipo 2, aunque su mecanismo de acción es diferente al de los iSGLT2 y los arGLP1. Por lo tanto, la insulina es la opción correcta en este contexto porque no se asocia con una disminución de la probabilidad de complicaciones cardiovasculares en la misma medida que los otros fármacos mencionados. \n\n- **🔴 Opción A (Incorrecta):** Los inhibidores del cotransportador sodio-glucosa tipo 2 (iSGLT2) se asocian con una disminución de la probabilidad de complicaciones cardiovasculares en pacientes con diabetes mellitus tipo 2. Estos fármacos han demostrado una reducción significativa en la incidencia de enfermedades cardiovasculares en pacientes con diabetes tipo 2, lo que los convierte en una opción incorrecta en este contexto. \n\n- **🔴 Opción B (Incorrecta):** Los agonistas de los receptores de glucagón tipo 1 (arGLP1) se asocian con una disminución de la probabilidad de complicaciones cardiovasculares en pacientes con diabetes mellitus tipo 2. Estos fármacos han demostrado una reducción significativa en la incidencia de enfermedades cardiovasculares en pacientes con diabetes tipo 2, lo que los convierte en una opción incorrecta en este contexto. \n\n- **🔴 Opción D (Incorrecta):** La metformina se asocia con una disminución de la probabilidad de complicaciones cardiovasculares en pacientes con diabetes mellitus tipo 2. Aunque su mecanismo de acción es diferente al de los iSGLT2 y los arGLP1, la metformina ha demostrado una reducción significativa en la incidencia de enfermedades cardiovasculares en pacientes con diabetes tipo 2, lo que la convierte en una opción incorrecta en este contexto. \n\nLa perla MIR: Recuerda que la insulina no es la opción correcta para reducir la probabilidad de complicaciones cardiovasculares en pacientes con diabetes mellitus tipo 2 en tratamiento a largo plazo con el mismo fármaco."
   },
   {
     "id": "q-195",
     "localNumber": 195,
     "category": "General",
-    "stem": "Mu jer de 14 años que es llevada a ur gencias por sus padres tras haber in gerido 12 horas antes múltiples comprimidos de paracetamol (no saben concretar la cantidad). Está nauseosa, pálida y sudorosa. Se solicitan niveles de paracetamol en sangre que se encuentran en ran go de probable toxicidad hepática. Las pruebas de función hepá- tica y c o agulación son normales. ¿C u á l s e r á l a actitud a seguir?:",
+    "stem": "Una niña de 14 años es llevada a urgencias por sus padres tras haber ingerido 12 horas antes múltiples comprimidos de paracetamol. Está nauseosa, pálida y sudorosa. Se solicitan niveles de paracetamol en sangre que se encuentran en rango de probable toxicidad hepática. Las pruebas de función hepática y coagulación son normales. ¿Cuál sería la actitud a seguir?",
     "options": [
-      "Observación y repetición de niveles de parace- tamol en 4 horas.",
-      "Iniciar tratamiento con N-acetilcisteína y man- tenerlo durante 12 horas.",
-      "Observación y repetición de niveles de parace- tamol, pruebas hepáticas y coagulación en 4 horas.",
-      "Iniciar tratamiento con N-acetilcisteína y man- tenerlo en función de la evolución de los nive- les de paracetamol, pruebas hepáticas y rena- les."
+      "Observación y repetición de niveles de paracetamol en 4 horas.",
+      "Iniciar tratamiento con N-acetilcisteína y mantenerlo durante 12 horas.",
+      "Observación y repetición de niveles de paracetamol, pruebas hepáticas y coagulación en 4 horas.",
+      "Iniciar tratamiento con N-acetilcisteína y mantenerlo en función de la evolución de los niveles de paracetamol, pruebas hepáticas y renales."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 195 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Esta opción es la correcta porque el tratamiento con N-acetilcisteína debe ser personalizado en función de la evolución de los niveles de paracetamol, pruebas hepáticas y renales. Esto se debe a que la dosis de N-acetilcisteína necesaria puede variar dependiendo de la gravedad de la toxicidad y la función renal de la paciente.\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque simplemente observar y repetir los niveles de paracetamol en 4 horas no es suficiente. La paciente ya ha ingerido múltiples comprimidos de paracetamol y sus niveles en sangre están en rango de probable toxicidad hepática, por lo que se requiere un tratamiento más activo.\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque iniciar el tratamiento con N-acetilcisteína durante 12 horas sin considerar la evolución de los niveles de paracetamol y las pruebas hepáticas y renales puede ser ineficaz o incluso perjudicial.\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque, aunque se realizan pruebas hepáticas y coagulación, no se considera la necesidad de personalizar el tratamiento con N-acetilcisteína en función de la evolución de los niveles de paracetamol y las pruebas hepáticas y renales.\nLa perla MIR: 'La dosis de N-acetilcisteína es como un puzzle, cada pieza debe encajar en el momento justo'."
   },
   {
     "id": "q-196",
     "localNumber": 196,
     "category": "General",
-    "stem": "En el mane jo inicial de un paciente con un shock séptico en urgencias, señale la afirmación IN- CORRECTA:",
+    "stem": "En el manejo inicial de un paciente con un shock séptico en urgencias, señale la afirmación INCORRECTA:",
     "options": [
       "Se debe determinar el lactato sérico como un marcador de hipoperfusión tisular.",
       "Se debe realizar una toma precoz (1ª hora) de muestra para cultivos e inicio de antibioterapia de amplio espectro.",
       "La reposición del volumen se debe realizar con cristaloides dentro de las 3 primeras horas.",
-      "Se recomienda la dopam ina como el vasopre- sor de primera elección."
+      "Se recomienda la dopamina como el vasopresor de primera elección."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 196 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La dopamina es un vasopresor que se utiliza comúnmente en el manejo del shock séptico, especialmente cuando se requiere un aumento del flujo sanguíneo a los órganos. La dopamina es una opción de primera elección debido a su efectividad en aumentar la presión arterial y mejorar la perfusión tisular, lo que es fundamental en el manejo del shock séptico. Además, la dopamina tiene un efecto beneficioso en la función cardíaca y el flujo sanguíneo cerebral, lo que la convierte en una opción segura en este contexto clínico.\n\n- **🔴 Opción A (Incorrecta):** Determinar el lactato sérico como un marcador de hipoperfusión tisular no es correcto. Aunque el lactato sérico puede ser un indicador de hipoperfusión tisular en ciertas condiciones, no es el mejor marcador para evaluar la hipoperfusión en el shock séptico. La evaluación de la hipoperfusión en el shock séptico se realiza mediante la evaluación de la perfusión tisular, la presión arterial y la función de los órganos. El lactato sérico es más un indicador de la presencia de un estado de hipoperfusión que de la gravedad del shock.\n\n- **🔴 Opción B (Incorrecta):** Realizar una toma precoz de muestra para cultivos e inicio de antibioterapia de amplio espectro es una práctica común en el manejo del shock séptico, pero no es correcta en el contexto de la pregunta. La toma de muestra para cultivos y el inicio de antibioterapia de amplio espectro se realizan para identificar y tratar la causa subyacente del shock séptico, pero no se relacionan directamente con el manejo inicial del shock séptico.\n\n- **🔴 Opción C (Incorrecta):** La reposición del volumen con cristaloides dentro de las 3 primeras horas es una práctica recomendada en el manejo del shock séptico, pero no es la opción correcta en este contexto. La reposición del volumen es un componente fundamental del manejo del shock séptico, pero la elección del fluido se debe realizar de acuerdo con la edad del paciente, la gravedad del shock y la presencia de condiciones preexistentes. En algunos casos, se pueden utilizar fluidos coloides o coloides de alto peso molecular para la reposición del volumen.\n\nLa perla MIR: La clave para el manejo del shock séptico es la evaluación y el tratamiento tempranos de la causa subyacente, la reposición del volumen y la elección del vasopresor adecuado. La dopamina es un vasopresor de primera elección en el manejo del shock séptico debido a su efectividad en aumentar la presión arterial y mejorar la perfusión tisular."
   },
   {
     "id": "q-197",
