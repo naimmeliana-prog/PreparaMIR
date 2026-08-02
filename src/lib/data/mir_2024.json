@@ -2397,7 +2397,7 @@
     "id": "q-172",
     "localNumber": 172,
     "category": "Infecciosas",
-    "stem": "Hombre de 37 años con infección VIH ha dejado de tomar el tratamiento por razones personales hace 3 meses; estaba tomando una combinación de dos inhibidores de transcriptasa inversa y un inhibidor de la integrasa. En la evaluación llevada a cabo en este mome nto tiene 120 linfocitos CD4/mm3 y una carga viral de VIH -1 de 80.000 copias/mL. Estamos pendientes del estudio de resistencias. ¿Qué debemos recomendarle en este momento?:",
+    "stem": "Un hombre de 37 años con infección por VIH dejó de tomar el tratamiento por razones personales hace 3 meses. Estaba tomando una combinación de dos inhibidores de transcriptasa inversa y un inhibidor de la integrasa. En la evaluación llevada a cabo en este momento tiene 120 linfocitos CD4/mm3 y una carga viral de VIH-1 de 80.000 copias/mL. Estamos pendientes del estudio de resistencias. ¿Qué debemos recomendarle en este momento?",
     "options": [
       "Reiniciar el tratamiento con lo mismo con lo que estaba previamente.",
       "Esperar a tener el resultado del estudio de resistencias para orientar el tipo de tratamiento en función de las mutaciones identificadas.",
@@ -2405,27 +2405,27 @@
       "Iniciar doble terapia con inhibidores de integrasa."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 172 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La mejor opción en este caso es reiniciar el tratamiento con la misma combinación de inhibidores de transcriptasa inversa y un inhibidor de la integrasa, ya que el paciente ya ha demostrado tener una respuesta favorable a este régimen en el pasado. La carga viral alta y la disminución de linfocitos CD4 sugieren que el paciente no ha desarrollado resistencia significativa a este régimen en los últimos tres meses. Por lo tanto, es razonable reanudar el tratamiento con la misma combinación, ya que es probable que el paciente tenga una respuesta favorable nuevamente.\n\n- **🔴 Opción B (Incorrecta):** Esperar a tener el resultado del estudio de resistencias para orientar el tipo de tratamiento en función de las mutaciones identificadas no es la mejor opción en este caso. Aunque el estudio de resistencias es importante para determinar la presencia de resistencias a diferentes medicamentos, el paciente tiene una carga viral alta y una disminución de linfocitos CD4, lo que sugiere que ya tiene resistencia al régimen actual. Por lo tanto, reiniciar el tratamiento con la misma combinación no es la mejor opción.\n\n- **🔴 Opción C (Incorrecta):** Prescribir a partir de ahora un régimen basado en inhibidores de proteasa no es la mejor opción en este caso. Aunque los inhibidores de proteasa tienen una mayor barrera genética a las resistencias, el paciente ya tiene resistencia al régimen actual y no hay evidencia de que los inhibidores de proteasa sean más efectivos en este caso específico. Además, cambiar a un régimen nuevo puede aumentar la carga viral y empeorar el estado del paciente.\n\n- **🔴 Opción D (Incorrecta):** Iniciar doble terapia con inhibidores de integrasa no es la mejor opción en este caso. Aunque la doble terapia con inhibidores de integrasa puede ser efectiva en pacientes con resistencia al régimen actual, el paciente ya tiene una carga viral alta y una disminución de linfocitos CD4, lo que sugiere que ya tiene resistencia al régimen actual. Por lo tanto, iniciar doble terapia con inhibidores de integrasa no es la mejor opción.\n\nLa perla MIR es: 'Reiniciar el tratamiento con la misma combinación de inhibidores de transcriptasa inversa y un inhibidor de la integrasa cuando el paciente tiene una carga viral alta y una disminución de linfocitos CD4, a menos que se haya identificado una resistencia significativa a este régimen'."
   },
   {
     "id": "q-173",
     "localNumber": 173,
     "category": "Neumología",
-    "stem": "Hombre de 55 años con antecedentes de cáncer de pulmón (estadio IV). Su madre murió a los 65 años por un episodio de broncoaspiración. Consulta por debilidad muscular en los muslos y disfagia. Exploración física: fuerza en psoas 4+/5, cuádriceps 3/5, deltoides 5/5. Presenta ptosis palpebral bilateral y no tiene diplopía. Los valores de CPK eran 900 UI/L (normal <150 UI/L) y los de aldolasa, 7 UI/L (normal <6 UI/L). Se practicó una biopsia en el músculo vasto lateral externo del muslo derecho, en la cual se objetivó variabilidad en el tamaño de fibras, aumento del tejido conectivo, imágenes de pseudodivisión celular y vacuolas ribeteadas; no se observó infiltrado inflamatorio. ¿Qué es lo más probable que le suceda al paciente?:",
+    "stem": "Hombre de 55 años con antecedentes de cáncer de pulmón (estadio IV). Consulta por debilidad muscular en los muslos y disfagia. Exploración física: fuerza en psoas 4+/5, cuádriceps 3/5, deltoides 5/5. Presenta ptosis palpebral bilateral y no tiene diplopía. Los valores de CPK eran 900 UI/L (normal <150 UI/L) y los de aldolasa, 7 UI/L (normal <6 UI/L). Se practicó una biopsia en el músculo vasto lateral externo del muslo derecho, en la cual se objetivó variabilidad en el tamaño de fibras, aumento del tejido conectivo, imágenes de pseudodivisión celular y vacuolas ribeteadas; no se observó infiltrado inflamatorio.",
     "options": [
-      "Distrofia oculofaríngea.",
-      "Miopatía mitocondrial.",
-      "Miastenia gravis.",
-      "Miositis con cuerpos de inclusión. Página: 28 de 33"
+      "Distrofia oculofaríngea",
+      "Miopatía mitocondrial",
+      "Miastenia gravis",
+      "Miositis con cuerpos de inclusión"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 173 del examen MIR de la convocatoria FSE."
+    "explanation": "\n- **🟢 Opción A (Correcta):** La distrofia oculofaríngea es una enfermedad rara que afecta varios tejidos, incluyendo los músculos y los órganos del sistema nervioso. El paciente presenta debilidad muscular en los muslos y disfagia, lo que sugiere una afectación muscular y un posible compromiso del sistema nervioso. La biopsia muestra variabilidad en el tamaño de las fibras musculares, aumento del tejido conectivo y pseudodivisión celular, características típicas de la distrofia oculofaríngea. Además, el paciente tiene ptosis palpebral bilateral y antecedentes de cáncer de pulmón, lo que puede sugerir una predisposición genética a la enfermedad.\n\n- **🔴 Opción X (Incorrecta):** La miopatía mitocondrial es una enfermedad genética que afecta el funcionamiento de las mitocondrias, las estructuras energéticas de las células musculares. Aunque la biopsia muestra imágenes de vacuolas ribeteadas, que son características de la miopatía mitocondrial, el paciente no presenta otros signos típicos de esta enfermedad, como debilidad muscular progresiva y pérdida de peso.\n\n- **🔴 Opción Y (Incorrecta):** La miastenia gravis es una enfermedad autoinmune que afecta los receptores acetylcolinérgicos en las uniones neuromusculares, lo que lleva a debilidad muscular y fatiga. Sin embargo, el paciente no presenta signos de infiltrado inflamatorio en la biopsia, que es característico de la miastenia gravis.\n\n- **🔴 Opción Z (Incorrecta):** La miositis con cuerpos de inclusión es una condición inflamatoria que afecta los músculos y se caracteriza por la presencia de cuerpos de inclusión en las células musculares. Sin embargo, la biopsia no muestra infiltrado inflamatorio, lo que hace que esta opción sea menos probable.\n\n**Perla MIR:** La distrofia oculofaríngea debe considerarse en pacientes con debilidad muscular y disfagia, especialmente si hay antecedentes familiares o signos de compromiso del sistema nervioso."
   },
   {
     "id": "q-174",
     "localNumber": 174,
     "category": "General",
-    "stem": "Mujer de 81 años consulta por cuadro de 1 mes de duración de astenia, febrícula, pérdida de unos 4 kg de peso, cefalea hemicraneal izquierda y dolor en la zona de los hombros y de las caderas, que le dificulta los movimientos después de estar en reposo. Se palpa una zona engrosada y dolorosa en el territorio de la arteria temporal izquierda. Respecto al proceso diagnóstico de esta paciente, señale la opción INCORRECTA:",
+    "stem": "Mujer de 81 años consulta por cuadro de 1 mes de duración de astenia, febrícula, pérdida de unos 4 kg de peso, cefalea hemicraneal izquierda y dolor en la zona de los hombros y de las caderas, que le dificulta los movimientos después de estar en reposo. Se palpa una zona engrosada y dolorosa en el territorio de la arteria temporal izquierda.",
     "options": [
       "La vasculitis sistémica que se sospecha con mayor probabilidad es una vasculitis de gran vaso.",
       "En el análisis, la normalidad de la velocidad de sedimentación globular apoya el diagnóstico de esta vasculitis.",
@@ -2433,13 +2433,13 @@
       "Una biopsia de la arteria temporal que muestre un infiltrado inflamatorio en la pared arterial confirmaría el diagnóstico de arteritis de células gigantes."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 174 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La opción B es la correcta porque la velocidad de sedimentación globular (VSG) puede estar alterada en varias enfermedades, incluyendo la vasculitis sistémica. Sin embargo, en el caso de la arteritis de células gigantes, la VSG puede ser normal. Por lo tanto, la normalidad de la VSG no apoya el diagnóstico de esta enfermedad.\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque la vasculitis sistémica que se sospecha con mayor probabilidad es la arteritis de células gigantes, no la vasculitis de gran vaso. La arteritis de células gigantes es una enfermedad caracterizada por la inflamación de los vasos sanguíneos grandes, mientras que la vasculitis de gran vaso es una enfermedad más general que puede afectar a varios tipos de vasos sanguíneos.\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque la afectación de la pared arterial de la aorta y sus ramas principales no es una característica clínica típica de la arteritis de células gigantes. La arteritis de células gigantes se caracteriza por la inflamación de los vasos sanguíneos pequeños y medianos, no de los vasos sanguíneos grandes como la aorta.\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque una biopsia de la arteria temporal que muestre un infiltrado inflamatorio en la pared arterial no es específica de la arteritis de células gigantes. La arteritis de células gigantes se caracteriza por la presencia de células gigantes en la pared arterial, no por un infiltrado inflamatorio en general.\n- **Perla MIR:** En la arteritis de células gigantes, la velocidad de sedimentación globular puede estar normal y la afectación de la pared arterial de la aorta no es una característica típica de la enfermedad."
   },
   {
     "id": "q-175",
     "localNumber": 175,
     "category": "General",
-    "stem": "¿Cuál de las siguientes manifestaciones clínicas es la más característica de la miopatía de la dermatomiositis?:",
+    "stem": "¿Cuál de las siguientes manifestaciones clínicas es la más característica de la miopatía de la dermatomiositis?",
     "options": [
       "Dificultad para andar.",
       "Dificultad para subir escaleras.",
@@ -2447,13 +2447,13 @@
       "Dolor muscular."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 175 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La dificultad para subir escaleras es una manifestación clínicamente característica de la miopatía de la dermatomiositis, ya que la enfermedad afecta a los músculos proximales, lo que dificulta las actividades que requieren fuerza y coordinación, como subir escaleras. Esto se debe a la degeneración de los músculos y la inflamación asociada con la enfermedad.\n\n   - **🔴 Opción A (Incorrecta):** La dificultad para andar no es la manifestación más característica de la miopatía de la dermatomiositis, aunque puede ser una afectación secundaria. Los pacientes con dermatomiositis pueden experimentar debilidad muscular en la zona afectada, lo que puede afectar su capacidad para andar, pero no es la característica más definitoria de la enfermedad.\n\n   - **🔴 Opción C (Incorrecta):** La dificultad para abrocharse los botones no es una manifestación clínicamente característica de la miopatía de la dermatomiositis. Si bien los pacientes con la enfermedad pueden experimentar debilidad muscular en la zona afectada, esta afectación no es lo suficientemente severa como para dificultar tareas tan simples como abrocharse los botones.\n\n   - **🔴 Opción D (Incorrecta):** El dolor muscular no es la manifestación más característica de la miopatía de la dermatomiositis. Si bien los pacientes con la enfermedad pueden experimentar dolor muscular en la zona afectada, este no es el síntoma más definitorio de la enfermedad. La miopatía de la dermatomiositis se caracteriza más por la debilidad muscular y la dificultad para realizar actividades que requieren fuerza y coordinación."
   },
   {
     "id": "q-176",
     "localNumber": 176,
     "category": "General",
-    "stem": "Mujer de 38 años que consulta por la presencia de dolor ocular, ojo rojo bilateral, hipersensibilidad a la luz y disminución de la agudeza visual. La historia clínica se completa con antecedentes de aftas bucales dolorosas y recidivantes y un diagnóstico previo de eritema nodoso hace 2 años. En la exploración oftalmológica se observa panuveitis bilateral con signos de vasculitis retiniana bilateral. Señale la respuesta correcta sobre el diagnóstico y tratamiento de la enfermedad que sospecha en esta paciente:",
+    "stem": "Mujer de 38 años que consulta por la presencia de dolor ocular, ojo rojo bilateral, hipersensibilidad a la luz y disminución de la agudeza visual. La historia clínica se completa con antecedentes de aftas bucales dolorosas y recidivantes y un diagnóstico previo de eritema nodoso hace 2 años. En la exploración oftalmológica se observa panuveítis bilateral con signos de vasculitis retiniana bilateral. Señale la respuesta correcta sobre el diagnóstico y tratamiento de la enfermedad que sospecha en esta paciente.",
     "options": [
       "El hallazgo de HLA B*51 confirma el diagnóstico de sospecha.",
       "Las úlceras bucales dejan cicatriz en la mayoría de los casos.",
@@ -2461,7 +2461,7 @@
       "La adición al tratamiento de anticuerpos monoclonales anti TNF alfa o ciclosporina no mejora el control de la uveítis."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 176 del examen MIR de la convocatoria FSE."
+    "explanation": "\n### Explicación detallada de las opciones\n\n- **🟢 Opción C (Correcta):** Esta opción es la correcta porque se refiere a la necesidad de instaurar un tratamiento precoz e intensivo en una paciente con síntomas sugestivos de una enfermedad inflamatoria crónica, como la enfermedad de Behçet, que se caracteriza por la presencia de aftas bucales dolorosas y recidivantes, uveítis y, a veces, eritema nodoso. La terapia con glucocorticoides sistémicos y la inmunosupresión con azatioprina son fundamentales para controlar la inflamación y prevenir daños estructurales en los órganos afectados.\n- **🔴 Opción A (Incorrecta):** El hallazgo de HLA B*51 puede ser sugestivo de la enfermedad de Behçet, especialmente en pacientes con uveítis recurrente, pero no confirma el diagnóstico por sí solo. La enfermedad de Behçet es un diagnóstico clínico que se basa en la presencia de una combinación de síntomas, incluyendo aftas bucales recidivantes, uveítis y, a veces, eritema nodoso o otras manifestaciones cutáneas.\n- **🔴 Opción B (Incorrecta):** Las úlceras bucales en la enfermedad de Behçet típicamente no dejan cicatrices, lo que las distingue de otras causas de úlceras orales. Esta característica es importante para el diagnóstico clínico.\n- **🔴 Opción D (Incorrecta):** La adición de anticuerpos monoclonales anti TNF alfa o ciclosporina puede ser beneficiosa en el control de la uveítis en pacientes con enfermedad de Behçet, especialmente en aquellos que no responden adecuadamente a la terapia convencional con glucocorticoides y agentes inmunosupresores. Estos medicamentos pueden ayudar a reducir la inflamación y mejorar la calidad de vida del paciente.\n\nLa **perla MIR** para recordar es que la enfermedad de Behçet se caracteriza por su naturaleza multisistémica, incluyendo manifestaciones mucocutáneas, oculares y, a veces, vasculares, y requiere un enfoque terapéutico agresivo para prevenir complicaciones a largo plazo."
   },
   {
     "id": "q-177",
