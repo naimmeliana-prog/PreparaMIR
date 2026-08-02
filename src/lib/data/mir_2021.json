@@ -3,7 +3,7 @@
     "id": "q-1",
     "localNumber": 1,
     "category": "Neumología",
-    "stem": "Pregunta asociada a la imagen 1. Varón de 65 años, sin antecedentes de interés, que consulta por tos, dolor torácico, fiebre, sudoración nocturna y disnea. En la radiografía de tórax se observa un derrame pleural unilate- ral izquierdo, por lo que se realiza una TC torá- cica que confirma el d errame pleural y donde además se observa un engrosamiento pleural y micronódulos subpleurales en el lóbulo superior izquierdo. Ante este hallazgo se decide realizar una toracoscopia con biop sia pleural, cuya his- tología se muestra en la figura. ¿Cuál es el diagnóstico anatomopatológico de la lesión pleural?:",
+    "stem": "Varón de 65 años, sin antecedentes de interés, que consulta por tos, dolor torácico, fiebre, sudoración nocturna y disnea. En la radiografía de tórax se observa un derrame pleural unilateral izquierdo, por lo que se realiza una TC torácica que confirma el derrame pleural y donde además se observa un engrosamiento pleural y micronódulos subpleurales en el lóbulo superior izquierdo. Ante este hallazgo se decide realizar una toracoscopia con biopsia pleural, cuya histología se muestra en la figura.",
     "options": [
       "Infiltración por adenocarcinoma.",
       "Inflamación aguda con abscesificación.",
@@ -11,63 +11,63 @@
       "Mesotelioma."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 1 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La inflamación granulomatosa es el diagnóstico anatomopatológico más probable en este caso. La presencia de micronódulos subpleurales en el lóbulo superior izquierdo en la TC torácica sugiere una respuesta inflamatoria, y la inflamación granulomatosa es una respuesta característica a la infección por el Mycobacterium tuberculosis (MTB). La edad del paciente y la presentación clínica con tos, dolor torácico, fiebre y sudoración nocturna también sugieren una infección pulmonar, que en este caso se ha complicado con un derrame pleural. La biopsia pleural y la histología confirmarían la presencia de células de Langhans y células gigantes, que son características de la infección por el MTB. Por lo tanto, la inflamación granulomatosa es la opción correcta en este caso.\n\n- **🔴 Opción A (Incorrecta):** La infiltración por adenocarcinoma es un diagnóstico posible en la biopsia pleural, pero no es el más probable en este caso. La edad del paciente y la presentación clínica no sugieren una neoplasia maligna como primera opción. Además, la biopsia pleural y la histología no se mencionan como evidencia de adenocarcinoma.\n\n- **🔴 Opción B (Incorrecta):** La inflamación aguda con abscesificación es un diagnóstico posible en la biopsia pleural, pero no es el más probable en este caso. La edad del paciente y la presentación clínica no sugieren una infección aguda como primera opción. Además, la biopsia pleural y la histología no se mencionan como evidencia de abscesificación.\n\n- **🔴 Opción D (Incorrecta):** El mesotelioma es un diagnóstico posible en la biopsia pleural, pero no es el más probable en este caso. La edad del paciente y la presentación clínica no sugieren una neoplasia maligna como primera opción. Además, la biopsia pleural y la histología no se mencionan como evidencia de mesotelioma.\n\n**Perla MIR:** En la práctica clínica, es importante considerar la edad del paciente, la presentación clínica y la evidencia de imagenología al realizar una biopsia pleural. En este caso, la inflamación granulomatosa es el diagnóstico más probable debido a la presentación clínica y la evidencia de imagenología."
   },
   {
     "id": "q-2",
     "localNumber": 2,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 2. Varón de 20 años, de constitución longilínea, que presenta desde hace unos 15 meses disnea d e g r a n d e s e s f u e r z o s q u e p r o g r e s a a p e q u e ñ o s esfuerzos, con palpitaciones y dolor precordial. Fallece de forma súbita subiendo escaleras. En la necropsia se encuentra un vaso con la imagen de la figura. De las siguientes ¿cuál es la enfer- medad más probable?:",
+    "stem": "Varón de 20 años, de constitución longilínea, que presenta desde hace unos 15 meses disnea de grandes esfuerzos que progresa a pequeños esfuerzos, con palpitaciones y dolor precordial. Fallece de forma súbita subiendo escaleras. En la necropsia se encuentra un vaso con la imagen de la figura. De las siguientes ¿cuál es la enfermedad más probable?",
     "options": [
       "Embolia pulmonar.",
       "Traumatismo torácico con afectación de la aorta y el corazón.",
       "Necrosis quística de la media y síndrome de Marfan.",
-      "Síndrome dislipémico familiar con grave ate- rosclerosis."
+      "Síndrome dislipémico familiar con grave aterosclerosis."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 2 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La necrosis quística de la media y el síndrome de Marfan son una condición que puede causar la ruptura de un aneurisma de la aorta, lo que puede llevar a una hemorragia interna y la muerte súbita. La imagen de la figura probablemente muestra un vaso con una aorta anormal, lo que sugiere que el paciente tenía un aneurisma de la aorta. El síndrome de Marfan es una condición genética que afecta el tejido conectivo y puede causar la formación de aneurismas de la aorta. La combinación de disnea de esfuerzos, palpitaciones y dolor precordial con la muerte súbita sugiere que la aorta se rompió, lo que hace que esta opción sea la más probable. Además, el paciente tiene una constitución longilínea, lo que es un signo clásico del síndrome de Marfan.\n\n- **🔴 Opción A (Incorrecta):** La embolia pulmonar es una condición en la que un coágulo de sangre se forma en la circulación venosa y se desplaza a los pulmones, donde puede causar una obstrucción de la arteria pulmonar. Sin embargo, esto no se relaciona con la muerte súbita del paciente debido a la ruptura de un aneurisma de la aorta. Además, la embolia pulmonar no se asocia con la disnea de esfuerzos y el dolor precordial que se describe en el caso.\n\n- **🔴 Opción B (Incorrecta):** El traumatismo torácico con afectación de la aorta y el corazón es una condición que puede causar la muerte súbita, pero no se relaciona con la disnea de esfuerzos y el dolor precordial que se describe en el caso. Además, no hay indicios de traumatismo torácico en el caso, por lo que esta opción no es la más probable.\n\n- **🔴 Opción D (Incorrecta):** El síndrome dislipémico familiar con grave aterosclerosis es una condición que puede causar la formación de placas de ateroma en las arterias, lo que puede llevar a la estenosis de las arterias coronarias y un infarto de miocardio. Sin embargo, esto no se relaciona con la muerte súbita del paciente debido a la ruptura de un aneurisma de la aorta. Además, no hay indicios de aterosclerosis en el caso, por lo que esta opción no es la más probable.\n\nLa perla MIR: Recuerda que la ruptura de un aneurisma de la aorta es una causa común de muerte súbita en pacientes con síndrome de Marfan. La combinación de disnea de esfuerzos, palpitaciones y dolor precordial con la muerte súbita sugiere que la aorta se rompió, lo que hace que esta opción sea la más probable."
   },
   {
     "id": "q-3",
     "localNumber": 3,
     "category": "Cardiología",
-    "stem": "Pregunta asociada a la imagen 3. Mujer de 81 años que consulta por ictericia, dolor epigástrico, astenia y anorexia. La TC abdominal muestra en la cabeza del páncreas u n a l e s i ó n s ó l i d a , m a l d e l i m i t a d a , d e 2 4 x 2 4 m m , q u e c o n t a c t a f o c a l m e n t e c o n l a v e n a m e - sentérica superior y comporta dilatación de la vía biliar. No se observa un claro contacto con otras estructuras vasculares principales. Con la sospecha de proceso neoformativo se indica la intervención quirúrgica. Se muestra una ima- gen macroscópica y una microscópica de la lesión pancreática. El estudio inmunohistoquí- mico realizado en la pieza de resección muestra positividad para citoqueratina 7 y negatividad para sinaptofisina, tripsina, CK20 y CDX2. ¿Cuál es el diagnóstico anatomopatológico de la lesión pancreática?:",
+    "stem": "Mujer de 81 años que consulta por ictericia, dolor epigástrico, astenia y anorexia. La TC abdominal muestra en la cabeza del páncreas una lesión sólida, mal delimitada, de 24 x 24 mm, que contacta focalmente con la vena mesentérica superior y comporta dilatación de la vía biliar. No se observa un claro contacto con otras estructuras vasculares principales. Con la sospecha de proceso neoformativo se indica la intervención quirúrgica. Se muestra una imagen macroscópica y una microscópica de la lesión pancreática. El estudio inmunohistoquímico realizado en la pieza de resección muestra positividad para citoqueratina 7 y negatividad para sinaptofisina, tripsina, CK20 y CDX2.",
     "options": [
       "Adenocarcinoma ductal.",
       "Cistadenoma seroso.",
       "Neoplasia mucinosa quística.",
-      "Pancreatitis autoinmune asociada a enferme- dad por IgG4."
+      "Pancreatitis autoinmune asociada a enfermedad por IgG4."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 3 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El adenocarcinoma ductal es el tipo de cáncer de páncreas más común. La lesión sólida y mal delimitada en la cabeza del páncreas, con dilatación de la vía biliar, sugiere un proceso neoformativo maligno. La positividad para citoqueratina 7 y la negatividad para sinaptofisina, tripsina, CK20 y CDX2 son características inmunohistoquímicas consistentes con un adenocarcinoma ductal. Además, la edad de la paciente y los síntomas descritos también apoyan esta diagnosis. \n\n- **🔴 Opción B (Incorrecta):** El cistadenoma seroso es un tipo de tumor benigno que se encuentra en la región del ovario, no en el páncreas. No hay indicaciones en el enunciado que sugieran la presencia de un cistadenoma seroso en el páncreas. \n\n- **🔴 Opción C (Incorrecta):** La neoplasia mucinosa quística es un tipo de tumor que se caracteriza por la producción de mucina y la formación de cistos. No hay características en el enunciado que sugieran la presencia de esta tipo de tumor en el páncreas. Además, la edad de la paciente y los síntomas descritos no se alinean con esta diagnosis. \n\n- **🔴 Opción D (Incorrecta):** La pancreatitis autoinmune asociada a enfermedad por IgG4 es una condición en la que se produce una inflamación autoinmune del páncreas. No hay indicaciones en el enunciado que sugieran la presencia de esta condición en la paciente. Además, la lesión sólida y mal delimitada en la cabeza del páncreas sugiere un proceso neoformativo maligno, no una pancreatitis autoinmune. \n\nLa perla MIR para recordar este concepto es: 'La citoqueratina 7 es positiva en el adenocarcinoma ductal del páncreas'."
   },
   {
     "id": "q-4",
     "localNumber": 4,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 4. Se realizó una biopsia hepática en una paciente de 37 años con obesidad y alteración de las transaminasas (figura 2014) que demostró una intensa esteatosis que afectaba al 70% de los hepatocitos. A los 7 años, tras ser diagnosticada de esclerosis múltiple y ganar peso, se repitió la biopsia (figura 2021). ¿Cuál de las siguientes afirmaciones describe mejor la evolución?:",
+    "stem": "Se realizó una biopsia hepática en una paciente de 37 años con obesidad y alteración de las transaminasas (figura 2014) que demostró una intensa esteatosis que afectaba al 70% de los hepatocitos. A los 7 años, tras ser diagnosticada de esclerosis múltiple y ganar peso, se repitió la biopsia (figura 2021). ¿Cuál de las siguientes afirmaciones describe mejor la evolución?",
     "options": [
       "La esteatosis es menos intensa en la segunda biopsia, lo que es signo de buen pronóstico.",
-      "En la segunda biopsia no hay datos de infla- mación ni degeneración balonizante, lo que es signo de buen pronóstico.",
+      "En la segunda biopsia no hay datos de inflamación ni degeneración balonizante, lo que es signo de buen pronóstico.",
       "La segunda biopsia muestra una situación estable.",
       "La presencia de fibrosis en puentes demuestra la progresión de la enfermedad."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 4 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La presencia de fibrosis en puentes es un signo de progresión de la enfermedad, ya que indica que la esteatosis no ha resuelto y que puede haber una respuesta inflamatoria y fibrogénica a la lesión. Esto se debe a que la fibrosis en puentes es un patrón de fibrosis que se asocia con una mayor gravedad de la enfermedad y una mayor probabilidad de progresión a cirrosis. Por lo tanto, la opción D es la correcta, ya que describe una situación de progresión de la enfermedad. \n\n- **🔴 Opción A (Incorrecta):** La esteatosis es menos intensa en la segunda biopsia, pero esto no necesariamente es un signo de buen pronóstico. La esteatosis puede ser una condición reversible, pero también puede ser un signo de una enfermedad subyacente más grave. Sin embargo, en este caso, la paciente ha ganado peso y ha sido diagnosticada de esclerosis múltiple, lo que puede estar relacionado con la progresión de la enfermedad. \n\n- **🔴 Opción B (Incorrecta):** La falta de datos de inflamación y degeneración balonizante en la segunda biopsia no necesariamente es un signo de buen pronóstico. La inflamación y la degeneración balonizante pueden ser signos de una enfermedad activa, pero también pueden ser signos de una enfermedad crónica. En este caso, la paciente ha sido diagnosticada de esclerosis múltiple, lo que puede estar relacionado con la progresión de la enfermedad. \n\n- **🔴 Opción C (Incorrecta):** La segunda biopsia muestra una situación estable, pero esto no necesariamente es cierto. La presencia de fibrosis en puentes es un signo de progresión de la enfermedad, y la paciente ha sido diagnosticada de esclerosis múltiple, lo que puede estar relacionado con la progresión de la enfermedad. Por lo tanto, la opción C no es la correcta."
   },
   {
     "id": "q-5",
     "localNumber": 5,
     "category": "Traumatología",
-    "stem": "Pregunta asociada a la imagen 5. Mujer de 90 años de ed ad que presenta desde hace un mes y medio la lesión de la imagen. La lesión ha crecido rápidamente, sangra con faci- lidad y le ocasiona ligero dolor. De entre las siguientes opciones ¿cuál es la más probable?:",
+    "stem": "Mujer de 90 años de edad que presenta desde hace un mes y medio la lesión de la imagen. La lesión ha crecido rápidamente, sangra con facilidad y le ocasiona ligero dolor.",
     "options": [
       "Carcinoma de células escamosas cutáneo invasivo.",
       "Carcinoma basocelular esclerodermiforme.",
       "Sarcoma de Kaposi.",
-      "Lupus vulgar. - 2 -"
+      "Lupus vulgar."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 5 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El carcinoma de células escamosas cutáneo invasivo es una forma agresiva de cáncer de piel que crece rápidamente y sangra con facilidad. En personas mayores, como la paciente de 90 años, esta condición es más común y puede presentarse con lesiones ulceradas y sangrantes. La descripción proporcionada en el enunciado original se ajusta a esta condición.\n\n- **🔴 Opción B (Incorrecta):** El carcinoma basocelular esclerodermiforme es una forma benigna de cáncer de piel que crece lentamente y no sangra con facilidad. No se ajusta a la descripción proporcionada en el enunciado original.\n\n- **🔴 Opción C (Incorrecta):** El sarcoma de Kaposi es una forma de cáncer que afecta los vasos sanguíneos y puede presentarse en personas inmunocomprometidas. No se ajusta a la descripción proporcionada en el enunciado original, ya que la paciente no tiene una condición conocida de inmunosupresión.\n\n- **🔴 Opción D (Incorrecta):** El lupus vulgar es una forma de lupus eritematoso que afecta la piel y puede presentarse con lesiones ulceradas y sangrantes. Sin embargo, no es una condición cancerosa y no se ajusta a la descripción proporcionada en el enunciado original.\n\n- **Perla MIR:** La clave para diagnosticar correctamente esta condición es reconocer la rápida proliferación y la sangría de la lesión. El carcinoma de células escamosas cutáneo invasivo es una condición agresiva que debe ser considerada en personas mayores con lesiones ulceradas y sangrantes."
   },
   {
     "id": "q-6",
