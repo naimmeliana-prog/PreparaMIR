@@ -423,21 +423,21 @@
     "id": "q-31",
     "localNumber": 31,
     "category": "General",
-    "stem": "En relación con la re gulación del intercambio de líquido y del equilibrio osmótico entre los líqui- dos intracelular y extracelular en una situación fisiológica, señale la afirmación INCORRECTA:",
+    "stem": "En relación con la regulación del intercambio de líquido y del equilibrio osmótico entre los líquidos intracelular y extracelular en una situación fisiológica, señale la afirmación INCORRECTA",
     "options": [
-      "La distribución del líquido entre los comparti- mentos intracelular y extracelular está deter- minada sobre todo por el efecto osmótico de los iones más pequeños.",
+      "La distribución del líquido entre los compartimentos intracelular y extracelular está determinada sobre todo por el efecto osmótico de los iones más pequeños.",
       "Alrededor del 80 % de la osmolaridad total del líquido intersticial y del plasma se debe a los iones sodio y cloro.",
       "Alrededor del 50 % de la osmolaridad en el líquido intracelular se debe a los iones calcio.",
-      "Cambios relativamente pequeños en la concen- tración de solutos no difusibles en el líquido extracelular pueden causar grandes cambios en el volumen celular."
+      "Cambios relativamente pequeños en la concentración de solutos no difusibles en el líquido extracelular pueden causar grandes cambios en el volumen celular."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 31 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta requiere identificar la afirmación incorrecta sobre la regulación del intercambio de líquido y del equilibrio osmótico entre los líquidos intracelular y extracelular en una situación fisiológica. Para responder esta pregunta, debemos analizar cada una de las opciones a continuación:\n\n**🟢 Opción C (Correcta):** Los cambios relativamente pequeños en la concentración de solutos no difusibles en el líquido extracelular pueden causar grandes cambios en el volumen celular. Esto se debe a que los solutos no difusibles, como las proteínas y los productos de desecho, no se distribuyen uniformemente entre los líquidos intracelular y extracelular. Cuando hay cambios en la concentración de estos solutos, puede ocurrir un desplazamiento de líquido entre los compartimentos, lo que puede causar cambios significativos en el volumen celular.\n\n**🔴 Opción A (Incorrecta):** La distribución del líquido entre los compartimentos intracelular y extracelular está determinada sobre todo por el efecto osmótico de los iones más pequeños. Si bien los iones más pequeños, como el sodio y el cloro, juegan un papel importante en la regulación del intercambio de líquido, no son los únicos factores que determinan la distribución del líquido. Otros factores, como la presión osmótica y la concentración de solutos no difusibles, también son importantes.\n\n**🔴 Opción B (Incorrecta):** Alrededor del 80 % de la osmolaridad total del líquido intersticial y del plasma se debe a los iones sodio y cloro. Aunque los iones sodio y cloro son importantes para la regulación del intercambio de líquido, no son los únicos iones que contribuyen a la osmolaridad del líquido intersticial y del plasma. Otros iones, como el potasio y el calcio, también juegan un papel importante.\n\n**🔴 Opción D (Incorrecta):** Alrededor del 50 % de la osmolaridad en el líquido intracelular se debe a los iones calcio. La osmolaridad del líquido intracelular se debe principalmente a la concentración de iones y moléculas orgánicas, pero el calcio no es el principal contribuyente. La osmolaridad del líquido intracelular se debe principalmente a la concentración de iones como el potasio y el sodio, así como a la concentración de moléculas orgánicas como las proteínas y los productos de desecho.\n\nLa perla MIR para recordar este concepto es: Los cambios en la concentración de solutos no difusibles pueden causar grandes cambios en el volumen celular, lo que es fundamental para entender la regulación del intercambio de líquido y el equilibrio osmótico entre los líquidos intracelular y extracelular en una situación fisiológica."
   },
   {
     "id": "q-32",
     "localNumber": 32,
     "category": "Nefrología",
-    "stem": "Señala la respuesta correcta respecto a la reab- sorción renal de sodio:",
+    "stem": "Señala la respuesta correcta respecto a la reabsorción renal de sodio.",
     "options": [
       "En el asa ascendente de Henle se reabsorbe sodio, sin reabsorber agua.",
       "En el túbulo colector se reabsorbe un 20 % del sodio.",
@@ -445,49 +445,49 @@
       "La reabsorción de sodio en el túbulo proximal está mediada por la aldosterona."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 32 del examen MIR de la convocatoria FSE."
+    "explanation": "La reabsorción renal de sodio es un proceso complejo que involucra a diferentes segmentos del nephron. A continuación, se presentan las explicaciones de cada opción:\n\n**🟢 Opción A (Correcta):** La reabsorción de sodio en el asa ascendente de Henle es un proceso importante para la reabsorción de sodio y agua en la orina. Sin embargo, en este segmento, la reabsorción de sodio se produce en conjunto con la reabsorción de agua, no solo sodio. La reabsorción de sodio en el asa ascendente de Henle se realiza mediante la acción de la Na-K-2Cl cotransportadora.\n\n**🔴 Opción B (Incorrecta):** La reabsorción de sodio en el túbulo colector es insignificante en comparación con otros segmentos del nephron. El túbulo colector es principalmente responsable de la reabsorción de cloruro y agua, no de sodio.\n\n**🔴 Opción C (Incorrecta):** La mayor reabsorción de sodio se produce en el túbulo proximal, no en el túbulo distal. El túbulo proximal es responsable de la reabsorción de aproximadamente el 65-70% del sodio filtrado en la orina.\n\n**🔴 Opción D (Incorrecta):** La reabsorción de sodio en el túbulo proximal no está mediada por la aldosterona. La aldosterona es un hormona que regula la reabsorción de sodio en el túbulo distal y la secreción de potasio en la orina, no en el túbulo proximal.\n\nLa perla MIR: La reabsorción renal de sodio es un proceso complejo que involucra a diferentes segmentos del nephron, con la mayor reabsorción de sodio en el túbulo proximal."
   },
   {
     "id": "q-33",
     "localNumber": 33,
     "category": "General",
-    "stem": "¿Cómo se denomina el inicio pro gresivamente más precoz y el incremento de la gravedad de las manifestaciones clínicas de una enfermedad a lo largo de las sucesivas generaciones?:",
+    "stem": "¿Cómo se denomina el inicio progresivamente más precoz y el incremento de la gravedad de las manifestaciones clínicas de una enfermedad a lo largo de las sucesivas generaciones?",
     "options": [
-      "Penetrancia variable.",
-      "Anticipación genética.",
-      "Anticipación alélica.",
-      "Penetrancia completa."
+      "Penetrancia variable",
+      "Anticipación genética",
+      "Anticipación alélica",
+      "Penetrancia completa"
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 33 del examen MIR de la convocatoria FSE."
+    "explanation": "\n   - **🟢 Opción B (Correcta):** La anticipación genética se refiere a la observación de que, en ciertas enfermedades genéticas, especialmente aquellas causadas por expansión de repeticiones de nucleótidos, las generaciones sucesivas pueden experimentar un inicio más temprano y una mayor gravedad de los síntomas. Este fenómeno se debe a la expansión progresiva de las repeticiones de nucleótidos en el gen responsable de la enfermedad, lo que lleva a una expresión más severa y temprana de la enfermedad en las generaciones posteriores.\n   - **🔴 Opción A (Incorrecta):** La penetrancia variable se refiere a la variabilidad en la expresión de un gen en individuos que poseen la misma mutación genética. Mientras que la penetrancia variable puede influir en la severidad y la presencia de síntomas en diferentes individuos, no explica el patrón de inicio más precoz y mayor gravedad en generaciones sucesivas.\n   - **🔴 Opción C (Incorrecta):** La anticipación alélica no es un término comúnmente utilizado en la genética médica para describir el fenómeno de inicio más precoz y mayor gravedad en generaciones sucesivas. Aunque los alelos pueden influir en la expresión de una enfermedad, este término no se relaciona directamente con el concepto descrito en la pregunta.\n   - **🔴 Opción D (Incorrecta):** La penetrancia completa se refiere a una situación en la que todos los individuos que poseen una determinada mutación genética expresan la enfermedad asociada. La penetrancia completa no explica el patrón de inicio más precoz y mayor gravedad en generaciones sucesivas. \n   La perla MIR a recordar es que la anticipación genética es un fenómeno característico de enfermedades causadas por expansión de repeticiones de nucleótidos, donde cada generación sucesiva puede experimentar un inicio más temprano y una mayor gravedad de los síntomas."
   },
   {
     "id": "q-34",
     "localNumber": 34,
     "category": "General",
-    "stem": "En relación con el papel de la inmuno globulina A (IgA) en la defensa frente a pató genos, señale la respuesta INCORRECTA:",
+    "stem": "En relación con el papel de la inmunoglobulina A (IgA) en la defensa frente a patógenos, señale la respuesta INCORRECTA:",
     "options": [
-      "La IgA activa la vía clásica del complemento contribuyendo a la eliminación de bacterias ex- tracelulares.",
-      "La IgA pasa de la madre al recién nacido du- rante la lactancia contribuyendo a la protección de las mucosas del neonato.",
-      "La IgA puede atravesar la barrera epitelial de las mucosas uniéndose al receptor poli-Ig (pIgR) siendo la inmunoglobulina más abun- dante en las mucosas.",
-      "El déficit selectivo de IgA es la inmunodefi- ciencia más frecuente (aproximadamente 1:400) y la mayoría de los casos son asintomá- ticos."
+      "La IgA activa la vía clásica del complemento contribuyendo a la eliminación de bacterias extracelulares.",
+      "La IgA pasa de la madre al recién nacido durante la lactancia contribuyendo a la protección de las mucosas del neonato.",
+      "La IgA puede atravesar la barrera epitelial de las mucosas uniéndose al receptor poli-Ig (pIgR) siendo la inmunoglobulina más abundante en las mucosas.",
+      "El déficit selectivo de IgA es la inmunodeficiencia más frecuente (aproximadamente 1:400) y la mayoría de los casos son asintomáticos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 34 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La IgA puede activar la vía clásica del complemento, pero no es su función principal. La IgA se especializa en la neutralización de patógenos en las mucosas, y su papel en la activación de la vía clásica del complemento es secundario en comparación con la IgM. Sin embargo, la IgA puede contribuir a la eliminación de bacterias extracelulares a través de la activación de la vía clásica del complemento, aunque esto no es su función principal en la defensa frente a patógenos en las mucosas.\n\n- **🔴 Opción B (Incorrecta):** La IgA no pasa de la madre al recién nacido durante la lactancia. La protección de las mucosas del neonato se logra a través de la transferencia de anticuerpos maternos a través de la placenta, y no a través de la lactancia. La IgA se produce en el recién nacido después de la nacimiento y se especializa en la protección de las mucosas.\n\n- **🔴 Opción C (Incorrecta):** La IgA puede atravesar la barrera epitelial de las mucosas uniéndose al receptor poli-Ig (pIgR), pero no es la inmunoglobulina más abundante en las mucosas. La IgA es la inmunoglobulina más abundante en las secreciones de las mucosas, pero no en la propia barrera epitelial.\n\n- **🔴 Opción D (Incorrecta):** El déficit selectivo de IgA no es la inmunodeficiencia más frecuente. El déficit selectivo de IgA es una inmunodeficiencia relativamente rara que se caracteriza por la ausencia de IgA en las secreciones de las mucosas. La inmunodeficiencia más frecuente es la inmunodeficiencia combinada primaria (ICP), que se caracteriza por la ausencia de IgA y de otras inmunoglobulinas.\n\nLa perla MIR: La IgA es una inmunoglobulina importante en la defensa frente a patógenos en las mucosas, y su papel se centra en la neutralización de patógenos y la protección de las mucosas. Es importante recordar que la IgA no es la inmunoglobulina más abundante en las mucosas, sino en las secreciones de las mucosas, y que el déficit selectivo de IgA no es la inmunodeficiencia más frecuente."
   },
   {
     "id": "q-35",
     "localNumber": 35,
     "category": "General",
-    "stem": "Entre las nuevas medidas de protección contra el COVID-19 se inclu ye el uso de terapias basadas en anticuerpos monoclonales frente la proteína S (spike) del SARS-CoV-2 (tixagevimab y cilgavi- mab). Este tratamiento:",
+    "stem": "Entre las nuevas medidas de protección contra el COVID-19 se incluyó el uso de terapias basadas en anticuerpos monoclonales frente a la proteína S (spike) del SARS-CoV-2 (tixagevimab y cilgavi-mab). Este tratamiento:",
     "options": [
-      "Es una forma de inmunización activa cuyo resultado depende de la activación de linfoci- tos memoria.",
+      "Es una forma de inmunización activa cuyo resultado depende de la activación de linfocitos- memoria.",
       "Está indicado en pacientes inmunodeprimidos, como los pacientes con trasplante de órganos.",
       "Confiere protección durante un período de tiempo aproximado de dos años.",
       "Induce memoria inmunológica basada en la activación de linfocitos B."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 35 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque la inmunización activa implica la administración de vacunas o inmunoglobulinas para estimular la respuesta inmunológica. Los anticuerpos monoclonales no funcionan como una inmunización activa, sino que se utilizan como terapia pasiva para neutralizar el virus. La activación de linfocitos memoria es un proceso natural de la inmunidad que no se logra mediante la administración de anticuerpos monoclonales.\n- **🟢 Opción B (Correcta):** Esta opción es correcta porque los anticuerpos monoclonales, como tixagevimab y cilgavi-mab, se utilizan como terapia pasiva para neutralizar la proteína S del SARS-CoV-2. Estos anticuerpos se administran a pacientes que no pueden producir una respuesta inmunológica adecuada, como los pacientes inmunodeprimidos o con trasplante de órganos.\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque la duración de la protección conferida por los anticuerpos monoclonales no se conoce con precisión. Algunos estudios sugieren que la protección puede durar varios meses, pero no es seguro que dure dos años.\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque los anticuerpos monoclonales no inducen memoria inmunológica basada en la activación de linfocitos B. La memoria inmunológica se logra a través de la respuesta inmunológica natural del cuerpo, no mediante la administración de anticuerpos monoclonales."
   },
   {
     "id": "q-36",
