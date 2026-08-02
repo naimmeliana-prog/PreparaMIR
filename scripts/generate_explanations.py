@@ -12,6 +12,7 @@ openrouter_key = None
 gemini_key = None
 groq_key = None
 nvidia_key = None
+cohere_key = None
 
 if os.path.exists(env_path):
     with open(env_path, "r", encoding="utf-8") as f:
@@ -24,6 +25,8 @@ if os.path.exists(env_path):
                 groq_key = line.split("=", 1)[1].strip()
             elif line.startswith("NVIDIA_API_KEY="):
                 nvidia_key = line.split("=", 1)[1].strip()
+            elif line.startswith("COHERE_API_KEY="):
+                cohere_key = line.split("=", 1)[1].strip()
 
 # En GitHub Actions, si no se encuentran en .env.local, leer del entorno del sistema
 if not openrouter_key:
@@ -34,6 +37,39 @@ if not groq_key:
     groq_key = os.environ.get("GROQ_API_KEY")
 if not nvidia_key:
     nvidia_key = os.environ.get("NVIDIA_API_KEY")
+if not cohere_key:
+    cohere_key = os.environ.get("COHERE_API_KEY")
+
+
+def call_cohere(prompt: str) -> str:
+    if not cohere_key:
+        return None
+    url = "https://api.cohere.com/v2/chat"
+    headers = {
+        "Authorization": f"Bearer {cohere_key}",
+        "Content-Type": "application/json",
+        "accept": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    data = {
+        "model": "command-r-plus",
+        "messages": [{"role": "user", "content": prompt}]
+    }
+    
+    req = urllib.request.Request(url, data=json.dumps(data).encode("utf-8"), headers=headers)
+    try:
+        with urllib.request.urlopen(req) as response:
+            res_data = json.loads(response.read().decode("utf-8"))
+            return res_data["message"]["content"][0]["text"]
+    except Exception as e:
+        err_msg = ""
+        if hasattr(e, 'read'):
+            try:
+                err_msg = e.read().decode("utf-8")
+            except:
+                pass
+        print(f"    ⚠️ Cohere falló: {e} | Detalle: {err_msg[:200]}")
+    return None
 
 
 def call_nvidia(prompt: str) -> str:
@@ -199,7 +235,15 @@ def call_any_api(prompt: str) -> str:
             time.sleep(5)
             return res
             
-    # 3. Fallback a Gemini
+    # 3. Fallback a Cohere API (Excelente modelo Command R Plus con 1000 req/mes gratis)
+    if cohere_key:
+        print("    -> Fallback: Intentando con Cohere API...")
+        res = call_cohere(prompt)
+        if res:
+            time.sleep(6)
+            return res
+            
+    # 4. Fallback a Gemini
     if gemini_key:
         print("    -> Fallback: Intentando con Gemini...")
         res = call_gemini(prompt)
@@ -207,7 +251,7 @@ def call_any_api(prompt: str) -> str:
             time.sleep(4)
             return res
             
-    # 4. Fallback a OpenRouter
+    # 5. Fallback a OpenRouter
     if openrouter_key:
         print("    -> Fallback: Intentando con OpenRouter...")
         res = call_openrouter(prompt)
