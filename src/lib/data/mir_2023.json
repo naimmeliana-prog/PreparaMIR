@@ -507,49 +507,49 @@
     "id": "q-37",
     "localNumber": 37,
     "category": "Pediatría",
-    "stem": "La vacunación utilizando ARN mensa jero de la proteína S (Spike) del SARS-CoV-2 va dirigida a la protección de la poblaci ón frente a la COVID-19. En relación c on la re spuesta a esta vacuna señale la afirmación INCORRECTA:",
+    "stem": "La vacunación utilizando ARN mensajero de la proteína S (Spike) del SARS-CoV-2 va dirigida a la protección de la población frente a la COVID-19. En relación con la respuesta a esta vacuna señale la afirmación INCORRECTA.",
     "options": [
-      "La r espuesta n o requiere l a c olaboración de l os linfocitos T, al ser un antígeno timo - independiente.",
-      "Un ele vado porce ntaje de pacientes inmunodeprimidos, como aquellos con trasplante de ór ganos o con inmunodeficiencia, tienen u n defecto en la respuesta a esta vacuna.",
-      "Es una forma de inmuniz ación activa cuyo resultado se aso cia al camb io d e iso tipo de lo s anticuerpos.",
-      "Induce memoria inmuno lógica b asada en la activación de linfocitos B."
+      "La respuesta no requiere la colaboración de los linfocitos T, al ser un antígeno timo-independiente.",
+      "Un elevado porcentaje de pacientes inmunodeprimidos, como aquellos con trasplante de órganos o con inmunodeficiencia, tienen un defecto en la respuesta a esta vacuna.",
+      "Es una forma de inmunización activa cuyo resultado se asocia al cambio de isotype de los anticuerpos.",
+      "Induce memoria inmune basada en la activación de linfocitos B."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 37 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La respuesta a las vacunas basadas en ARN mensajero es independiente de los linfocitos T, ya que los ARN mensajeros se traducen directamente en proteínas que se presentan a los linfocitos B para estimular una respuesta inmune. Esto se debe a que los ARN mensajeros se sintetizan en las células presentadoras de antígeno (APCs) y se unen a los receptores de la proteína de unión al ARN (RNP) en los linfocitos B, lo que permite una presentación directa del antígeno a los linfocitos B sin necesidad de la participación de los linfocitos T.\n\n- **🔴 Opción B (Incorrecta):** La respuesta a las vacunas basadas en ARN mensajero no se ve afectada significativamente por la inmunodeficiencia o la inmunosupresión, ya que la presentación del antígeno es independiente de los linfocitos T. Sin embargo, en pacientes con inmunodeficiencia, la respuesta inmune puede ser reducida o anormal, pero esto no se debe a la vacuna en sí, sino a la condición subyacente de inmunodeficiencia.\n\n- **🔴 Opción C (Incorrecta):** La respuesta a las vacunas basadas en ARN mensajero no implica un cambio de isotype de los anticuerpos. La isotipia de los anticuerpos se refiere a la clase de inmunoglobulina que produce una célula B en respuesta a un antígeno, y no está directamente relacionada con la naturaleza de la vacuna. Las vacunas basadas en ARN mensajero pueden estimular la producción de anticuerpos IgG y otros tipos de anticuerpos, pero no implican un cambio de isotype.\n\n- **🔴 Opción D (Incorrecta):** La respuesta a las vacunas basadas en ARN mensajero no se basa únicamente en la activación de linfocitos B. Si bien los linfocitos B juegan un papel importante en la respuesta inmune a las vacunas basadas en ARN mensajero, también participan otros componentes del sistema inmune, como los linfocitos T y las células dendríticas, en la presentación y reconocimiento del antígeno. La respuesta inmune a las vacunas basadas en ARN mensajero es un proceso complejo que involucra la participación de múltiples células y mecanismos inmunes.\n\nLa perla MIR es que las vacunas basadas en ARN mensajero son una herramienta valiosa para la prevención de enfermedades, y su comprensión es fundamental para su desarrollo y uso efectivo en la práctica clínica."
   },
   {
     "id": "q-38",
     "localNumber": 38,
     "category": "General",
-    "stem": "En relación con las enfer medades as ociadas al mecanismo de hipersensibi lidad tipo II , señale l a respuesta INCORRECTA:",
+    "stem": "En relación con las enfermedades asociadas al mecanismo de hipersensibilidad tipo II, señale la respuesta INCORRECTA:",
     "options": [
-      "La presencia de anticue rpos frente al receptor de las hormo nas tiroideas T3 y T4 se asocia a la enfermedad de Graves.",
-      "La prese ncia de autoanticuerpos anti- desmogleína se asocia al pénfigo vulgar.",
+      "La presencia de anticuerpos frente al receptor de las hormonas tiroideas T3 y T4 se asocia a la enfermedad de Graves.",
+      "La presencia de autoanticuerpos anti-desmogleína se asocia al pérfido vulgar.",
       "La miastenia gravis se asocia a la presencia de anticuerpos frente al receptor de la acetilcolina.",
-      "El síndrome de G oodpasture se asoci a a l a presencia de a nticuerpos frente a l a membrana basal glomerular renal y pulmonar. (--MEDICINA-0--8/36) Pagina: 6 de 34"
+      "El síndrome de Goodpasture se asocia a la presencia de anticuerpos frente a la membrana basal glomerular renal y pulmonar."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 38 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La enfermedad de Graves es una enfermedad autoinmune que se caracteriza por la presencia de anticuerpos frente al receptor de las hormonas tiroideas T3 y T4, lo que lleva a una hiperfunción de la glándula tiroidea. Esta condición se asocia con hipersensibilidad tipo II debido a la presencia de estos anticuerpos que activan la destrucción de las células tiroideas. Por lo tanto, esta opción es la correcta. \n\n- **🔴 Opción B (Incorrecta):** El pérfido vulgar es una enfermedad autoinmune que se caracteriza por la presencia de autoanticuerpos frente a las desmogleínas, que son proteínas que se encuentran en la piel y en las glándulas salivales. Esta condición se asocia con hipersensibilidad tipo II debido a la presencia de estos autoanticuerpos que activan la destrucción de las células de la piel y las glándulas salivales. Sin embargo, la enfermedad de Graves no se asocia con autoanticuerpos anti-desmogleína, por lo que esta opción es incorrecta. \n\n- **🔴 Opción C (Incorrecta):** La miastenia gravis es una enfermedad autoinmune que se caracteriza por la presencia de anticuerpos frente al receptor de la acetilcolina, lo que lleva a una inhibición de la liberación de acetilcolina en el synapsis neuromuscular. Esta condición se asocia con hipersensibilidad tipo II debido a la presencia de estos anticuerpos que activan la destrucción de las células del synapsis neuromuscular. Sin embargo, la enfermedad de Graves no se asocia con anticuerpos frente al receptor de la acetilcolina, por lo que esta opción es incorrecta. \n\n- **🔴 Opción D (Incorrecta):** El síndrome de Goodpasture es una enfermedad autoinmune que se caracteriza por la presencia de anticuerpos frente a la membrana basal glomerular renal y pulmonar, lo que lleva a la destrucción de estas estructuras. Esta condición se asocia con hipersensibilidad tipo II debido a la presencia de estos anticuerpos que activan la destrucción de las células de la membrana basal glomerular renal y pulmonar. Sin embargo, la enfermedad de Graves no se asocia con anticuerpos frente a la membrana basal glomerular renal y pulmonar, por lo que esta opción es incorrecta. \n\nLa perla MIR: La hipersensibilidad tipo II se caracteriza por la presencia de anticuerpos frente a receptores de células, lo que lleva a la destrucción de estas células. La enfermedad de Graves es un ejemplo de hipersensibilidad tipo II debido a la presencia de anticuerpos frente al receptor de las hormonas tiroideas T3 y T4."
   },
   {
     "id": "q-39",
     "localNumber": 39,
     "category": "Neumología",
-    "stem": "En el asma bronquial son numer osas las cél ulas que par ticipan en la inflamación de la ví a aérea. En relación con las diferentes poblaci ones linfocitarias y las citocinas que liberan ¿cuál de las siguientes afirmaciones es correcta?:",
+    "stem": "En el asma bronquial son numerosas las células que participan en la inflamación de la vía aérea. En relación con las diferentes poblaciones linfocitarias y las citocinas que liberan ¿cuál de las siguientes afirmaciones es correcta?",
     "options": [
-      "Los lin focitos B so n los responsables de la coordinación de la respuesta inflamatoria.",
+      "Los linfocitos B son los responsables de la coordinación de la respuesta inflamatoria.",
       "En el asma bronquial hay un predominio de fenotipo linfocitario TH1.",
-      "Las citocinas IL4 e IL 13 son las fa vorecedoras de la síntesis de IgE.",
+      "Las citocinas IL4 e IL13 son las favorables de la síntesis de IgE.",
       "La población de linfocitos T reguladores (CD4+ y CD25+) está aumentada."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 39 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La respuesta correcta es la opción B, ya que en el asma bronquial se caracteriza por un predominio del fenotipo linfocitario TH2 sobre TH1. Los linfocitos T helper 2 (TH2) son responsables de la producción de citocinas que promueven la inflamación y la producción de IgE, que a su vez es clave en la patogénesis del asma bronquial. Por lo tanto, la opción B es la correcta ya que describe el perfil linfocitario predominante en el asma bronquial, que es TH2 sobre TH1.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta ya que los linfocitos B no son los responsables de la coordinación de la respuesta inflamatoria en el asma bronquial. Es más, la respuesta inflamatoria en el asma se caracteriza por un predominio de linfocitos T, particularmente los linfocitos T helper 2 (TH2). Los linfocitos B desempeñan un papel en la producción de anticuerpos, pero no en la coordinación de la respuesta inflamatoria en el asma.\n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta ya que las citocinas IL4 e IL13 no son las favorables de la síntesis de IgE. Aunque IL4 es una citocina producida por los linfocitos T helper 2 (TH2) que promueve la síntesis de IgE, IL13 es una citocina producida por los eosinófilos y los linfocitos T helper 2 (TH2) que también promueve la síntesis de IgE. Sin embargo, la afirmación de que IL4 e IL13 son las favorables de la síntesis de IgE es exagerada ya que otras citocinas también pueden promover la síntesis de IgE.\n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta ya que la población de linfocitos T reguladores (CD4+ y CD25+) no está aumentada en el asma bronquial. De hecho, se ha demostrado que la población de linfocitos T reguladores es disminuida en el asma bronquial, lo que sugiere que estos linfocitos desempeñan un papel en la supresión de la respuesta inflamatoria en el asma.\n\nLa perla MIR es que en el asma bronquial, el predominio del fenotipo linfocitario TH2 sobre TH1 es clave en la patogénesis de la enfermedad, y las citocinas producidas por estos linfocitos T helper 2 (TH2) promueven la inflamación y la producción de IgE."
   },
   {
     "id": "q-40",
     "localNumber": 40,
     "category": "General",
-    "stem": "En un paciente de 16 años de ed ad que prese nta desde h ace varios m eses, i mportante sequedad de la piel lesiones eccem atosas en zonas de flexión, fundamentalmente en las fos as cubital y poplítea, de c arácter muy pr uriginoso que in ducen al rascado, y que curs a con exacer baciones y remisiones, el diagnóstico clínico más probable es:",
+    "stem": "En un paciente de 16 años de edad que presenta desde hace varios meses, importante sequedad de la piel, lesiones eczematosas en zonas de flexión, fundamentalmente en las fosas cubital y poplítea, de carácter muy pruriginoso que inducen al rascado, y que cursa con exacerbaciones y remisiones, el diagnóstico clínico más probable es:",
     "options": [
       "Dermatitis alérgica de contacto.",
       "Dermatitis atópica.",
@@ -557,21 +557,21 @@
       "Dermatitis dishidrótica."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 40 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La dermatitis atópica es una afección crónica de la piel caracterizada por la presencia de lesiones eczematosas en zonas de flexión, especialmente en las fosas cubital y poplítea. En esta condición, la piel se vuelve seca y pruriginosa, lo que induce al rascado y puede llevar a exacerbaciones y remisiones. La edad de 16 años del paciente y la descripción clínica de la lesión apoyan el diagnóstico de dermatitis atópica.\n- **🔴 Opción B (Incorrecta):** La dermatitis alérgica de contacto se produce como respuesta a un contacto directo con un alérgeno específico, lo que no se describe en el caso del paciente. Además, las lesiones eczematosas en zonas de flexión no son características de esta condición.\n- **🔴 Opción C (Incorrecta):** La dermatitis seborreica se caracteriza por lesiones que afectan áreas específicas de la cabeza y el tronco, no zonas de flexión. Además, no se asocia con la sequedad de la piel y el rascado.\n- **🔴 Opción D (Incorrecta):** La dermatitis dishidrótica está asociada con la sequedad de la piel y puede presentarse en personas con diabetes mellitus, lo que no se describe en el caso del paciente.\n- La dermatitis atópica es una condición crónica que debe ser reconocida y manejada adecuadamente para prevenir sus complicaciones y mejorar la calidad de vida del paciente."
   },
   {
     "id": "q-41",
     "localNumber": 41,
     "category": "Infecciosas",
-    "stem": "Mujer de 63 años en tratamiento c on sulfamidas (trimetoprim-sulfametoxazol) vía or al por una infección de ví as urinarias bajas. Acude a urgencias por presentar le siones c utáneas y en mucosas (oral, conjuntival y genital). Las lesiones cutáneas tienen for ma de máculas irre gulares oscuras, con desprendimiento cutáneo y afectan a más del 30 % de la superficie corpo ral. Se interpreta como una posible reacción farmacológica grave. ¿Cuál d e lo s si guientes diagnósticos es más probable?:",
+    "stem": "Mujer de 63 años en tratamiento con sulfamidas (trimetoprim-sulfametoxazol) vía oral por una infección de vías urinarias bajas. Acude a urgencias por presentar lesiones cutáneas y en mucosas (oral, conjuntival y genital). Las lesiones cutáneas tienen forma de máculas irregulares oscuras, con desprendimiento cutáneo y afectan a más del 30% de la superficie corporal. Se interpreta como una posible reacción farmacológica grave. ¿Cuál de los siguientes diagnósticos es más probable?",
     "options": [
       "Eritema multiforme.",
       "Síndrome de Stevens-Johnson.",
       "Necrólisis epidérmica tóxica.",
-      "Síndrome de hipersensibilidad inducido p or fármacos."
+      "Síndrome de hipersensibilidad inducido por fármacos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 41 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El Síndrome de Stevens-Johnson es una reacción adversa grave a los medicamentos que afecta la piel y las mucosas. Los síntomas incluyen lesiones cutáneas con desprendimiento, afectando más del 30% de la superficie corporal, así como lesiones en las mucosas, como la boca, los ojos y la vagina. En este caso, la paciente presenta lesiones cutáneas y en mucosas con características similares a las del Síndrome de Stevens-Johnson, por lo que es la opción más probable. Además, la paciente está recibiendo tratamiento con sulfamidas, lo que es un medicamento comúnmente asociado con este tipo de reacciones adversas. Por lo tanto, la Opción A es la correcta clínicamente.\n\n- **🔴 Opción B (Incorrecta):** El Eritema multiforme es una reacción adversa a los medicamentos que causa lesiones cutáneas en forma de máculas irregulares, pero generalmente no afecta más del 10% de la superficie corporal. En este caso, las lesiones cutáneas de la paciente afectan más del 30% de la superficie corporal, lo que hace que la Opción B sea menos probable.\n\n- **🔴 Opción C (Incorrecta):** La Necrólisis epidérmica tóxica es una reacción adversa grave a los medicamentos que causa lesiones cutáneas y muerte de la piel. Sin embargo, en este caso, no hay indicación de que la piel de la paciente haya muerto completamente, por lo que la Opción C no es la más probable.\n\n- **🔴 Opción D (Incorrecta):** El Síndrome de hipersensibilidad inducido por fármacos es una reacción adversa a los medicamentos que causa síntomas como fiebre, escalofríos y dolor de cabeza, pero no afecta específicamente la piel y las mucosas de la manera descrita en este caso. Por lo tanto, la Opción D no es la opción más probable.\n\nLa perla MIR: Recuerda que el Síndrome de Stevens-Johnson es una reacción adversa grave a los medicamentos que afecta la piel y las mucosas, y es comúnmente asociado con la ingesta de sulfamidas. Si una paciente está recibiendo tratamiento con sulfamidas y presenta lesiones cutáneas y en mucosas, es probable que tenga Síndrome de Stevens-Johnson."
   },
   {
     "id": "q-42",
