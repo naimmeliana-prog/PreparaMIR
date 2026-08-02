@@ -1137,33 +1137,33 @@
     "category": "General",
     "stem": "Respecto a la embolia y la trombosis en las extremidades inferiores, indica la correcta:",
     "options": [
-      "La trombosis arterial se da frecuente- mente en pacientes con arritmia cardiaca.",
-      "Los pacientes con una embolia arterial re- fieren de forma habitual clínica de claudi- cación previa.",
-      "La embolia se trata habitualmente me- diante anticoagulación.",
-      "En la angiografía de un paciente con trom- bosis arterial se objetiva mayor desarrollo de circulación colateral."
+      "La trombosis arterial se da frecuentemente en pacientes con arritmia cardiaca.",
+      "Los pacientes con una embolia arterial refieren de forma habitual clínica de claudicación previa.",
+      "La embolia se trata habitualmente mediante anticoagulación.",
+      "En la angiografía de un paciente con trombosis arterial se objetiva mayor desarrollo de circulación colateral."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 82 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La opción D es correcta porque la angiografía es una técnica que permite visualizar las arterias y las venas, y en el caso de la trombosis arterial, se puede observar un mayor desarrollo de circulación colateral. Esto se debe a que el cuerpo intenta compensar la obstrucción del flujo sanguíneo mediante la creación de nuevas vasos sanguíneos que permitan mantener la irrigación de los tejidos afectados. Esto es una característica clave de la trombosis arterial, en contraste con la embolia arterial, que no suele producir un desarrollo significativo de circulación colateral.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque la trombosis arterial no se da frecuentemente en pacientes con arritmia cardiaca. La trombosis arterial es más común en pacientes con factores de riesgo como la diabetes, la hipertensión, la enfermedad vascular periférica, entre otros. La arritmia cardiaca no es un factor de riesgo directo para la trombosis arterial.\n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque los pacientes con una embolia arterial no refieren de forma habitual clínica de claudicación previa. La embolia arterial suele presentarse de manera súbita y sin antecedentes de claudicación previa. La claudicación es más común en pacientes con enfermedad vascular periférica, que es diferente a la embolia arterial.\n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque la embolia se trata habitualmente mediante trombólisis, no mediante anticoagulación. La trombólisis es una terapia que se utiliza para disolver el coágulo sanguíneo que bloquea el flujo sanguíneo, mientras que la anticoagulación se utiliza para prevenir la formación de coágulos sanguíneos.\n\nLa perla MIR: La circulación colateral es un concepto clave en la trombosis arterial, y es importante distinguirlo de la embolia arterial para proporcionar un diagnóstico y tratamiento adecuados."
   },
   {
     "id": "q-83",
     "localNumber": 83,
     "category": "General",
-    "stem": "En un paciente con estenosis de válvula aórtica, ¿Cuál te parece el tratamiento más adecuado?:",
+    "stem": "En un paciente con estenosis de válvula aórtica, ¿Cuál te parece el tratamiento más adecuado?",
     "options": [
-      "Recambio valvular en pacientes asinto- máticos sin disfunción ventricular.",
-      "Recambio valvular en pacientes sintomá- ticos.",
-      "Reparación valvular en pacientes sinto- máticos.",
+      "Recambio valvular en pacientes asintomáticos sin disfunción ventricular.",
+      "Recambio valvular en pacientes sintomáticos.",
+      "Reparación valvular en pacientes sintomáticos.",
       "Valvuloplastia en estenosis aórtica grave y pacientes con bajo riesgo de reemplazo valvular."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 83 del examen MIR de la convocatoria FSE."
+    "explanation": "La estenosis de válvula aórtica es una condición en la que la válvula aórtica se estrecha, lo que puede causar problemas de flujo sanguíneo hacia el cuerpo. A continuación, se analiza cada una de las opciones para determinar cuál es la más adecuada:\n\n- **🟢 Opción B (Correcta):** El recambio valvular en pacientes sintomáticos es el tratamiento más adecuado. Esto se debe a que los pacientes sintomáticos presentan síntomas como dificultad para caminar, fatiga, etc., lo que indica que la estenosis está afectando significativamente la función cardíaca. El recambio valvular es una intervención quirúrgica que reemplaza la válvula aórtica dañada con una nueva válvula, lo que puede mejorar la función cardíaca y aliviar los síntomas.\n\n- **🔴 Opción A (Incorrecta):** El recambio valvular en pacientes asintomáticos sin disfunción ventricular no es el tratamiento más adecuado. Aunque los pacientes asintomáticos no presenten síntomas, la estenosis de válvula aórtica puede seguir progresando y causar problemas en el futuro. Además, si la disfunción ventricular está presente, el recambio valvular puede no ser suficiente para mejorar la función cardíaca.\n\n- **🔴 Opción C (Incorrecta):** La reparación valvular en pacientes sintomáticos no es el tratamiento más adecuado. La reparación valvular es una intervención quirúrgica que intenta restaurar la función de la válvula aórtica dañada, pero no es efectiva en pacientes sintomáticos, ya que la estenosis es demasiado avanzada.\n\n- **🔴 Opción D (Incorrecta):** La valvuloplastia en estenosis aórtica grave y pacientes con bajo riesgo de reemplazo valvular no es el tratamiento más adecuado. La valvuloplastia es una intervención quirúrgica que intenta restaurar la función de la válvula aórtica dañada, pero no es efectiva en pacientes con estenosis aórtica grave, ya que la válvula está demasiado dañada. Además, si el paciente tiene un bajo riesgo de reemplazo valvular, es probable que la estenosis progrese y cause problemas en el futuro.\n\n**Perla MIR:** En la estenosis de válvula aórtica, el tratamiento más adecuado es el recambio valvular en pacientes sintomáticos, ya que puede mejorar la función cardíaca y aliviar los síntomas."
   },
   {
     "id": "q-84",
     "localNumber": 84,
     "category": "General",
-    "stem": "El síndrome de Stauffer es un síndrome pa- raneoplásico característico de (elija la co- rrecta):",
+    "stem": "El síndrome de Stauffer es un síndrome paraneoplásico característico de",
     "options": [
       "Cáncer de riñón.",
       "Cáncer de próstata.",
@@ -1171,35 +1171,35 @@
       "Cáncer vesical."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 84 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El síndrome de Stauffer es un síndrome paraneoplásico que se asocia con el cáncer de riñón. Se caracteriza por una serie de síntomas, incluyendo fiebre, dolor articular, dolor musculoesquelético, erupción cutánea y otros síntomas sistémicos, que pueden aparecer en pacientes con cáncer de riñón. La causa exacta del síndrome de Stauffer es desconocida, pero se cree que está relacionada con la liberación de sustancias tóxicas por las células cancerosas del riñón. Por lo tanto, la Opción A es la correcta porque el síndrome de Stauffer se asocia principalmente con el cáncer de riñón.\n\n- **🔴 Opción B (Incorrecta):** El cáncer de próstata no está asociado con el síndrome de Stauffer. El síndrome de Stauffer es un síndrome paraneoplásico que se asocia con el cáncer de riñón, no con el cáncer de próstata. Por lo tanto, la Opción B no es la correcta.\n\n- **🔴 Opción C (Incorrecta):** El cáncer de testículo tampoco está asociado con el síndrome de Stauffer. El síndrome de Stauffer es un síndrome paraneoplásico que se asocia con el cáncer de riñón, no con el cáncer de testículo. Por lo tanto, la Opción C no es la correcta.\n\n- **🔴 Opción D (Incorrecta):** El cáncer vesical tampoco está asociado con el síndrome de Stauffer. El síndrome de Stauffer es un síndrome paraneoplásico que se asocia con el cáncer de riñón, no con el cáncer de vesícula. Por lo tanto, la Opción D no es la correcta.\n\nLa perla MIR es: El síndrome de Stauffer es un síndrome paraneoplásico que se asocia con el cáncer de riñón. Recuerda que el síndrome de Stauffer es un síndrome que puede aparecer en pacientes con cáncer de riñón y que se caracteriza por una serie de síntomas sistémicos."
   },
   {
     "id": "q-85",
     "localNumber": 85,
     "category": "Urología",
-    "stem": "Varón de 57 años, sin comorbilidades aso- ciadas. Presenta PSA 15 ng/ml y tacto rectal pétreo. La biopsia prostática revela adeno- carcinoma de próstata Gleason 9 y el estu- dio de extensión muestra afectación ósea con más de 8 metástasis a nivel de esque- leto axial y metástasis hepáticas. Indique el tratamiento de elección:",
+    "stem": "Varón de 57 años, sin comorbilidades asociadas. Presenta PSA 15 ng/ml y tacto rectal pétreo. La biopsia prostática revela adenocarcinoma de próstata Gleason 9 y el estudio de extensión muestra afectación ósea con más de 8 metástasis a nivel de esqueleto axial y metástasis hepáticas. Indique el tratamiento de elección:",
     "options": [
-      "Prostatectomía radical con linfadenecto- mía extendida y resección de las metásta- sis.",
-      "Radioterapia pélvica y radioterapia este- reoatáxica de las metástasis.",
+      "Prostatectomía radical con linfadenectomía extendida y resección de las metástasis.",
+      "Radioterapia pélvica y radioterapia esteriotáxica de las metástasis.",
       "Braquiterapia de alta tasa prostática.",
-      "Antiandrógenos inicialmente junto a análogos de LHRH y enzalutamida (nue- vos antiandrógenos) y docetaxel."
+      "Antiandrógenos inicialmente junto a análogos de LHRH y enzalutamida (nuevos antiandrógenos) y docetaxel."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 85 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** En este caso, el paciente presenta un adenocarcinoma de próstata con Gleason 9 y metástasis óseas y hepáticas, lo que indica una enfermedad avanzada. La opción D es la correcta porque combina la terapia hormonal con inhibidores de la hormona liberadora de gonadotropina (LHRH) y enzalutamida, que es un nuevo tipo de antiandrógeno, junto con docetaxel, un quimioterápico que se ha demostrado eficaz en la enfermedad de próstata avanzada. Esta combinación es la de elección para el tratamiento de la enfermedad de próstata con metástasis.\n\n- **🔴 Opción A (Incorrecta):** La prostatectomía radical con linfadenectomía extendida y resección de las metástasis no es una opción viable en este caso, ya que la enfermedad ya ha metastatizado y no está localizada solo en la próstata.\n\n- **🔴 Opción B (Incorrecta):** La radioterapia pélvica y esteriotáxica de las metástasis tampoco es una opción adecuada, ya que la enfermedad ya ha involucrado huesos y hígado, y la radioterapia no es efectiva para controlar la enfermedad en estos sitios.\n\n- **🔴 Opción C (Incorrecta):** La braquiterapia de alta tasa prostática es una opción adecuada para el tratamiento de la enfermedad localizada en la próstata, pero no es efectiva para controlar la enfermedad en metástasis.\n\nPerla MIR: La combinación de terapia hormonal con inhibidores de LHRH y enzalutamida, junto con docetaxel, es la de elección para el tratamiento de la enfermedad de próstata con metástasis."
   },
   {
     "id": "q-86",
     "localNumber": 86,
     "category": "General",
-    "stem": "Indique la afirmación correcta sobre la cis- tectomía radical:",
+    "stem": "Indique la afirmación correcta sobre la cirugía de tectomía radical",
     "options": [
-      "Es una cirugía que incluye la exéresis de vejiga, próstata (en el varón) y ganglios ilioobturatrices.",
+      "Es una cirugía que incluye la extirpación de vejiga, próstata (en el varón) y ganglios ilioobturadores.",
       "La morbimortalidad del procedimiento es muy baja comparada con procedimientos endoscópicos.",
-      "La derivación ureteral a piel o a intestino se realiza a los 5 días una vez el paciente se recupera del tiempo de exéresis.",
-      "Es el tratamiento de elección del cáncer de vejiga no musculo invasivo de alto grado."
+      "La derivación ureteral a piel o a intestino se realiza a los 5 días una vez el paciente se recupera del tiempo de extirpación.",
+      "Es el tratamiento de elección del cáncer de vejiga no muscular invasivo de alto grado."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 86 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La tectomía radical es una cirugía que se utiliza en el tratamiento del cáncer de vejiga y próstata. Esta cirugía implica la extirpación de la vejiga, la próstata (en varones) y los ganglios linfáticos cercanos, específicamente los ganglios ilioobturadores. Esta opción es correcta clínicamente porque la tectomía radical es una de las opciones quirúrgicas para el tratamiento del cáncer de vejiga y próstata, y la extirpación de estos órganos y ganglios linfáticos es un paso importante en el procedimiento.\n\n- **🔴 Opción B (Incorrecta):** La morbimortalidad de la tectomía radical no es necesariamente baja comparada con los procedimientos endoscópicos. Aunque la tectomía radical puede ser efectiva en el tratamiento del cáncer de vejiga y próstata, también conlleva un mayor riesgo de complicaciones y morbilidad que los procedimientos endoscópicos. Por lo tanto, esta opción no es correcta.\n\n- **🔴 Opción C (Incorrecta):** La derivación ureteral a piel o a intestino se realiza antes de que el paciente se recupere del tiempo de extirpación, no después. La derivación ureteral es un paso importante en la tectomía radical para evitar la acumulación de orina en el torrente sanguíneo y prevenir complicaciones. Esta opción no es correcta porque describe un momento incorrecto en el procedimiento.\n\n- **🔴 Opción D (Incorrecta):** La tectomía radical no es el tratamiento de elección para el cáncer de vejiga no muscular invasivo de alto grado. El tratamiento del cáncer de vejiga depende de la etapa y el tipo del cáncer, y puede incluir procedimientos endoscópicos, radioterapia o cirugía. La tectomía radical se reserva para los casos más avanzados o cuando otros tratamientos no son efectivos. Por lo tanto, esta opción no es correcta.\n\nLa perla MIR: Recuerda que la tectomía radical es una cirugía que implica la extirpación de vejiga, próstata y ganglios linfáticos, y es un tratamiento importante para el cáncer de vejiga y próstata."
   },
   {
     "id": "q-87",
