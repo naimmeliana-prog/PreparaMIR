@@ -2033,35 +2033,35 @@
     "id": "q-147",
     "localNumber": 147,
     "category": "General",
-    "stem": "Varón de 19 años, asintomático, que presenta en una analítica preoperatoria una trombopenia (plaquetas 43 x 10 9/L) con niveles de hemoglobi- na y leucocitos normales. ¿Cuál de las si guientes actuaciones hay que realizar en primer lugar?:",
+    "stem": "Varón de 19 años, asintomático, que presenta en una analítica preoperatoria una trombopenia (plaquetas 43 x 10^9/L) con niveles de hemoglobina y leucocitos normales.",
     "options": [
       "Iniciar tratamiento con prednisona vía oral.",
-      "Realizar una biopsia de medula ósea para ver si la trombopenia es de origen central o perifé- rico.",
-      "Realizar un examen morfológico del frotis sanguíneo para descartar la presencia de agre- gados plaquetarios inducidos por el anticoagu- lante.",
+      "Realizar una biopsia de medula ósea para ver si la trombopenia es de origen central o periférico.",
+      "Realizar un examen morfológico del frotis sanguíneo para descartar la presencia de agregados plaquetarios inducidos por el anticoagulante.",
       "Transfundir un concentrado de plaquetas para evitar un problema hemorrágico."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 147 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Iniciar tratamiento con prednisona vía oral sin más evaluación no es adecuado, ya que no se conoce la causa de la trombopenia. La prednisona puede ser utilizada en algunos casos de trombocitopenia, pero es importante determinar la causa subyacente antes de iniciar tratamiento. Además, la prednisona puede tener efectos secundarios y no es una medida inmediata para evitar problemas hemorrágicos.\n\n- **🔴 Opción B (Incorrecta):** Realizar una biopsia de medula ósea es una prueba invasiva que no es necesaria en este momento. La biopsia de medula ósea se utiliza para evaluar la función de la medula ósea y puede ser indicada en casos de trombocitopenia de origen central, pero en este caso, la trombopenia se asocia con plaquetas normales en el conteo, lo que sugiere una trombocitopenia periférica. Además, la biopsia de medula ósea puede tener riesgos y complicaciones.\n\n- **🔴 Opción D (Incorrecta):** Transfundir un concentrado de plaquetas para evitar un problema hemorrágico no es adecuado en este momento. La transfusión de plaquetas se utiliza para corregir una trombocitopenia severa y no es necesaria en este caso, ya que el paciente es asintomático y no hay signos de sangrado. Además, la transfusión de plaquetas puede tener riesgos y complicaciones.\n\n- **🟢 Opción C (Correcta):** Realizar un examen morfológico del frotis sanguíneo para descartar la presencia de agregados plaquetarios inducidos por el anticoagulante es la opción correcta. La trombopenia se asocia con plaquetas normales en el conteo, lo que sugiere una trombocitopenia periférica. El examen morfológico del frotis sanguíneo puede ayudar a descartar la presencia de agregados plaquetarios inducidos por el anticoagulante, que pueden ser una causa de trombocitopenia periférica. Además, esta prueba es no invasiva y no tiene riesgos ni complicaciones.\n\nLa perla MIR es: \"Trombopenia asintomática: examen morfológico del frotis sanguíneo para descartar agregados plaquetarios inducidos por el anticoagulante\"."
   },
   {
     "id": "q-148",
     "localNumber": 148,
     "category": "Infecciosas",
-    "stem": "Varón de 35 años, dia gnosticado de hemofilia A desde la infancia, que recibe un trasplante hepá- tico por hepatopatía crónica por virus de hepati- tis C. Seis meses después del procedimiento pre- senta un estudio de coagulación normal con acti- vidad de factor VIII del 100 %. ¿Cuál de las siguientes afirmaciones es cierta?:",
+    "stem": "Varón de 35 años, diagnosticado de hemofilia A desde la infancia, que recibe un trasplante hepático por hepatopatía crónica por virus de hepatitis C. Seis meses después del procedimiento presenta un estudio de coagulación normal con actividad de factor VIII del 100 %. ¿Cuál de las siguientes afirmaciones es cierta?",
     "options": [
       "La hemofilia se ha curado ya que el factor VIII se sintetiza en el hígado.",
-      "El tratamiento inmunosupresor ha solucionado el problema ya que estamos ante un cuadro au- toinmune.",
-      "La larga vida media de los factores antihemofí- licos usados en el trasplante hace que su efecto perdure varios meses.",
-      "Solo puede tratarse de un error o artefacto de laboratorio, ya que la hemofilia A es una en- fermedad genética incurable hoy en día."
+      "El tratamiento inmunosupresor ha solucionado el problema ya que estamos ante un cuadro autoinmune.",
+      "La larga vida media de los factores antihemofílicos usados en el trasplante hace que su efecto perdure varios meses.",
+      "Solo puede tratarse de un error o artefacto de laboratorio, ya que la hemofilia A es una enfermedad genética incurable hoy en día."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 148 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La respuesta correcta es la opción A. La razón es que el factor VIII se sintetiza en el hígado, y después del trasplante hepático, el nuevo hígado puede producir factor VIII normal. Esto explica la actividad del 100% del factor VIII en el estudio de coagulación seis meses después del trasplante. La cura de la hemofilia A es posible si se logra una actividad normal del factor VIII a largo plazo después del trasplante hepático. \n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque el trasplante hepático no es un tratamiento inmunosupresor. Los tratamientos inmunosupresores se utilizan para prevenir rechazo del órgano trasplantado, pero no para curar la hemofilia A. \n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque los factores antihemofílicos usados en el trasplante no tienen una larga vida media. Los factores antihemofílicos son proteínas que se administran por vía intravenosa para tratar la hemofilia A, y su efecto dura varias horas, no varios meses. \n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque la hemofilia A no es necesariamente una enfermedad genética incurable. La cura de la hemofilia A es posible si se logra una actividad normal del factor VIII a largo plazo después del trasplante hepático. Por lo tanto, la afirmación de que la hemofilia A es incurable es incorrecta en este contexto."
   },
   {
     "id": "q-149",
     "localNumber": 149,
     "category": "General",
-    "stem": "Varón de 65 años que consulta por astenia pro- gresiva y sensación de hormi gueo en manos y pies. En la exploración física presenta tez amari- llenta y disminución de la sensibilidad vibratoria y posicional en zonas distales. En el hemo grama se observa VCM 120 fl con anisocitosis. Lo más probable es que padezca:",
+    "stem": "Varón de 65 años que consulta por astenia progresiva y sensación de hormigueo en manos y pies. En la exploración física presenta tez amarillenta y disminución de la sensibilidad vibratoria y posicional en zonas distales. En el hemograma se observa VCM 120fl con anisocitosis. Lo más probable es que padezca:",
     "options": [
       "Mielopatía cervicoartrósica.",
       "Mielitis necrosante subaguda.",
@@ -2069,35 +2069,35 @@
       "Mielopatía crónica de la esclerosis múltiple."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 149 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La mielosis funicular es una condición caracterizada por la lesión de la médula ósea y la destrucción de la materia gris de la médula espinal. Los síntomas incluyen astenia progresiva, hormigueo en las manos y pies, pérdida de sensibilidad vibratoria y posicional, y un hemograma anormal con anisocitosis. En este caso, la edad del paciente y los síntomas descritos hacen que la mielosis funicular sea la opción más probable. Además, la anisocitosis en el hemograma es un hallazgo común en esta condición.\n\n- **🔴 Opción A (Incorrecta):** La mielopatía cervicoartrósica es una condición que se asocia con la degeneración de las discos intervertebrales y la formación de bursas en la columna cervical. Aunque puede causar astenia y pérdida de sensibilidad, no se asocia con la anisocitosis en el hemograma ni con la mielosis funicular.\n\n- **🔴 Opción B (Incorrecta):** La mielitis necrosante subaguda es un trastorno inflamatorio de la médula espinal que puede causar una variedad de síntomas, incluyendo astenia y pérdida de sensibilidad. Sin embargo, no se asocia con la anisocitosis en el hemograma ni con la mielosis funicular.\n\n- **🔴 Opción D (Incorrecta):** La mielopatía crónica de la esclerosis múltiple es una condición que se caracteriza por la destrucción de la médula espinal y la formación de placas de demielinación. Aunque puede causar astenia y pérdida de sensibilidad, no se asocia con la anisocitosis en el hemograma ni con la mielosis funicular.\n\n**Perla MIR:** La mielosis funicular es una condición potencialmente mortal que requiere un diagnóstico y tratamiento urgentes. La presencia de anisocitosis en el hemograma y los síntomas descritos en el caso pueden hacer que la mielosis funicular sea una opción de diagnóstico más probable."
   },
   {
     "id": "q-150",
     "localNumber": 150,
     "category": "General",
-    "stem": "Varón de 41 años ingresado en la UCI por neu- monía grave que precisa intubación y adminis- tración de catecolaminas. A la exploración se observa san grado alrededor de los lu gares de venopunción. Sus resultados de laboratorio son: 15.500 leucocitos; Hb 10,4 g/ d L ; H c t o 3 2 % ; 52.000 plaquetas; LDH 820 U (normal 110-210); recuento de reticulocitos 4 %. ¿Cuál de los si- guientes resultados NO es de esperar en este paciente?:",
+    "stem": "Varón de 41 años ingresado en la Unidad de Cuidados Intensivos (UCI) por neumonía grave que precisa intubación y administración de catecolaminas. A la exploración se observa sangrado alrededor de los lugares de venopunción. Sus resultados de laboratorio son: 15.500 leucocitos; Hb 10,4 g/dL; Hct 32%; 52.000 plaquetas; LDH 820 U (normal 110-210); recuento de reticulocitos 4%. ¿Cuál de los siguientes resultados no es de esperar en este paciente?",
     "options": [
       "Fibrinógeno bajo.",
-      "Concentración elevada de antitrombina y pro- teína C.",
+      "Concentración elevada de antitrombina y proteína C.",
       "Tiempo de protrombina y tiempo parcial de tromboplastina activada alargados.",
       "Presencia de productos de degradación de la fibrina (dímero D)."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 150 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Fibrinógeno bajo. Esto no es de esperar en este paciente ya que la neumonía grave y la administración de catecolaminas no afectan directamente la producción de fibrinógeno. Además, la concentración de fibrinógeno baja se asocia con hemofilia, coagulación intravascular diseminada (CID) y otros trastornos coagulativos, pero no con la neumonía grave o la administración de catecolaminas. La concentración de fibrinógeno baja se ve más comúnmente en pacientes con trastornos coagulativos que en pacientes con neumonía grave. Por lo tanto, la opción A es incorrecta en este contexto.\n\n- **🔴 Opción B (Correcta):** Concentración elevada de antitrombina y proteína C. Esto no es de esperar en este paciente ya que la neumonía grave y la administración de catecolaminas no aumentan directamente la concentración de antitrombina y proteína C. De hecho, la concentración de antitrombina y proteína C suele disminuir en pacientes con neumonía grave debido a la inflamación y la respuesta inmunológica. Por lo tanto, la opción B es incorrecta en este contexto.\n\n- **🔴 Opción C (Incorrecta):** Tiempo de protrombina y tiempo parcial de tromboplastina activada alargados. Esto es de esperar en este paciente ya que la neumonía grave y la administración de catecolaminas pueden afectar la coagulación sanguínea y aumentar el riesgo de trombosis. La neumonía grave puede causar inflamación y respuesta inmunológica que afectan la producción de factores de coagulación y aumentan el riesgo de trombosis. Por lo tanto, la opción C es correcta en este contexto.\n\n- **🟢 Opción D (Correcta):** Presencia de productos de degradación de la fibrina (dímero D). Esto es de esperar en este paciente ya que la neumonía grave y la administración de catecolaminas pueden causar inflamación y respuesta inmunológica que afectan la coagulación sanguínea y aumentan el riesgo de trombosis. La presencia de dímero D es un indicador de activación de la coagulación y es de esperar en pacientes con neumonía grave. Por lo tanto, la opción D es correcta en este contexto.\n\nLa perla MIR es que en pacientes con neumonía grave, es de esperar un aumento en el tiempo de protrombina y tiempo parcial de tromboplastina activada, así como una presencia de productos de degradación de la fibrina (dímero D)."
   },
   {
     "id": "q-151",
     "localNumber": 151,
     "category": "General",
-    "stem": "¿Cuál de los siguientes factores NO se ha asocia- do específicamente a un ma yor riesgo de caídas en personas mayores?:",
+    "stem": "¿Cuál de los siguientes factores no se ha asociado específicamente a un mayor riesgo de caídas en personas mayores?",
     "options": [
-      "Osteoporosis.",
-      "Déficit visual.",
-      "Artrosis.",
-      "Polifarmacia."
+      "Osteoporosis",
+      "Déficit visual",
+      "Artrosis",
+      "Polifarmacia"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 151 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La osteoporosis no se ha asociado específicamente a un mayor riesgo de caídas en personas mayores. Aunque la osteoporosis puede aumentar el riesgo de fracturas, no es un factor directo para el riesgo de caídas. Los factores que aumentan el riesgo de caídas en personas mayores incluyen problemas de equilibrio, visión reducida, uso de medicamentos que pueden causar somnolencia, entre otros. La osteoporosis es un problema de salud que puede requerir tratamiento, pero no es un factor que directamente aumente el riesgo de caídas.\n\n- **🔴 Opción B (Incorrecta):** El déficit visual es un factor que se ha asociado específicamente a un mayor riesgo de caídas en personas mayores. La pérdida de visión puede hacer que sea más difícil para las personas mayores detectar obstáculos y mantener su equilibrio, lo que aumenta el riesgo de caídas.\n\n- **🔴 Opción C (Incorrecta):** La artrosis es un factor que puede contribuir a un mayor riesgo de caídas en personas mayores. La artrosis puede causar dolor y rigidez en las articulaciones, lo que puede afectar la movilidad y el equilibrio de las personas mayores. Además, la artrosis puede requerir medicamentos que pueden causar somnolencia, lo que también aumenta el riesgo de caídas.\n\n- **🔴 Opción D (Incorrecta):** La polifarmacia es un factor que se ha asociado específicamente a un mayor riesgo de caídas en personas mayores. El uso de múltiples medicamentos puede causar efectos secundarios como somnolencia, mareo y confusión, lo que aumenta el riesgo de caídas. Las personas mayores que toman múltiples medicamentos deben ser monitoreadas de cerca para prevenir efectos secundarios adversos.\n\nLa perla MIR: 'La osteoporosis no es un factor directo para el riesgo de caídas en personas mayores, pero otros factores como el déficit visual, la artrosis y la polifarmacia sí lo son.'"
   },
   {
     "id": "q-152",
