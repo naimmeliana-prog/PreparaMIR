@@ -178,7 +178,7 @@ class HybridQueryBuilder {
     
     // MODO OFFLINE LOCAL (JSON)
     const data = loadData();
-    let rows = this.table === "conversations" ? [...data.conversations] : [...data.messages];
+    let rows: any[] = this.table === "conversations" ? [...data.conversations] : [...data.messages];
 
     if (activeUserId) {
       rows = rows.filter((r: any) => r.userId === activeUserId);
