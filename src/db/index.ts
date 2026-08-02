@@ -132,44 +132,48 @@ class HybridQueryBuilder {
     const pgDb = getPgDb();
 
     if (pgDb) {
-      // MODO POSTGRESQL (PRODUCCIÓN)
-      const { eq, and, inArray, asc, desc } = require("drizzle-orm");
-      const tableObj = (schema as any)[this.table];
+      try {
+        // MODO POSTGRESQL (PRODUCCIÓN)
+        const { eq, and, inArray, asc, desc } = require("drizzle-orm");
+        const tableObj = (schema as any)[this.table];
 
-      let query: any;
-      if (this.selectFields) {
-        query = pgDb.select(this.selectFields).from(tableObj);
-      } else {
-        query = pgDb.select().from(tableObj);
-      }
-
-      const conditions: any[] = [];
-      if (activeUserId && this.table !== "users") {
-        conditions.push(eq(tableObj.userId, activeUserId));
-      }
-
-      if (this.whereClause) {
-        const { field, value, operator } = this.whereClause;
-        const col = tableObj[field];
-        if (operator === "eq") {
-          conditions.push(eq(col, value));
-        } else if (operator === "inArray") {
-          conditions.push(inArray(col, value));
+        let query: any;
+        if (this.selectFields) {
+          query = pgDb.select(this.selectFields).from(tableObj);
+        } else {
+          query = pgDb.select().from(tableObj);
         }
-      }
 
-      if (conditions.length > 0) {
-        query = query.where(and(...conditions));
-      }
+        const conditions: any[] = [];
+        if (activeUserId && this.table !== "users") {
+          conditions.push(eq(tableObj.userId, activeUserId));
+        }
 
-      if (this.orderClause) {
-        const { field, direction } = this.orderClause;
-        const col = tableObj[field];
-        query = query.orderBy(direction === "desc" ? desc(col) : asc(col));
-      }
+        if (this.whereClause) {
+          const { field, value, operator } = this.whereClause;
+          const col = tableObj[field];
+          if (operator === "eq") {
+            conditions.push(eq(col, value));
+          } else if (operator === "inArray") {
+            conditions.push(inArray(col, value));
+          }
+        }
 
-      const rows = await query;
-      return onfulfilled ? onfulfilled(rows) : rows;
+        if (conditions.length > 0) {
+          query = query.where(and(...conditions));
+        }
+
+        if (this.orderClause) {
+          const { field, direction } = this.orderClause;
+          const col = tableObj[field];
+          query = query.orderBy(direction === "desc" ? desc(col) : asc(col));
+        }
+
+        const rows = await query;
+        return onfulfilled ? onfulfilled(rows) : rows;
+      } catch (err: any) {
+        console.warn("⚠️ PostgreSQL SELECT failed, falling back to local JSON DB:", err.message);
+      }
     } else {
       // MODO OFFLINE LOCAL (JSON)
       const data = loadData();
@@ -236,17 +240,21 @@ export const db = {
                 const tableName = getTableName(tableObj);
 
                 if (pgDb) {
-                  // MODO POSTGRESQL (PRODUCCIÓN)
-                  const tableSchemaObj = (schema as any)[tableName];
-                  const insertPayload = {
-                    userId: activeUserId,
-                    ...payload,
-                  };
-                  const [row] = await pgDb
-                    .insert(tableSchemaObj)
-                    .values(insertPayload)
-                    .returning();
-                  return onfulfilled ? onfulfilled([row]) : [row];
+                  try {
+                    // MODO POSTGRESQL (PRODUCCIÓN)
+                    const tableSchemaObj = (schema as any)[tableName];
+                    const insertPayload = {
+                      userId: activeUserId,
+                      ...payload,
+                    };
+                    const [row] = await pgDb
+                      .insert(tableSchemaObj)
+                      .values(insertPayload)
+                      .returning();
+                    return onfulfilled ? onfulfilled([row]) : [row];
+                  } catch (err: any) {
+                    console.warn("⚠️ PostgreSQL INSERT failed, falling back to local JSON DB:", err.message);
+                  }
                 } else {
                   // MODO OFFLINE LOCAL (JSON)
                   const data = loadData();
@@ -297,18 +305,22 @@ export const db = {
                 const { field, value } = clause;
 
                 if (pgDb) {
-                  // MODO POSTGRESQL (PRODUCCIÓN)
-                  const { eq, and } = require("drizzle-orm");
-                  const tableSchemaObj = (schema as any)[tableName];
-                  const conditions = [eq(tableSchemaObj[field], value)];
-                  if (activeUserId && tableName !== "users") {
-                    conditions.push(eq(tableSchemaObj.userId, activeUserId));
+                  try {
+                    // MODO POSTGRESQL (PRODUCCIÓN)
+                    const { eq, and } = require("drizzle-orm");
+                    const tableSchemaObj = (schema as any)[tableName];
+                    const conditions = [eq(tableSchemaObj[field], value)];
+                    if (activeUserId && tableName !== "users") {
+                      conditions.push(eq(tableSchemaObj.userId, activeUserId));
+                    }
+                    await pgDb
+                      .update(tableSchemaObj)
+                      .set(payload)
+                      .where(and(...conditions));
+                    return onfulfilled ? onfulfilled(null) : null;
+                  } catch (err: any) {
+                    console.warn("⚠️ PostgreSQL UPDATE failed, falling back to local JSON DB:", err.message);
                   }
-                  await pgDb
-                    .update(tableSchemaObj)
-                    .set(payload)
-                    .where(and(...conditions));
-                  return onfulfilled ? onfulfilled(null) : null;
                 } else {
                   // MODO OFFLINE LOCAL (JSON)
                   const data = loadData();
@@ -344,15 +356,19 @@ export const db = {
             const { field, value } = clause;
 
             if (pgDb) {
-              // MODO POSTGRESQL (PRODUCCIÓN)
-              const { eq, and } = require("drizzle-orm");
-              const tableSchemaObj = (schema as any)[tableName];
-              const conditions = [eq(tableSchemaObj[field], value)];
-              if (activeUserId && tableName !== "users") {
-                conditions.push(eq(tableSchemaObj.userId, activeUserId));
+              try {
+                // MODO POSTGRESQL (PRODUCCIÓN)
+                const { eq, and } = require("drizzle-orm");
+                const tableSchemaObj = (schema as any)[tableName];
+                const conditions = [eq(tableSchemaObj[field], value)];
+                if (activeUserId && tableName !== "users") {
+                  conditions.push(eq(tableSchemaObj.userId, activeUserId));
+                }
+                await pgDb.delete(tableSchemaObj).where(and(...conditions));
+                return onfulfilled ? onfulfilled(null) : null;
+              } catch (err: any) {
+                console.warn("⚠️ PostgreSQL DELETE failed, falling back to local JSON DB:", err.message);
               }
-              await pgDb.delete(tableSchemaObj).where(and(...conditions));
-              return onfulfilled ? onfulfilled(null) : null;
             } else {
               // MODO OFFLINE LOCAL (JSON)
               const data = loadData();
@@ -384,9 +400,13 @@ export const db = {
         const pgDb = getPgDb();
 
         if (pgDb) {
-          // MODO POSTGRESQL (PRODUCCIÓN)
-          const result = await pgDb.execute(sqlObj);
-          return onfulfilled ? onfulfilled(result) : result;
+          try {
+            // MODO POSTGRESQL (PRODUCCIÓN)
+            const result = await pgDb.execute(sqlObj);
+            return onfulfilled ? onfulfilled(result) : result;
+          } catch (err: any) {
+            console.warn("⚠️ PostgreSQL EXECUTE failed, falling back to local JSON DB:", err.message);
+          }
         } else {
           // MODO OFFLINE LOCAL (JSON)
           const data = loadData();
