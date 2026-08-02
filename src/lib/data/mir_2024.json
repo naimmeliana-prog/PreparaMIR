@@ -283,7 +283,7 @@
     "id": "q-21",
     "localNumber": 21,
     "category": "Neumología",
-    "stem": "Pregunta asociada a la imagen 21. Mujer de 57 años con enfermedad renal crónica que presenta astenia, hipotensión y cianosis en manos tras una sesión de diálisis. En la analítica se detecta anemia normocítica (Hb 7 g/dL, VCM 96 fL) con discreta reticulocitosis, leucocitos y plaquetas normales; aumento de LDH y hemoglobina libre en plasma elevada. El estudio inmunohematológico muestra un anticuerpo con especificidad anti -P. Se realiza frotis sanguíneo (ver imagen) mediante punción digital. El diagnóstico más probable es:",
+    "stem": "Mujer de 57 años con enfermedad renal crónica que presenta astenia, hipotensión y cianosis en manos tras una sesión de diálisis. En la analítica se detecta anemia normocítica (Hb 7 g/dL, VCM 96 fL) con discreta reticulocitosis, leucocitos y plaquetas normales; aumento de LDH y hemoglobina libre en plasma elevada. El estudio inmunohematológico muestra un anticuerpo con especificidad anti-P. Se realiza frotis sanguíneo mediante punción digital. El diagnóstico más probable es:",
     "options": [
       "Síndrome hemofagocítico.",
       "Hemoglobinuria paroxística a frigore.",
@@ -291,27 +291,27 @@
       "Crioglobulinemia."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 21 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La hemoglobinuria paroxística a frigore es una condición caracterizada por la liberación de hemoglobina en la orina después de exposición al frío. La presencia de un anticuerpo anti-P en el estudio inmunohematológico sugiere que el paciente tiene una enfermedad autoinmune que ataca la superficie de los glóbulos rojos, lo que lleva a su destrucción y liberación de hemoglobina en la orina. La reticulocitosis discreta también sugiere una respuesta compensatoria al daño hemático. La hipotensión y la cianosis pueden deberse a la hemoglobina libre en el plasma. La frotis sanguíneo puede mostrar restos de glóbulos rojos fragmentados. La hemoglobinuria paroxística a frigore es una condición rara pero grave que requiere atención inmediata. El diagnóstico es probablemente correcto debido a la combinación de estos hallazgos.\n\n- **🔴 Opción A (Incorrecta):** El síndrome hemofagocítico es una condición caracterizada por la destrucción de glóbulos rojos y leucocitos en el bazo, lo que lleva a una anemia y leucopenia. Sin embargo, la presencia de un anticuerpo anti-P y la frotis sanguíneo no sugieren una infección o un trastorno que requiera una respuesta inmune intensiva.\n\n- **🔴 Opción C (Incorrecta):** La hemoglobinuria paroxística nocturna es una condición caracterizada por la liberación de hemoglobina en la orina durante la noche. Sin embargo, la presencia de un anticuerpo anti-P y la frotis sanguíneo sugieren una condición más grave que requiere una respuesta inmune intensiva.\n\n- **🔴 Opción D (Incorrecta):** La crioglobulinemia es una condición caracterizada por la presencia de crioglobulinas en la sangre, que pueden causar problemas de coagulación. Sin embargo, la presencia de un anticuerpo anti-P y la frotis sanguíneo no sugieren una condición que requiera una respuesta inmune intensiva.\n\nLa perla MIR: La hemoglobinuria paroxística a frigore es una condición grave que requiere atención inmediata. La presencia de un anticuerpo anti-P y la frotis sanguíneo son clave para el diagnóstico. Recuerda que la combinación de estos hallazgos es lo que lleva a la correcta identificación de la condición."
   },
   {
     "id": "q-22",
     "localNumber": 22,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 22. Mujer de 58 años acude a urgencias por dolor en la punta de los dedos de la mano. No tiene alergias conocidas, ni hábitos tóxicos. Entre los antecedentes explica tres abortos, una apendicetomía, sensación frecuente de reflujo retroesternal y, desde hace unos 5 años aproximadamente, presenta con la exposición al frío episodios de palidez en los dedos de ambas manos que cada vez se han hecho más intensos. A la vista de la imagen, ¿cuál de las siguientes actitudes se plantea realizar en primer lugar?:",
+    "stem": "Mujer de 58 años acude a urgencias por dolor en la punta de los dedos de la mano. No tiene alergias conocidas, ni hábitos tóxicos. Entre los antecedentes explica tres abortos, una apendicetomía, sensación frecuente de reflujo retroesternal y, desde hace unos 5 años aproximadamente, presenta con la exposición al frío episodios de palidez en los dedos de ambas manos que cada vez se han hecho más intensos. A la vista de la imagen, ¿cuál de las siguientes actitudes se plantea realizar en primer lugar?",
     "options": [
       "Solicitar una TC torácica.",
       "Valoración de tratamiento quirúrgico por cirugía vascular.",
       "Determinación de ANA y anti-centrómero.",
-      "Tratamiento vasodilatador con pro staglandinas iv. Página: 5 de 33"
+      "Tratamiento vasodilatador con prostaglandinas iv."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 22 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La respuesta correcta es el tratamiento vasodilatador con prostaglandinas iv, ya que la paciente presenta episodios de palidez en los dedos de ambas manos que se han intensificado con la exposición al frío. Esto sugiere un trastorno de vasos sanguíneos, posiblemente Raynaud, que se puede tratar con prostaglandinas para dilatar los vasos sanguíneos y mejorar la circulación. Esto es la opción más adecuada en primer lugar ya que es rápido y eficaz para aliviar los síntomas.\n\n- **🔴 Opción A (Incorrecta):** Solicitar una TC torácica no es la respuesta adecuada en primer lugar, ya que no se indica en el escenario que la paciente tenga algún síntoma relacionado con el sistema cardiovascular que requiera una imagen diagnóstica como la TC torácica.\n\n- **🔴 Opción B (Incorrecta):** Valorar un tratamiento quirúrgico por cirugía vascular no es la respuesta adecuada en primer lugar, ya que no se indica en el escenario que la paciente tenga algún síntoma relacionado con la enfermedad arterial periférica o cualquier otra condición que requiera una intervención quirúrgica.\n\n- **🔴 Opción C (Incorrecta):** Determinar ANA y anti-centrómero no es la respuesta adecuada en primer lugar, ya que no se indica en el escenario que la paciente tenga algún síntoma relacionado con la esclerosis sistémica o cualquier otra enfermedad autoinmune que requiera una evaluación serológica. Además, estos análisis pueden tardar varios días en obtener resultados.\n\nLa perla MIR: En caso de palidez en dedos con exposición al frío, prioriza el tratamiento vasodilatador con prostaglandinas iv."
   },
   {
     "id": "q-23",
     "localNumber": 23,
     "category": "Neurología",
-    "stem": "Pregunta asociada a la imagen 23. En relación con un hombre de 74 años, que muestra alteraciones cognitivas y de la movilidad y en el cerebro neuronas con inclusiones citoplásmicas, como se observa en la imagen histológica, el diagnóstico más probable es:",
+    "stem": "Un hombre de 74 años muestra alteraciones cognitivas y de la movilidad y en el cerebro neuronas con inclusiones citoplásmicas, como se observa en la imagen histológica, el diagnóstico más probable es:",
     "options": [
       "Enfermedad de Alzheimer.",
       "Demencia senil.",
@@ -319,13 +319,13 @@
       "Encefalitis viral."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 23 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La Enfermedad de Parkinson es una enfermedad neurodegenerativa caracterizada por la presencia de inclusiones citoplásmicas en las neuronas, conocidas como levaduras de Lewy. Estas inclusiones se deben a la acumulación de proteínas anormales en el citoplasma de las neuronas. La enfermedad de Parkinson también se caracteriza por alteraciones cognitivas y de la movilidad, lo que coincide con la descripción del paciente. Por lo tanto, la Enfermedad de Parkinson es el diagnóstico más probable en este caso.\n\n- **🔴 Opción A (Incorrecta):** La Enfermedad de Alzheimer es una enfermedad neurodegenerativa caracterizada por la presencia de placas seniles y parches neurofibrilares en el cerebro. Aunque puede causar alteraciones cognitivas, no se asocia con inclusiones citoplásmicas en las neuronas.\n\n- **🔴 Opción B (Incorrecta):** La Demencia senil es un término descriptivo que se refiere a la pérdida de función cognitiva en personas mayores, pero no es un diagnóstico específico. No se asocia con inclusiones citoplásmicas en las neuronas.\n\n- **🔴 Opción D (Incorrecta):** La Encefalitis viral es una inflamación del cerebro causada por un virus. Puede causar alteraciones cognitivas y de la movilidad, pero no se asocia con inclusiones citoplásmicas en las neuronas.\n\nLa perla MIR: ' Levaduras de Lewy en la Enfermedad de Parkinson, no en Alzheimer, no en demencia senil, no en encefalitis viral'."
   },
   {
     "id": "q-24",
     "localNumber": 24,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 24. Mujer de 35 años con historia de dolor abdominal recurrente que coincide con la menstruación. Los hallazgos de la intervención quirúrgica requieren una resección intestinal. El estudio anatomopatológico se muestra en la imagen. ¿Cuál es el diagnóstico más probable?:",
+    "stem": "Pregunta asociada a la imagen 24. Mujer de 35 años con historia de dolor abdominal recurrente que coincide con la menstruación. Los hallazgos de la intervención quirúrgica requieren una resección intestinal. El estudio anatomopatológico se muestra en la imagen. ¿Cuál es el diagnóstico más probable?",
     "options": [
       "Adenocarcimoma intestinal.",
       "Metástasis de adenocarcinoma de endometrio.",
@@ -333,13 +333,13 @@
       "Endometriosis."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 24 del examen MIR de la convocatoria FSE."
+    "explanation": "## Diagnóstico más probable en la imagen 24\n\n### Análisis de opciones\n\n- **🟢 Opción D (Correcta):** La endometriosis es una condición en la que tejido similar al endometrio crece en lugares fuera del útero. En este caso, la historia de dolor abdominal recurrente que coincide con la menstruación y la resección intestinal sugiere que el tejido endometrial se ha implantado en la pared intestinal, lo que es un hallazgo común en la endometriosis. El estudio anatomopatológico muestra tejido endometrial en la pared intestinal, lo que confirma el diagnóstico de endometriosis.\n\n- **🔴 Opción A (Incorrecta):** El adenocarcinoma intestinal es un tipo de cáncer que se desarrolla en la pared intestinal. Si bien es posible que el adenocarcinoma intestinal cause dolor abdominal, no está relacionado con la menstruación y no se asocia con la resección intestinal en este caso específico.\n\n- **🔴 Opción B (Incorrecta):** La metástasis de adenocarcinoma de endometrio implica que el cáncer de endometrio se ha extendido a otras partes del cuerpo, como la pared intestinal. Sin embargo, en este caso, no hay evidencia de que el cáncer de endometrio se haya extendido a otras partes del cuerpo.\n\n- **🔴 Opción C (Incorrecta):** La colitis ulcerosa es una condición en la que la pared intestinal se inflama y se forma úlceras. Si bien la colitis ulcerosa puede causar dolor abdominal, no está relacionada con la menstruación y no se asocia con la resección intestinal en este caso específico.\n\n## Perla MIR\n\nLa endometriosis es una condición importante que debe considerarse en pacientes con dolor abdominal recurrente que coincide con la menstruación y que requieren resección intestinal. La historia clínica y el estudio anatomopatológico deben considerarse para llegar al diagnóstico correcto."
   },
   {
     "id": "q-25",
     "localNumber": 25,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 25. Hombre de 36 años con prácticas sexuales de riesgo. Presenta un cuadro de 4 días de evolución de lesiones cutáneas no pruriginosas (ver imagen). No ha tomado medicación previamente y no tiene antecedente de alergias farmacológicas. Se realiza serología para VIH que es negativa. La serología de sífilis antitreponema pallidum es positiva y RPR 1:32. Señale la respuesta correcta:",
+    "stem": "Hombre de 36 años con prácticas sexuales de riesgo presenta un cuadro de 4 días de evolución de lesiones cutáneas no pruriginosas. No ha tomado medicación previamente y no tiene antecedente de alergias farmacológicas. Se realiza serología para VIH que es negativa. La serología de sífilis antitreponema pallidum es positiva y RPR 1:32.",
     "options": [
       "Se recomienda el análisis del líquido cefalorraquídeo.",
       "La azitromicina oral es un tratamiento alternativo eficaz.",
@@ -347,7 +347,7 @@
       "Si los títulos de RPR permanecen positivos después de 12 meses está indicado administrar el tratamiento de nuevo."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 25 del examen MIR de la convocatoria FSE."
+    "explanation": "## Explanación detallada de cada opción\n\n### Opción A (Incorrecta):\n\nLa opción A propone realizar el análisis del líquido cefalorraquídeo, lo que no es necesario en este caso. La sífilis secundaria se caracteriza por lesiones cutáneas, no por una infección neurológica. El análisis del líquido cefalorraquídeo sería indicado en casos de sífilis terciaria o en pacientes con síntomas neurológicos.\n\n### Opción B (Incorrecta):\n\nLa opción B sugiere que la azitromicina oral es un tratamiento alternativo eficaz para la sífilis. Sin embargo, la azitromicina no es un tratamiento recomendado para la sífilis primaria o secundaria. El tratamiento de elección para la sífilis es la penicilina G benzatínica, administrada por vía intramuscular.\n\n### Opción C (Correcta):\n\nLa opción C es la correcta. Se recomienda una valoración clínica y serológica (RPR) a los 6 y 12 meses después del tratamiento para verificar la respuesta al tratamiento y evitar la resistencia a la penicilina. Esto es especialmente importante en pacientes con sífilis secundaria o terciaria.\n\n### Opción D (Incorrecta):\n\nLa opción D propone que si los títulos de RPR permanecen positivos después de 12 meses, está indicado administrar el tratamiento de nuevo. Sin embargo, esto no es correcto. Si los títulos de RPR permanecen positivos después de 12 meses, se debe realizar una nueva valoración clínica y serológica para determinar si se requiere un nuevo tratamiento.\n\n## Perla MIR:\n\nLa clave para el tratamiento de la sífilis es la valoración clínica y serológica regular después del tratamiento para evitar la resistencia a la penicilina y garantizar una respuesta adecuada al tratamiento."
   },
   {
     "id": "q-26",
