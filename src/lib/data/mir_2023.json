@@ -2901,21 +2901,21 @@
     "id": "q-208",
     "localNumber": 208,
     "category": "General",
-    "stem": "Con res pecto a l a retirada de me dios de sopor te vital en casos de futilidad de los tratamientos en un paciente en si tuación terminal ¿cuál de l as siguientes afirmaciones es cierta?:",
+    "stem": "Con respecto a la retirada de medios de soporte vital en casos de futilidad de los tratamientos en un paciente en situación terminal, ¿cuál de las siguientes afirmaciones es cierta?",
     "options": [
-      "Es acepta ble éticamente, aunque c on ello sobrevenga la muerte del paciente.",
-      "Se t rata de una medida q ue depende fundamentalmente de la vo luntad del méd ico responsable del paciente.",
-      "Es una práctica equivocada y obsoleta desde que existen medios so fisticados de sopo rte vital artificial.",
-      "Según la ley española es eutanasia. (--MEDICINA-0--33/36) Pagina: 31 de 34"
+      "Es aceptable éticamente, aunque con ello sobrevenga la muerte del paciente.",
+      "Se trata de una medida que depende fundamentalmente de la voluntad del médico responsable del paciente.",
+      "Es una práctica equivocada y obsoleta desde que existen medios sofisticados de soporte vital artificial.",
+      "Según la ley española es eutanasia."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 208 del examen MIR de la convocatoria FSE."
+    "explanation": "La retirada de medios de soporte vital en casos de futilidad de los tratamientos en un paciente en situación terminal es un tema complejo y controvertido. A continuación, se presentan las explicaciones de cada opción:\n\n- **🟢 Opción A (Correcta):** La retirada de medios de soporte vital en casos de futilidad de los tratamientos es una práctica aceptada éticamente en la medicina, siempre y cuando se cumplan ciertos criterios. Estos criterios incluyen la futilidad de los tratamientos, la imposibilidad de mejorar la condición del paciente y la voluntad del paciente o de su representante legal. La retirada de medios de soporte vital no es lo mismo que la eutanasia, ya que no implica la administración de sustancias para causar la muerte del paciente. En lugar de eso, se trata de dejar que el paciente muera naturalmente, sin someterlo a tratamientos invasivos y no necesarios.\n\n- **🔴 Opción B (Incorrecta):** La retirada de medios de soporte vital no depende fundamentalmente de la voluntad del médico responsable del paciente. Si bien el médico puede recomendar la retirada de medios de soporte vital, la decisión final la toma el paciente o su representante legal, o en su defecto, los familiares o los representantes legales del paciente.\n\n- **🔴 Opción C (Incorrecta):** La retirada de medios de soporte vital no es una práctica equivocada y obsoleta. Por el contrario, es una práctica común en la medicina y se utiliza en casos en los que el paciente ya no puede mejorar su condición y los tratamientos invasivos solo prolongan su sufrimiento.\n\n- **🔴 Opción D (Incorrecta):** La retirada de medios de soporte vital no es eutanasia según la ley española. La eutanasia implica la administración de sustancias para causar la muerte del paciente, mientras que la retirada de medios de soporte vital se refiere a dejar que el paciente muera naturalmente sin someterlo a tratamientos invasivos y no necesarios.\n\nLa perla MIR es: \"La retirada de medios de soporte vital es una práctica aceptada éticamente en la medicina, siempre y cuando se cumplan ciertos criterios y se distinga claramente de la eutanasia.\""
   },
   {
     "id": "q-209",
     "localNumber": 209,
     "category": "General",
-    "stem": "La vía subcutánea es d e gran utilida d en el tratamiento de pacientes en situación de cui dados paliativos y se considera de elección cuando la vía oral no es posible. Sin embargo, hay fármacos cuyo uso por vía subcutánea está desconsejado. Uno de esos fármacos es:",
+    "stem": "La vía subcutánea es de gran utilidad en el tratamiento de pacientes en situación de cuidados paliativos y se considera de elección cuando la vía oral no es posible. Sin embargo, hay fármacos cuyo uso por vía subcutánea está desaconsejado. Uno de esos fármacos es:",
     "options": [
       "Furosemida.",
       "Metamizol.",
@@ -2923,20 +2923,20 @@
       "Metoclopramida."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 209 del examen MIR de la convocatoria FSE."
+    "explanation": "La respuesta correcta es **🟢 Opción A (Correcta):** La furosemida es un diurético que puede causar efectos secundarios graves como la hipokalemia y la acidosis metabólica si se administra por vía subcutánea. Por lo tanto, se desaconseja su uso por esta vía.\n*   🔴 Opción B (Incorrecta): El metamizol es un analgésico que puede ser administrado por vía subcutánea sin problemas significativos. Es considerado una opción segura para el alivio del dolor en pacientes con vía oral comprometida.\n*   🔴 Opción C (Incorrecta): El haloperidol es un antipsicótico que puede ser administrado por vía subcutánea sin problemas significativos. Es considerado una opción segura para el tratamiento de la esquizofrenia y otros trastornos psiquiátricos en pacientes con vía oral comprometida.\n*   🔴 Opción D (Incorrecta): La metoclopramida es un antiemético que puede ser administrado por vía subcutánea sin problemas significativos. Es considerada una opción segura para el tratamiento del vómito en pacientes con vía oral comprometida.\nLa perla MIR: Cuando se trata de elegir una vía de administración para un fármaco en pacientes con vía oral comprometida, es fundamental considerar la farmacocinética y la farmacodinámica del fármaco en cuestión, así como sus posibles efectos secundarios y contraindicaciones."
   },
   {
     "id": "q-210",
     "localNumber": 210,
     "category": "Neumología",
-    "stem": "El certificado médic o de defunción (CMD) es un documento de car ácter jurídico-administrativo necesario para obte ner la licencia de enterramiento del cuerpo de una persona fallecida. Si existe una sospecha razonable de que la persona ha fallecido c omo consecuencia de una neumonía provocada por una infección por COVID-19 ¿cuál de las siguientes afirmaciones es cierta?:",
+    "stem": "El certificado médico de defunción es un documento de carácter jurídico-administrativo necesario para obtener la licencia de enterramiento del cuerpo de una persona fallecida. Si existe una sospecha razonable de que la persona ha fallecido como consecuencia de una neumonía provocada por una infección por COVID-19 ¿cuál de las siguientes afirmaciones es cierta?",
     "options": [
-      "En el CMD se hará c onstar que el ca dáver pertenece al grupo I, po r presentar enfermedad infecciosa que supone un riesgo relevante para la salud pública.",
+      "En el CMD se hará constar que el cadáver pertenece al grupo I, por presentar enfermedad infecciosa que supone un riesgo relevante para la salud pública.",
       "No se puede cumplimentar el CMD por tratarse de muerte sospechosa de criminalidad.",
-      "No se puede cumplimentar el CMD por que sólo se di spone de cri terios de presunción y no de confirmación, au nque la s circunstancias del fallecimiento y la patobiografía sean compatibles.",
-      "Se hará constar la infección por COVID-19 en el apartado de causa fund amental y no e n el apartado de causa inmediata. (--MEDICINA-0--34/36) Pagina: 32 de 34 (--MEDICINA-0--35/36) Pagina: 33 de 34 (--MEDICINA-0--36/36) Pagina: 34 de 34"
+      "No se puede cumplimentar el CMD por que sólo se dispone de criterios de presunción y no de confirmación, aunque las circunstancias del fallecimiento y la patobiografía sean compatibles.",
+      "Se hará constar la infección por COVID-19 en el apartado de causa fundamental y no en el apartado de causa inmediata."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 210 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** En casos de muerte sospechosa de criminalidad, el certificado médico de defunción no se puede cumplimentar inmediatamente, ya que la investigación policial debe priorizar la identificación de la causa de la muerte y determinar si se trata de un delito. En este sentido, la opción B es la correcta, ya que prioriza la investigación y la seguridad de la escena del crimen sobre la necesidad de emitir un certificado de defunción. Es importante destacar que la investigación policial debe ser prioritaria en casos de muerte sospechosa de criminalidad para garantizar la seguridad de la escena del crimen y la identificación de la causa de la muerte.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque no se relaciona directamente con la sospecha de muerte sospechosa de criminalidad. El grupo I se refiere a la clasificación de la muerte por enfermedad infecciosa, pero no tiene relación con la sospecha de criminalidad. En este caso, la opción A no es la correcta porque no se relaciona con la situación descrita en el enunciado.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque no se refiere a la sospecha de muerte sospechosa de criminalidad. Los criterios de presunción y confirmación se refieren a la certeza de la causa de la muerte, pero no tienen relación con la sospecha de criminalidad. En este caso, la opción C no es la correcta porque no se relaciona con la situación descrita en el enunciado.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque no se relaciona con la sospecha de muerte sospechosa de criminalidad. La distinción entre causa fundamental y causa inmediata se refiere a la clasificación de la causa de la muerte, pero no tiene relación con la sospecha de criminalidad. En este caso, la opción D no es la correcta porque no se relaciona con la situación descrita en el enunciado.\n\n**Perla MIR:** En casos de muerte sospechosa de criminalidad, prioriza la investigación y la seguridad de la escena del crimen sobre la necesidad de emitir un certificado de defunción."
   }
 ]
