@@ -2,9 +2,10 @@ import { NextRequest, NextResponse } from "next/server";
 import { promises as fs } from "fs";
 import path from "path";
 
+const getCwd = () => process.cwd();
+
 function getOutDir(year: string) {
-  const parts = ["public", "images", "exams", year];
-  return path.resolve(process.cwd(), ...parts);
+  return path.join(getCwd(), "public", "images", "exams", year);
 }
 
 export async function POST(req: NextRequest) {
