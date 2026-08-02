@@ -1627,29 +1627,29 @@
     "id": "q-118",
     "localNumber": 118,
     "category": "General",
-    "stem": "Varón de 41 años que consulta por gonalgia de varios días de evolución. En la exploración se realiza el test de Thessaly (dolor con los movi- mientos de rotación interna y externa con la rodilla flexionada) que resulta positivo. ¿Cuál de las siguientes lesiones es más probable?:",
+    "stem": "Varón de 41 años que consulta por dolor en la región de la rodilla de varios días de evolución. En la exploración se realiza el test de Thessaly (dolor con los movimientos de rotación interna y externa con la rodilla flexionada) que resulta positivo. ¿Cuál de las siguientes lesiones es más probable?",
     "options": [
       "Lesión meniscal.",
-      "Lesión por rotura del ligamento cruzado ante- rior.",
-      "Lesión por rotura del ligamento cruzado pos- terior.",
+      "Lesión por rotura del ligamento cruzado anterior.",
+      "Lesión por rotura del ligamento cruzado posterior.",
       "Lesión por artropatía degenerativa."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 118 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La lesión meniscal es la más probable en este caso debido a que el test de Thessaly es específico para detectar lesiones meniscales. Este test consiste en realizar movimientos de rotación interna y externa de la rodilla con la pierna flexionada, lo que puede causar dolor en caso de lesión meniscal. La lesión meniscal se caracteriza por la degeneración o rotura de los discos cartilaginosos que separan las superficies óseas de la rodilla, lo que puede causar dolor y limitación en el rango de movimiento.\n\n- **🔴 Opción B (Incorrecta):** La lesión por rotura del ligamento cruzado anterior no es la más probable en este caso. El test de Thessaly no es específico para detectar lesiones de ligamentos cruzados. La lesión por rotura del ligamento cruzado anterior se caracteriza por la rotura de los ligamentos que conectan el fémur con la tibia, lo que puede causar dolor y estabilidad en la rodilla.\n\n- **🔴 Opción C (Incorrecta):** La lesión por rotura del ligamento cruzado posterior no es la más probable en este caso. El test de Thessaly no es específico para detectar lesiones de ligamentos cruzados posteriores. La lesión por rotura del ligamento cruzado posterior se caracteriza por la rotura de los ligamentos que conectan la tibia con la fibia, lo que puede causar dolor y estabilidad en la rodilla.\n\n- **🔴 Opción D (Incorrecta):** La lesión por artropatía degenerativa no es la más probable en este caso. El test de Thessaly es específico para detectar lesiones meniscales y no es útil para diagnosticar artropatías degenerativas. La artropatía degenerativa se caracteriza por la degeneración de las articulaciones, lo que puede causar dolor y limitación en el rango de movimiento.\n\nLa perla MIR: 'El test de Thessaly es específico para detectar lesiones meniscales, así que si el paciente tiene dolor con los movimientos de rotación interna y externa con la rodilla flexionada, es probable que tenga una lesión meniscal'."
   },
   {
     "id": "q-119",
     "localNumber": 119,
     "category": "General",
-    "stem": "Mujer de 13 años, sin antecedentes relevantes, con menarquia hace 3 meses, seguida desde los 10 años por escoliosis idiopática que ha empeo- rado. En la exploración física presenta una giba de 7 grados en el test de Adams y en el escolio- grama una curva toracolumbar T4-L1 de 35 grados de Cobb y un Risser 0. La actitud co- rrecta a tomar será:",
+    "stem": "Mujer de 13 años, sin antecedentes relevantes, con menarquia hace 3 meses, seguida desde los 10 años por escoliosis idiopática que ha empeorado. En la exploración física presenta una curva de 7 grados en el test de Adams y en el escoliograma una curva toracolumbar T4-L1 de 35 grados de Cobb y un Risser 0. La actitud correcta a tomar será:",
     "options": [
-      "Recomendar natación y revisión en tres me- ses.",
+      "Recomendar natación y revisión en tres meses.",
       "Prescribir una ortesis tipo corsé.",
       "Derivar a fisioterapia para elastificación del raquis.",
-      "Revisar en 6 meses con una nueva radiogra- fía."
+      "Revisar en 6 meses con una nueva radiografía."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 119 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La escoliosis en esta paciente se encuentra en una etapa avanzada, con una curva de Cobb de 35 grados y un Risser 0, lo que indica un gran riesgo de progresión. La ortesis tipo corsé es una medida efectiva para estabilizar y corregir la curva de la columna vertebral, especialmente en pacientes con escoliosis idiopática avanzada. Esta opción es la correcta porque permite una estabilización temprana y evita la necesidad de intervenciones quirúrgicas más invasivas.\n- **🔴 Opción A (Incorrecta):** Recomendar natación y revisión en tres meses podría ser beneficioso para pacientes con escoliosis en etapas tempranas, pero no es adecuado para una paciente con una curva de Cobb de 35 grados. La natación puede ser contraproducente en pacientes con escoliosis avanzada, ya que puede empeorar la curva.\n- **🔴 Opción C (Incorrecta):** Derivar a fisioterapia para elastificación del raquis puede ser beneficioso para pacientes con escoliosis en etapas tempranas, pero no es adecuado para una paciente con una curva de Cobb de 35 grados. La fisioterapia puede ser insuficiente para estabilizar y corregir la curva de la columna vertebral en pacientes con escoliosis avanzada.\n- **🔴 Opción D (Incorrecta):** Revisar en 6 meses con una nueva radiografía puede ser beneficioso para pacientes con escoliosis en etapas tempranas, pero no es adecuado para una paciente con una curva de Cobb de 35 grados. La demora en la atención puede empeorar la curva de la columna vertebral y aumentar el riesgo de complicaciones.\n- **Perla MIR:** En la escoliosis avanzada, es fundamental tomar medidas agresivas para estabilizar y corregir la curva de la columna vertebral. La ortesis tipo corsé es una opción efectiva para evitar la necesidad de intervenciones quirúrgicas más invasivas."
   },
   {
     "id": "q-120",
@@ -1660,38 +1660,38 @@
       "El dolor mejora al andar de puntillas.",
       "Se asocia a la presencia de espolón calcáneo.",
       "El tratamiento de elección es quirúrgico.",
-      "Provoca dolor en la zona del talón, más inten- so al empezar a caminar."
+      "Provoca dolor en la zona del talón, más intenso al empezar a caminar."
     ],
     "correctIndex": -1,
-    "explanation": "Pregunta oficial número 120 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La fascitis plantar es una condición común que causa dolor en la zona del talón, especialmente al empezar a caminar. Esto se debe a la irritación de la fascia, una capa de tejido conectivo que se encuentra debajo de la piel del pie. El dolor puede ser intenso al principio, pero puede mejorar con el tiempo y el uso adecuado del pie.\n\n- **🔴 Opción A (Incorrecta):** La fascitis plantar no mejora al andar de puntillas. De hecho, el dolor puede empeorar con el tiempo si no se trata adecuadamente.\n\n- **🔴 Opción B (Incorrecta):** La presencia de espolón calcáneo puede estar asociada con la fascitis plantar, pero no es una condición exclusiva de esta afección. El espolón calcáneo es una protuberancia ósea que se encuentra en el talón, y puede causar dolor y presión en la zona del talón.\n\n- **🔴 Opción C (Incorrecta):** El tratamiento de elección para la fascitis plantar no es quirúrgico. En muchos casos, el tratamiento conservador puede ser efectivo, y puede incluir el uso de medicamentos antiinflamatorios, cambios en el estilo de vida, y ejercicios para fortalecer los músculos del pie y la zona del talón.\n\nLa perla MIR: La fascitis plantar es una condición común que causa dolor en la zona del talón, especialmente al empezar a caminar. Es importante reconocer los síntomas y tratar la condición adecuadamente para evitar complicaciones y dolor crónico."
   },
   {
     "id": "q-121",
     "localNumber": 121,
     "category": "Traumatología",
-    "stem": "Mujer de 79 años que ingresa por una fractura osteoporótica de cadera. Respecto a la preven- ción secundaria de las fracturas por fragilidad, señale la respuesta INCORRECTA:",
+    "stem": "Mujer de 79 años que ingresa por una fractura osteoporótica de cadera. Respecto a la prevención secundaria de las fracturas por fragilidad, señale la respuesta INCORRECTA.",
     "options": [
       "La baja adherencia al tratamiento se asocia a un incremento del riesgo de fractura.",
       "Los marcadores de remodelado óseo pueden ser útiles para monitorizar de forma precoz la respuesta al tratamiento.",
       "La vitamina D en monoterapia es eficaz en la reducción de dichas fracturas en personas mayores no institucionalizadas.",
-      "El aumento de calcio dietético o tomar su- plementos de calcio de forma aislada no pro- tegen frente a la aparición de fracturas."
+      "El aumento de calcio dietético o tomar suplementos de calcio de forma aislada no protegen frente a la aparición de fracturas."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 121 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La opción C es la respuesta correcta porque la vitamina D en monoterapia no es eficaz en la reducción de fracturas en personas mayores no institucionalizadas. La evidencia científica sugiere que la vitamina D debe ser administrada en combinación con el calcio para prevenir fracturas en personas mayores. La vitamina D sola no es suficiente para proteger contra la osteoporosis y las fracturas.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque la baja adherencia al tratamiento no se asocia directamente a un incremento del riesgo de fractura. La adherencia al tratamiento puede influir en la efectividad del tratamiento, pero no es un factor de riesgo directo para la fractura.\n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque los marcadores de remodelado óseo no son útiles para monitorizar de forma precoz la respuesta al tratamiento. Los marcadores de remodelado óseo pueden ser utilizados para evaluar la velocidad de remodelado óseo, pero no son una herramienta efectiva para monitorizar la respuesta al tratamiento en la prevención de fracturas.\n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque el aumento de calcio dietético o tomar suplementos de calcio de forma aislada sí protegen frente a la aparición de fracturas. El calcio es un nutriente importante para la salud ósea, y el aumento de la ingesta de calcio puede ayudar a prevenir fracturas en personas mayores. Sin embargo, es importante mencionar que el calcio debe ser administrado en combinación con la vitamina D para un efecto óptimo.\n\nLa perla MIR: La prevención secundaria de las fracturas por fragilidad es crucial en la atención médica, y es importante elegir el tratamiento adecuado para cada paciente."
   },
   {
     "id": "q-122",
     "localNumber": 122,
     "category": "General",
-    "stem": "Paciente de 78 años sin antecedentes que con- sulta por astenia y disnea de 3 meses de evolu- ción, que ha progresado hasta hacerse de reposo en los últimos días. En los días previos refiere también dolor torácico d e características angi- nosas con pequeños esfuerzos. En la exploración destaca presión arterial de 110/80 mmHg, fre- cuencia cardíaca de 85 lpm y auscultación con un soplo sistólico áspero en segundo espacio intercostal derecho y crepitantes en ambas ba- ses pulmonares. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "stem": "Paciente de 78 años sin antecedentes que consulta por astenia y disnea de 3 meses de evolución, que ha progresado hasta hacerse de reposo en los últimos días. En los días previos refiere también dolor torácico de características anginosa con pequeños esfuerzos. En la exploración destaca presión arterial de 110/80 mmHg, frecuencia cardíaca de 85 lpm y auscultación con un soplo sistólico áspero en segundo espacio intercostal derecho y crepitantes en ambas bases pulmonares.",
     "options": [
       "Insuficiencia mitral.",
       "Estenosis aórtica.",
       "Insuficiencia aórtica.",
-      "Miocardiopatía dilatada de origen isquémico. - 18 -"
+      "Miocardiopatía dilatada de origen isquémico."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 122 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La estenosis aórtica es una afección en la que se produce un estrechamiento de la válvula aórtica, lo que provoca una obstrucción del flujo sanguíneo desde la aurícula izquierda hacia la cámara de contracción del corazón (ventrículo izquierdo). Esto puede llevar a un aumento de la presión en la aurícula izquierda y, eventualmente, a una insuficiencia cardíaca. Los síntomas pueden incluir dolor torácico anginosa, disnea, astenia y, en casos avanzados, dolor torácico con pequeños esfuerzos. La auscultación puede revelar un soplo sistólico áspero en el segundo espacio intercostal derecho, lo que sugiere una estenosis aórtica. La presencia de crepitantes en ambas bases pulmonares puede indicar una insuficiencia cardíaca congestiva. Por lo tanto, la estenosis aórtica es el diagnóstico más probable en este caso. \n\n- **🔴 Opción A (Incorrecta):** La insuficiencia mitral se refiere a una afección en la que la válvula mitral no se cierra adecuadamente, permitiendo que el sangre regrese al ventrículo izquierdo durante la contracción del corazón. Aunque puede presentarse con síntomas como disnea y astenia, no se relaciona directamente con el dolor torácico anginosa y el soplo sistólico áspero descritos en el caso. \n\n- **🔴 Opción C (Incorrecta):** La insuficiencia aórtica se refiere a una afección en la que la válvula aórtica no se cierra adecuadamente, permitiendo que el sangre regrese al ventrículo izquierdo durante la contracción del corazón. Esto puede llevar a una insuficiencia cardíaca, pero no se relaciona directamente con el dolor torácico anginosa y el soplo sistólico áspero descritos en el caso. \n\n- **🔴 Opción D (Incorrecta):** La miocardiopatía dilatada de origen isquémico es una afección en la que el corazón se dilata debido a una falta de oxígeno y nutrientes. Esto puede llevar a una insuficiencia cardíaca, pero no se relaciona directamente con el dolor torácico anginosa y el soplo sistólico áspero descritos en el caso. \n\nLa perla MIR es: 'La estenosis aórtica se caracteriza por un dolor torácico anginosa, astenia y disnea, con un soplo sistólico áspero en el segundo espacio intercostal derecho.'"
   },
   {
     "id": "q-123",
