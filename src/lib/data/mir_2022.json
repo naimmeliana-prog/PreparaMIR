@@ -703,21 +703,21 @@
     "id": "q-51",
     "localNumber": 51,
     "category": "General",
-    "stem": "Las vacunas conjugadas:",
+    "stem": "Las vacunas conjugadas son vacunas de polisacáridos conjugadas con una proteína para hacerla dependiente de linfocitos T y lograr memoria inmunológica a largo plazo.",
     "options": [
-      "Son vacunas de virus y bacterias combinadas para hacerlas menos inmunógenas y que pro- voquen menos efectos secundarios.",
+      "Son vacunas de virus y bacterias combinadas para hacerlas menos inmunógenas y que provoquen menos efectos secundarios.",
       "Son vacunas de virus enteros conjugadas con un polisacárido para poder combinarlas y hacer la trivalente o tetravalente vírica.",
       "Son vacunas bacterianas conjugadas con un polisacárido para poder combinarlas y hacer vacunas penta o hexavalentes.",
-      "Son vacunas polisacáridas conjugadas con una proteína para hacerla dependiente de linfocitos T y lograr memoria inmunológica a largo pla- zo."
+      "Son vacunas polisacáridas conjugadas con una proteína para hacerla dependiente de linfocitos T y lograr memoria inmunológica a largo plazo."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 51 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Las vacunas conjugadas son un tipo de vacuna que combina un polisacárido con una proteína. Esto permite que la vacuna sea más efectiva y que se produzca una respuesta inmunológica más fuerte y duradera. La conjugación de un polisacárido con una proteína hace que la vacuna sea dependiente de linfocitos T, lo que significa que requiere la participación de estas células para activar una respuesta inmunológica. Esto es importante porque los linfocitos T son esenciales para la memoria inmunológica a largo plazo.\n\n- **🔴 Opción A (Incorrecta):** Las vacunas conjugadas no son simplemente vacunas de virus y bacterias combinadas. La conjugación de un polisacárido con una proteína es lo que hace que una vacuna sea efectiva, no la combinación de virus y bacterias.\n\n- **🔴 Opción B (Incorrecta):** Las vacunas conjugadas no son vacunas de virus enteros conjugadas con un polisacárido. La conjugación de un polisacárido con una proteína es lo que hace que una vacuna sea efectiva, no la combinación de virus enteros y un polisacárido.\n\n- **🔴 Opción C (Incorrecta):** Las vacunas conjugadas no son vacunas bacterianas conjugadas con un polisacárido. La conjugación de un polisacárido con una proteína es lo que hace que una vacuna sea efectiva, no la conjugación de un polisacárido con una bacteria.\n\nLa perla MIR: Las vacunas conjugadas son una forma de hacer que las vacunas sean más efectivas y que se produzca una respuesta inmunológica más fuerte y duradera. Esto se logra conjugando un polisacárido con una proteína, lo que hace que la vacuna sea dependiente de linfocitos T y que se produzca memoria inmunológica a largo plazo."
   },
   {
     "id": "q-52",
     "localNumber": 52,
     "category": "General",
-    "stem": "Un ensa yo clínico en el cual l os participantes se asignan por azar a una de varias intervenciones clínicas se conoce como:",
+    "stem": "Un ensayo clínico en el cual los participantes se asignan por azar a una de varias intervenciones clínicas se conoce como",
     "options": [
       "Ensayo doble ciego.",
       "Ensayo controlado no aleatorizado.",
@@ -725,13 +725,13 @@
       "Ensayo de superioridad."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 52 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Un ensayo clínico controlado aleatorizado es un diseño experimental en el que los participantes se asignan por azar a una de varias intervenciones clínicas, lo que permite minimizar los sesgos y garantizar la comparabilidad entre los grupos de tratamiento y control. Este diseño es considerado el más robusto para evaluar la eficacia de una intervención clínica.\n\n- **🔴 Opción A (Incorrecta):** Un ensayo doble ciego no se refiere a la asignación aleatoria de los participantes a diferentes intervenciones clínicas, sino a la condición en la que tanto los participantes como los investigadores no conocen el grupo al que han sido asignados, lo que ayuda a evitar sesgos en la evaluación de los resultados.\n\n- **🔴 Opción B (Incorrecta):** Un ensayo controlado no aleatorizado se refiere a un diseño en el que los participantes se asignan a diferentes intervenciones clínicas de manera no aleatoria, lo que puede introducir sesgos en la evaluación de la eficacia de la intervención.\n\n- **🔴 Opción D (Incorrecta):** Un ensayo de superioridad no es un diseño específico de ensayo clínico, sino más bien una comparación entre diferentes intervenciones para determinar cuál es la más efectiva.\n\n**Perla MIR:** Para recordar la definición correcta, puedes utilizar la siguiente fórmula: ALEATORIZACIÓN + CONTROLADO = Ensayo Controlado Aleatorizado (ECA)."
   },
   {
     "id": "q-53",
     "localNumber": 53,
     "category": "General",
-    "stem": "En el manejo de una mujer embarazada diagnos- ticada de trastorno bipolar. ¿Cuál de los siguien- tes fármacos es efectivo en esta enfermedad y se ha establecido como más seguro en el embara- zo?:",
+    "stem": "En el manejo de una mujer embarazada diagnosticada de trastorno bipolar. ¿Cuál de los siguientes fármacos es efectivo en esta enfermedad y se ha establecido como más seguro en el embarazo?",
     "options": [
       "Flufenazina.",
       "Olanzapina.",
@@ -739,27 +739,27 @@
       "Carbamazepina."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 53 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La olanzapina es un antipsicótico atípico que se considera seguro en el embarazo. Se ha utilizado en pacientes con trastorno bipolar durante la gestación, ya que tiene un perfil de seguridad aceptable. Además, ha demostrado ser efectivo en la prevención de episodios maníacos y depresivos en mujeres embarazadas con trastorno bipolar. Es importante destacar que, aunque no es perfectamente seguro, la olanzapina es una opción más segura en comparación con otros antipsicóticos que pueden tener efectos adversos más graves en el feto o en la madre durante el embarazo.\n\n- **🔴 Opción A (Incorrecta):** La flufenazina es un antipsicótico perteneciente a la familia de los fenotiazinas. Aunque es efectivo en el tratamiento del trastorno bipolar, no se considera seguro en el embarazo debido a su potencial para causar efectos adversos en el feto, como hipotensión, bradicardia y otros problemas cardíacos. Por lo tanto, no es la opción más adecuada en este caso.\n\n- **🔴 Opción C (Incorrecta):** El litio es un medicamento utilizado comúnmente en el tratamiento del trastorno bipolar, pero no se considera seguro en el embarazo. De hecho, puede causar efectos adversos graves en el feto, como cardiomegalia, hipotiroidismo y otros problemas de salud. Por lo tanto, no es la opción más adecuada en este caso.\n\n- **🔴 Opción D (Incorrecta):** La carbamazepina es un anticonvulsivante que se utiliza en el tratamiento del trastorno bipolar, pero no se considera seguro en el embarazo. De hecho, puede causar efectos adversos graves en el feto, como cardiomegalia, hipotiroidismo y otros problemas de salud. Además, puede interactuar con otros medicamentos y aumentar el riesgo de efectos adversos en la madre y el feto. Por lo tanto, no es la opción más adecuada en este caso.\n\nLa perla MIR es: La seguridad del fármaco en el embarazo es crucial en el tratamiento del trastorno bipolar. La olanzapina es una opción más segura en comparación con otros antipsicóticos, pero siempre es importante evaluar los beneficios y riesgos de cada medicamento en cada paciente individual."
   },
   {
     "id": "q-54",
     "localNumber": 54,
     "category": "Nefrología",
-    "stem": "Paciente de 69 años dia gnosticado de linfoma a quien se pauta un tratamiento intravenoso con metotrexato. Al tercer dí a de tratamiento pre- senta nefrotoxicidad y retraso en la eliminación renal del fármaco con pH urinario menor de 7. Teniendo en cuenta la naturaleza química del metotrexato (pKa entre 4 y 5 , 5 ) . ¿Cuál de las siguientes actuaciones sería la más correcta para manejar la toxicidad?:",
+    "stem": "Paciente de 69 años diagnosticado de linfoma a quien se pauta un tratamiento intravenoso con metotrexato. Al tercer día de tratamiento presenta nefrotoxicidad y retraso en la eliminación renal del fármaco con pH urinario menor de 7. Teniendo en cuenta la naturaleza química del metotrexato (pKa entre 4 y 5,5). ¿Cuál de las siguientes actuaciones sería la más correcta para manejar la toxicidad?",
     "options": [
-      "Administración intravenosa de suero fisiológi- co con cloruro amónico para facilitar la elimi- nación renal del metotrexato.",
+      "Administración intravenosa de suero fisiológico con cloruro amónico para facilitar la eliminación renal del metotrexato.",
       "Administración intravenosa de solución de bicarbonato sódico para acelerar la diuresis del metotrexato.",
-      "Administración enteral de solución de bicarbo- nato sódico para reducir la absorción digestiva del metotrexato.",
+      "Administración enteral de solución de bicarbonato sódico para reducir la absorción digestiva del metotrexato.",
       "Administración intravenosa de furosemida en suero con pH neutro para provocar una diuresis forzada."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 54 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La administración intravenosa de solución de bicarbonato sódico es la opción más adecuada para manejar la nefrotoxicidad y retraso en la eliminación renal del metotrexato. El metotrexato es un ácido de pKa entre 4 y 5,5, lo que significa que en un entorno ácido, se une a las proteínas plasmáticas y se elimina más lentamente. Al aumentar el pH urinario mediante la administración de bicarbonato sódico, se facilita la excreción del metotrexato y se reduce su nefrotoxicidad. Además, el bicarbonato sódico ayuda a mantener el pH urinario entre 7 y 8, lo que es óptimo para la excreción del metotrexato.\n\n- **🔴 Opción A (Incorrecta):** La administración intravenosa de suero fisiológico con cloruro amónico no es la opción más adecuada para manejar la nefrotoxicidad y retraso en la eliminación renal del metotrexato. El cloruro amónico puede aumentar el pH urinario, pero no es lo suficientemente efectivo para facilitar la excreción del metotrexato en un entorno ácido.\n\n- **🔴 Opción C (Incorrecta):** La administración enteral de solución de bicarbonato sódico no es la opción más adecuada para manejar la nefrotoxicidad y retraso en la eliminación renal del metotrexato. La absorción digestiva del bicarbonato sódico puede variar y no es lo suficientemente efectiva para reducir la absorción digestiva del metotrexato.\n\n- **🔴 Opción D (Incorrecta):** La administración intravenosa de furosemida en suero con pH neutro no es la opción más adecuada para manejar la nefrotoxicidad y retraso en la eliminación renal del metotrexato. El furosemida puede provocar una diuresis forzada, pero no es lo suficientemente efectivo para facilitar la excreción del metotrexato en un entorno ácido.\n\nLa perla MIR: Cuando se presenta nefrotoxicidad y retraso en la eliminación renal del metotrexato, la administración intravenosa de solución de bicarbonato sódico es la opción más adecuada para manejar la toxicidad. Esto se debe a que el metotrexato es un ácido de pKa entre 4 y 5,5, y el aumento del pH urinario mediante la administración de bicarbonato sódico facilita la excreción del metotrexato y reduce su nefrotoxicidad."
   },
   {
     "id": "q-55",
     "localNumber": 55,
     "category": "Cardiología",
-    "stem": "¿Cuál es el mecanismo por el que la ivabradina, actuando en las células del nodo sinoauricular, produce una disminución de la frecuencia car- díaca?:",
+    "stem": "¿Cuál es el mecanismo por el que la ivabradina, actuando en las células del nodo sinoauricular, produce una disminución de la frecuencia cardíaca?",
     "options": [
       "Potencia la repolarización al activar corrientes de salida de potasio.",
       "Modula los receptores beta-1 adrenérgicos.",
@@ -767,7 +767,7 @@
       "Activa los receptores muscarínicos M2."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 55 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La ivabradina es un bloqueador específico de la corriente de marcapaso If, que es una de las corrientes responsables de la generación de las ondas P en el nodo sinoauricular. Al bloquear esta corriente, la ivabradina disminuye la frecuencia cardíaca al reducir la velocidad a la que se generan las ondas P. Esto se traduce en una disminución de la frecuencia cardíaca, lo que es beneficioso en pacientes con fibrilación auricular o taquicardia supraventricular recurrente.\n\n- **🔴 Opción A (Incorrecta):** La repolarización es un proceso importante en la generación de las ondas cardíacas, pero la ivabradina no actúa potenciando la repolarización. En realidad, la ivabradina reduce la frecuencia cardíaca al bloquear la corriente de marcapaso If, no al potenciar la repolarización.\n\n- **🔴 Opción B (Incorrecta):** Los receptores beta-1 adrenérgicos son responsables de la estimulación de la frecuencia cardíaca en respuesta a la adrenalina. La ivabradina no actúa modulando estos receptores, sino que bloquea la corriente de marcapaso If para disminuir la frecuencia cardíaca.\n\n- **🔴 Opción D (Incorrecta):** Los receptores muscarínicos M2 son responsables de la estimulación del ritmo cardíaco en respuesta a la acetilcolina. La ivabradina no actúa activando estos receptores, sino que bloquea la corriente de marcapaso If para disminuir la frecuencia cardíaca.\n\nLa perla MIR: La ivabradina bloquea la corriente de marcapaso If para disminuir la frecuencia cardíaca. Recuerda esto para que no te la quedes sin aliento en el examen MIR."
   },
   {
     "id": "q-56",
