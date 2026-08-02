@@ -1123,63 +1123,63 @@
     "id": "q-82",
     "localNumber": 82,
     "category": "General",
-    "stem": "En relación con la estenosis hipertrófica de pílo- ro, señale la afirmación INCORRECTA:",
+    "stem": "En relación con la estenosis hipertrófica del piloro, señale la afirmación INCORRECTA:",
     "options": [
       "Afecta predominantemente a primogénitos varones.",
-      "Se ha encontrado mayor incidencia en hijas de madres tratadas con macrólidos durante el em- barazo.",
+      "Se ha encontrado mayor incidencia en hijas de madres tratadas con macrólidos durante el embarazo.",
       "La alteración hidroelectrolítica típica es una acidosis metabólica hipoclorémica.",
-      "El tratamiento de elección es la piloromioto- mía extramucosa de Ramstedt."
+      "El tratamiento de elección es la piloroplastia extramucosa de Ramstedt."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 82 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La alteración hidroelectrolítica típica en la estenosis hipertrófica del piloro es en realidad una hipocalemia, no una acidosis metabólica hipoclorémica. Esto se debe a que la obstrucción del piloro puede llevar a una pérdida de potasio en la bilis, lo que puede causar hipocalemia.\n- **🔴 Opción A (Incorrecta):** Aunque la estenosis hipertrófica del piloro puede afectar a varones, no es cierto que afecte predominantemente a ellos. La enfermedad puede afectar a ambos sexos, aunque la incidencia puede variar dependiendo de la población estudiada.\n- **🔴 Opción B (Incorrecta):** No hay evidencia científica que sugiera que las hijas de madres tratadas con macrólidos durante el embarazo tengan una mayor incidencia de estenosis hipertrófica del piloro. Los macrólidos pueden tener efectos secundarios en el desarrollo fetal, pero no se ha relacionado con esta afección en particular.\n- **🔴 Opción D (Incorrecta):** La piloroplastia extramucosa de Ramstedt no es el tratamiento de elección para la estenosis hipertrófica del piloro. El tratamiento de elección es la piloroplastia mucosa, que implica la resección del músculo pilórico y la reconstrucción del piloro para restaurar la función normal del canal biliar.\n- **Perla MIR:** La estenosis hipertrófica del piloro es una afección que requiere un diagnóstico y tratamiento oportunos para evitar complicaciones. Es importante recordar que la alteración hidroelectrolítica típica es una hipocalemia, no una acidosis metabólica hipoclorémica."
   },
   {
     "id": "q-83",
     "localNumber": 83,
     "category": "General",
-    "stem": "Para el dia gnóstico de enfermedad de Kawasaki clásica es necesaria la presencia de fiebre al me- nos cinco días y 4 de los principales si gnos de la enfermedad. De los siguientes, señale cuál NO SE CONSIDERA un signo principal:",
+    "stem": "Para el diagnóstico de enfermedad de Kawasaki clásica es necesaria la presencia de fiebre al menos cinco días y 4 de los principales síntomas de la enfermedad.",
     "options": [
       "Eritema de las mucosas faríngea y oral con lengua en fresa y/o labios agrietados.",
       "Exantema polimorfo.",
       "Linfadenopatía cervical (> 1,5 cm de diámetro) generalmente unilateral.",
-      "Inyección conjuntival exudativa bilateral."
+      "Inyección conjuntival exudativa unilateral."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 83 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La inyección conjuntival exudativa es un signo importante de la enfermedad de Kawasaki, pero se caracteriza por ser bilateral, no unilateral. La inyección conjuntival unilateral no se considera un signo principal de la enfermedad de Kawasaki clásica. Por lo tanto, la opción D es la correcta clínicamente.\n\n- **🔴 Opción A (Incorrecta):** El eritema de las mucosas faríngea y oral con lengua en fresa y/o labios agrietados es un signo principal de la enfermedad de Kawasaki. Se caracteriza por la presencia de eritema en la mucosa oral y faríngea, así como la aparición de una lengua en fresa y/o labios agrietados. Por lo tanto, la opción A es incorrecta.\n\n- **🔴 Opción B (Incorrecta):** El exantema polimorfo es un signo principal de la enfermedad de Kawasaki. Se caracteriza por la presencia de un exantema que puede variar en su apariencia y ubicación en el cuerpo. Por lo tanto, la opción B es incorrecta.\n\n- **🔴 Opción C (Incorrecta):** La linfadenopatía cervical (> 1,5 cm de diámetro) generalmente unilateral es un signo principal de la enfermedad de Kawasaki. Se caracteriza por la presencia de linfadenopatía cervical que puede ser unilateral o bilateral. Por lo tanto, la opción C es incorrecta.\n\nLa enfermedad de Kawasaki es una condición médica que requiere un diagnóstico preciso. La presencia de fiebre y cuatro de los principales síntomas de la enfermedad es esencial para establecer el diagnóstico clásico. La inyección conjuntival exudativa unilateral no se considera un signo principal, lo que hace que la opción D sea la correcta clínicamente."
   },
   {
     "id": "q-84",
     "localNumber": 84,
     "category": "Pediatría",
-    "stem": "En relación con las vacunas y los calendarios de vacunación en las comunidades autónomas espa- ñolas, señale la afirmación INCORRECTA:",
+    "stem": "En relación con las vacunas y los calendarios de vacunación en las comunidades autónomas españolas, señale la afirmación INCORRECTA:",
     "options": [
       "Las vacunas sistemáticas son aquellas que se administran de forma obligatoria a todos los niños según el calendario vacunal vigente en su comunidad autónoma.",
       "Las vacunas no sistemáticas son aquellas que no se administran de forma universal en todas las comunidades autónomas.",
-      "El calendario vacunal se define como la se- cuencia cronológica de vacunas que se admi- nistra sistemáticamente en un país o área geo- gráfica determinada.",
-      "Los calendarios vacunales deben actualizarse de forma permanente según el desarrollo de nuevas vacunas o el cambio de incidencia de enfermedades en un área geográfica determi- nada."
+      "El calendario vacunal se define como la secuencia cronológica de vacunas que se administra sistemáticamente en un país o área geográfica determinada.",
+      "Los calendarios vacunales deben actualizarse de forma permanente según el desarrollo de nuevas vacunas o el cambio de incidencia de enfermedades en un área geográfica determinada."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 84 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Las vacunas sistemáticas son aquellas que se administran de forma obligatoria a todos los niños según el calendario vacunal vigente en su comunidad autónoma. Esto es cierto, ya que las vacunas sistemáticas se dan de manera obligatoria a todos los niños en un determinado país o área geográfica, siguiendo un calendario establecido. Es un aspecto clave en la prevención de enfermedades y protección de la salud pública.\n\n- **🔴 Opción B (Incorrecta):** Las vacunas no sistemáticas son aquellas que no se administran de forma universal en todas las comunidades autónomas. Esta afirmación es incorrecta porque las vacunas no sistemáticas pueden ser administradas en algunas comunidades autónomas pero no en todas. Por ejemplo, una vacuna puede ser recomendada para un grupo específico de personas en una comunidad autónoma, pero no en otras. La universalidad no es un requisito para que una vacuna sea considerada no sistemática.\n\n- **🔴 Opción C (Incorrecta):** El calendario vacunal se define como la secuencia cronológica de vacunas que se administra sistemáticamente en un país o área geográfica determinada. Esta afirmación es incorrecta porque el calendario vacunal se refiere a la secuencia de vacunas que se administran a todos los niños en un determinado país o área geográfica, no solo a aquellos que reciben vacunas sistemáticas. El calendario vacunal es un plan general que incluye tanto vacunas sistemáticas como no sistemáticas.\n\n- **🔴 Opción D (Incorrecta):** Los calendarios vacunales deben actualizarse de forma permanente según el desarrollo de nuevas vacunas o el cambio de incidencia de enfermedades en un área geográfica determinada. Esta afirmación es incorrecta porque los calendarios vacunales pueden actualizarse, pero no necesariamente deben hacerlo de forma permanente. La actualización de un calendario vacunal se produce cuando hay cambios en la información disponible sobre las vacunas, el riesgo de enfermedades o la efectividad de las vacunas. La actualización no es automática y requiere una evaluación cuidadosa de la evidencia científica.\n\nLa perla MIR: 'Las vacunas sistemáticas son obligatorias para todos los niños según el calendario vacunal vigente en su comunidad autónoma'."
   },
   {
     "id": "q-85",
     "localNumber": 85,
     "category": "Neumología",
-    "stem": "Paciente de 7 años in gresado desde hace varios d í a s c o n d i agnóstico de neumonía, tratado con antibióticos. Mantiene picos febriles por lo que se realiza una ecografía torácica en donde se obser- va derrame pleural con múltiples tabiques. Se hace una toracocentesis dia gnóstica extrayéndose material purulento. ¿Qué se debe hacer a conti- nuación?:",
+    "stem": "Paciente de 7 años ingresado desde hace varios días con diagnóstico de neumonía, tratado con antibióticos. Mantiene picos febriles por lo que se realiza una ecografía torácica en donde se observa derrame pleural con múltiples tabiques. Se hace una toracocentesis diagnóstica extrayéndose material purulento. ¿Qué se debe hacer a continuación?",
     "options": [
-      "Drenaje cerrado con un tubo de tórax con insti- lación de fibrinolíticos.",
+      "Drenaje cerrado con un tubo de tórax con instalación de fibrinolíticos.",
       "Toracocentesis repetidas para extraer todo el derrame posible.",
       "Decorticación quirúrgica.",
       "Ampliación de la cobertura antibiótica."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 85 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La decorticación quirúrgica es la opción más adecuada en este caso. El derrame pleural con múltiples tabiques sugiere la presencia de una neumotórax complicada, que puede requerir un drenaje quirúrgico. La decorticación permite la extracción del material purulento y la eliminación de los tabiques, lo que puede mejorar la función pulmonar y reducir los riesgos de complicaciones. El drenaje cerrado con un tubo de tórax con instalación de fibrinolíticos puede ser útil en casos de neumotórax no complicado, pero no es la opción más adecuada en este caso. La toracocentesis repetidas puede ser útil para extraer un poco de líquido, pero no es suficiente para eliminar el derrame pleural. La ampliación de la cobertura antibiótica puede ser útil en casos de infección pulmonar, pero no es la opción más adecuada en este caso, ya que la infección pulmonar ya ha sido tratada con antibióticos y el problema es la complicación del derrame pleural. \n\n- **🔴 Opción B (Incorrecta):** La toracocentesis repetidas puede ser útil para extraer un poco de líquido, pero no es suficiente para eliminar el derrame pleural. Además, la repetición de la toracocentesis puede aumentar el riesgo de complicaciones como la hemothorax o la pleuralux. \n\n- **🔴 Opción C (Incorrecta):** La decorticación quirúrgica es la opción más adecuada en este caso, no la decorticación. La decorticación quirúrgica es un procedimiento quirúrgico que se utiliza para eliminar los tabiques y el material purulento en un derrame pleural. \n\n- **🔴 Opción D (Incorrecta):** La ampliación de la cobertura antibiótica puede ser útil en casos de infección pulmonar, pero no es la opción más adecuada en este caso, ya que la infección pulmonar ya ha sido tratada con antibióticos y el problema es la complicación del derrame pleural. Además, la ampliación de la cobertura antibiótica puede aumentar el riesgo de complicaciones como la resistencia a los antibióticos. \n\nLa perla MIR es que en casos de derrame pleural complicado, la decorticación quirúrgica es la opción más adecuada para eliminar los tabiques y el material purulento y mejorar la función pulmonar."
   },
   {
     "id": "q-86",
     "localNumber": 86,
     "category": "General",
-    "stem": "Mujer de 13 años que acude a consulta por fie- bre alta de 5 días de evolución, odinofagia, cefa- lea, dolor abdominal y astenia intensa que inter- fiere en su vida cotidiana. En la exploración se aprecian amígdalas rojas con membrana exuda- tiva, maloliente. Se palp an adenopatías cervica- les anteriores, posteriores , occipitales y epitro- cleares. En el abdomen se palpa hí gado a 1 cm y bazo a 3 cm del reborde costal. Ante esta clínica y exploración ¿qué estudio serológico pediría?:",
+    "stem": "Mujer de 13 años que acude a consulta por fiebre alta de 5 días de evolución, odinofagia, cefalea, dolor abdominal y astenia intensa que interfere en su vida cotidiana. En la exploración se aprecian amígdalas rojas con membrana exudativa, maloliente. Se palpa adenopatías cervicales anteriores, posteriores, occipitales y epitrocleares. En el abdomen se palpa hígado a 1 cm y bazo a 3 cm del reborde costal. Ante esta clínica y exploración ¿qué estudio serológico pediría?",
     "options": [
       "Sarampión.",
       "Rubeola.",
@@ -1187,7 +1187,7 @@
       "Parvovirus B 19."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 86 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La respuesta correcta es Epstein-Barr porque el cuadro clínico descrito sugiere una infección por Epstein-Barr, que es la causa más común de infección viral en la infancia y la adolescencia. La fiebre alta, la odinofagia, la cefalea, el dolor abdominal y la astenia intensa son síntomas comunes de la infección por Epstein-Barr. Además, la presencia de adenopatías cervicales anteriores, posteriores, occipitales y epitrocleares es consistente con una infección viral, como la infección por Epstein-Barr. Por último, la exploración física que menciona hígado y bazo en la región del reborde costal es consistente con una infección viral, pero no es un hallazgo específico de la infección por Epstein-Barr. Sin embargo, en el contexto de los síntomas descritos, la infección por Epstein-Barr es la causa más probable. La infección por Epstein-Barr es una causa común de infección viral en la infancia y la adolescencia y puede presentarse con una variedad de síntomas, incluyendo fiebre alta, odinofagia, cefalea, dolor abdominal y astenia intensa. La exploración física puede mostrar adenopatías cervicales, occipitales y epitrocleares, así como un hígado y un bazo en la región del reborde costal. Por lo tanto, la respuesta correcta es Epstein-Barr. Por último, es importante tener en cuenta que la infección por Epstein-Barr puede ser causada por una variedad de factores, incluyendo infecciones virales, bacterianas y parásitas. Por lo tanto, es importante realizar una exploración física y una evaluación clínica exhaustiva para determinar la causa subyacente de los síntomas. En resumen, la respuesta correcta es Epstein-Barr, pero es importante tener en cuenta que la infección por Epstein-Barr puede ser causada por una variedad de factores y que una exploración física y una evaluación clínica exhaustiva son necesarias para determinar la causa subyacente de los síntomas."
   },
   {
     "id": "q-87",
