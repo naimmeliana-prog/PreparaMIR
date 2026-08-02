@@ -1473,21 +1473,21 @@
     "id": "q-107",
     "localNumber": 107,
     "category": "Neumología",
-    "stem": "Paciente de 58 años que sufre una neumonía por COVID 19 que precisa intubación con ventila- ción mecánica en UCI. A la semana se realiza una traqueostomía y sigue precisando ventila- ción mecánica. Se detecta un déficit motor en las cuatro extremidades con hiporreflexia generali- zada. La orientación diagn óstica inicial y la acti- tud terapéutica a seguir serán:",
+    "stem": "Paciente de 58 años que sufre una neumonía por COVID-19 que precisa intubación con ventilación mecánica en UCI. A la semana se realiza una traqueostomía y sigue precisando ventilación mecánica. Se detecta un déficit motor en las cuatro extremidades con hiporreflexia generalizada. La orientación diagnóstica inicial y la actividad terapéutica a seguir serán:",
     "options": [
       "Síndrome de Guillain-Barré. Confirmar el diagnóstico con pruebas complementarias.",
-      "Síndrome postCOVID. Rehabilitación respira- toria.",
+      "Síndrome post-COVID. Rehabilitación respiratoria.",
       "Miopatía del enfermo crítico. Corticoides y pruebas complementarias.",
       "Miopatía del enfermo crítico. Rehabilitación respiratoria y motora intensivas."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 107 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La respuesta correcta es la opción D, ya que el paciente presenta un déficit motor en las cuatro extremidades con hiporreflexia generalizada, lo que sugiere una miopatía del enfermo crítico. Esta condición se caracteriza por la debilidad muscular y la hiporreflexia, que pueden desarrollarse en pacientes que han requerido ventilación mecánica durante períodos prolongados. La rehabilitación respiratoria y motora intensivas es la actividad terapéutica adecuada para abordar esta condición y mejorar la función muscular y la capacidad respiratoria del paciente.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque el síndrome de Guillain-Barré se caracteriza por una inflamación del sistema nervioso periférico que puede causar debilidad muscular y parálisis. Sin embargo, en este caso, el paciente ya tiene una traqueostomía y sigue requiriendo ventilación mecánica, lo que sugiere una miopatía del enfermo crítico en lugar de un síndrome de Guillain-Barré. Además, la confirmación del diagnóstico con pruebas complementarias no es suficiente para determinar la actividad terapéutica adecuada.\n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque el síndrome post-COVID puede causar una variedad de síntomas, incluyendo la fatiga y la debilidad muscular. Sin embargo, en este caso, el paciente tiene un déficit motor en las cuatro extremidades con hiporreflexia generalizada, lo que sugiere una miopatía del enfermo crítico en lugar de un síndrome post-COVID. La rehabilitación respiratoria no es suficiente para abordar la condición del paciente.\n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque la miopatía del enfermo crítico se caracteriza por la debilidad muscular y la hiporreflexia, que pueden desarrollarse en pacientes que han requerido ventilación mecánica durante períodos prolongados. Sin embargo, la opción C sugiere la administración de corticoides y pruebas complementarias, lo que no es la actividad terapéutica adecuada para abordar la condición del paciente."
   },
   {
     "id": "q-108",
     "localNumber": 108,
     "category": "General",
-    "stem": "Varón de 55 años sin antecedentes de interés que tras realizar un esfuerzo nota dolor lumbar irra- diado hacia el miembro inferior derecho por la parte anterolateral del muslo y cara anterior de la rodilla. Exploración: maniobra de Lasè gue positiva a 40 º, reflejo rotuliano disminuido y dificultad para la marcha de talones. ¿Cuál es el diagnóstico más probable?:",
+    "stem": "Varón de 55 años sin antecedentes de interés que tras realizar un esfuerzo nota dolor lumbar irradiado hacia el miembro inferior derecho por la parte anterolateral del muslo y cara anterior de la rodilla. Exploración: maniobra de Lasègue positiva a 40 º, reflejo rotuliano disminuido y dificultad para la marcha de talones.",
     "options": [
       "Hernia discal L2-L3 derecha.",
       "Hernia discal L3-L4 derecha.",
@@ -1495,13 +1495,13 @@
       "Hernia discal L5-S1 derecha."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 108 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La maniobra de Lasègue positiva a 40 º sugiere una hernia discal lumbar. El dolor irradiado hacia el muslo y la cara anterior de la rodilla es típico de una hernia discal en la región L4-L5. El reflejo rotuliano disminuido y la dificultad para la marcha de talones también son signos que apuntan a una hernia discal en esta región. Por lo tanto, la opción C es la más probable diagnóstico. \n\n- **🔴 Opción A (Incorrecta):** Una hernia discal L2-L3 derecha no explicaría el dolor irradiado hacia el muslo y la cara anterior de la rodilla. El dolor en esta región se asocia más con hernias discales en la región L4-L5. \n\n- **🔴 Opción B (Incorrecta):** Una hernia discal L3-L4 derecha tampoco explicaría el dolor irradiado hacia el muslo y la cara anterior de la rodilla. El dolor en esta región se asocia más con hernias discales en la región L4-L5. \n\n- **🔴 Opción D (Incorrecta):** Una hernia discal L5-S1 derecha no explicaría el dolor irradiado hacia el muslo y la cara anterior de la rodilla. El dolor en esta región se asocia más con hernias discales en la región L4-L5. \n\nLa perla MIR es que el dolor irradiado hacia el muslo y la cara anterior de la rodilla es típico de una hernia discal en la región L4-L5."
   },
   {
     "id": "q-109",
     "localNumber": 109,
     "category": "General",
-    "stem": "Acude a ur gencias un paciente de 5 años con fiebre de 48 horas de evolución, con mala res- puesta a los antitérmicos y rechazo al apo yo del miembro inferior izquierd o . E n l a e x p l o r a c i ó n física se observa limitación de la movilidad de la cadera. En la analítica aumento de la PCR y leucocitosis. ¿Qué prueba complementaria se debe solicitar en primer lugar?:",
+    "stem": "Acude a urgencias un paciente de 5 años con fiebre de 48 horas de evolución, con mala respuesta a los antitérmicos y rechazo al apoyo del miembro inferior izquierdo. En la exploración física se observa limitación de la movilidad de la cadera. En la analítica aumento de la PCR y leucocitosis.",
     "options": [
       "Radiografía de cadera.",
       "Ecografía de cadera.",
@@ -1509,13 +1509,13 @@
       "Artrografía de cadera."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 109 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La ecografía de cadera es la prueba complementaria más adecuada en primer lugar para evaluar la cadera del paciente de 5 años con limitación de la movilidad y rechazo al apoyo del miembro inferior izquierdo. La ecografía es una técnica no invasiva y no utiliza radiación ionizante, lo que la hace ideal para niños. También es más rápida y menos costosa que otras pruebas como la RM. La ecografía puede ayudar a detectar problemas como la osteomielitis, que es una infección del hueso que puede causar dolor y limitación de la movilidad en la cadera.\n\n- **🔴 Opción A (Incorrecta):** La radiografía de cadera puede ser útil para detectar problemas como la fractura o la osteoporosis, pero no es la mejor opción para evaluar la cadera de un paciente con síntomas de infección o dolor agudo. La radiografía puede no mostrar signos de infección hasta que la enfermedad sea avanzada.\n\n- **🔴 Opción C (Incorrecta):** La resonancia magnética (RM) de ambas caderas es una prueba más avanzada y costosa que la ecografía. Aunque la RM puede proporcionar más detalles que la ecografía, no es la primera opción para evaluar la cadera de un paciente con síntomas de infección o dolor agudo. Además, la RM puede no ser necesaria en este caso, ya que la ecografía puede proporcionar suficiente información para tomar decisiones clínicas.\n\n- **🔴 Opción D (Incorrecta):** La artrografía de cadera es una prueba que implica la inyección de un tinte en la articulación para visualizar la estructura interna. Aunque la artrografía puede ser útil para evaluar problemas de la articulación, no es la mejor opción para evaluar la cadera de un paciente con síntomas de infección o dolor agudo. La artrografía puede no ser necesaria en este caso, ya que la ecografía puede proporcionar suficiente información para tomar decisiones clínicas.\n\nLa perla MIR es que en casos de sospecha de osteomielitis en niños, la ecografía de cadera es la prueba complementaria más adecuada en primer lugar debido a su no invasividad, velocidad y bajo costo."
   },
   {
     "id": "q-110",
     "localNumber": 110,
     "category": "Reumatología",
-    "stem": "Mujer de 82 años con antecedentes de insuficien- cia cardíaca con gestiva y cáncer de mama que consulta por una fractura de muñeca izquierda. La fractura es estable, no es conminuta ni pre- senta trazos intraarticulares. ¿Cuál de los si- guientes tratamientos es el más adecuado?:",
+    "stem": "Mujer de 82 años con antecedentes de insuficiencia cardíaca con gestiva y cáncer de mama que consulta por una fractura de muñeca izquierda. La fractura es estable, no es conminuta ni presenta trazos intraarticulares. ¿Cuál de los siguientes tratamientos es el más adecuado?",
     "options": [
       "Reducción cerrada y yeso antebraquial.",
       "Artroplastia total de muñeca.",
@@ -1523,21 +1523,21 @@
       "No inmovilizar, rehabilitación inmediata."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 110 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La opción más adecuada en este caso es la reducción cerrada y yeso antebraquial. Se trata de una fractura estable que no requiere ninguna intervención invasiva, y la reducción cerrada permite al paciente realizar movimientos pasivos de la muñeca para prevenir la formación de adhesiones y mantener la función articular. Además, el yeso antebraquial proporciona estabilidad y protección a la fractura mientras se cura. En un paciente de 82 años con antecedentes de insuficiencia cardíaca y cáncer de mama, es importante elegir un tratamiento que minimice el riesgo de complicaciones y garantice una recuperación segura y efectiva.\n\n- **🔴 Opción B (Incorrecta):** La artroplastia total de muñeca no es la opción más adecuada en este caso. Esta intervención es reservada para fracturas complejas que requieren la reemplazamiento de la articulación, lo que no es necesario en este caso. Además, en un paciente de 82 años, la artroplastia total de muñeca puede ser una opción arriesgada que puede llevar a complicaciones y una recuperación más lenta.\n\n- **🔴 Opción C (Incorrecta):** La osteosíntesis con placas dorsal y volar tampoco es la opción más adecuada en este caso. Esta intervención es reservada para fracturas complejas que requieren la estabilización de la articulación, lo que no es necesario en este caso. Además, en un paciente de 82 años, la osteosíntesis puede ser una opción arriesgada que puede llevar a complicaciones y una recuperación más lenta.\n\n- **🔴 Opción D (Incorrecta):** No inmovilizar y rehabilitación inmediata no es la opción más adecuada en este caso. Aunque la inmovilización puede ser una restricción para el paciente, es importante proporcionar estabilidad y protección a la fractura mientras se cura. En un paciente de 82 años con antecedentes de insuficiencia cardíaca y cáncer de mama, es importante elegir un tratamiento que minimice el riesgo de complicaciones y garantice una recuperación segura y efectiva.\n\nLa perla MIR es que en el tratamiento de las fracturas, es importante considerar la edad y la condición general del paciente, así como la complejidad de la fractura. En este caso, la reducción cerrada y yeso antebraquial es la opción más adecuada porque es una intervención mínimamente invasiva que permite al paciente realizar movimientos pasivos de la muñeca y minimiza el riesgo de complicaciones."
   },
   {
     "id": "q-111",
     "localNumber": 111,
     "category": "General",
-    "stem": "Empleada de hogar de 35 años, sin antecedentes de interés, diestra, que refiere dolor en 5º dedo de mano izquierda y en cara interna de antebra- zo izquierdo acompaña do de acorchamiento y pérdida parcial de sensibilidad. ¿Cuál sería la primera sospecha diagnóstica?:",
+    "stem": "Empleada de hogar de 35 años, sin antecedentes de interés, diestra, que refiere dolor en 5º dedo de mano izquierda y en cara interna de antebrazo izquierdo acompañado de acorchamiento y pérdida parcial de sensibilidad. ¿Cuál sería la primera sospecha diagnóstica?",
     "options": [
-      "Síndrome del túnel carpiano.",
-      "Hernia discal cervical C3-C4.",
-      "Compresión cubital epitroclear.",
-      "Tendinitis de De Quervain."
+      "Síndrome del túnel carpiano",
+      "Hernia discal cervical C3-C4",
+      "Compresión cubital epitroclear",
+      "Tendinitis de De Quervain"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 111 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El síndrome del túnel carpiano es una afección común que se caracteriza por dolor en la mano y el antebrazo, especialmente en la cara interna del antebrazo y en los dedos. El dolor se intensifica al flexionar los dedos hacia abajo, lo que hace que el nervio mediano se comprima. En este caso, la paciente refiere dolor en el 5º dedo de la mano izquierda y en la cara interna del antebrazo izquierdo, acompañado de acorchamiento y pérdida parcial de sensibilidad, lo que sugiere una compresión del nervio mediano.\n\n   - **🔴 Opción A (Incorrecta):** El síndrome del túnel carpiano se refiere a la compresión del nervio mediano en el túnel carpiano, que se encuentra en la parte anterior del antebrazo. La paciente refiere dolor en la cara interna del antebrazo, lo que hace que esta opción sea menos probable.\n\n   - **🔴 Opción B (Incorrecta):** Una hernia discal cervical C3-C4 se refiere a un problema en la parte superior de la columna vertebral, que no está relacionado con el dolor en la mano y el antebrazo. La paciente no refiere antecedentes de interés en la columna vertebral, lo que hace que esta opción sea poco probable.\n\n   - **🔴 Opción D (Incorrecta):** La tendinitis de De Quervain es una afección que se caracteriza por dolor en la muñeca y el lado del pulgar, no en la mano y el antebrazo. La paciente refiere dolor en el 5º dedo de la mano izquierda y en la cara interna del antebrazo izquierdo, lo que hace que esta opción sea menos probable.\n\nLa perla MIR: Recuerda que el síndrome del túnel carpiano se caracteriza por dolor en la mano y el antebrazo, especialmente en la cara interna del antebrazo y en los dedos, acompañado de acorchamiento y pérdida parcial de sensibilidad. Si la paciente refiere estos síntomas, la primera sospecha diagnóstica debe ser el síndrome del túnel carpiano."
   },
   {
     "id": "q-112",
