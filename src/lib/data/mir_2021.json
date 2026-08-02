@@ -2747,7 +2747,7 @@
     "id": "q-198",
     "localNumber": 198,
     "category": "Neurología",
-    "stem": "Mujer de 35 años, remitida a urgencias por traumatismo craneoencefálico por caída en patinete, sin pérdida de conciencia ni amnesia. En la exploración se trata de un traumatismo craneoencefálico cerrado con conmoción y cefa- lea leve sin presencia de náuseas y vómitos. La exploración neurológica es normal y presenta un índice de Glasgow de 15. Ante esta situación ¿qué prueba de imagen está indicada en primer lugar?:",
+    "stem": "Mujer de 35 años, remitida a urgencias por traumatismo craneoencefálico por caída en patinete, sin pérdida de conciencia ni amnesia. En la exploración se trata de un traumatismo craneoencefálico cerrado con conmoción y cefalea leve sin presencia de náuseas y vómitos. La exploración neurológica es normal y presenta un índice de Glasgow de 15. Ante esta situación ¿qué prueba de imagen está indicada en primer lugar?",
     "options": [
       "TC craneal sin contraste.",
       "TC craneal con contraste.",
@@ -2755,7 +2755,7 @@
       "Radiografía simple de cráneo."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 198 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** En este caso, no se indica la realización de ninguna prueba de imagen inmediatamente, ya que la exploración neurológica es normal y el índice de Glasgow es de 15, lo que sugiere que el paciente no presenta signos de lesión cerebral grave. La evaluación inicial se enfocó en la exploración física y la evaluación del estado neurológico, y no se identificaron signos de lesión cerebral que requieran una exploración de imagen inmediata. Por lo tanto, la opción correcta es la realización de ninguna prueba de imagen en primer lugar.\n\n- **🔴 Opción A (Incorrecta):** El TC craneal sin contraste puede ser útil en casos de traumatismo craneoencefálico con signos de lesión cerebral grave, pero en este caso, la exploración neurológica es normal y no se indican signos de lesión cerebral que requieran una exploración de imagen inmediata.\n\n- **🔴 Opción B (Incorrecta):** El TC craneal con contraste puede ser útil en casos de traumatismo craneoencefálico con signos de lesión cerebral grave, pero en este caso, la exploración neurológica es normal y no se indican signos de lesión cerebral que requieran una exploración de imagen inmediata.\n\n- **🔴 Opción D (Incorrecta):** La radiografía simple de cráneo no es la prueba de imagen indicada en este caso, ya que no proporciona información sobre lesiones cerebrales y puede no detectar signos de lesión cerebral grave.\n\n**Perla MIR:** En el caso de un traumatismo craneoencefálico cerrado con conmoción y cefalea leve, sin pérdida de conciencia ni amnesia, y exploración neurológica normal, no se indica la realización de ninguna prueba de imagen inmediatamente, ya que la evaluación inicial se enfocó en la exploración física y la evaluación del estado neurológico."
   },
   {
     "id": "q-199",
@@ -2763,55 +2763,55 @@
     "category": "General",
     "stem": "En relación con el soporte hemodinámico en pacientes con shock séptico, señale la respuesta INCORRECTA:",
     "options": [
-      "El control hemodinámico inmediato es fun- damental para el pronóstico.",
-      "Deben administrarse fluidos (cristaloides) a razón de 30 ml/kg en la primera hora de aten- ción.",
+      "El control hemodinámico inmediato es fundamental para el pronóstico.",
+      "Deben administrarse fluidos (cristaloides) a razón de 30 ml/kg en la primera hora de atención.",
       "Debe administrarse hidrocortisona si tras el primer litro de cristaloides no se ha logrado el control hemodinámico.",
-      "Debe iniciarse una perfusión con noradrenali- na si tras la administración de fluidos no se logra control hemodinámico (tensión arterial media superior a 65 mmHg)."
+      "Debe iniciarse una perfusión con noradrenalina si tras la administración de fluidos no se logra control hemodinámico (tensión arterial media superior a 65 mmHg)."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 199 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La administración de hidrocortisona no es indicada como primera medida en pacientes con shock séptico, ya que no se ha demostrado su beneficio en la supervivencia de estos pacientes. La Sociedad de Medicina Intensiva de la Sociedad Americana de Anestesiología (Sepsis-3) no recomienda el uso de corticosteroides en pacientes con shock séptico, salvo en casos específicos y bajo supervisión médica especializada.\n\n- **🔴 Opción A (Incorrecta):** El control hemodinámico inmediato es fundamental para el pronóstico, ya que permite evaluar la respuesta del paciente a la terapia y ajustarla según sea necesario.\n\n- **🔴 Opción B (Incorrecta):** La administración de fluidos a razón de 30 ml/kg en la primera hora de atención es una recomendación común en pacientes con shock séptico, ya que ayuda a restaurar la perfusión tisular y mejorar la supervivencia.\n\n- **🔴 Opción D (Incorrecta):** La iniciación de una perfusión con noradrenalina es indicada en pacientes con shock séptico que no responden a la administración de fluidos y tienen una presión arterial media inferior a 65 mmHg, ya que ayuda a mejorar la perfusión y la supervivencia."
   },
   {
     "id": "q-200",
     "localNumber": 200,
     "category": "Cardiología",
-    "stem": "Varón de 83 años con antecedentes de hiperten- sión arterial, diabetes m ellitus e insuficiencia cardiaca que acude a urgencias del centro de salud por un cuadro de disnea de reposo, or- topnea, disnea paroxística nocturna y edemas maleolares de 24 horas de evolución. A su llega- da el ECG muestra una fibrilación auricular a 126 lpm y se objetiva TA 79/47 mmHg, SatO2 89 %, temperatura 36,7ºC y frecuencia respira- toria 26 rpm. En la auscultación se aprecian crepitantes bibasales bilaterales. Se administra oxigeno con mascarilla Venturi al 50 %, furo- semida 20 mg IV y morfina 2 mg IV Se le va a trasladar al hospital en un soporte vital avan- zado donde se administrará ventilación no inva- siva con presión positiva continua en la vía aérea (CPAP). ¿Cuál es la razón por la que aplicaría la CPAP en este caso?:",
+    "stem": "Un varón de 83 años con antecedentes de hipertensión arterial, diabetes mellitus e insuficiencia cardiaca acude a urgencias por un cuadro de disnea de reposo, ortopnea, disnea paroxística nocturna y edemas maleolares de 24 horas de evolución. A su llegada, el ECG muestra una fibrilación auricular a 126 lpm y se objetiva TA 79/47 mmHg, SatO2 89 %, temperatura 36,7ºC y frecuencia respiratoria 26 rpm. En la auscultación se aprecian crepitantes bibasales bilaterales. Se administra oxígeno con mascarilla Venturi al 50 %, furosemida 20 mg IV y morfina 2 mg IV. Se le va a trasladar al hospital en un soporte vital avanzado donde se administrará ventilación no invasiva con presión positiva continua en la vía aérea (CPAP).",
     "options": [
-      "Incrementa la capacidad residual funcional de sistema respiratorio.",
+      "Incrementa la capacidad residual funcional del sistema respiratorio.",
       "Es especialmente eficaz en el paciente con hipotensión y alteraciones del ritmo cardiaco.",
-      "Produce un aumento de la presión intratoráci- ca que aumenta la precarga cardiaca.",
-      "Ocasiona un aumento de la presión transmu- ral del ventrículo izquierdo. - 29 -"
+      "Produce un aumento de la presión intratorácica que aumenta la precarga cardiaca.",
+      "Ocasiona un aumento de la presión transmural del ventrículo izquierdo."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 200 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La CPAP (presión positiva continua en la vía aérea) se utiliza para aumentar la capacidad residual funcional del sistema respiratorio, lo que permite una mejor oxigenación y una reducción de la frecuencia respiratoria. En este caso, el paciente tiene una disnea paroxística nocturna y crepitantes bibasales, lo que sugiere una obstrucción de las vías aéreas. La CPAP ayudaría a mantener abiertas las vías aéreas y mejorar la oxigenación del paciente.\n\n- **🔴 Opción B (Incorrecta):** La CPAP no es especialmente eficaz en pacientes con hipotensión y alteraciones del ritmo cardiaco. De hecho, la CPAP puede aumentar la presión intratorácica y la precarga cardiaca, lo que puede empeorar la situación en pacientes con insuficiencia cardiaca.\n\n- **🔴 Opción C (Incorrecta):** La CPAP no produce un aumento de la presión intratorácica que aumenta la precarga cardiaca. La CPAP se utiliza para mantener abiertas las vías aéreas y mejorar la oxigenación, no para aumentar la presión intratorácica.\n\n- **🔴 Opción D (Incorrecta):** La CPAP no ocasiona un aumento de la presión transmural del ventrículo izquierdo. La CPAP se utiliza para mantener abiertas las vías aéreas y mejorar la oxigenación, no para afectar la presión transmural del ventrículo izquierdo.\n\nLa CPAP es una herramienta importante en el manejo de la disnea y la insuficiencia respiratoria, especialmente en pacientes con obstrucción de las vías aéreas. Es importante elegir la opción correcta para asegurarse de que el paciente reciba el tratamiento adecuado."
   },
   {
     "id": "q-201",
     "localNumber": 201,
     "category": "Cardiología",
-    "stem": "Señale de entre los siguientes aquel factor etio- lógico NO relacionado o i mplicado en la etiopa- togenia de la miocardiopatía por estrés o sín- drome de tako-tsubo:",
+    "stem": "Señale de entre los siguientes aquel factor etiológico NO relacionado o implicado en la etiopatogenia de la miocardiopatía por esfuerzos o síndrome de tako-tsubo",
     "options": [
       "Disfunción microvascular.",
-      "Mayor susceptibilidad de los receptores cate- colaminérgicos en el miocardio.",
+      "Mayor susceptibilidad de los receptores catecolaminérgicos en el miocardio.",
       "Espasmo coronario.",
-      "Enfermedad coronaria obstructiva significati- va."
+      "Enfermedad coronaria obstructiva significativa."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 201 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La enfermedad coronaria obstructiva significativa no está directamente relacionada con la etiopatogenia de la miocardiopatía por esfuerzos o síndrome de tako-tsubo. Esta condición se caracteriza por la presencia de estenosis significativas en las arterias coronarias, lo que puede provocar isquemia miocárdica y daño cardíaco. Sin embargo, la miocardiopatía por esfuerzos o el síndrome de tako-tsubo se asocian con un patrón de respuesta emocional o física a un estímulo, lo que lleva a una redistribución de la sangre en el miocardio sin una obstrucción significativa de las arterias coronarias.\n\n- **🔴 Opción A (Incorrecta):** La disfunción microvascular puede estar involucrada en la miocardiopatía por esfuerzos o el síndrome de tako-tsubo, ya que se cree que hay una alteración en la función microvascular en estas condiciones.\n\n- **🔴 Opción B (Incorrecta):** La mayor susceptibilidad de los receptores catecolaminérgicos en el miocardio puede estar implicada en la miocardiopatía por esfuerzos o el síndrome de tako-tsubo, ya que la exposición a catecolaminas puede desencadenar la respuesta emocional o física que lleva a estas condiciones.\n\n- **🔴 Opción C (Incorrecta):** El espasmo coronario puede estar involucrado en la miocardiopatía por esfuerzos o el síndrome de tako-tsubo, ya que se cree que hay una alteración en la función vascular en estas condiciones.\n\nLa perla MIR: La clave para distinguir la miocardiopatía por esfuerzos del síndrome de tako-tsubo es la ausencia de obstrucción significativa de las arterias coronarias en esta última condición."
   },
   {
     "id": "q-202",
     "localNumber": 202,
     "category": "Neurología",
-    "stem": "¿Cuál de estos síntomas NO va a favor de un vértigo de origen central por lesión en el tronco cerebral?:",
+    "stem": "¿Cuál de estos síntomas NO va a favor de un vértigo de origen central por lesión en el tronco cerebral?",
     "options": [
-      "La presencia de hipoacusia y acúfenos acom- pañando al vértigo.",
+      "La presencia de hipoacusia y acúfenos acompañando al vértigo.",
       "La aparición de diplopia acompañando al vértigo",
-      "La descripción del vértigo como una sensa- ción de inestabilidad, siendo menos frecuente que sea un vértigo rotatorio",
+      "La descripción del vértigo como una sensación de inestabilidad, siendo menos frecuente que sea un vértigo rotatorio",
       "Que en la exploración se objetive un nistagmo vertical."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 202 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La presencia de hipoacusia y acúfenos acompañando al vértigo es más característica de un vértigo periférico, como el vértigo posicional paroxístico benigno (VPPB). En un vértigo de origen central, como el causado por una lesión en el tronco cerebral, no se asocian habitualmente síntomas auditivos como hipoacusia y acúfenos. Por lo tanto, esta opción es la correcta porque se opone a un vértigo central por lesión en el tronco cerebral.\n\n- **🔴 Opción B (Incorrecta):** La aparición de diplopia acompañando al vértigo puede ocurrir en un vértigo central, ya que el tronco cerebral controla tanto la función vestibular como la visual. La diplopia es un síntoma que puede acompañar al vértigo en un vértigo central.\n\n- **🔴 Opción C (Incorrecta):** La descripción del vértigo como una sensación de inestabilidad, siendo menos frecuente que sea un vértigo rotatorio, puede ser compatible con un vértigo central. La inestabilidad y la sensación de rotación son síntomas comunes en un vértigo central.\n\n- **🔴 Opción D (Incorrecta):** Que en la exploración se objetive un nistagmo vertical puede ser compatible con un vértigo central. El nistagmo es un signo que puede aparecer en un vértigo central y es más característico de esta entidad que de un vértigo periférico."
   },
   {
     "id": "q-203",
