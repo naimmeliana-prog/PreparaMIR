@@ -2803,7 +2803,7 @@
     "id": "q-202",
     "localNumber": 202,
     "category": "Nefrología",
-    "stem": "Varón de 75 años que acude al hospital por insu- ficiencia renal rápidamente pro gresiva, anuria, mal estado general y fieb re. Los datos de labora- torio muestran ANCAs positivos y Ac anti-MBG negativos. Se realiza biopsia renal. En la tinción de hematoxilina-eosina se observa glomerulone- fritis necrotizante con reacción epitelial extraca- pilar y formación de semilunas en el 80 % de los glomérulos. Las técnicas de inmunofluorescencia directa para I gA, I gG, I gM , C 3 , C 1 q , k a p p a y l a m b d a s o n n egativas. ¿Cuál es el dia gnóstico anatomopatológico?:",
+    "stem": "Varón de 75 años que acude al hospital por insuficiencia renal rápidamente progresiva, anuria, mal estado general y fiebre. Los datos de laboratorio muestran ANCA positivos y Ac anti-MBG negativos. Se realiza biopsia renal. En la tinción de hematoxilina-eosina se observa glomerulonefritis necrotizante con reacción epitelial extracapilar y formación de semilunas en el 80 % de los glomérulos. Las técnicas de inmunofluorescencia directa para IgA, IgG, IgM, C3, C1q, kappa y lambda negativas.",
     "options": [
       "Glomerulonefritis postinfecciosa.",
       "Vasculitis pauciinmunitaria.",
@@ -2811,41 +2811,41 @@
       "Síndrome de Goodpasture."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 202 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La vasculitis pauciinmunitaria es una condición caracterizada por la presencia de anticuerpos antineutrofílicos citoplasmáticos (ANCA), que se encuentran positivos en este caso. La biopsia renal muestra glomerulonefritis necrotizante, lo que sugiere daño a los glomérulos. La reacción epitelial extracapilar y la formación de semilunas en la mayoría de los glomérulos también son características de la vasculitis pauciinmunitaria. La ausencia de depósitos de inmunoglobulinas en la inmunofluorescencia directa es consistente con esta condición, ya que la vasculitis pauciinmunitaria suele no presentar depósitos de inmunoglobulinas en la biopsia renal.\n\n- **🔴 Opción A (Incorrecta):** La glomerulonefritis postinfecciosa suele estar asociada con depósitos de inmunoglobulinas en la biopsia renal, lo que no se observa en este caso. Además, la ausencia de depósitos de inmunoglobulinas y la presencia de ANCA positivos no son consistentes con esta condición.\n\n- **🔴 Opción C (Incorrecta):** La nefropatía IgA es una condición caracterizada por depósitos de IgA en la biopsia renal, lo que no se observa en este caso. Además, la ausencia de depósitos de inmunoglobulinas y la presencia de ANCA positivos no son consistentes con esta condición.\n\n- **🔴 Opción D (Incorrecta):** El síndrome de Goodpasture es una condición caracterizada por la presencia de anticuerpos anticolágeno en la biopsia renal, lo que no se observa en este caso. Además, la ausencia de depósitos de inmunoglobulinas y la presencia de ANCA positivos no son consistentes con esta condición.\n\nLa vasculitis pauciinmunitaria es una condición rara y grave que requiere un diagnóstico preciso. La presencia de ANCA positivos y la biopsia renal que muestra glomerulonefritis necrotizante con reacción epitelial extracapilar y formación de semilunas en la mayoría de los glomérulos son claves para el diagnóstico de esta condición. Es importante destacar que la ausencia de depósitos de inmunoglobulinas en la inmunofluorescencia directa es consistente con la vasculitis pauciinmunitaria, lo que la hace una opción más plausible en este caso."
   },
   {
     "id": "q-203",
     "localNumber": 203,
     "category": "Nefrología",
-    "stem": "Varón de 30 años con antecedente de hemorra gia dige s t i v a a l t a h a c e 1 a ñ o . E n l a gastroscopia se observaron varias úlceras pépticas. Consulta por un episodio de cólico renal. En la analítica se objetiva calcio 11,1 mg/dL (N: 8,6-10,3 m g/dL), hormona paratiroidea 150 ng/L (N: 8-51 n g/L) con niveles normales de albúmina y 25-OH vita- mina D. ¿Con qué síndrome se relacionan estos datos clínicos y analíticos?:",
+    "stem": "Varón de 30 años con antecedente de hemorragia digestiva de 1 año. En la gastroscopia se observaron varias úlceras pépticas. Consulta por un episodio de cólico renal. En la analítica se objetiva calcio 11,1 mg/dL (N: 8,6-10,3 mg/dL), hormona paratiroidea 150 ng/L (N: 8-51 ng/L) con niveles normales de albúmina y 25-OH vitamina D.",
     "options": [
-      "Complejo de Carney.",
-      "Síndrome poliglandular tipo 1.",
-      "Neoplasia endocrina múltiple tipo 2A.",
-      "Neoplasia endocrina múltiple tipo 1."
+      "Complejo de Carney",
+      "Síndrome poliglandular tipo 1",
+      "Neoplasia endocrina múltiple tipo 2A",
+      "Neoplasia endocrina múltiple tipo 1"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 203 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** El Complejo de Carney se asocia con tumores de tejido conectivo, como fibromas cutáneos y cardiacos, y no con la combinación de úlceras pépticas, cólico renal y alteraciones en las hormonas paratiroidea y calcio. Por lo tanto, esta opción no es la adecuada en este caso.\n\n- **🔴 Opción B (Incorrecta):** El Síndrome poliglandular tipo 1 se caracteriza por la combinación de hipotiroidismo, hipoparatiroidismo y adrenocortical insuficiencia. Sin embargo, en este caso, se objetiva una hiperparatiroidismo (elevada hormona paratiroidea) y no hipoparatiroidismo, lo que la hace una opción incorrecta.\n\n- **🔴 Opción C (Incorrecta):** El Neoplasia endocrina múltiple tipo 2A (MEN 2A) se asocia con medullosas de tiroides, pheochromocitomas y paratiroides hiperplásicos o adenomas. Aunque se objetiva un aumento en la hormona paratiroidea, no se menciona la presencia de medullosas de tiroides o pheochromocitomas, lo que hace que esta opción no sea la adecuada.\n\n- **🟢 Opción D (Correcta):** La Neoplasia endocrina múltiple tipo 1 (MEN 1) se caracteriza por la presencia de tumores de paratiroides, pituitaria y otros órganos endocrinos. En este caso, se objetiva un aumento en la hormona paratiroidea y úlceras pépticas, lo que sugiere la presencia de un adenoma paratiroides secreto. Además, el cólico renal puede ser causado por la hiperparatiroidismo, lo que hace que esta opción sea la correcta.\n\nLa clave para esta pregunta es reconocer que la combinación de úlceras pépticas, cólico renal y alteraciones en las hormonas paratiroidea y calcio se asocia con la Neoplasia endocrina múltiple tipo 1 (MEN 1)."
   },
   {
     "id": "q-204",
     "localNumber": 204,
     "category": "General",
-    "stem": "El síndrome de lisis tumoral, frecuente en neo- plasias hematoló gicas, se caracteriza por las siguientes complicaciones, EXCEPTO:",
+    "stem": "El síndrome de lisis tumoral, frecuente en neoplasias hematológicas, se caracteriza por las siguientes complicaciones, EXCEPTO",
     "options": [
-      "Hipercalcemia.",
-      "Hiperuricemia.",
-      "Hiperfosfatemia.",
-      "Uremia."
+      "Hipercalcemia",
+      "Hiperuricemia",
+      "Hiperfosfatemia",
+      "Uremia"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 204 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Es la respuesta correcta porque el síndrome de lisis tumoral no se caracteriza por la hipercalcemia como complicación. La hipercalcemia puede estar presente en otras condiciones como la enfermedad de Hodgkin, la leucemia linfoblástica aguda, la enfermedad de Cushing y la neumonía por aspergilosis, pero no es una complicación característica del síndrome de lisis tumoral.\n\n- **🔴 Opción B (Incorrecta):** La hiperuricemia es una complicación posible del síndrome de lisis tumoral debido a la degradación de las células tumorales y el aumento de la producción de ácido úrico. Esto puede llevar a la formación de cálculos renales o a la nefropatía.\n\n- **🔴 Opción C (Incorrecta):** La hiperfosfatemia también es una complicación posible del síndrome de lisis tumoral debido a la degradación de las células tumorales y el aumento de la liberación de fosfato en la sangre. Esta condición puede llevar a problemas renales y cardíacos.\n\n- **🔴 Opción D (Incorrecta):** La uremia es una complicación posible del síndrome de lisis tumoral debido a la insuficiencia renal causada por la hiperuricemia, la hiperfosfatemia y otros factores. La uremia puede llevar a síntomas como la fatiga, la pérdida de apetito y la confusión.\n\nLa perla MIR: Recuerda que el síndrome de lisis tumoral se caracteriza por la lisis de células tumorales, lo que lleva a la liberación de sustancias tóxicas en la sangre y a la formación de complicaciones como la hiperuricemia, la hiperfosfatemia y la uremia. La hipercalcemia no es una complicación característica de esta condición."
   },
   {
     "id": "q-205",
     "localNumber": 205,
     "category": "Reumatología",
-    "stem": "Varón de 35 años que presenta desde hace 3 meses dolor e inflamación en la 2ª y 3ª articula- ciones metacarpofalángicas derecha y e n l a 3ª y 4ª interfalán gicas de la mano izquierda. En la exploración física se observan lesiones cutáneas descamativas en las zonas extensoras de los co- dos y en la rodilla derecha. Los primeros análisis muestran VSG 34 mm , PCR 1,8 mg/dL (N: 0- 0,5), factor reumatoide y anticuerpos anti pépti- dos cíclicos citrulinados ne gativos. Radio grafías de manos: aumento de part es blandas sin erosio- nes. ¿Cuál de los si guientes dia gnósticos es el más probable?:",
+    "stem": "Varón de 35 años que presenta desde hace 3 meses dolor e inflamación en la 2ª y 3ª articulaciones metacarpofalángicas derecha y en la 3ª y 4ª interfalángicas de la mano izquierda. En la exploración física se observan lesiones cutáneas descamativas en las zonas extensoras de los codos y en la rodilla derecha. Los primeros análisis muestran VSG 34 mm, PCR 1,8 mg/dL (N: 0-0,5), factor reumatoide y anticuerpos anti péptidos cíclicos citrulinados negativos. Radiografías de manos: aumento de partes blandas sin erosiones.",
     "options": [
       "Artritis reumatoide.",
       "Lupus eritematoso sistémico.",
@@ -2853,13 +2853,13 @@
       "Artrosis."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 205 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La artritis psoriásica es una enfermedad inflamatoria que afecta a las articulaciones, caracterizada por la presencia de lesiones cutáneas descamativas en las zonas extensoras de los codos y otras áreas. La presencia de estas lesiones en el paciente, junto con el dolor e inflamación en las articulaciones metacarpofalángicas y interfalángicas, es consistente con un diagnóstico de artritis psoriásica. La negatividad de los anticuerpos anti-péptidos cíclicos citrulinados (Anti-CCP) y el factor reumatoide apoya esta hipótesis, ya que la artritis reumatoide a menudo es positiva para estos marcadores. La artrosis es una enfermedad degenerativa que no está relacionada con la inflamación y no se ajusta al cuadro clínico del paciente. El lupus eritematoso sistémico es una enfermedad autoinmune que puede presentar síntomas de inflamación en varias partes del cuerpo, pero la presencia de lesiones cutáneas descamativas y la negatividad de los anticuerpos anti-CCP no son características típicas de esta enfermedad. La artritis reumatoide es una enfermedad inflamatoria que afecta a las articulaciones, pero la negatividad de los anticuerpos anti-CCP y el factor reumatoide hace que esta opción sea menos probable. La radiografía de manos con aumento de partes blandas sin erosiones es consistente con un diagnóstico de artritis psoriásica, ya que la artritis reumatoide a menudo se asocia con erosiones en las radiografías de manos.\n\nLa perla MIR es: **'La artritis psoriásica se caracteriza por lesiones cutáneas descamativas y dolor e inflamación en las articulaciones metacarpofalángicas e interfalángicas, lo que la hace una opción más probable que la artritis reumatoide o el lupus eritematoso sistémico'.**"
   },
   {
     "id": "q-206",
     "localNumber": 206,
     "category": "General",
-    "stem": "Mujer de 20 años que presenta en los meses de invierno lesiones violáceas sobreelevadas en la zona distal de los dedos de los pies. Refiere picor y aparición ocasional de heridas en los dedos que cicatrizan en pocos días. ¿Cuál de los si guientes es el diagnóstico más probable?:",
+    "stem": "Mujer de 20 años que presenta en los meses de invierno lesiones violáceas sobreelevadas en la zona distal de los dedos de los pies. Refiere picor y aparición ocasional de heridas en los dedos que cicatrizan en pocos días.",
     "options": [
       "Fenómeno de Raynaud.",
       "Eritema pernio.",
@@ -2867,7 +2867,7 @@
       "Eritromelalgia."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 206 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El eritema pernio es una condición que se caracteriza por la aparición de lesiones violáceas en las extremidades distales durante los meses de invierno. Estas lesiones pueden estar acompañadas de picor y pueden cicatrizar en pocos días. El eritema pernio se asocia con un mayor riesgo de desarrollar esclerosis sistémica, lo que lo convierte en una condición importante de considerar en este contexto clínico.\n\n- **🔴 Opción A (Incorrecta):** El fenómeno de Raynaud se caracteriza por la vasoespasmo de las arterias digitales, lo que lleva a episodios de colores en las manos y pies en respuesta a la exposición al frío o el estrés. Aunque puede haber dolor y sensación de hormigueo, no se asocia con lesiones violáceas o picor.\n\n- **🔴 Opción C (Incorrecta):** La acrocianosis es una condición crónica que se caracteriza por la hipoperfusión de las extremidades, lo que lleva a cambios en la coloración de la piel. Sin embargo, no se asocia con lesiones violáceas o picor en los dedos.\n\n- **🔴 Opción D (Incorrecta):** La eritromelalgia es una condición que se caracteriza por la aparición de dolor y enrojecimiento en las extremidades en respuesta a la exposición al calor. No se asocia con lesiones violáceas o picor en los dedos.\n\n**Perla MIR:** El eritema pernio es una condición importante de considerar en pacientes con lesiones violáceas en los dedos durante los meses de invierno, ya que se asocia con un mayor riesgo de desarrollar esclerosis sistémica."
   },
   {
     "id": "q-207",
