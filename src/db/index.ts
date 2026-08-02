@@ -65,11 +65,24 @@ function generateUUID(): string {
   });
 }
 
+let getDrizzleTableName: any = null;
+try {
+  getDrizzleTableName = require("drizzle-orm").getTableName;
+} catch {}
+
 function getTableName(tableObj: any): string {
   if (!tableObj) return "";
   if (typeof tableObj === "string") return tableObj;
-  if (tableObj.name) return tableObj.name;
+  
+  if (getDrizzleTableName) {
+    try {
+      const name = getDrizzleTableName(tableObj);
+      if (name) return name;
+    } catch {}
+  }
+  
   if (tableObj._?.name) return tableObj._.name;
+  if (tableObj.name) return tableObj.name;
   return "";
 }
 
