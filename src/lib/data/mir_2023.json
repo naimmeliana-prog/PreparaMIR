@@ -2271,35 +2271,35 @@
     "id": "q-163",
     "localNumber": 163,
     "category": "General",
-    "stem": "Señale l a respuesta c orrecta e n relación con el tratamiento con yodo radiacti vo e n los pacientes con cáncer diferenciado de tiroides:",
+    "stem": "Señale la respuesta correcta en relación con el tratamiento con yodo radioactivo en los pacientes con cáncer diferenciado de tiroides:",
     "options": [
-      "Se de be a dministrar antes de l a tiroidectomía para disminuir el tamaño tumoral.",
-      "Administrado con ca rácter a blativo post- tiroidectomía facilita el seg uimiento con la determinación de tiroglobulina sérica.",
-      "Está indica do únicamente cua ndo e xisten metástasis a distancia.",
-      "En paci entes de baj o riesgo o muy baj o riesgo reduce las recurre ncias y prol onga la supervivencia."
+      "Se debe administrar antes de la tiroidectomía para disminuir el tamaño tumoral.",
+      "Administrado con carácter ablativo post-tiroidectomía facilita el seguimiento con la determinación de tiroglobulina sérica.",
+      "Está indicado únicamente cuando existen metástasis a distancia.",
+      "En pacientes de bajo riesgo o muy bajo riesgo reduce las recurrencias y prolonga la supervivencia."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 163 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El yodo radioactivo se utiliza como tratamiento ablativo después de la tiroidectomía para eliminar cualquier remanente de tejido tiroidal. Esto facilita el seguimiento del paciente mediante la determinación de tiroglobulina sérica, ya que el yodo radioactivo destruye las células tiroides, lo que reduce la producción de tiroglobulina. Esto es especialmente útil en el seguimiento de pacientes con cáncer diferenciado de tiroides, ya que permite una detección temprana de cualquier recurrencia del cáncer.\n\n- **🔴 Opción A (Incorrecta):** La administración de yodo radioactivo antes de la tiroidectomía no es común, ya que el objetivo principal de la tiroidectomía es eliminar el tejido tiroidal canceroso. La administración de yodo radioactivo antes de la operación no disminuiría significativamente el tamaño tumoral.\n\n- **🔴 Opción C (Incorrecta):** El tratamiento con yodo radioactivo no está indicado únicamente cuando existen metástasis a distancia. De hecho, el yodo radioactivo se utiliza para tratar el cáncer tiroidal en diferentes etapas, incluyendo la enfermedad localizada y la enfermedad metastásica.\n\n- **🔴 Opción D (Incorrecta):** El yodo radioactivo no reduce las recurrencias y prolonga la supervivencia en pacientes de bajo riesgo o muy bajo riesgo. En realidad, el tratamiento con yodo radioactivo es más efectivo en pacientes con cáncer tiroidal más avanzado o en aquellos con una mayor probabilidad de recurrencia."
   },
   {
     "id": "q-164",
     "localNumber": 164,
     "category": "General",
-    "stem": "La técnica quirúrgica indicada en los pacientes con adenoma tiroideo tóxico s olitario que precisan intervención quirúrgica es:",
+    "stem": "La técnica quirúrgica indicada en los pacientes con adenoma tiroideo tóxico solitario que precisan intervención quirúrgica es:",
     "options": [
-      "Nodulectomía.",
-      "Hemitiroidectomía del lado afecto.",
-      "Tiroidectomía subtotal.",
-      "Tiroidectomía total."
+      "Nodulectomía",
+      "Hemitiroidectomía del lado afecto",
+      "Tiroidectomía subtotal",
+      "Tiroidectomía total"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 164 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La tiroidectomía total es la técnica quirúrgica indicada en los pacientes con adenoma tiroideo tóxico solitario que precisan intervención quirúrgica. Esto se debe a que el adenoma tiroideo puede producir hormonas tiroideas de manera autónoma, lo que puede llevar a una sobreproducción de hormonas y síntomas graves. La tiroidectomía total permite eliminar completamente la glándula tiroidea y evitar la sobreproducción de hormonas. Además, esta técnica reduce el riesgo de recurrencia del adenoma tiroideo y permite una mejor monitorización de la función tiroidea postoperatoria.\n\n- **🔴 Opción A (Incorrecta):** La nodulectomía es una técnica quirúrgica que implica la eliminación del adenoma tiroideo sin afectar la glándula tiroidea circundante. Sin embargo, en el caso de un adenoma tiroideo tóxico solitario, la nodulectomía puede no ser suficiente para eliminar completamente la producción de hormonas tiroideas y puede llevar a una recurrencia del adenoma.\n\n- **🔴 Opción B (Incorrecta):** La hemitiroidectomía del lado afecto es una técnica quirúrgica que implica la eliminación de la mitad de la glándula tiroidea afectada. Sin embargo, en el caso de un adenoma tiroideo tóxico solitario, esta técnica puede no ser suficiente para eliminar completamente la producción de hormonas tiroideas y puede llevar a una recurrencia del adenoma.\n\n- **🔴 Opción C (Incorrecta):** La tiroidectomía subtotal es una técnica quirúrgica que implica la eliminación de una parte de la glándula tiroidea. Sin embargo, en el caso de un adenoma tiroideo tóxico solitario, esta técnica puede no ser suficiente para eliminar completamente la producción de hormonas tiroideas y puede llevar a una recurrencia del adenoma.\n\nLa perla MIR: Recuerda que en el caso de un adenoma tiroideo tóxico solitario, la tiroidectomía total es la técnica quirúrgica más adecuada para evitar la recurrencia del adenoma y la sobreproducción de hormonas tiroideas."
   },
   {
     "id": "q-165",
     "localNumber": 165,
     "category": "General",
-    "stem": "Mujer de 25 años, obesa, que consulta por clínica de 2 meses de evoluci ón de pérdida de 5 K g de peso, pa lpitaciones, dificulta d para el sueño nocturno y n erviosismo. A la exploración fí sica destaca temblor fino distal, frecuenci a cardiaca de 110 lpm y no presenta bocio. Se rea liza a nalítica que m uestra TSH suprimida, T4 el evada y tiroglobulina ba ja. L a gammagrafía t iroidea muestra una abs orción disminuida de yodo radiactivo. ¿Cuál de los siguientes le parece el diagnóstico más probable?",
+    "stem": "Mujer de 25 años, obesa, que consulta por clínica de 2 meses de evolución de pérdida de 5 kg de peso, palpitaciones, dificultad para el sueño nocturno y nerviosismo. A la exploración física destaca temblor fino distal, frecuencia cardiaca de 110 lpm y no presenta bocio. Se realiza análisis que muestra TSH suprimida, T4 elevada y tiroglobulina baja. La gammagrafía tiroidea muestra una absorción disminuida de yodo radiactivo.",
     "options": [
       "Tirotoxicosis facticia.",
       "Tiroiditis subaguda.",
@@ -2307,21 +2307,21 @@
       "Teratoma de ovario (estruma ovárico)."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 165 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La tirotoxicosis facticia se caracteriza por la supresión del TSH y la elevación de los niveles de T4 debido a la ingesta excesiva de tiroxina. La historia clínica de pérdida de peso, palpitaciones y dificultad para el sueño nocturno es compatible con esta condición. Además, la gammagrafía tiroidea muestra una absorción disminuida de yodo radiactivo, lo que sugiere un consumo excesivo de yodo. La presencia de temblor fino distal y frecuencia cardiaca aumentada también es consistente con la tirotoxicosis facticia. Por lo tanto, esta opción es la más probable. \n\n- **🔴 Opción B (Incorrecta):** La tiroiditis subaguda se caracteriza por la inflamación de la glándula tiroides y la elevación de los niveles de TSH y T4. Sin embargo, en este caso, el TSH está suprimido y la tiroglobulina es baja, lo que no es consistente con la tiroiditis subaguda. Además, la historia clínica no sugiere una inflamación aguda de la glándula tiroides. \n\n- **🔴 Opción C (Incorrecta):** El hipertiroidismo por enfermedad de Graves se caracteriza por la producción excesiva de T4 y T3 por parte de la glándula tiroides. La historia clínica de pérdida de peso, palpitaciones y dificultad para el sueño nocturno es compatible con esta condición. Sin embargo, la gammagrafía tiroidea muestra una absorción disminuida de yodo radiactivo, lo que no es consistente con la enfermedad de Graves. Además, el TSH está suprimido, lo que sugiere una causa externa de la tirotoxicosis. \n\n- **🔴 Opción D (Incorrecta):** El teratoma de ovario (estruma ovárico) es un tipo de tumor que puede producir hormonas, incluyendo la tiroxina. Sin embargo, la historia clínica de pérdida de peso, palpitaciones y dificultad para el sueño nocturno es más consistente con una causa de tirotoxicosis externa, como la tirotoxicosis facticia. Además, la gammagrafía tiroidea muestra una absorción disminuida de yodo radiactivo, lo que sugiere un consumo excesivo de yodo, no una producción excesiva de hormonas por parte de un tumor. \n\nLa perla MIR: Recuerda que la tirotoxicosis facticia se caracteriza por la supresión del TSH y la elevación de los niveles de T4 debido a la ingesta excesiva de tiroxina, y que la historia clínica y los resultados de la gammagrafía tiroidea son fundamentales para diagnosticar esta condición."
   },
   {
     "id": "q-166",
     "localNumber": 166,
     "category": "Nefrología",
-    "stem": "Si usted está de guardia y le avisan por un paciente con m alestar general, ce falea y ná useas, en quien encuentra una h iponatremia con función renal normal ¿qué esperaría encontrar si la c ausa de la misma fuera un SIADH?:",
+    "stem": "Si usted está de guardia y le avisan por un paciente con malestar general, cefalea y náuseas, en quien encuentra una hiponatremia con función renal normal ¿qué esperaría encontrar si la causa de la misma fuera un SIADH?",
     "options": [
       "Osmolalidad plasmática >270 mosm/Kg.",
       "Hipovolemia.",
-      "Osmolalidad urinaria >100 moms/Kg.",
-      "Excreción urinaria de socio reducida con ingesta adecuada de sal y agua."
+      "Osmolalidad urinaria >100 mosm/Kg.",
+      "Excreción urinaria de sodio reducida con ingesta adecuada de sal y agua."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 166 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** En un paciente con SIADH (Síndrome de Ingestión de Sódio Adicional), la producción de ADH (antidiurético) es aumentada, lo que provoca una retención de sodio y agua en el cuerpo. Como consecuencia, se produce una hiponatremia. Sin embargo, la función renal está normal, lo que significa que la capacidad de excreción de sodio en la orina no está comprometida. Por lo tanto, esperaríamos encontrar una excreción urinaria de sodio reducida, incluso con una ingesta adecuada de sal y agua, ya que el cuerpo está reteniendo el sodio y el agua en lugar de excretarlo en la orina.\n\n- **🔴 Opción A (Incorrecta):** La osmolalidad plasmática >270 mosm/Kg. no es un indicador directo de SIADH. La hiponatremia es un síntoma más común en SIADH, pero la osmolalidad plasmática puede variar dependiendo de otros factores.\n\n- **🔴 Opción B (Incorrecta):** La hipovolemia no es una consecuencia directa de SIADH. De hecho, en SIADH, el volumen de líquido corporal puede aumentar debido a la retención de agua y sodio.\n\n- **🔴 Opción D (Incorrecta):** La excreción urinaria de sodio reducida no es exclusiva de SIADH. Otras condiciones, como la insuficiencia renal, también pueden provocar una reducción en la excreción de sodio en la orina.\n\n**Perla MIR:** En SIADH, la hiponatremia se asocia con una función renal normal y una excreción urinaria de sodio reducida, incluso con una ingesta adecuada de sal y agua."
   },
   {
     "id": "q-167",
@@ -2329,13 +2329,13 @@
     "category": "Infecciosas",
     "stem": "En una paciente joven sin antecedentes de interés que después de un tratamiento antibiótico por otro motivo es diagnosticada de candidiasis vaginal, es cierto que:",
     "options": [
-      "El tratamient o de elección es un c omprimido vaginal de 500 mg de clotrimazol en dosis única.",
-      "Si estuviera embar azada, el tratamiento antifúngico debería ser oral.",
+      "El tratamiento de elección es un comprimido vaginal de 500 mg de clotrimazol en dosis única.",
+      "Si estuviera embarazada, el tratamiento antifúngico debería ser oral.",
       "Es preciso tratar a su pareja sexual, aunque esté asintomática.",
-      "Es nece sario realizar un criba do de otras enfermedades de transmisión sexual."
+      "Es necesario realizar un cribado de otras enfermedades de transmisión sexual."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 167 del examen MIR de la convocatoria FSE."
+    "explanation": "## Candidiasis Vaginal en una Paciente Joven sin Antecedentes de Interés\n\n### Análisis de las Opciones\n\n- **🟢 Opción D (Correcta):** Es necesario realizar un cribado de otras enfermedades de transmisión sexual. La candidiasis vaginal es una infección común que puede estar relacionada con factores como el uso de antibióticos, el estrés, la higiene vaginal deficiente, entre otros. Sin embargo, en una paciente joven sin antecedentes de interés, es fundamental realizar un cribado de otras enfermedades de transmisión sexual, como la sífilis, la gonorrea, el clamidia, entre otras, ya que estas enfermedades pueden tener síntomas similares a la candidiasis vaginal. El cribado de estas enfermedades es crucial para garantizar un diagnóstico y tratamiento adecuados.\n\n- **🔴 Opción A (Incorrecta):** El tratamiento de elección es un comprimido vaginal de 500 mg de clotrimazol en dosis única. Aunque el clotrimazol es un antifúngico efectivo para tratar la candidiasis vaginal, la dosis de 500 mg en una sola toma puede no ser la más adecuada para todas las pacientes. La dosis y la duración del tratamiento deben ser personalizadas según la gravedad de la infección y la respuesta del paciente.\n\n- **🔴 Opción B (Incorrecta):** Si estuviera embarazada, el tratamiento antifúngico debería ser oral. La elección del tratamiento antifúngico durante el embarazo debe ser cuidadosa, ya que algunos medicamentos pueden tener efectos secundarios peligrosos para el feto. El tratamiento antifúngico oral puede ser una opción, pero solo después de una evaluación cuidadosa del riesgo y beneficio.\n\n- **🔴 Opción C (Incorrecta):** Es preciso tratar a su pareja sexual, aunque esté asintomática. La candidiasis vaginal es una infección que puede ser transmitida a través de la piel a piel, pero no es necesario tratar a la pareja sexual asintomática. La pareja sexual solo debe ser tratada si también presenta síntomas de la infección.\n\n## Perla MIR\n\nRecuerda que la candidiasis vaginal es una infección común que requiere un cribado de otras enfermedades de transmisión sexual en pacientes jóvenes sin antecedentes de interés."
   },
   {
     "id": "q-168",
