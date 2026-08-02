@@ -1333,7 +1333,7 @@
     "id": "q-97",
     "localNumber": 97,
     "category": "General",
-    "stem": "Varón de 52 años, diabético, que consulta por pie caído derecho indoloro. En la exploración ha y debilidad del músculo tibial anterior y peroneos derechos, con reflejo rotuliano y aquíleos preser- vados. ¿Cuál es el diagnóstico más probable?:",
+    "stem": "Varón de 52 años, diabético, que consulta por pie caído derecho indoloro. En la exploración se observa debilidad del músculo tibial anterior y peroneos derechos, con reflejo rotuliano y aquileos preservados. ¿Cuál es el diagnóstico más probable?",
     "options": [
       "Radiculopatía S1 derecha.",
       "Mononeuropatía del ciático poplíteo externo derecho.",
@@ -1341,27 +1341,27 @@
       "Amiotrofia diabética."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 97 del examen MIR de la convocatoria FSE."
+    "explanation": "🟢 Opción B (Correcta):\n- El cuadro clínico de pie caído con debilidad de tibial anterior y peroneos, sin alteración de los reflejos rotuliano y aquileo, es típico de una mononeuropatía del nervio peroneo común (ciático poplíteo externo). El nervio peroneo se comprime en la fosa poplítea o en la región de la pierna, produciendo la pérdida de la dorsiflexión y la eversión sin afectar los reflejos que dependen de la raíz L5 y S1.\n\n🔴 Opción A (Incorrecta):\n- La radiculopatía S1 derecha produciría debilidad en los músculos que inervan la raíz S1 (flexores de la pierna, tibial posterior) y alteraría el reflejo aquileo. En este caso, el reflejo aquileo está preservado, descartando una lesión de S1.\n\n🔴 Opción C (Incorrecta):\n- La radiculopatía L5 derecha también afectaría el reflejo rotuliano y produciría debilidad en los músculos que inervan L5 (tibial anterior, peroneos). El reflejo rotuliano está preservado, lo que hace improbable una radiculopatía L5.\n\n🔴 Opción D (Incorrecta):\n- La amotrofia diabética suele presentarse con debilidad proximal, pérdida de sensibilidad y afectación de varios nervios, no con un patrón aislado de pie caído y con reflejos intactos.\n\nPerla MIR: El pie caído con reflejos intactos y debilidad de tibial anterior y peroneos indica una mononeuropatía del nervio peroneo común, no una radiculopatía ni una amotrofia diabética."
   },
   {
     "id": "q-98",
     "localNumber": 98,
     "category": "General",
-    "stem": "En un paciente con un síndrome parkinsoniano de dos años de evolución, señale cuál de las si- guientes manifestaciones clínicas le harían dudar de un diagnóstico de enfermedad de Parkinson:",
+    "stem": "En un paciente con un síndrome parkinsoniano de dos años de evolución, señale cuál de las siguientes manifestaciones clínicas le harían dudar de un diagnóstico de enfermedad de Parkinson",
     "options": [
-      "Disartria grave.",
-      "Ausencia de temblor.",
-      "Presencia de un trastorno de conducta del sue- ño REM.",
-      "Estreñimiento."
+      "Disartria grave",
+      "Ausencia de temblor",
+      "Presencia de un trastorno de conducta del sueño REM",
+      "Estreñimiento"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 98 del examen MIR de la convocatoria FSE."
+    "explanation": "\n   - **🟢 Opción A (Correcta):** La disartria grave es una manifestación clínica que puede hacer dudar de un diagnóstico de enfermedad de Parkinson, ya que aunque la disartria puede estar presente en la enfermedad de Parkinson, una disartria grave es más característica de otras condiciones, como la parálisis supranuclear progresiva o la atrofia multisistémica, que pueden mimetizar la enfermedad de Parkinson.\n   - **🔴 Opción B (Incorrecta):** La ausencia de temblor no descarta el diagnóstico de enfermedad de Parkinson, ya que el temblor es solo uno de los síntomas cardinales de la enfermedad y no todos los pacientes lo presentan.\n   - **🔴 Opción C (Incorrecta):** La presencia de un trastorno de conducta del sueño REM puede estar asociada con la enfermedad de Parkinson, ya que es uno de los trastornos del sueño más comunes en estos pacientes, por lo que no haría dudar del diagnóstico.\n   - **🔴 Opción D (Incorrecta):** El estreñimiento es un síntoma no motor común en la enfermedad de Parkinson, por lo que su presencia no haría dudar del diagnóstico.\n\n   La perla MIR a recordar es que en la evaluación de un paciente con síndrome parkinsoniano, la presencia de disartria grave debe hacer considerar diagnósticos diferenciales más allá de la enfermedad de Parkinson."
   },
   {
     "id": "q-99",
     "localNumber": 99,
     "category": "Neurología",
-    "stem": "Un estudiante de 19 años sufre una primera crisis tónico-clónica generalizada mientras esta- ba tumbado en el sofá. La exploración neurológi- ca es normal. En la anamnesis diri gida nos dice que esos días había dormido menos horas porque estaba de exámenes y que a veces, por las maña- nas, tiene sacudidas en los brazos al co ger la taza del desa yuno. Su electroencefalo grama muestra descargas de puntas y polipunta-onda generali- zadas. Señale la respuesta INCORRECTA:",
+    "stem": "Un estudiante de 19 años sufre una primera crisis tónico-clónica generalizada mientras está tumbado en el sofá. La exploración neurológica es normal. En la anamnesis directa nos dice que esos días había dormido menos horas porque estaba de exámenes y que a veces, por las mañanas, tiene sacudidas en los brazos al coger la taza del desayuno. Su electroencefalograma muestra descargas de puntas y polipuntón-onda generalizadas.",
     "options": [
       "Probablemente la RM craneal sea normal.",
       "No iniciaría tratamiento por ser una primera crisis.",
@@ -1369,27 +1369,27 @@
       "Iniciaría tratamiento con valproato."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 99 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La opción B es correcta porque, aunque la crisis es una primera crisis tónico-clónica generalizada, el paciente presenta antecedentes de sacudidas en los brazos al coger la taza del desayuno, lo que sugiere una forma leve de epilepsia. Además, la presencia de descargas de puntas y polipuntón-onda en el electroencefalograma apoya esta sospecha. Por lo tanto, no es adecuado no iniciar tratamiento por ser una primera crisis.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque la presencia de crisis tónico-clónica generalizada y descargas de puntas y polipuntón-onda en el electroencefalograma sugiere que la lesión cerebral puede ser más grave de lo que inicialmente se pensaba, por lo que es probable que la RM craneal no sea normal.\n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque, aunque la epilepsia mioclónica juvenil es una causa posible de crisis tónico-clónica generalizada, no se menciona que el paciente tenga mioclonías (movimientos musculares involuntarios) en sus extremidades, lo que es característico de esta entidad.\n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque, aunque el valproato es un antiepiléptico efectivo, no se menciona que el paciente tenga una forma grave de epilepsia o que haya intentado otros tratamientos, por lo que iniciar tratamiento con valproato de inmediato puede no ser la mejor opción.\n\nLa perla MIR para recordar este concepto es: \"No subestimes la gravedad de una crisis tónico-clónica generalizada si hay antecedentes de sacudidas en los brazos o mioclonías en los extremidades\"."
   },
   {
     "id": "q-100",
     "localNumber": 100,
     "category": "General",
-    "stem": "Un varón de 21 años comienza con un cuadro psiquiátrico consistente en alucinaciones, altera- ciones conductuales y episodios de catatonía. En unos días se añade al cuadro un déficit de memo- ria y discinesias orales y al décimo día comienza con crisis convulsivas. ¿Cuál de las si guientes pruebas daría más informa ción para el diagnós- tico?:",
+    "stem": "Un varón de 21 años comienza con un cuadro psiquiátrico consistente en alucinaciones, alteraciones conductuales y episodios de catatonía. En unos días se añade al cuadro un déficit de memoria y discinesias orales y al décimo día comienza con crisis convulsivas. ¿Cuál de las siguientes pruebas daría más información para el diagnóstico?",
     "options": [
       "RM cerebral con espectroscopia.",
       "EEG de larga duración con vídeo-EEG.",
-      "Realizar un ciclo de tratamiento con metilpred- nisolona a dosis altas para valorar respuesta.",
+      "Realizar un ciclo de tratamiento con metilprednisona a dosis altas para valorar respuesta.",
       "Estudio en LCR y suero de autoanticuerpos autoinmunes específicos."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 100 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La resonancia magnética (RM) cerebral con espectroscopia puede ser útil para identificar lesiones cerebrales o alteraciones en la estructura cerebral, pero no es la mejor opción en este caso, ya que el paciente presenta una progresión clínica que sugiere un proceso inflamatorio o infeccioso, más que una lesión estructural específica. Además, la espectroscopia puede ayudar a identificar alteraciones en la química cerebral, pero no es la primera opción en un caso de crisis convulsivas y discinesias orales.\n\n- **🔴 Opción B (Incorrecta):** El EEG de larga duración con vídeo-EEG es una herramienta útil para detectar alteraciones en la actividad cerebral, especialmente en casos de crisis convulsivas. Sin embargo, en este caso, la progresión clínica sugiere un proceso más complejo que solo una alteración en la actividad cerebral. Además, el vídeo-EEG puede ayudar a identificar la localización y la naturaleza de las crisis convulsivas, pero no es la mejor opción para abordar la causa subyacente de la enfermedad.\n\n- **🔴 Opción C (Incorrecta):** Realizar un ciclo de tratamiento con metilprednisona a dosis altas para valorar respuesta puede ser útil en casos de psicosis aguda, pero no es la mejor opción en este caso, ya que la progresión clínica sugiere un proceso infeccioso o inflamatorio más que una psicosis pura. Además, la respuesta a la metilprednisona puede no ser una indicadora fiable de la causa subyacente de la enfermedad.\n\n- **🟢 Opción D (Correcta):** El estudio en LCR y suero de autoanticuerpos autoinmunes específicos es la mejor opción en este caso, ya que la progresión clínica sugiere un proceso infeccioso o inflamatorio. Los autoanticuerpos autoinmunes específicos pueden ser una herramienta útil para identificar la causa subyacente de la enfermedad, especialmente en casos de encefalitis o otros procesos inflamatorios del sistema nervioso central.\n\n**Perla MIR:** En el diagnóstico de enfermedades neurológicas, es importante considerar la progresión clínica y la presencia de autoanticuerpos autoinmunes específicos para identificar la causa subyacente de la enfermedad."
   },
   {
     "id": "q-101",
     "localNumber": 101,
     "category": "Neurología",
-    "stem": "Mu jer de 53 años sin antecedentes de interés que acude a urgencias por alteración del habla ini- ciada br uscamente un a h ora an tes. En la expl o- ración solo se objetiva una afasia motora. La TC craneal basal es normal. En la TC de perfusión hay un defecto de flujo en la región cortical fron- tal izquierda sin afectación en los mapas de vo- lumen. En la angio-TC se ob jetiva un trombo en el segmento distal (M3-M4) de la arteria cerebral media izquierda. Señale cuál de los si guientes es el tratamiento más correcto:",
+    "stem": "Un hombre de 53 años sin antecedentes de interés acude a urgencias por alteración del habla iniciada bruscamente una hora antes. En la exploración solo se objeta una afasia motora. La TC craneal basal es normal. En la TC de perfusión hay un defecto de flujo en la región cortical frontal izquierda sin afectación en los mapas de volumen. En la angi-TC se objetiva un trombo en el segmento distal (M3-M4) de la arteria cerebral media izquierda.",
     "options": [
       "Trombectomía mecánica.",
       "Fibrinolisis endovenosa con rTPA.",
@@ -1397,7 +1397,7 @@
       "Anticoagulación con heparina sódica."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 101 del examen MIR de la convocatoria FSE."
+    "explanation": "# Tratamiento del trombo en el segmento distal de la arteria cerebral media izquierda\n\n## Opciones de tratamiento\n\n- **🟢 Opción B (Correcta):** La fibrinolisis endovenosa con rTPA es el tratamiento más adecuado en este caso. La presencia de un trombo en el segmento distal de la arteria cerebral media izquierda sin afectación en los mapas de volumen y con una afasia motora sugiere un Accidente Cerebrovascular Isquémico (ACI) en evolución. La fibrinolisis endovenosa con rTPA es una opción rápida y efectiva para la recanalización del vaso sanguíneo afectado, reduciendo el daño cerebral y mejorando la probabilidad de recuperación del paciente.\n\n- **🔴 Opción A (Incorrecta):** La trombectomía mecánica es una opción de tratamiento invasiva que se utiliza habitualmente en casos de trombo en la arteria cerebral media, pero en este caso, la presencia de una afasia motora sugiere que el daño cerebral ya está establecido y que la recanalización es la prioridad. La trombectomía mecánica puede ser necesaria si la fibrinolisis endovenosa con rTPA no es efectiva, pero no es la primera opción.\n\n- **🔴 Opción C (Incorrecta):** La combinación de fibrinolisis endovenosa y trombectomía mecánica si no se consigue recanalización no es una opción clásica en este escenario. La fibrinolisis endovenosa es la primera opción para recanalizar el vaso sanguíneo afectado, y la trombectomía mecánica se utiliza como segunda opción si la fibrinolisis no es efectiva.\n\n- **🔴 Opción D (Incorrecta):** La anticoagulación con heparina sódica es una opción de tratamiento para prevenir la formación de nuevos trombos, pero no es efectiva para la recanalización de un trombo existente en el segmento distal de la arteria cerebral media izquierda. La anticoagulación es una opción para pacientes con ACI que no presentan signos de daño cerebral establecido, pero en este caso, la presencia de una afasia motora sugiere que el daño cerebral ya está establecido y que la recanalización es la prioridad.\n\n## Perla MIR\n\nLa perla de este caso es que la fibrinolisis endovenosa con rTPA es la primera opción para la recanalización de un trombo en el segmento distal de la arteria cerebral media izquierda, especialmente si se presenta con signos de daño cerebral en evolución."
   },
   {
     "id": "q-102",
