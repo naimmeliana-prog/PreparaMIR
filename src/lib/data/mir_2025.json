@@ -339,7 +339,7 @@
     "id": "q-25",
     "localNumber": 25,
     "category": "Cardiología",
-    "stem": "Paciente de 56 años, con antecedentes de Diabetes Mellitus tipo 2, obesidad y fuma- dor de 20 cigarrillos diarios. Consulta en ur- gencias por un episodio de dolor torácico con mareo tras una discusión con un fami- liar. El electrocardiograma es normal y la primera troponina es de 14. Siguiendo el protocolo se le va a seriar la troponina por lo que está esperando en un box de urgen- cias monitorizado. Mientras espera co- mienza con mareo, por lo que avisa al per- sonal de enfermería que cuando llega al box se lo encuentra inconsciente, sin respi- ración y con un ritmo en el monitor como el de la imagen (IMAGEN 25). Se comienza con compresiones y ventilaciones con una secuencia 30:2. ¿Cuál sería la siguiente ac- ción?:",
+    "stem": "Paciente de 56 años, con antecedentes de Diabetes Mellitus tipo 2, obesidad y fumador de 20 cigarrillos diarios. Consulta en urgencias por un episodio de dolor torácico con mareo tras una discusión con un familiar. El electrocardiograma es normal y la primera troponina es de 14. Siguiendo el protocolo se le va a seriar la troponina por lo que está esperando en un box de urgencias monitorizado. Mientras espera comienza con mareo, por lo que avisa al personal de enfermería que cuando llega al box se lo encuentra inconsciente, sin respiración y con un ritmo en el monitor como el de la imagen. Se comienza con compresiones y ventilaciones con una secuencia 30:2.",
     "options": [
       "Administrar Adrenalina intravenosa.",
       "Administrar Amiodarona intravenosa.",
@@ -347,7 +347,7 @@
       "Realizar una cardioversión eléctrica."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 25 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La opción correcta es Realizar una desfibrilación. En este caso, el paciente presenta un ritmo cardíaco anormal (como se indica en la imagen) y se encuentra inconsciente sin respiración, lo que sugiere un paro cardíaco. La desfibrilación es la medida adecuada para tratar un paro cardíaco, especialmente cuando se detecta un ritmo ventricular no compensado (VNC). La desfibrilación puede ayudar a restaurar la función cardíaca normal y mejorar las posibilidades de supervivencia del paciente.\n\n- **🔴 Opción A (Incorrecta):** Administrar Adrenalina intravenosa no es la opción adecuada en este caso. Aunque la adrenalina puede ser útil en algunas situaciones de paro cardíaco, no es la primera medida a tomar en un caso de ritmo VNC, y la desfibrilación es más efectiva en este escenario.\n\n- **🔴 Opción B (Incorrecta):** Administrar Amiodarona intravenosa tampoco es la opción correcta. La amiodarona es un antiarrítmico que se puede usar en algunos casos de ritmo cardíaco anormal, pero no es la primera línea de tratamiento en un caso de paro cardíaco con ritmo VNC. Además, la amiodarona puede tener efectos secundarios y puede no ser efectiva en todos los casos.\n\n- **🔴 Opción D (Incorrecta):** Realizar una cardioversión eléctrica no es la opción adecuada en este caso. La cardioversión se utiliza para revertir un ritmo cardíaco anormal a un ritmo normal, pero en este caso, el paciente ya está en un paro cardíaco y la desfibrilación es la medida más adecuada para tratar el problema.\n\nLa perla MIR es que en un caso de paro cardíaco con ritmo VNC, la desfibrilación es la primera medida a tomar, y no se debe retrasar en su aplicación para intentar otras opciones como la administración de medicamentos."
   },
   {
     "id": "q-26",
@@ -381,7 +381,7 @@
     "id": "q-28",
     "localNumber": 28,
     "category": "General",
-    "stem": "En materia de seguridad del paciente, todo evento que haya derivado en la muerte del paciente o la pérdida permanente e impor- tante de una función, de carácter impre- visto y sin relación con la evolución natural de la enfermedad o el trastorno subyacente del paciente, se denomina:",
+    "stem": "En materia de seguridad del paciente, todo evento que haya derivado en la muerte del paciente o la pérdida permanente e importante de una función, de carácter inesperado y sin relación con la evolución natural de la enfermedad o el trastorno subyacente del paciente, se denomina:",
     "options": [
       "Cuasi-incidente.",
       "Factor contribuyente.",
@@ -389,49 +389,49 @@
       "Evento centinela."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 28 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Un Evento Centinela es un incidente que no es causado por un factor humano, sino por una falla en el sistema, como un dispositivo médico defectuoso o un problema en el suministro de oxígeno. Este tipo de evento puede ser imprevisible y sin relación con la evolución natural de la enfermedad o el trastorno subyacente del paciente. Por lo tanto, se denomina Evento Centinela. \n\n- **🔴 Opción A (Incorrecta):** Un Cuasi-incidente es un evento que se asemeja a un incidente, pero no es lo suficientemente grave como para ser considerado como tal. No se relaciona con la muerte del paciente o la pérdida permanente e importante de una función. \n\n- **🔴 Opción B (Incorrecta):** Un Factor Contribuyente es cualquier elemento que pueda influir en la ocurrencia de un evento, pero no es el causante directo del mismo. No se relaciona con la muerte del paciente o la pérdida permanente e importante de una función. \n\n- **🔴 Opción C (Incorrecta):** Una Infracción es una violación de las normas y procedimientos establecidos para la seguridad del paciente. No se relaciona con la muerte del paciente o la pérdida permanente e importante de una función. \n\nLa seguridad del paciente es un tema fundamental en la atención médica. Un Evento Centinela es un recordatorio de la importancia de identificar y abordar las fallas en el sistema para prevenir daños a los pacientes."
   },
   {
     "id": "q-29",
     "localNumber": 29,
     "category": "General",
-    "stem": "¿Qué tipo de sesgo se comete cuando se asume que una asociación observada a ni- vel poblacional también existe a nivel indi- vidual?:",
+    "stem": "¿Qué tipo de sesgo se comete cuando se asume que una asociación observada a nivel poblacional también existe a nivel individual?",
     "options": [
       "Sesgo o falacia ecológica.",
       "Sesgo de atención o efecto Hawthorne.",
-      "Falacia de Neyman o sesgo de prevalen- cia o de incidencia.",
+      "Falacia de Neyman o sesgo de prevalencia o de incidencia.",
       "Sesgo de regresión a la media."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 29 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El sesgo ecológico ocurre cuando se generaliza una asociación observada a nivel poblacional a nivel individual. Esto es común en estudios de cohortes o casos-controles, donde se observa una asociación entre una exposición y una enfermedad en un grupo poblacional, pero no se confirma en el nivel individual. Por ejemplo, se puede observar que en una población, los fumadores tienen una mayor incidencia de cáncer de pulmón, pero no se puede afirmar que cada fumador individual tenga un mayor riesgo de cáncer de pulmón.\n- **🔴 Opción B (Incorrecta):** El sesgo de atención o efecto Hawthorne se refiere a la modificación en el comportamiento de los participantes debido a la observación o intervención en un estudio. No se relaciona con la generalización de asociaciones a nivel poblacional a nivel individual.\n- **🔴 Opción C (Incorrecta):** La falacia de Neyman o sesgo de prevalencia o de incidencia se refiere a la diferencia entre la proporción de casos en un estudio de casos-controles y la proporción en la población general. No se relaciona con la generalización de asociaciones a nivel poblacional a nivel individual.\n- **🔴 Opción D (Incorrecta):** El sesgo de regresión a la media se refiere a la tendencia a la media de los valores de las variables en un estudio después de ajustar por otras variables. No se relaciona con la generalización de asociaciones a nivel poblacional a nivel individual.\nLa perla MIR es: 'El sesgo ecológico es el peligro de confundir la asociación a nivel poblacional con la asociación a nivel individual.'"
   },
   {
     "id": "q-30",
     "localNumber": 30,
     "category": "Infecciosas",
-    "stem": "¿Cuál de las siguientes NO se considera una infección relacionada con la asistencia sanitaria?:",
+    "stem": "¿Cuál de las siguientes NO se considera una infección relacionada con la asistencia sanitaria?",
     "options": [
-      "Paciente hospitalizado que desarrolla una infección por Clostridium difficile con inicio de síntomas tras 48 horas de in- greso.",
-      "Paciente sometido a cirugía mayor ambu- latoria que desarrolla una infección de lo- calización quirúrgica con inicio de sínto- mas a los 25 días de la intervención.",
-      "Paciente hospitalizado, portador de son- daje vesical desde su colocación en ur- gencias, que desarrolla una infección del tracto urinario con inicio de síntomas a las 72 horas de ingreso.",
+      "Paciente hospitalizado que desarrolla una infección por Clostridium difficile con inicio de síntomas tras 48 horas de ingreso.",
+      "Paciente sometido a cirugía mayor ambulatoria que desarrolla una infección de localización quirúrgica con inicio de síntomas a los 25 días de la intervención.",
+      "Paciente hospitalizado, portador de sonido vesical desde su colocación en urgencias, que desarrolla una infección del tracto urinario con inicio de síntomas a las 72 horas de ingreso.",
       "Paciente hospitalizado que desarrolla una neumonía con inicio de síntomas a las 24 horas de su ingreso."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 30 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Esta opción es la correcta porque las infecciones relacionadas con la asistencia sanitaria (IRAS) deben tener un inicio de síntomas después de 48 horas de ingreso hospitalario. La neumonía con inicio de síntomas a las 24 horas de ingreso no cumple con este criterio y, por tanto, no se considera una IRAS.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque el paciente hospitalizado que desarrolla una infección por Clostridium difficile con inicio de síntomas tras 48 horas de ingreso sí cumple con los criterios para ser considerado una IRAS.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque el paciente sometido a cirugía mayor ambulatoria que desarrolla una infección de localización quirúrgica con inicio de síntomas a los 25 días de la intervención sí cumple con los criterios para ser considerado una IRAS.\n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque el paciente hospitalizado, portador de sonido vesical desde su colocación en urgencias, que desarrolla una infección del tracto urinario con inicio de síntomas a las 72 horas de ingreso sí cumple con los criterios para ser considerado una IRAS.\n\nLa perla MIR: Para recordar qué es una infección relacionada con la asistencia sanitaria, recuerda que debe tener un inicio de síntomas después de 48 horas de ingreso hospitalario."
   },
   {
     "id": "q-31",
     "localNumber": 31,
     "category": "Infecciosas",
-    "stem": "¿Cuál de los siguientes NO se considera un grupo de riesgo que requiera vacuna- ción frente al Virus de la Hepatitis A?:",
+    "stem": "¿Cuál de los siguientes NO se considera un grupo de riesgo que requiera vacunación frente al Virus de la Hepatitis A?",
     "options": [
-      "Pacientes diagnosticados de VIH.",
-      "Pacientes candidatos a trasplante hepá- tico.",
-      "Pacientes diagnosticados de asplenia anatómica o disfunción esplénica grave.",
-      "Pacientes diagnosticados de enfermedad hepática crónica."
+      "Pacientes diagnosticados de VIH",
+      "Pacientes candidatos a trasplante hepático",
+      "Pacientes diagnosticados de asplenia anatómica o disfunción esplénica grave",
+      "Pacientes diagnosticados de enfermedad hepática crónica"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 31 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Los pacientes diagnosticados de enfermedad hepática crónica no son un grupo de riesgo prioritario para la vacunación frente al Virus de la Hepatitis A. La vacunación se recomienda para personas que viajan a áreas con alta prevalencia de la enfermedad, tienen contacto estrecho con personas infectadas o tienen condiciones que les aumentan el riesgo de infección, como la asplenia anatómica o disfunción esplénica grave, o están infectados con VIH. En el caso de los pacientes con enfermedad hepática crónica, el riesgo de infección por Hepatitis A es menor que en otros grupos, y la vacunación no se considera una medida prioritaria para prevenir la enfermedad en este grupo específico.\n\n- **🔴 Opción A (Incorrecta):** Los pacientes diagnosticados de VIH sí son un grupo de riesgo para la vacunación frente al Virus de la Hepatitis A. La infección por VIH aumenta el riesgo de desarrollar enfermedades hepáticas y la vacunación contra la Hepatitis A se recomienda para prevenir la infección en este grupo.\n\n- **🔴 Opción B (Incorrecta):** Los pacientes candidatos a trasplante hepático sí son un grupo de riesgo para la vacunación frente al Virus de la Hepatitis A. La infección por Hepatitis A puede ser grave en personas con enfermedades hepáticas preexistentes, incluyendo aquellos que están candidatos a trasplante hepático.\n\n- **🔴 Opción D (Incorrecta):** Los pacientes diagnosticados de asplenia anatómica o disfunción esplénica grave sí son un grupo de riesgo para la vacunación frente al Virus de la Hepatitis A. La asplenia anatómica o disfunción esplénica grave aumenta el riesgo de desarrollar infecciones bacterianas y virales, incluyendo la Hepatitis A.\n\nLa vacunación contra la Hepatitis A es una medida importante para prevenir la infección en personas que viajan a áreas con alta prevalencia de la enfermedad, tienen contacto estrecho con personas infectadas o tienen condiciones que les aumentan el riesgo de infección. Es importante considerar el historial clínico de cada paciente para determinar si la vacunación es necesaria o no."
   },
   {
     "id": "q-32",
