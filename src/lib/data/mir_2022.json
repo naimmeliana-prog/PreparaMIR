@@ -633,7 +633,7 @@
     "id": "q-46",
     "localNumber": 46,
     "category": "General",
-    "stem": "El motivo por el que una intervención tiene un grado de recomendación \"fuerte\" en una guía de práctica clínica es que:",
+    "stem": "El motivo por el que una intervención tiene un grado de recomendación 'fuerte' en una guía de práctica clínica es que tiene más beneficios que riesgos.",
     "options": [
       "Tiene más beneficios que riesgos.",
       "Está basada en un alto nivel de evidencia.",
@@ -641,55 +641,55 @@
       "Es la preferida por los pacientes."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 46 del examen MIR de la convocatoria FSE."
+    "explanation": "La explicación estructurada del concepto es la siguiente:\n\n- **🟢 Opción A (Correcta):** El grado de recomendación 'fuerte' en una guía de práctica clínica se refiere a que la intervención tiene un mayor beneficio que riesgos para el paciente. Esto significa que los beneficios obtenidos con la intervención superan los riesgos potenciales asociados con ella. En otras palabras, el beneficio de la intervención es mayor que el daño potencial que puede causar. Por lo tanto, es recomendada con fuerza en la guía de práctica clínica.\n\n- **🔴 Opción B (Incorrecta):** La opción de que la intervención está basada en un alto nivel de evidencia no necesariamente implica que tenga un grado de recomendación 'fuerte'. La evidencia científica es importante para guiar la toma de decisiones en la práctica clínica, pero un alto nivel de evidencia no necesariamente significa que la intervención tenga más beneficios que riesgos. La evidencia puede ser alta pero el beneficio no siempre supera los riesgos.\n\n- **🔴 Opción C (Incorrecta):** El coste de la intervención no es el factor principal que determina su grado de recomendación en una guía de práctica clínica. Si bien el coste es un factor importante a considerar en la toma de decisiones en la práctica clínica, no es el único factor que determina si una intervención tiene un grado de recomendación 'fuerte'. La relación beneficio-riesgo es más importante que el coste.\n\n- **🔴 Opción D (Incorrecta):** La preferencia del paciente no es el factor principal que determina el grado de recomendación de una intervención en una guía de práctica clínica. Si bien la preferencia del paciente es importante considerar en la toma de decisiones en la práctica clínica, no es el único factor que determina si una intervención tiene un grado de recomendación 'fuerte'. La relación beneficio-riesgo es más importante que la preferencia del paciente.\n\nLa perla MIR es la siguiente: 'El grado de recomendación 'fuerte' en una guía de práctica clínica se refiere a que la intervención tiene un mayor beneficio que riesgos para el paciente'."
   },
   {
     "id": "q-47",
     "localNumber": 47,
     "category": "General",
-    "stem": "¿En cuál de las siguientes enfermedades debemos aplicar precauciones de aislamiento por contacto y aire (aerosoles)?:",
+    "stem": "¿En cuál de las siguientes enfermedades debemos aplicar precauciones de aislamiento por contacto y aire (aerosoles)?",
     "options": [
-      "Sarampión.",
-      "Tuberculosis.",
-      "Norovirus.",
-      "Varicela."
+      "Sarampión",
+      "Tuberculosis",
+      "Norovirus",
+      "Varicela"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 47 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La tuberculosis es una enfermedad infecciosa que se transmite a través de aerosoles, es decir, partículas en suspensión en el aire. Debido a esto, es fundamental aplicar precauciones de aislamiento por contacto y aire para prevenir la propagación de la enfermedad. Esto incluye el uso de equipo de protección individual, como mascarillas y guantes, y la implementación de medidas de control de la contaminación del aire en áreas cerradas.\n\n- **🔴 Opción A (Incorrecta):** El sarampión es una enfermedad viral que se transmite a través de gotículas respiratorias, pero no a través de aerosoles. Por lo tanto, no requiere precauciones de aislamiento por contacto y aire.\n\n- **🔴 Opción B (Incorrecta):** La tuberculosis, aunque se transmite a través de aerosoles, no es la única enfermedad que lo hace. Sin embargo, es la más relevante en este contexto.\n\n- **🔴 Opción C (Incorrecta):** El norovirus es una enfermedad viral que se transmite a través de contacto directo o a través de agua o alimentos contaminados, pero no a través de aerosoles. Por lo tanto, no requiere precauciones de aislamiento por contacto y aire.\n\n- **🔴 Opción D (Incorrecta):** La varicela es una enfermedad viral que se transmite a través de gotículas respiratorias, pero no a través de aerosoles. Por lo tanto, no requiere precauciones de aislamiento por contacto y aire.\n\nLa perla MIR: 'Recuerda que la tuberculosis es la única enfermedad entre las opciones que se transmite a través de aerosoles, por lo que es la única que requiere precauciones de aislamiento por contacto y aire.'"
   },
   {
     "id": "q-48",
     "localNumber": 48,
     "category": "General",
-    "stem": "En el diagrama de bosque ( forest plot) que mues- tra los resultados de una revisión sistemática de estudios, el cuadrado que aparece al lado de cada estudio es:",
+    "stem": "En el diagrama de bosque que muestra los resultados de una revisión sistemática de estudios, el cuadrado que aparece al lado de cada estudio es:",
     "options": [
       "El tamaño de cada estudio.",
-      "El estimador de interés (como el riesgo relati- vo) de cada estudio.",
+      "El estimador de interés (como el riesgo relativo) de cada estudio.",
       "El intervalo de confianza del estimador de interés en cada estudio.",
       "El peso de cada estudio cuando se realiza un metaanálisis de dichos estudios."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 48 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** El tamaño de cada estudio no se representa mediante un cuadrado en un diagrama de bosque. En un diagrama de bosque, el tamaño de cada estudio se indica mediante el área del círculo que rodea el cuadrado, no mediante el cuadrado en sí mismo. Por lo tanto, esta opción no es la correcta.\n\n- **🔴 Opción C (Incorrecta):** El intervalo de confianza del estimador de interés en cada estudio se representa mediante una línea que rodea el cuadrado, no mediante el cuadrado en sí mismo. Esto se conoce como el intervalo de confianza del estimador de interés. Por lo tanto, esta opción no es la correcta.\n\n- **🔴 Opción D (Incorrecta):** El peso de cada estudio cuando se realiza un metaanálisis de dichos estudios se representa mediante el tamaño del círculo que rodea el cuadrado, no mediante el cuadrado en sí mismo. El peso se utiliza para combinar los resultados de los estudios en un metaanálisis. Por lo tanto, esta opción no es la correcta.\n\n- **🟢 Opción B (Correcta):** El estimador de interés (como el riesgo relativo) de cada estudio se representa mediante el cuadrado en un diagrama de bosque. Esto se conoce como el estimador de interés. El estimador de interés es un valor que representa la asociación entre la exposición y el resultado en cada estudio. Por lo tanto, esta opción es la correcta.\n\nLa perla MIR es: En un diagrama de bosque, el cuadrado representa el estimador de interés de cada estudio."
   },
   {
     "id": "q-49",
     "localNumber": 49,
     "category": "General",
-    "stem": "En la valoración del riesgo de sesgo de un estudio epidemioló gico se considera uno de los si guientes criterios:",
+    "stem": "En la valoración del riesgo de sesgo de un estudio epidemiológico se considera uno de los siguientes criterios:",
     "options": [
       "Insuficiente tamaño muestral.",
-      "La excesiva amplitud del intervalo de confian- za del 95 % del principal resultado del estudio.",
-      "La falta de significación estadística de los re- sultados.",
+      "La excesiva amplitud del intervalo de confianza del 95% del principal resultado del estudio.",
+      "La falta de significación estadística de los resultados.",
       "Errores de medida en alguna de las principales variables."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 49 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Los errores de medida en alguna de las principales variables son un criterio importante para valorar el riesgo de sesgo en un estudio epidemiológico. Esto se debe a que si se cometen errores al medir las variables de interés, los resultados del estudio pueden ser afectados y no reflejar la realidad. Por ejemplo, si se mide la talla de los participantes de un estudio de salud con un instrumento inexacto, los resultados sobre la asociación entre la talla y la salud pueden ser sesgados. Por lo tanto, es fundamental considerar la calidad de la medición de las variables para garantizar la validez del estudio. \n\n- **🔴 Opción A (Incorrecta):** Un insuficiente tamaño muestral puede afectar la precisión de los resultados de un estudio, pero no es un criterio directo para valorar el riesgo de sesgo. Si bien un tamaño muestral insuficiente puede llevar a resultados no representativos, no necesariamente implica un sesgo en el estudio. \n\n- **🔴 Opción B (Incorrecta):** La excesiva amplitud del intervalo de confianza del 95% puede indicar una falta de precisión en los resultados, pero no es un criterio para valorar el riesgo de sesgo. Un intervalo de confianza amplio puede deberse a una muestra pequeña o a la variabilidad de los resultados, pero no implica necesariamente un sesgo en el estudio. \n\n- **🔴 Opción C (Incorrecta):** La falta de significación estadística de los resultados puede indicar que los resultados no son estadísticamente significativos, pero no es un criterio para valorar el riesgo de sesgo. Una falta de significación estadística no implica necesariamente un sesgo en el estudio, ya que puede deberse a una muestra pequeña o a la variabilidad de los resultados. \n\nLa perla MIR: Recuerda que el riesgo de sesgo en un estudio epidemiológico se debe valorar considerando la calidad de la medición de las variables, la precisión de los resultados y la validez del estudio. No confundas la falta de precisión o la falta de significación estadística con un riesgo de sesgo."
   },
   {
     "id": "q-50",
     "localNumber": 50,
     "category": "Neumología",
-    "stem": "La me jor estrategia preventiva para ralentizar la progresión de la enfermedad en un fumador diagnosticado de EPOC es lo grar el ob jetivo de cesación tabáquica. La si guiente medida NO se incluye en los protocolos actuales de primera elección para el tratami ento de refuerzo de la abstención tabáquica, porque faltan estudios demostrativos sobre su eficacia clínica y seguri- dad:",
+    "stem": "La mejor estrategia preventiva para ralentizar la progresión de la enfermedad en un fumador diagnosticado de EPOC es lograr el objetivo de cesación tabáquica. La siguiente medida NO se incluye en los protocolos actuales de primera elección para el tratamiento de refuerzo de la abstención tabáquica, porque faltan estudios demostrativos sobre su eficacia clínica y seguridad:",
     "options": [
       "Parche cutáneo de nicotina.",
       "Bupropión.",
@@ -697,7 +697,7 @@
       "Cigarrillo electrónico."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 50 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta busca evaluar la capacidad del examinado para identificar la medida que no se incluye en los protocolos actuales para el tratamiento de refuerzo de la abstención tabáquica en fumadores con EPOC. A continuación, se presenta la explicación de cada opción:\n\n- **🟢 Opción D (Correcta):** El cigarrillo electrónico no se considera una medida eficaz para la abstención tabáquica en fumadores con EPOC. Aunque puede ser utilizado como herramienta de apoyo para la cesación tabáquica, no se ha demostrado su eficacia en la prevención de la progresión de la enfermedad en fumadores con EPOC.\n\n- **🔴 Opción A (Incorrecta):** El parche cutáneo de nicotina es una medida eficaz para la abstención tabáquica y se incluye en los protocolos actuales de primera elección para el tratamiento de refuerzo de la abstención tabáquica en fumadores con EPOC.\n\n- **🔴 Opción B (Incorrecta):** El Bupropión es un medicamento que se utiliza para ayudar a las personas a dejar de fumar y se incluye en los protocolos actuales de primera elección para el tratamiento de refuerzo de la abstención tabáquica en fumadores con EPOC.\n\n- **🔴 Opción C (Incorrecta):** La Vareniclina es un medicamento que se utiliza para ayudar a las personas a dejar de fumar y se incluye en los protocolos actuales de primera elección para el tratamiento de refuerzo de la abstención tabáquica en fumadores con EPOC.\n\nLa perla MIR es: La abstención tabáquica es fundamental en el tratamiento de la EPOC en fumadores, y es importante utilizar medidas eficaces y demostradas científicamente para lograr este objetivo."
   },
   {
     "id": "q-51",
