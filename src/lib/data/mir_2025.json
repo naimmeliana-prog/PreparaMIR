@@ -506,15 +506,15 @@
     "id": "q-37",
     "localNumber": 37,
     "category": "General",
-    "stem": "Señale la respuesta CORRECTA respecto al manejo inicial de un paciente en shock sép- tico:",
+    "stem": "Señale la respuesta CORRECTA respecto al manejo inicial de un paciente en shock séptico:",
     "options": [
-      "No debe iniciarse el tratamiento con un va- sopresor hasta que se haya finalizado la reanimación con fluidos.",
-      "Hoy en día, la vasopresina es el primer va- sopresor a emplear.",
-      "El objetivo es mantener una Presión arte- rial sistólica > 90 mmHg.",
-      "En caso de no disponer de un acceso ve- noso central y no lograr el objetivo hemo- dinámico podemos iniciar el tratamiento con vasopresores por un acceso venoso periférico."
+      "No debe iniciarse el tratamiento con un vasoconstrictor hasta que se haya finalizado la reanimación con fluidos.",
+      "Hoy en día, la vasopresina es el primer vasoconstrictor a emplear.",
+      "El objetivo es mantener una Presión arterial sistólica > 90 mmHg.",
+      "En caso de no disponer de un acceso venoso central y no lograr el objetivo hemodinámico podemos iniciar el tratamiento con vasopresores por un acceso venoso periférico."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 37 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** En el manejo inicial de un paciente en shock séptico, es importante iniciar el tratamiento con vasopresores de manera oportuna, especialmente si no se logra mejorar la presión arterial sistólica con la reanimación con fluidos. La opción D es correcta porque permite iniciar el tratamiento con vasopresores por un acceso venoso periférico en caso de no disponer de un acceso venoso central y no lograr el objetivo hemodinámico, lo que es una situación común en la práctica clínica. Esto permite actuar de manera rápida y efectiva para mejorar la presión arterial sistólica del paciente y evitar complicaciones graves. \n\n- **🔴 Opción A (Incorrecta):** La opción A no es correcta porque no es necesario esperar a finalizar la reanimación con fluidos para iniciar el tratamiento con un vasoconstrictor. De hecho, la Sociedad Española de Medicina Intensiva y Unidades Coronarias (SEMICYUC) recomienda iniciar el tratamiento con vasopresores en pacientes con shock séptico que no mejoran con la reanimación con fluidos. \n\n- **🔴 Opción B (Incorrecta):** La opción B no es correcta porque la vasopresina no es el primer vasoconstrictor a emplear en el manejo inicial de un paciente en shock séptico. La norepinefrina es el vasoconstrictor más comúnmente utilizado en este contexto, ya que es eficaz para mejorar la presión arterial sistólica y tiene un efecto beneficioso en la supervivencia de los pacientes con shock séptico. \n\n- **🔴 Opción C (Incorrecta):** La opción C no es correcta porque el objetivo de mantener una presión arterial sistólica > 90 mmHg no es suficiente en el manejo inicial de un paciente en shock séptico. De hecho, la Sociedad Española de Medicina Intensiva y Unidades Coronarias (SEMICYUC) recomienda mantener una presión arterial sistólica ≥ 65 mmHg, ya que esto se ha asociado con una mejor supervivencia en pacientes con shock séptico. \n\nLa perla MIR es que en el manejo inicial de un paciente en shock séptico, es importante iniciar el tratamiento con vasopresores de manera oportuna y efectiva, y que la opción D es la correcta porque permite actuar de manera rápida y efectiva para mejorar la presión arterial sistólica del paciente y evitar complicaciones graves."
   },
   {
     "id": "q-38",
@@ -522,19 +522,19 @@
     "category": "Infecciosas",
     "stem": "Respecto al diagnóstico de la enfermedad por citomegalovirus, señale la respuesta INCORRECTA:",
     "options": [
-      "La infección primaria en personas inmu- nocompetentes ocasiona una respuesta de anticuerpos IgM e IgG, estos últimos detectables de por vida en la mayoría de los pacientes, mientras que los anticuer- pos IgM se negativizan en menos de 30 días.",
-      "El cultivo del CMV en fibroblastos huma- nos produce un efecto citopático caracte- rístico entre los 7 y los 28 días.",
-      "La determinación periódica de la carga vi- ral en sangre se realiza en los receptores de trasplante de alto riesgo de enferme- dad como guía para el tratamiento antici- pado.",
-      "Los métodos de reacción en cadena de la polimerasa (PCR) en tiempo real son de elección por sensibilidad y especificidad si bien el número de copias indicativas de in- fección activa varía según la técnica em- pleada y si se realiza en sangre total o plasma."
+      "La infección primaria en personas inmunes o incompetentes ocasiona una respuesta de anticuerpos IgM e IgG, estos últimos detectables de por vida en la mayoría de los pacientes, mientras que los anticuerpos IgM se negativizan en menos de 30 días.",
+      "El cultivo del CMV en fibroblastos humanos produce un efecto citopático característico entre los 7 y los 28 días.",
+      "La determinación periódica de la carga viral en sangre se realiza en los receptores de trasplante de alto riesgo de enfermedad como guía para el tratamiento anticipado.",
+      "Los métodos de reacción en cadena de la polimerasa (PCR) en tiempo real son de elección por sensibilidad y especificidad si bien el número de copias indicativas de infección activa varía según la técnica empleada y si se realiza en sangre total o plasma."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 38 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La respuesta a la infección primaria por citomegalovirus (CMV) en personas inmunes o incompetentes es característicamente una respuesta de anticuerpos IgM e IgG. Los anticuerpos IgG son detectables de por vida en la mayoría de los pacientes, lo que significa que se mantienen a lo largo de la vida. Por otro lado, los anticuerpos IgM se negativizan en menos de 30 días después de la infección. Esto se debe a que los anticuerpos IgM son una respuesta inmediata a la infección, pero su producción se detiene rápidamente después de la recuperación del paciente. Por lo tanto, la afirmación de la opción A es correcta clínicamente.\n\n- **🔴 Opción B (Incorrecta):** El cultivo del CMV en fibroblastos humanos puede producir un efecto citopático característico, pero el período de tiempo en el que se produce este efecto puede variar dependiendo de la cepa del virus y las condiciones de cultivo. No hay un rango específico de 7 a 28 días que sea característico para todos los cultivos de CMV. Por lo tanto, la afirmación de la opción B no es adecuada en este caso.\n\n- **🔴 Opción C (Incorrecta):** La determinación periódica de la carga viral en sangre puede ser útil como guía para el tratamiento anticipado en los receptores de trasplante de alto riesgo de enfermedad, pero no es la única opción para la detección de la infección por CMV. Otros métodos, como la PCR en tiempo real, también pueden ser utilizados para detectar la infección. Por lo tanto, la afirmación de la opción C no es la única correcta en este caso.\n\n- **🔴 Opción D (Incorrecta):** Los métodos de PCR en tiempo real son de elección por sensibilidad y especificidad para detectar la infección por CMV. Sin embargo, el número de copias indicativas de infección activa puede variar según la técnica empleada y si se realiza en sangre total o plasma. Por lo tanto, la afirmación de la opción D no es adecuada en este caso.\n\nLa perla MIR es: La respuesta inmune a la infección primaria por CMV es característicamente una respuesta de anticuerpos IgM e IgG, y los anticuerpos IgG se mantienen detectables de por vida en la mayoría de los pacientes."
   },
   {
     "id": "q-39",
     "localNumber": 39,
     "category": "Infecciosas",
-    "stem": "En un paciente con infección por el virus de inmunodeficiencia humana (VIH) y alta sos- pecha de infección respiratoria por Mico- bacteria, una PCR negativa del complejo Micobacterium tuberculosis en un lavado broncoalveolar NO excluye infección por una de las siguientes especies. Señálela:",
+    "stem": "En un paciente con infección por el virus de inmunodeficiencia humana (VIH) y alta sospecha de infección respiratoria por Micobacterium, una PCR negativa del complejo Micobacterium tuberculosis en un lavado broncoalveolar NO excluye infección por una de las siguientes especies. Señállala:",
     "options": [
       "Micobacterium bovis.",
       "Micobacterium tuberculosis.",
@@ -542,27 +542,27 @@
       "Micobacterium africanum."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 39 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La PCR negativa del complejo Micobacterium tuberculosis en un lavado broncoalveolar no excluye la infección por Micobacterium kansasii porque este patógeno no pertenece al complejo de Micobacterium tuberculosis. Micobacterium kansasii es un tipo de micobacteria que puede causar enfermedades respiratorias en personas inmunocomprometidas como aquellos con VIH. La negativa de la PCR no descarta la infección por esta especie debido a que utiliza una técnica de detección específica para el complejo de Micobacterium tuberculosis y no para otras especies de micobacterias.\n\n- **🔴 Opción A (Incorrecta):** Micobacterium bovis no es una especie que se asocie con la infección respiratoria en humanos. Se encuentra más comúnmente en animales y puede causar tuberculosis en ellos, pero no es una causa común de enfermedad respiratoria en personas.\n\n- **🔴 Opción B (Incorrecta):** La PCR negativa del complejo Micobacterium tuberculosis en un lavado broncoalveolar sí excluye la infección por Micobacterium tuberculosis, ya que la prueba está diseñada para detectar la presencia de ADN de este patógeno específico.\n\n- **🔴 Opción D (Incorrecta):** Micobacterium africanum también pertenece al complejo de Micobacterium tuberculosis y la PCR negativa para este complejo descarta la infección por M. africanum.\n\nLa 'perla MIR' para recordar este concepto es: \"No confundir Micobacterium kansasii con Micobacterium tuberculosis\"."
   },
   {
     "id": "q-40",
     "localNumber": 40,
     "category": "General",
-    "stem": "¿Cuál es la duración del tratamiento anti- fúngico en un paciente que sufre una can- didemia no complicada (se han descartado endocarditis u otras causas de metástasis a distancia y el paciente ha quedado asin- tomático)?:",
+    "stem": "¿Cuál es la duración del tratamiento antifúngico en un paciente que sufre una candidemia no complicada?",
     "options": [
       "Dos semanas tras el primer hemocultivo negativo.",
       "Dos semanas tras el hemocultivo en el que se aísla Candida spp.",
       "Una semana tras el hemocultivo en el que se aísla Candida spp.",
-      "Tres semanas."
+      "Tres semanas"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 40 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La duración del tratamiento antifúngico en un paciente con candidemia no complicada es de al menos 2 semanas tras el primer hemocultivo negativo. Esto se debe a que la candidemia puede ser un proceso subclínico que requiere un período prolongado de tratamiento para asegurar la eliminación de la infección. La opción A es la correcta porque se refiere a la duración del tratamiento desde el primer hemocultivo negativo, lo que indica que el tratamiento ya ha comenzado y es necesario continuar durante al menos 2 semanas para asegurar la eliminación de la infección. Además, la opción A es la única que se refiere a un hemocultivo negativo, lo que indica que el paciente ya ha comenzado a responder al tratamiento y es necesario continuar con él durante un período prolongado para asegurar la eliminación de la infección. \n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque se refiere a la duración del tratamiento desde el hemocultivo en el que se aísla Candida spp. Esto significa que el tratamiento ya ha comenzado y es necesario continuar durante al menos 2 semanas, pero no se refiere a un hemocultivo negativo, lo que indica que el paciente ya ha comenzado a responder al tratamiento. La opción B no es la adecuada porque no se refiere a un hemocultivo negativo, lo que es importante para asegurar la eliminación de la infección. \n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque se refiere a una duración de tratamiento de solo 1 semana. La candidemia es un proceso subclínico que requiere un período prolongado de tratamiento para asegurar la eliminación de la infección. Una duración de tratamiento de solo 1 semana no es suficiente para asegurar la eliminación de la infección y puede llevar a una recidiva de la enfermedad. La opción C no es la adecuada porque no se refiere a una duración de tratamiento prolongada, lo que es importante para asegurar la eliminación de la infección. \n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque se refiere a una duración de tratamiento de 3 semanas, lo que es demasiado prolongado para un paciente con candidemia no complicada. La duración del tratamiento debe ser individualizada y basada en la gravedad de la enfermedad y la respuesta del paciente al tratamiento. Una duración de tratamiento de 3 semanas puede ser demasiado prolongada y puede llevar a una sobrecarga del sistema inmunológico del paciente. La opción D no es la adecuada porque no se refiere a una duración de tratamiento individualizada y basada en la gravedad de la enfermedad y la respuesta del paciente al tratamiento. \n\nLa perla MIR: La duración del tratamiento antifúngico en un paciente con candidemia no complicada es de al menos 2 semanas tras el primer hemocultivo negativo. Esto se debe a que la candidemia puede ser un proceso subclínico que requiere un período prolongado de tratamiento para asegurar la eliminación de la infección."
   },
   {
     "id": "q-41",
     "localNumber": 41,
     "category": "Pediatría",
-    "stem": "¿Cuál de las siguientes es una medida pre- ventiva para reducir el riesgo del síndrome de muerte súbita del lactante?:",
+    "stem": "¿Cuál de las siguientes es una medida preventiva para reducir el riesgo del síndrome de muerte súbita del lactante?",
     "options": [
       "Se ha de promover la posición de decúbito lateral en la cuna para evitar aspiraciones accidentales durante el sueño.",
       "En hermanos de niños fallecidos por este síndrome, se ha de retrasar la vacunación de los 2 a los 6 meses de edad.",
@@ -570,7 +570,7 @@
       "Se debe evitar el sobrecalentamiento de la habitación, así como la exposición al humo del tabaco."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 41 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La opción D se refiere a evitar el sobrecalentamiento de la habitación y la exposición al humo del tabaco. El sobrecalentamiento puede aumentar la temperatura corporal del lactante, lo que puede aumentar el riesgo de muerte súbita del lactante. Por otro lado, la exposición al humo del tabaco puede causar irritación en las vías respiratorias, lo que puede aumentar el riesgo de muerte súbita del lactante. Por lo tanto, evitar el sobrecalentamiento de la habitación y la exposición al humo del tabaco es una medida preventiva importante para reducir el riesgo de muerte súbita del lactante.\n\n- **🔴 Opción A (Incorrecta):** La opción A se refiere a promover la posición de decúbito lateral en la cuna para evitar aspiraciones accidentales durante el sueño. Aunque la posición de decúbito lateral es una medida preventiva importante para reducir el riesgo de aspiración en los lactantes, no es directamente relacionada con el síndrome de muerte súbita del lactante.\n\n- **🔴 Opción B (Incorrecta):** La opción B se refiere a retrasar la vacunación en hermanos de niños fallecidos por este síndrome. La vacunación no es directamente relacionada con el síndrome de muerte súbita del lactante, y retrasar la vacunación puede aumentar el riesgo de enfermedades en los niños.\n\n- **🔴 Opción C (Incorrecta):** La opción C se refiere a recomendar el sueño del lactante sobre una superficie blanda y con la cabecera incorporada 30º sobre plano. Aunque esta posición puede ser cómoda para los lactantes, no es una medida preventiva directa para reducir el riesgo de muerte súbita del lactante.\n\n**Perla MIR:** La muerte súbita del lactante es un evento trágico que puede ser prevenido mediante medidas sencillas. Algunas de estas medidas incluyen evitar el sobrecalentamiento de la habitación, evitar la exposición al humo del tabaco y promover la posición de decúbito lateral en la cuna para evitar aspiraciones accidentales durante el sueño."
   },
   {
     "id": "q-42",
