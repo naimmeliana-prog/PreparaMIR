@@ -787,35 +787,35 @@
     "id": "q-58",
     "localNumber": 58,
     "category": "General",
-    "stem": "Indique cuál de los siguientes NO se considera un factor de riesgo de delirium postoperatorio en el paciente mayor:",
+    "stem": "Indique cuál de los siguientes NO se considera un factor de riesgo de delirium postoperatorio en el paciente mayor.",
     "options": [
-      "Caídas previas.",
-      "Demencia o deterioro cognitivo.",
-      "Institucionalizado en una residencia.",
-      "Alteración visual y auditiva."
+      "Caídas previas",
+      "Demencia o deterioro cognitivo",
+      "Institucionalizado en una residencia",
+      "Alteración visual y auditiva"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 58 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Las caídas previas no se consideran un factor de riesgo de delirium postoperatorio. Aunque las caídas pueden estar relacionadas con factores de riesgo como la fragilidad, la osteoporosis o la falta de equilibrio, no son en sí mismas un factor de riesgo directo para el delirium postoperatorio. El delirium postoperatorio se asocia más con factores como la demencia, la fragilidad, la edad avanzada y la presencia de comorbilidades significativas. Por lo tanto, las caídas previas no se consideran un factor de riesgo de delirium postoperatorio en el paciente mayor.\n\n- **🔴 Opción B (Incorrecta):** La demencia o deterioro cognitivo es un factor de riesgo importante para el delirium postoperatorio. La demencia se asocia con una disminución de la capacidad del paciente para procesar y responder a estímulos, lo que puede aumentar el riesgo de desarrollar un delirium postoperatorio. Además, la demencia puede estar acompañada de otros factores de riesgo como la fragilidad, la osteoporosis y la falta de equilibrio, lo que aumenta aún más el riesgo de delirium postoperatorio.\n\n- **🔴 Opción C (Incorrecta):** El institucionalizado en una residencia es un factor de riesgo para el delirium postoperatorio. Los pacientes que viven en residencias de cuidados pueden tener una mayor fragilidad, osteoporosis y falta de equilibrio, lo que aumenta el riesgo de delirium postoperatorio. Además, los pacientes en residencias pueden tener una mayor exposición a medicamentos que pueden aumentar el riesgo de delirium postoperatorio.\n\n- **🔴 Opción D (Incorrecta):** La alteración visual y auditiva es un factor de riesgo importante para el delirium postoperatorio. La alteración visual puede aumentar el riesgo de caídas y lesiones, lo que puede aumentar el riesgo de desarrollar un delirium postoperatorio. Además, la alteración auditiva puede aumentar el riesgo de confusión y disorientación, lo que puede aumentar el riesgo de delirium postoperatorio.\n\nLa perla MIR: El delirium postoperatorio es un problema común en pacientes mayores que requiere una atención y un manejo cuidadosos. Es importante identificar los factores de riesgo y tomar medidas para prevenir el delirium postoperatorio, como la optimización de la medicación, la reducción de la exposición a estímulos confusos y la implementación de estrategias de prevención del delirium postoperatorio."
   },
   {
     "id": "q-59",
     "localNumber": 59,
     "category": "General",
-    "stem": "En la valoración preoperatoria de un paciente ¿cuál de los siguientes NO consideraría un fac- tor predisponente a desa rrollar complicaciones pulmonares?:",
+    "stem": "En la valoración preoperatoria de un paciente, ¿cuál de los siguientes no consideraría un factor predisponente a desarrollar complicaciones pulmonares?",
     "options": [
-      "Edad > 60 años.",
-      "Albúmina sérica < 3,5 g/100ml.",
+      "Edad mayor de 60 años.",
+      "Albúmina sérica menor de 3,5 g/100 ml.",
       "Consumo de alcohol.",
-      "ASA = 1."
+      "ASA igual a 1."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 59 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La edad mayor de 60 años es un factor de riesgo para complicaciones pulmonares, especialmente en pacientes con enfermedades crónicas o con cirugía mayor. La edad avanzada puede afectar la función pulmonar y aumentar el riesgo de complicaciones respiratorias.\n- **🔴 Opción B (Incorrecta):** La albúmina sérica menor de 3,5 g/100 ml es un indicador de malnutrición y puede aumentar el riesgo de complicaciones pulmonares, ya que la nutrición adecuada es esencial para mantener la función pulmonar y la respuesta inmunológica.\n- **🔴 Opción C (Incorrecta):** El consumo de alcohol es un factor de riesgo para complicaciones pulmonares, ya que puede afectar la función pulmonar y aumentar el riesgo de infecciones respiratorias. El alcoholismo crónico también puede llevar a la desnutrición y la malnutrición, lo que puede empeorar la función pulmonar.\n- **🟢 Opción D (Correcta):** La clasificación ASA (American Society of Anesthesiologists) es un sistema de clasificación que evalúa la salud del paciente antes de la cirugía. Un paciente con ASA 1 tiene una salud normal sin enfermedades crónicas. En este caso, no se consideraría un factor predisponente a desarrollar complicaciones pulmonares, ya que el paciente no tiene enfermedades crónicas que puedan afectar la función pulmonar.\nLa perla MIR: 'ASA 1 no es un factor de riesgo para complicaciones pulmonares'."
   },
   {
     "id": "q-60",
     "localNumber": 60,
     "category": "Traumatología",
-    "stem": "Paciente de 20 años que acude a urgencias tras sufrir un accidente de bicicleta con traumatis- mo facial. Se realiza TC craneal que muestra una fractura del tercio medio facial que afecta a la región órbito-malar. Una de las complicacio- nes más frecuentes de este tipo de fracturas es:",
+    "stem": "Paciente de 20 años que acude a urgencias tras sufrir un accidente de bicicleta con traumatismo facial. Se realiza TC craneal que muestra una fractura del tercio medio facial que afecta a la región órbito-malar. Una de las complicaciones más frecuentes de este tipo de fracturas es:",
     "options": [
       "Anquilosis témporo-mandibular.",
       "Maloclusión dental.",
@@ -823,35 +823,35 @@
       "Enoftalmos."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 60 del examen MIR de la convocatoria FSE."
+    "explanation": "El enunciado describe una fractura del tercio medio facial que afecta a la región órbito-malar. La respuesta correcta se basa en la comprensión de las posibles complicaciones de este tipo de fracturas. \n\n- **🟢 Opción D (Correcta):** Enoftalmos. La fractura del tercio medio facial puede afectar la órbita y causar una protrusión excesiva del globo ocular, lo que lleva a un enoftalmos. Este es un problema común en pacientes con este tipo de fracturas, ya que la deformidad ósea puede afectar la función y la apariencia de los ojos.\n\n- **🔴 Opción A (Incorrecta):** Anquilosis témporo-mandibular. Aunque la anquilosis témporo-mandibular puede ser una complicación de fracturas de la mandíbula, no está directamente relacionada con las fracturas del tercio medio facial.\n\n- **🔴 Opción B (Incorrecta):** Maloclusión dental. La maloclusión dental puede ser una complicación de fracturas de la mandíbula o maxilar, pero no está directamente relacionada con las fracturas del tercio medio facial.\n\n- **🔴 Opción C (Incorrecta):** Pseudoartrosis naso-etmoidal. La pseudoartrosis naso-etmoidal es una complicación de fracturas de la nariz o la región etmoidal, no está directamente relacionada con las fracturas del tercio medio facial.\n\nLa perla MIR: En el contexto de las fracturas del tercio medio facial, es importante recordar que la complicación más frecuente es el enoftalmos, debido a la deformidad ósea que puede afectar la función y la apariencia de los ojos."
   },
   {
     "id": "q-61",
     "localNumber": 61,
     "category": "General",
-    "stem": "El conocimiento de la anatomía de la mama es fundamental a la hora de realizar intervencio- nes quirúrgicas en cirugía plástica. Señale cuál de los siguientes troncos nerviosos es el encar- gado en la mayoría de los casos de inervar el complejo areola-pezón:",
+    "stem": "El conocimiento de la anatomía de la mama es fundamental a la hora de realizar intervenciones quirúrgicas en cirugía plástica. Señale cuál de los siguientes troncos nerviosos es el encargado en la mayoría de los casos de inervar el complejo areola-pezón:",
     "options": [
-      "Rama cutánea lateral del nervio inter- costobraquial.",
+      "Rama cutánea lateral del nervio intercostobraquial.",
       "Ramas cutáneas mediales del plexo cervical.",
-      "Rama cutánea medial del nervio torácico lar- go.",
-      "Rama cutánea lateral de los nervios intercos- tales."
+      "Rama cutánea medial del nervio torácico largo.",
+      "Rama cutánea lateral de los nervios intercostales."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 61 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El complejo areola-pezón está inervado principalmente por la rama cutánea lateral de los nervios intercostales. Estos nervios son responsables de la inervación sensitiva de la piel de la mama y son particularmente importantes en la cirugía plástica, ya que su conocimiento y manejo son fundamentales para evitar complicaciones como la pérdida de sensibilidad en la piel de la mama postoperatoria.\n\n- **🔴 Opción A (Incorrecta):** La rama cutánea lateral del nervio intercostobraquial no es el principal responsable de la inervación del complejo areola-pezón. Aunque este nervio puede contribuir a la inervación de la piel de la mama, no es el principal responsable.\n\n- **🔴 Opción B (Incorrecta):** Las ramas cutáneas mediales del plexo cervical no son responsables de la inervación del complejo areola-pezón. El plexo cervical es responsable de la inervación de la cabeza y el cuello, y no de la mama.\n\n- **🔴 Opción C (Incorrecta):** La rama cutánea medial del nervio torácico largo no es el principal responsable de la inervación del complejo areola-pezón. Aunque este nervio puede contribuir a la inervación de la piel de la mama, no es el principal responsable.\n\nLa inervación del complejo areola-pezón es fundamental en la cirugía plástica para evitar complicaciones como la pérdida de sensibilidad en la piel de la mama postoperatoria. Es importante conocer la anatomía de la mama y la inervación del complejo areola-pezón para realizar intervenciones quirúrgicas exitosas."
   },
   {
     "id": "q-62",
     "localNumber": 62,
     "category": "General",
-    "stem": "Mujer de 57 años intervenida de mamoplastia de aumento con prótesis hace 4 años. Refiere que desde hace 2 años su mama izquierda está más rígida que la derecha y que en ocasiones le ha producido molestias al realizar esfuerzos con s u b r a z o i z q u i e r d o . E n l a e x p l o r a c i ó n f í s i c a presenta asimetría evidente de ambas mamas con aumento de la consistencia y cierta defor- midad de la mama izquierda y desplazamiento moderado hacia el hueco axilar. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "stem": "Mujer de 57 años intervenida de mamoplastia de aumento con prótesis hace 4 años. Refiere que desde hace 2 años su mama izquierda está más rígida que la derecha y que en ocasiones le ha producido molestias al realizar esfuerzos con su brazo izquierdo. En la exploración física presenta asimetría evidente de ambas mamas con aumento de la consistencia y cierta deformidad de la mama izquierda y desplazamiento moderado hacia el hueco axilar.",
     "options": [
       "Seroma crónico con colonización bacteriana.",
-      "Linfoma anaplásico de células grandes aso- ciado a prótesis mamarias.",
+      "Linfoma anaplásico de células grandes asociado a prótesis mamarias.",
       "Contractura capsular.",
       "Carcinoma ductal infiltrante de mama."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 62 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Seroma crónico con colonización bacteriana es una complicación posible de la prótesis mamaria, pero no se ajusta a la descripción clínica de la paciente. El seroma crónico suele ser una acumulación de líquido que se forma alrededor de la prótesis, pero no se asocia con rígido, deformidad y desplazamiento de la mama. Además, no hay indicación de infección o colonización bacteriana en el caso presentado.\n\n- **🔴 Opción B (Incorrecta):** Linfoma anaplásico de células grandes asociado a prótesis mamarias es un tipo de cáncer linfático que puede estar relacionado con las prótesis mamarias, pero no se ajusta a la descripción clínica de la paciente. El linfoma anaplásico suele ser un tipo de cáncer agresivo, pero no se asocia con rígido, deformidad y desplazamiento de la mama. Además, no hay indicación de síntomas o signos de linfoma en el caso presentado.\n\n- **🔴 Opción D (Incorrecta):** Carcinoma ductal infiltrante de mama es un tipo de cáncer de mama que puede estar relacionado con la mama izquierda, pero no se ajusta a la descripción clínica de la paciente. El carcinoma ductal infiltrante suele ser un tipo de cáncer que se desarrolla en la mama, pero no se asocia con rígido, deformidad y desplazamiento de la mama. Además, no hay indicación de síntomas o signos de cáncer en el caso presentado.\n\n- **🟢 Opción C (Correcta):** Contractura capsular es la respuesta correcta en este caso. La contractura capsular es una complicación posible de la mamoplastia de aumento, que se caracteriza por la formación de una capa de tejido cicatricial alrededor de la prótesis. Esto puede causar rígido, deformidad y desplazamiento de la mama. La descripción clínica de la paciente se ajusta perfectamente a esta complicación, por lo que es la respuesta correcta."
   },
   {
     "id": "q-63",
