@@ -1053,7 +1053,7 @@
     "id": "q-76",
     "localNumber": 76,
     "category": "Ginecología y Obstetricia",
-    "stem": "Mujer de 28 años con diagnóstico de trastorno bipolar tipo I embarazada de 12 semanas. Ha tenido episodios maníacos y depresivos en el pasado. Actualmente, está preocupada por el impacto de su tratamiento en el feto. ¿Cuál de los siguientes tratamientos es más seguro y recomendado durante el embarazo, y qué tipo de psicoterapia es apropiada como complemento?:",
+    "stem": "Mujer de 28 años con diagnóstico de trastorno bipolar tipo I embarazada de 12 semanas. Ha tenido episodios maníacos y depresivos en el pasado. Actualmente, está preocupada por el impacto de su tratamiento en el feto. ¿Cuál de los siguientes tratamientos es más seguro y recomendado durante el embarazo, y qué tipo de psicoterapia es apropiada como complemento?",
     "options": [
       "Ácido valproico y terapia interpersonal.",
       "Lamotrigina y terapia cognitivo-conductual.",
@@ -1061,7 +1061,7 @@
       "Carbamazepina y terapia interpersonal."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 76 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La lamotrigina es un anticonvulsivante que se considera seguro durante el embarazo, ya que tiene una baja asociación con defectos congénitos y otros problemas en el feto. La terapia cognitivo-conductual es una forma efectiva de psicoterapia para trastornos bipolares, ya que ayuda a los pacientes a identificar y modificar sus patrones de pensamiento y comportamiento negativos. Esta combinación es adecuada para esta paciente, ya que es segura y puede ayudar a controlar sus síntomas.\n- **🔴 Opción A (Incorrecta):** El ácido valproico es un anticonvulsivante que se asocia con un alto riesgo de defectos congénitos, como cardiopatías y problemas neurológicos, por lo que no es recomendable durante el embarazo.\n- **🔴 Opción C (Incorrecta):** El litio puede causar problemas en el feto, como cardiopatías y problemas de crecimiento, y también puede aumentar el riesgo de aborto espontáneo y parto prematuro, por lo que no es la mejor opción para esta paciente.\n- **🔴 Opción D (Incorrecta):** La carbamazepina también se asocia con un alto riesgo de defectos congénitos y otros problemas en el feto, por lo que no es recomendable durante el embarazo.\nLa perla MIR: 'La lamotrigina es la mejor opción para la gestación, ya que es segura y efectiva para trastornos bipolares'."
   },
   {
     "id": "q-77",
@@ -1072,16 +1072,16 @@
       "El gen de la ApoE (apolipoproteína epsilon ) alelo E4 es factor de riesgo.",
       "Hay un descenso de la proteína tau en el LCR.",
       "El PET tau y el PET amiloide son útiles en el diagnóstico precoz de la enfermedad.",
-      "En la RM de estos pacientes esperamos encontrar atrofia en el lóbulo temporal medial. Página: 13 de 33"
+      "En la RM de estos pacientes esperamos encontrar atrofia en el lóbulo temporal medial."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 77 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La respuesta incorrecta es la opción B, ya que en la enfermedad de Alzheimer, el LCR (lóbulo cerebral temporal) experimenta un aumento en la cantidad de proteína tau, no un descenso. La acumulación de proteína tau es un característico de la enfermedad de Alzheimer y se asocia con la formación de pares de proteína tau filamentosas que se acumulan en las neuronas, lo que conduce a la muerte neuronal y la degeneración cerebral.\n\n- **🔴 Opción A (Incorrecta):** El gen de la ApoE (apolipoproteína epsilon) alelo E4 es un factor de riesgo para la enfermedad de Alzheimer. La presencia de este alelo aumenta el riesgo de desarrollar la enfermedad, especialmente en combinación con otros factores de riesgo. Por lo tanto, esta opción es correcta.\n\n- **🔴 Opción C (Incorrecta):** El PET tau y el PET amiloide son herramientas de diagnóstico útiles en la enfermedad de Alzheimer. El PET tau se utiliza para medir la cantidad de proteína tau en el cerebro, mientras que el PET amiloide se utiliza para medir la cantidad de placas amiloideas en el cerebro. Ambas técnicas pueden ayudar a diagnosticar la enfermedad de Alzheimer en etapas tempranas. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** En la enfermedad de Alzheimer, la atrofia se produce en varias regiones del cerebro, incluyendo el lóbulo temporal medial. Sin embargo, la atrofia en el lóbulo temporal medial no es un hallazgo exclusivo de la enfermedad de Alzheimer, ya que también se puede encontrar en otras condiciones, como la demencia frontotemporal. Por lo tanto, esta opción no es la respuesta correcta.\n\nLa perla MIR para recordar este concepto es: \"En la enfermedad de Alzheimer, la proteína tau aumenta, no disminuye, en el LCR\"."
   },
   {
     "id": "q-78",
     "localNumber": 78,
     "category": "General",
-    "stem": "Un paciente acude a la consulta porque tiene un trastorno de la marcha, tropieza y tiene caídas frecuentes. En la exploración presenta temblor de reposo en el miembro superior derecho, rigidez en rueda dentada al movilizarle las extremidades superiores y marcha alterada desplazando el tronco hacia delante con pasos cortos. ¿Cuál de las siguientes afirmaciones apoyaría el diagnóstico de enfermedad de Parkinson?:",
+    "stem": "Un paciente acude a la consulta porque tiene un trastorno de la marcha, tropieza y tiene caídas frecuentes. En la exploración presenta temblor de reposo en el miembro superior derecho, rigidez en rueda dentada al movilizarle las extremidades superiores y marcha alterada desplazando el tronco hacia delante con pasos cortos. ¿Cuál de las siguientes afirmaciones apoyaría el diagnóstico de enfermedad de Parkinson?",
     "options": [
       "Falta de respuesta inicial al tratamiento con Levodopa.",
       "SPECT con transportador de dopamina que muestre una hipocaptación en la vía nigroestriada.",
@@ -1089,13 +1089,13 @@
       "Presencia precoz de síntomas de disautonomía."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 78 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La SPECT con transportador de dopamina es una herramienta de diagnóstico útil para detectar la enfermedad de Parkinson. La hipocaptación en la vía nigroestriada es un indicador de la pérdida de neuronas dopaminérgicas en la sustancia negra, lo que es característico de la enfermedad de Parkinson. Por lo tanto, esta opción es correcta porque apoya el diagnóstico de enfermedad de Parkinson a través de un método de diagnóstico objetivo y medible.\n\n- **🔴 Opción A (Incorrecta):** La falta de respuesta inicial al tratamiento con Levodopa no es una característica exclusiva de la enfermedad de Parkinson. Muchos pacientes con Parkinson pueden responder inicialmente al tratamiento con Levodopa, aunque la enfermedad puede progresar con el tiempo. Por lo tanto, esta opción no es adecuada para apoyar el diagnóstico de enfermedad de Parkinson.\n\n- **🔴 Opción C (Incorrecta):** La gammagrafía miocárdica con MIBG es una herramienta de diagnóstico utilizada para evaluar la función cardíaca, no la enfermedad de Parkinson. La normalidad de esta prueba no proporciona información relevante para el diagnóstico de la enfermedad de Parkinson. Por lo tanto, esta opción no es adecuada para apoyar el diagnóstico de enfermedad de Parkinson.\n\n- **🔴 Opción D (Incorrecta):** La presencia precoz de síntomas de disautonomía no es característico de la enfermedad de Parkinson. Si bien algunos pacientes con Parkinson pueden desarrollar síntomas de disautonomía con el tiempo, esto no es una característica inicial o distintiva de la enfermedad. Por lo tanto, esta opción no es adecuada para apoyar el diagnóstico de enfermedad de Parkinson.\n\nLa perla MIR para recordar este concepto es: La enfermedad de Parkinson se diagnostica mediante la evaluación de la función de la sustancia negra, específicamente a través de la SPECT con transportador de dopamina, que muestra una hipocaptación en la vía nigroestriada."
   },
   {
     "id": "q-79",
     "localNumber": 79,
     "category": "Neurología",
-    "stem": "Mujer de 35 años consulta por cuadro de diplopia y debilidad proximal progresivas que empeora a lo largo de día. En la exploración neurológica se aprecia voz nasal, ptosis bilateral sin afectación pupilar, limitación para la abducción de ojo derecho y debilidad proximal con reflejos miotáticos conservados. Respecto a esta paciente señale la opción INCORRECTA:",
+    "stem": "Mujer de 35 años consulta por cuadro de diplopia y debilidad proximal progresivas que empeora a lo largo del día. En la exploración neurológica se aprecia voz nasal, ptosis bilateral sin afectación pupilar, limitación para la abducción de ojo derecho y debilidad proximal con reflejos miotáticos conservados. Respecto a esta paciente señale la opción INCORRECTA:",
     "options": [
       "El nivel de anticuerpos es independiente de la gravedad de la enfermedad.",
       "En ocasiones se asocia a otra enfermedad autoinmune.",
@@ -1103,7 +1103,7 @@
       "La respuesta a inmunosupresores es mayor en pacientes con anticuerpos antirreceptor de acetilcolina y anticuerpos antiMusk positivos."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 79 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La respuesta a inmunosupresores es mayor en pacientes con anticuerpos antirreceptor de acetilcolina y anticuerpos antiMusk positivos. Esto se debe a que la presencia de estos anticuerpos sugiere una enfermedad más grave y una mayor respuesta a la terapia con inmunosupresores.\n\n- **🔴 Opción A (Incorrecta):** El nivel de anticuerpos no es independiente de la gravedad de la enfermedad. En realidad, el nivel de anticuerpos puede estar relacionado con la gravedad de la enfermedad y la respuesta a la terapia.\n\n- **🔴 Opción B (Incorrecta):** Si bien es cierto que la enfermedad autoinmune puede asociarse a otras enfermedades autoinmunes, no es una característica exclusiva de esta enfermedad.\n\n- **🔴 Opción D (Incorrecta):** La agregación familiar no es una característica frecuente de esta enfermedad. La enfermedad se puede presentar en cualquier persona, independientemente de su historia familiar.\n\n**Perla MIR:** La respuesta a inmunosupresores es mayor en pacientes con anticuerpos antirreceptor de acetilcolina y anticuerpos antiMusk positivos. Esto se debe a que la presencia de estos anticuerpos sugiere una enfermedad más grave y una mayor respuesta a la terapia con inmunosupresores."
   },
   {
     "id": "q-80",
@@ -1117,7 +1117,7 @@
       "Si hay disminución de la secreción lacrimal en el ojo correspondiente al lado de la parálisis facial."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 80 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La presencia de ageusia asociada a la parálisis facial no es un signo que sugiera un origen central. La ageusia se refiere a la pérdida del sentido del gusto, que se asocia más comúnmente con lesiones del nervio facial (VII) o del nervio glosofaríngeo. Un origen central implicaría una lesión en la corteza cerebral o en el tronco encefálico, lo que no está directamente relacionado con la ageusia en este contexto.\n\n- **🔴 Opción B (Incorrecta):** La presencia de hipoestesia o dolor en la región del pabellón auricular del mismo lado que la parálisis también no es un signo de un origen central. Esto se debe a que el nervio facial (VII) tiene una distribución de ramales que abarca el pabellón auricular, por lo que lesiones del nervio facial pueden causar síntomas en esta región. Un origen central implicaría una lesión en una estructura cerebral superior, que no está directamente relacionada con la distribución del nervio facial.\n\n- **🔴 Opción C (Incorrecta):** Si la debilidad de los músculos faciales sólo afecta a la mitad inferior de la hemicara afectada sin afectación de los músculos palpebrales ni de la frente tampoco es un signo de un origen central. Esta presentación se conoce como parálisis de lasfas del VII, y se asocia con lesiones del nervio facial (VII) en el conducto estilomastoideo, que es una estructura periférica. Un origen central implicaría una lesión en una estructura cerebral superior, que no está directamente relacionada con esta presentación.\n\n- **🟢 Opción D (Correcta):** Si hay disminución de la secreción lacrimal en el ojo correspondiente al lado de la parálisis facial, esto sí sugiere un origen central. La secreción lacrimal se regula por el nervio vago (X) y el nervio facial (VII), que se encargan de la inervación parásupra y parasimpática del conducto lacrimal, respectivamente. Una lesión en la corteza cerebral o en el tronco encefálico que afecte a estas estructuras puede causar una disminución en la secreción lacrimal, lo que está directamente relacionado con un origen central.\n\nLa parálisis facial puede ser causada por una variedad de factores, incluyendo lesiones periféricas y centrales. Al evaluar los signos y síntomas de una parálisis facial, es importante considerar la posibilidad de un origen central, especialmente si hay disminución de la secreción lacrimal en el ojo correspondiente."
   },
   {
     "id": "q-81",
