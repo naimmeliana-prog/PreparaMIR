@@ -1765,7 +1765,7 @@
     "id": "q-127",
     "localNumber": 127,
     "category": "General",
-    "stem": "El Índice de Barthel de un paciente que pre- senta incontinencia urinaria ocasional, y supervisión física para deambular y subir escaleras, pero es independiente para el resto de las actividades básicas de la vida diaria, es:",
+    "stem": "El Índice de Barthel de un paciente que presenta incontinencia urinaria ocasional, y supervisión física para deambular y subir escaleras, pero es independiente para el resto de las actividades básicas de la vida diaria, es:",
     "options": [
       "65",
       "75",
@@ -1773,41 +1773,41 @@
       "95"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 127 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El Índice de Barthel es una herramienta de evaluación de la capacidad funcional de los pacientes. Un paciente que es independiente para el resto de las actividades básicas de la vida diaria, pero requiere supervisión para deambular y subir escaleras, se clasificaría en el rango de 85 a 100 puntos. Por lo tanto, la opción correcta es 95.\n\n- **🔴 Opción A (Incorrecta):** Un paciente con incontinencia urinaria ocasional y que requiere supervisión para deambular y subir escaleras no sería capaz de realizar las actividades básicas de la vida diaria de manera independiente, por lo que un puntaje de 65 sería bajo para este caso.\n\n- **🔴 Opción B (Incorrecta):** Un paciente que requiere supervisión para deambular y subir escaleras, pero es independiente para el resto de las actividades básicas de la vida diaria, no necesariamente se clasificaría en el rango de 75 puntos.\n\n- **🔴 Opción D (Incorrecta):** Un paciente que requiere supervisión para deambular y subir escaleras, pero es independiente para el resto de las actividades básicas de la vida diaria, no necesariamente se clasificaría en el rango de 95 puntos, pero podría ser posible si se considera que el paciente tiene una capacidad funcional moderada.\n\nLa perla MIR: Recuerda que el Índice de Barthel es una herramienta de evaluación de la capacidad funcional de los pacientes, por lo que es importante considerar la gravedad de las limitaciones del paciente a la hora de realizar las actividades básicas de la vida diaria."
   },
   {
     "id": "q-128",
     "localNumber": 128,
     "category": "Neurología",
-    "stem": "Un paciente de 68 años con adenocarci- noma de páncreas metastásico en situa- ción de últimos días de vida presenta en las últimas 24 horas agitación, desorientación y alucinaciones visuales. Recibe morfina subcutánea en perfusión continua, dexa- metasona y mida zolam a demanda. En la exploración presenta ictericia y asterixis, sin fiebre ni signos de focalidad neuroló- gica. Los análisis muestran bilirrubina 9 mg/dL, transaminasas x4 y amonio elevado. ¿Cuál de las siguientes medidas farmaco- lógicas es más adecuada en este con- texto?:",
+    "stem": "Un paciente de 68 años con adenocarcinoma de páncreas metastásico en situación de últimos días de vida presenta en las últimas 24 horas agitación, desorientación y alucinaciones visuales. Recibe morfina subcutánea en perfusión continua, dexametasona y midazolam a demanda. En la exploración presenta ictericia y asterixis, sin fiebre ni signos de focalidad neurológica. Los análisis muestran bilirrubina 9 mg/dL, transaminasas x4 y amonio elevado.",
     "options": [
       "Aumentar la dosis de dexametasona y añadir midazolam.",
       "Administrar haloperidol y valorar ajustar fármacos potencialmente implicados (como corticoides y morfina)",
       "Iniciar lactulosa y rifaximina para tratar una posible encefalopatía hepática.",
-      "Sustituir la morfina por buprenorfina su- blingual para reducir efectos neurotóxicos."
+      "Sustituir la morfina por buprenorfina sublingual para reducir efectos neurotóxicos."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 128 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La paciente presenta síntomas de encefalopatía hepática, como asterixis y elevación del amonio, y también presenta agitación, desorientación y alucinaciones visuales, lo que sugiere un deterioro cognitivo. En este contexto, la administración de haloperidol y la valoración del ajuste de los fármacos potencialmente implicados, como los corticoides y la morfina, es la medida más adecuada para tratar la encefalopatía hepática y reducir los síntomas neuropsiquiátricos. El haloperidol es un antipsicótico que puede ser efectivo en el tratamiento de la encefalopatía hepática, y la valoración del ajuste de los fármacos potencialmente implicados es importante para evitar la sobrecarga de la paciente con más medicamentos y reducir el riesgo de efectos adversos.\n\n- **🔴 Opción A (Incorrecta):** Aumentar la dosis de dexametasona y añadir midazolam no es la medida más adecuada en este contexto, ya que la dexametasona puede exacerbar la encefalopatía hepática y el midazolam puede tener efectos sedantes y respiratorios, lo que puede empeorar la situación de la paciente.\n\n- **🔴 Opción C (Incorrecta):** Iniciar lactulosa y rifaximina para tratar una posible encefalopatía hepática no es la medida más adecuada en este contexto, ya que la paciente ya presenta síntomas de encefalopatía hepática y la lactulosa y la rifaximina no son fármacos efectivos para tratar esta condición en este momento.\n\n- **🔴 Opción D (Incorrecta):** Sustituir la morfina por buprenorfina sublingual para reducir efectos neurotóxicos no es la medida más adecuada en este contexto, ya que la morfina es un fármaco efectivo para controlar el dolor y el buprenorfina puede tener efectos de rebote y abstinencia, lo que puede empeorar la situación de la paciente.\n\nLa perla MIR: La encefalopatía hepática es una condición grave que requiere un manejo cuidadoso y una valoración clínica detallada para determinar la mejor estrategia de tratamiento."
   },
   {
     "id": "q-129",
     "localNumber": 129,
     "category": "Neumología",
-    "stem": "Un paciente con carcinoma de pulmón avanzado recibe morfina oral de liberación prolongada, 120 mg cada 12 horas, con me- dicación extra frecuente, de hasta 3 ó 4 ve- ces al día. A pesar de ello, refiere dolor per- sistente (EVA 7/10). En los últimos días ha presentado mioclonías, sueños vívidos y leve confusión intermitente, sin fiebre ni da- tos de progresión tumoral. La función renal muestra un filtrado glomerular estimado de 40 mL/min/1,73m². ¿Cuál de las siguientes estrategias es la más adecuada para optimizar el control del dolor y mejorar la sintomatología?:",
+    "stem": "Un paciente con carcinoma de pulmón avanzado recibe morfina oral de liberación prolongada, 120 mg cada 12 horas, con medicación extrafrecuente, de hasta 3 ó 4 veces al día. A pesar de ello, refiere dolor persistente (EVA 7/10). En los últimos días ha presentado mioclonías, sueños vívidos y leve confusión intermitente, sin fiebre ni dolor de progresión tumoral. La función renal muestra un filtrado glomerular estimado de 40 mL/min/1,73m². ¿Cuál de las siguientes estrategias es la más adecuada para optimizar el control del dolor y mejorar la sintomatología?",
     "options": [
       "Aumentar la dosis de morfina un 25–50 % y asociar benzodiacepinas para controlar las mioclonías.",
       "Reducir la dosis de morfina a la mitad y añadir un coadyuvante no opioide (AINE).",
-      "Rotar a fentanilo transdérmico calculando la dosis equianalgésica y reduciéndola un 30–50 % por tolerancia cruzada incom- pleta.",
+      "Rotar a fentanilo transdérmico calculando la dosis equianalgésica y reduciéndola un 30–50 % por tolerancia cruzada incompleta.",
       "Suspender el opioide oral y sustituirlo por buprenorfina sublingual a dosis bajas."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 129 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La mejor estrategia en este caso es rotar al fentanilo transdérmico, ya que la morfina oral de liberación prolongada ya está causando efectos secundarios como mioclonías, sueños vívidos y confusión intermitente. El fentanilo es una alternativa efectiva para controlar el dolor en pacientes con insuficiencia renal, y la reducción de la dosis por tolerancia cruzada incompleta es una medida adecuada para evitar una sobredosis. Además, el fentanilo tiene un perfil de efectos secundarios más favorable en pacientes con función renal alterada. \n\n- **🔴 Opción A (Incorrecta):** Aumentar la dosis de morfina sin cambios no es una buena opción, ya que esto podría empeorar los efectos secundarios ya presentes. Además, asociar benzodiacepinas podría no ser efectivo para controlar las mioclonías y podría tener efectos secundarios adicionales como somnolencia y confusión. \n\n- **🔴 Opción B (Incorrecta):** Reducir la dosis de morfina a la mitad podría no ser suficiente para controlar el dolor y podría empeorar la situación del paciente. Además, añadir un coadyuvante no opioide (AINE) podría no ser efectivo para controlar el dolor y podría tener efectos secundarios como efectos gastrointestinales y riesgo de sangrado. \n\n- **🔴 Opción D (Incorrecta):** Suspender el opioide oral y sustituirlo por buprenorfina sublingual no es una buena opción, ya que la buprenorfina tiene un perfil de efectos secundarios diferente al de la morfina y podría no ser efectiva para controlar el dolor en este paciente. Además, la sustitución de un opioide por otro sin cambios en la dosis podría no ser suficiente para controlar el dolor y podría empeorar la situación del paciente.\n\nLa perla MIR: 'Rotar al fentanilo transdérmico es una buena opción para controlar el dolor en pacientes con insuficiencia renal y efectos secundarios adversos a la morfina oral'."
   },
   {
     "id": "q-130",
     "localNumber": 130,
     "category": "Traumatología",
-    "stem": "Un hombre de 81 años, independiente para las actividades básicas, con hipertensión y diabetes bien controladas, es diagnosti- cado de adenocarcinoma de próstata oligo- metastásico, con un PSA de 42 ng/mL y una única lesión ósea asintomática en el sacro. Su est ado funcional (ECOG 1) es bueno, aunque presenta fragilidad leve y polifar- macia. El equipo médico debate distintas estrategias terapéuticas (tratamiento hor- monal, radioterapia dirigida o vigilancia). Antes de decidir la mejor opción terapéu- tica, ¿qué aspectos deben considerarse de forma prioritaria en este paciente?:",
+    "stem": "Un hombre de 81 años, independiente para las actividades básicas, con hipertensión y diabetes bien controladas, es diagnosticado de adenocarcinoma de próstata oligometastásico, con un PSA de 42 ng/mL y una única lesión ósea asintomática en el sacro. Su estado funcional (ECOG 1) es bueno, aunque presenta fragilidad leve y polifarmacia. El equipo médico debate distintas estrategias terapéuticas (tratamiento hormonal, radioterapia dirigida o vigilancia). Antes de decidir la mejor opción terapéutica, ¿qué aspectos deben considerarse de forma prioritaria en este paciente?",
     "options": [
       "El nivel de PSA y el número de lesiones metastásicas detectadas.",
       "La posibilidad de aplicar el tratamiento más agresivo disponible, dado que hay enfermedad metastásica.",
@@ -1815,13 +1815,13 @@
       "La edad cronológica del paciente como criterio principal para limitar el tratamiento."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 130 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La elección del tratamiento más adecuado para este paciente debe considerar sus comorbilidades, estado funcional y expectativa de vida. La hipertensión y la diabetes bien controladas son importantes, pero lo que realmente importa es cómo afectan su calidad de vida y su capacidad para tolerar un tratamiento más agresivo. El estado funcional del paciente (ECOG 1) es bueno, pero presenta fragilidad leve y polifarmacia, lo que sugiere que puede ser susceptible a efectos secundarios. La expectativa de vida también es un factor importante a considerar, ya que un tratamiento más agresivo puede afectar su calidad de vida en los últimos meses de vida. Por lo tanto, la opción C es la correcta, ya que prioriza la consideración de los factores que afectan la calidad de vida y la expectativa de vida del paciente.\n\n- **🔴 Opción A (Incorrecta):** El nivel de PSA y el número de lesiones metastásicas detectadas son factores importantes en la evaluación del cáncer de próstata, pero no son los únicos factores que deben considerarse en la toma de decisiones terapéuticas. En este caso, el paciente tiene una única lesión ósea asintomática, lo que sugiere que puede ser un caso de oligometastásico, y el nivel de PSA es alto, pero la elección del tratamiento debe considerar otros factores, como las comorbilidades y el estado funcional del paciente.\n\n- **🔴 Opción B (Incorrecta):** La posibilidad de aplicar el tratamiento más agresivo disponible puede ser un factor importante en la toma de decisiones terapéuticas, pero no debe ser el único factor a considerar. En este caso, el paciente tiene comorbilidades y un estado funcional que puede afectar su capacidad para tolerar un tratamiento más agresivo. La elección del tratamiento debe considerar todos los factores que afectan la calidad de vida y la expectativa de vida del paciente.\n\n- **🔴 Opción D (Incorrecta):** La edad cronológica del paciente no debe ser el criterio principal para limitar el tratamiento. Aunque el paciente tenga 81 años, su estado funcional y comorbilidades pueden permitirle tolerar un tratamiento más agresivo. La elección del tratamiento debe considerar todos los factores que afectan la calidad de vida y la expectativa de vida del paciente.\n\nLa perla MIR es que en la toma de decisiones terapéuticas, es importante considerar todos los factores que afectan la calidad de vida y la expectativa de vida del paciente, y no solo concentrarse en un factor en particular."
   },
   {
     "id": "q-131",
     "localNumber": 131,
     "category": "General",
-    "stem": "¿Cuál es la técnica de elección para la de- terminación de la expresión de PDL1 en muestra tumoral?:",
+    "stem": "¿Cuál es la técnica de elección para la determinación de la expresión de PDL1 en muestra tumoral?",
     "options": [
       "Secuenciación masiva.",
       "Inmunohistoquímica.",
@@ -1829,7 +1829,7 @@
       "Hibridación in situ (FISH)."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 131 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La inmunohistoquímica es la técnica de elección para determinar la expresión de PDL1 en muestra tumoral. Esta técnica permite visualizar la expresión de la proteína PDL1 en las células tumorales a través de la detección de anticuerpos específicos. La inmunohistoquímica es una herramienta útil en la evaluación de la expresión de PDL1 en biopsias tumorales, lo que ayuda a los médicos a determinar la respuesta del cáncer a ciertos tratamientos.\n\n- **🔴 Opción A (Incorrecta):** La secuenciación masiva es una técnica de secuenciación de ADN que no es adecuada para la detección de la expresión de proteínas como PDL1 en muestra tumoral. Si bien la secuenciación masiva es una herramienta poderosa para la detección de mutaciones genéticas, no puede proporcionar información sobre la expresión de proteínas a nivel celular.\n\n- **🔴 Opción C (Incorrecta):** El Western blot es una técnica de detección de proteínas que se utiliza para evaluar la expresión de proteínas en células o tejidos. Sin embargo, no es la técnica de elección para determinar la expresión de PDL1 en muestra tumoral, ya que requiere la preparación de extractos celulares y la detección de proteínas en una membrana, lo que puede ser un proceso más complicado y menos preciso que la inmunohistoquímica.\n\n- **🔴 Opción D (Incorrecta):** La hibridación in situ (FISH) es una técnica que se utiliza para detectar la presencia de ADN o ARN específicos en células o tejidos. No es adecuada para la detección de la expresión de proteínas como PDL1 en muestra tumoral, ya que se basa en la detección de secuencias de ADN y no en la expresión de proteínas a nivel celular.\n\n- La perla MIR: 'PDL1' es una proteína que juega un papel crucial en la respuesta del cáncer a ciertos tratamientos, por lo que es fundamental utilizar la técnica adecuada para determinar su expresión en muestra tumoral. La inmunohistoquímica es la herramienta de elección para esta tarea."
   },
   {
     "id": "q-132",
