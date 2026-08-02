@@ -913,7 +913,7 @@
     "id": "q-67",
     "localNumber": 67,
     "category": "General",
-    "stem": "La disfagia orofaríngea es la dificultad de trasla- dar el alimento desde la cavidad oral hasta el esófa go proximal. Entre las causas de disfa gia orofaríngea motora están las siguientes EXCEP- TO:",
+    "stem": "La disfagia orofaríngea es la dificultad de trasladar el alimento desde la cavidad oral hasta el esófago proximal. Entre las causas de disfagia orofaríngea motora están las siguientes excepciones:",
     "options": [
       "Miastenia gravis.",
       "Reflujo gastroesofágico.",
@@ -921,27 +921,27 @@
       "Dermatopolimiositis."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 67 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El reflujo gastroesofágico es una causa común de disfagia orofaríngea motora. Se produce cuando el contenido del estómago regresa al esófago y puede causar irritación y dolor en la zona, lo que dificulta la deglución. Este problema es común en personas con obesidad, embarazo, enfermedad de Refluxo gastroesofágico (ERGE) o después de una cirugía abdominal.\n\n- **🔴 Opción A (Incorrecta):** La miastenia gravis es una enfermedad autoinmune que causa debilitamiento de los músculos, incluyendo los músculos del cuello y la garganta. Si bien puede causar disfagia orofaríngea, no es una causa de disfagia orofaríngea motora específica, ya que se relaciona con la debilidad muscular general.\n\n- **🔴 Opción C (Incorrecta):** El tétanos es una infección bacteriana que puede causar rigidez muscular y espasmos en los músculos del cuello y la garganta. Si bien puede causar disfagia orofaríngea, no es una causa directa de disfagia orofaríngea motora.\n\n- **🔴 Opción D (Incorrecta):** La dermatopolimiositis es una enfermedad autoinmune que causa inflamación en los músculos y la piel. Si bien puede causar debilidad muscular y disfagia orofaríngea, no es una causa específica de disfagia orofaríngea motora.\n\n**Perla MIR:** La disfagia orofaríngea motora se refiere a la dificultad para deglutir alimentos debido a problemas con los músculos del cuello y la garganta. Es importante distinguir entre las causas de disfagia orofaríngea motora, como el reflujo gastroesofágico, y otras condiciones que pueden causar disfagia orofaríngea pero no son específicas de la disfagia orofaríngea motora."
   },
   {
     "id": "q-68",
     "localNumber": 68,
     "category": "Infecciosas",
-    "stem": "En relación con las infecciones vulvova ginales, señale la afirmación INCORRECTA:",
+    "stem": "En relación con las infecciones vulvovaginales, señale la afirmación INCORRECTA:",
     "options": [
       "La vaginosis bacteriana es habitualmente una infección monomicrobiana.",
-      "La vulvovaginitis candidi ásica es la infección vulvovaginal más prevalente en Europa.",
+      "La vulvovaginitis candidiásica es la infección vulvovaginal más prevalente en Europa.",
       "Se define como vulvovaginitis candidiásica recidivante cuando aparecen 4 o más episodios en un año.",
-      "La vaginosis bacteriana únicamente debe tra- tarse farmacológicamente cuando es sintomáti- ca."
+      "La vaginosis bacteriana únicamente debe tratarse farmacológicamente cuando es sintomática."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 68 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La vaginosis bacteriana es habitualmente una infección polimicrobiana, no monomicrobiana. Esto se debe a que se caracteriza por una alteración del equilibrio natural de las bacterias en la vagina, donde las especies de *Lactobacillus* se reemplazan por especies anaeróbicas y gramnegativas, como *Gardnerella vaginalis* y otros microorganismos. Por lo tanto, esta afirmación es incorrecta ya que la vaginosis bacteriana no es una infección monomicrobiana, sino una infección polimicrobiana.\n\n- **🔴 Opción B (Incorrecta):** La vulvovaginitis candidiásica no es la infección vulvovaginal más prevalente en Europa. La vaginosis bacteriana es la infección más común en las mujeres de edad reproductiva en Europa, seguida de la vulvovaginitis candidiásica. Por lo tanto, esta afirmación es incorrecta.\n\n- **🔴 Opción C (Incorrecta):** La definición de vulvovaginitis candidiásica recidivante no se basa en el número de episodios en un año. La vulvovaginitis candidiásica recidivante se define como la reaparición de episodios de infección en un plazo de 4 semanas después de la terapia antifúngica. Por lo tanto, esta afirmación es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** La vaginosis bacteriana no solo debe tratarse farmacológicamente cuando es sintomática. La vaginosis bacteriana también debe tratarse farmacológicamente cuando es asintomática, ya que puede provocar complicaciones a largo plazo, como la infertilidad y la infección por *Chlamydia trachomatis*. Por lo tanto, esta afirmación es incorrecta.\n\nLa perla MIR es que la vaginosis bacteriana es una infección polimicrobiana y no monomicrobiana, y que debe tratarse farmacológicamente tanto cuando es sintomática como asintomática."
   },
   {
     "id": "q-69",
     "localNumber": 69,
     "category": "General",
-    "stem": "Referido al síndrome de ovario poliquístico, señale la afirmación INCORRECTA:",
+    "stem": "Referido al síndrome de ovario poliquístico, señale la afirmación INCORRECTA.",
     "options": [
       "Se presenta en mujeres jóvenes.",
       "Clínicamente se caracteriza por la presencia de hirsutismo, acné y amenorrea u oligomenorrea.",
@@ -949,35 +949,35 @@
       "Aumenta el riesgo de cáncer de ovario."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 69 del examen MIR de la convocatoria FSE."
+    "explanation": "El síndrome de ovario poliquístico (SOP) es una condición endocrina común en mujeres de edad reproductiva. A continuación, se presentan las opciones con sus respectivas explicaciones detalladas:\n\n- **🟢 Opción D (Correcta):** El SOP no aumenta el riesgo de cáncer de ovario. De hecho, se ha demostrado que las mujeres con SOP tienen una reducción en el riesgo de cáncer de ovario en comparación con la población general. Esto se debe a que el SOP está asociado con una menor ovulación y, por lo tanto, una menor exposición a los estrogénos, que son hormonas que pueden estimular el crecimiento de células cancerígenas en el ovario.\n\n- **🔴 Opción A (Incorrecta):** El SOP se presenta en mujeres jóvenes, pero no es una afirmación exclusiva del SOP. Muchas mujeres jóvenes pueden experimentar síntomas similares debido a otras causas. Sin embargo, el SOP se diagnostica comúnmente en mujeres entre las edades de 18 y 44 años.\n\n- **🔴 Opción B (Incorrecta):** El hirsutismo, el acné y la amenorrea u oligomenorrea son síntomas comunes del SOP. El hirsutismo se refiere a un exceso de vello corporal en áreas que normalmente no lo tienen, como la cara, el pecho y la espalda. El acné es un tipo de erupción cutánea que se caracteriza por comedones y pus. La amenorrea u oligomenorrea se refiere a períodos menstruales irregulares o ausentes. Estos síntomas se deben a la disfunción hormonal característica del SOP.\n\n- **🔴 Opción C (Incorrecta):** El SOP se asocia con obesidad y resistencia a la insulina, pero no es una afirmación exclusiva del SOP. La obesidad y la resistencia a la insulina son problemas de salud comunes en la sociedad actual y pueden estar presentes en muchas mujeres que no tienen SOP. Sin embargo, en el contexto del SOP, la obesidad y la resistencia a la insulina pueden estar relacionadas con la disfunción hormonal y la resistencia a la insulina se asocia a un mayor riesgo de desarrollar diabetes tipo 2.\n\nLa perla MIR: El SOP es una condición compleja que requiere una evaluación cuidadosa y un manejo individualizado. Recuerda que el SOP no aumenta el riesgo de cáncer de ovario, pero sí está asociado con otros problemas de salud, como la obesidad y la resistencia a la insulina."
   },
   {
     "id": "q-70",
     "localNumber": 70,
     "category": "Ginecología y Obstetricia",
-    "stem": "Mujer primigesta de 35 años que se encuentra en la segunda etapa del parto. Lleva analgesia epi- dural. ¿Cuándo estará indicada la aplicación de la ventosa para abreviar el periodo expulsivo?:",
+    "stem": "Mujer primigesta de 35 años que se encuentra en la segunda etapa del parto. Lleva analgesia epidural. ¿Cuándo estará indicada la aplicación de la ventosa para abreviar el período expulsivo?",
     "options": [
-      "Cuando, tras 2 horas en completa, la presenta- ción se queda en un II plano de Hodge con los pujos maternos.",
-      "Cuando presencia un inicio de sangrado vagi- nal abundante con repercusión fetal y la pre- sentación se encuentra sobre el estrecho supe- rior de la pelvis materna.",
-      "Cuando la presentación se queda en un IV plano y el punto guía es el mentón.",
-      "Cuando se produzca una bradicardia fetal que no se recupera tras el cese de la contracción y la fontanela menor se encuentra pasado el III plano de Hodge."
+      "Cuándo, tras 2 horas en completa, la presentación se queda en un II plano de Hodge con los pujos maternos.",
+      "Cuándo presencia un inicio de sangrado vaginal abundante con repercusión fetal y la presentación se encuentra sobre el estrecho superior de la pelvis materna.",
+      "Cuándo la presentación se queda en un IV plano y el punto guía es el mentón.",
+      "Cuándo se produzca una bradicardia fetal que no se recupere tras el cese de la contracción y la fontanela menor se encuentre pasado el III plano de Hodge."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 70 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La aplicación de la ventosa para abreviar el período expulsivo está indicada cuando se produce una bradicardia fetal que no se recupera tras el cese de la contracción y la fontanela menor se encuentra pasado el III plano de Hodge. Esto se debe a que la bradicardia fetal es un signo de posible asfixia fetal, y la aplicación de la ventosa puede ayudar a expulsar la cabeza del bebé y mejorar la circulación sanguínea fetal. La indicación de la ventosa en este caso es una decisión clínica urgente para evitar complicaciones fetales graves.\n\n- **🔴 Opción A (Incorrecta):** La aplicación de la ventosa no está indicada cuando la presentación se queda en un II plano de Hodge con los pujos maternos. En este caso, la ventosa puede empeorar la situación y hacer que la presentación se quede aún más atrapada. La indicación de la ventosa en este caso sería contraproducente y podría llevar a complicaciones maternas y fetales.\n\n- **🔴 Opción B (Incorrecta):** La aplicación de la ventosa no está indicada cuando hay un inicio de sangrado vaginal abundante con repercusión fetal. En este caso, la prioridad es controlar el sangrado y asegurarse de que el bebé no esté en peligro. La aplicación de la ventosa puede empeorar la situación y hacer que el sangrado sea aún más abundante.\n\n- **🔴 Opción C (Incorrecta):** La aplicación de la ventosa no está indicada cuando la presentación se queda en un IV plano y el punto guía es el mentón. En este caso, la presentación está en una posición que no requiere la aplicación de la ventosa. La indicación de la ventosa en este caso sería innecesaria y podría llevar a complicaciones maternas y fetales.\n\nLa perla MIR es que la aplicación de la ventosa para abreviar el período expulsivo está indicada en casos de bradicardia fetal no recuperable, y no en casos de presentación en II plano de Hodge, inicio de sangrado vaginal abundante o presentación en IV plano."
   },
   {
     "id": "q-71",
     "localNumber": 71,
     "category": "Ginecología y Obstetricia",
-    "stem": "Mu jer de 41 años gestante de 13+2 semanas que tras realizarse la ecografía de la semana 12, pre- senta un ries go combinado de cromosomopatías para la trisomía 21 de 1/30. ¿Cuál sería el conse- jo más adecuado?:",
+    "stem": "Una mujer de 41 años gestante de 13+2 semanas que tras realizarse la ecografía de la semana 12, presenta un riesgo combinado de cromosomopatías para la trisomía 21 de 1/30. ¿Cuál sería el consejo más adecuado?",
     "options": [
       "Adelantar la ecografía de la semana 20.",
       "Realizar una prueba invasiva.",
       "Tranquilizarle porque se trata de un riesgo combinado de bajo riesgo en todo caso.",
-      "Tranquilizarle porque se trata de un riesgo intermedio y está justificado por la edad ma- terna."
+      "Tranquilizarle porque se trata de un riesgo intermedio y está justificado por la edad materna."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 71 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La mejor opción es realizar una prueba invasiva. Esto se debe a que el riesgo combinado de cromosomopatías para la trisomía 21 de 1/30 es significativo y puede indicar un mayor riesgo de anormalidades cromosómicas. Una prueba invasiva, como la amniocentesis, puede proporcionar resultados más precisos y ayudar a la paciente a tomar decisiones informadas sobre su embarazo. Además, esta opción permite una evaluación más detallada del riesgo y ofrece una alternativa a la ecografía de la semana 20, que puede no ser lo suficientemente sensible para detectar anormalidades cromosómicas.\n\n- **🔴 Opción A (Incorrecta):** Adelantar la ecografía de la semana 20 no es la mejor opción. Aunque la ecografía puede ser útil para detectar anormalidades fetales, no es lo suficientemente sensible para detectar anormalidades cromosómicas en esta etapa del embarazo. Además, la ecografía de la semana 20 puede no proporcionar resultados lo suficientemente precisos para tomar decisiones informadas sobre el embarazo.\n\n- **🔴 Opción C (Incorrecta):** Tranquilizar a la paciente porque se trata de un riesgo combinado de bajo riesgo en todo caso no es una respuesta adecuada. Aunque el riesgo combinado de cromosomopatías para la trisomía 21 de 1/30 puede no ser lo suficientemente alto como para preocuparse, todavía es un riesgo significativo que debe ser considerado. La paciente tiene derecho a conocer sus opciones y a tomar decisiones informadas sobre su embarazo.\n\n- **🔴 Opción D (Incorrecta):** Tranquilizar a la paciente porque se trata de un riesgo intermedio y está justificado por la edad materna no es una respuesta adecuada. Aunque la edad materna puede aumentar el riesgo de anormalidades cromosómicas, el riesgo combinado de cromosomopatías para la trisomía 21 de 1/30 es un indicador más preciso del riesgo real. La paciente tiene derecho a conocer sus opciones y a tomar decisiones informadas sobre su embarazo.\n\nLa perla MIR es recordar que en casos de riesgo de cromosomopatías, la mejor opción es siempre realizar una prueba invasiva para obtener resultados más precisos y tomar decisiones informadas sobre el embarazo."
   },
   {
     "id": "q-72",
