@@ -2327,7 +2327,7 @@
     "id": "q-168",
     "localNumber": 168,
     "category": "General",
-    "stem": "Varón de 58 años, obeso, asintomático, bebedor moderado, que presenta una primera glucemia basal de 153 mg/d con glucosuria negativa. En las semanas siguientes ha tenido otras dos cifras de glucemias basales de 118 y 136 mg/dl. ¿Cuál de las siguientes es la actitud más apropiada para confirmar el diagnóstico de diabetes melli- tus?:",
+    "stem": "Varón de 58 años, obeso, asintomático, bebedor moderado, que presenta una primera glucemia basal de 153 mg/dl con glucosuria negativa. En las semanas siguientes ha tenido otras dos cifras de glucemias basales de 118 y 136 mg/dl.",
     "options": [
       "Practicar una curva de glucemia con 75 g de glucosa.",
       "Reúne ya criterios diagnósticos de diabetes mellitus.",
@@ -2335,13 +2335,13 @@
       "Solicitar una determinación de hemoglobina glicosilada."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 168 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta plantea una situación clínica en la que se debe determinar si el paciente cumple con los criterios diagnósticos de diabetes mellitus. Para ello, se deben analizar las opciones propuestas:\n\n- **🟢 Opción B (Correcta):** Reúne ya criterios diagnósticos de diabetes mellitus. Según la Organización Mundial de la Salud (OMS), se considera diabetes mellitus a aquellos pacientes que presentan una glucemia basal de 7 mmol/L o más en al menos dos ocasiones, separadas por un período de tiempo de al menos un mes. En este caso, el paciente ha tenido tres glucemias basales con valores de 153, 118 y 136 mg/dl, lo que cumple con los criterios diagnósticos de diabetes mellitus. Por lo tanto, la actitud más adecuada es reconocer que ya se han reunido los criterios diagnósticos.\n\n- **🔴 Opción A (Incorrecta):** Practicar una curva de glucemia con 75 g de glucosa. Esta prueba es utilizada para diagnosticar la diabetes mellitus, pero no es necesaria en este caso, ya que los valores de glucemia basal ya cumplen con los criterios diagnósticos.\n\n- **🔴 Opción C (Incorrecta):** Solicitar una determinación de insulinemia basal o péptido C. Estas pruebas pueden ser útiles para evaluar la función beta del páncreas, pero no son necesarias para confirmar el diagnóstico de diabetes mellitus en este caso.\n\n- **🔴 Opción D (Incorrecta):** Solicitar una determinación de hemoglobina glicosilada. Aunque esta prueba es útil para evaluar la glicemia a largo plazo, no es necesaria para confirmar el diagnóstico de diabetes mellitus en este caso, ya que los valores de glucemia basal ya cumplen con los criterios diagnósticos.\n\nLa perla MIR para recordar este concepto es: \"Los criterios diagnósticos de diabetes mellitus deben cumplirse en al menos dos ocasiones, separadas por un período de tiempo de al menos un mes, para confirmar el diagnóstico\"."
   },
   {
     "id": "q-169",
     "localNumber": 169,
     "category": "General",
-    "stem": "¿Cuál de las siguientes neoplasias NO suele asociarse con un síndrome de neoplasia endo- crina múltiple tipo MEN-1?:",
+    "stem": "¿Cuál de las siguientes neoplasias no suele asociarse con un síndrome de neoplasia endocrina múltiple tipo MEN-1?",
     "options": [
       "Adenoma de hipófisis.",
       "Feocromocitoma.",
@@ -2349,49 +2349,49 @@
       "Glucagonoma."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 169 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El feocromocitoma no suele asociarse con el síndrome de neoplasia endocrina múltiple tipo MEN-1. El MEN-1 está caracterizado por la asociación de adenomas de hipófisis, feocromocitomas, insulinomas, glucagonomas, entre otros. Sin embargo, el feocromocitoma no es una de las neoplasias típicamente asociadas con el MEN-1, lo que lo hace la opción correcta en este caso. El feocromocitoma se asocia más comúnmente con el síndrome de von Hipple-Lindau (VHL) o con mutaciones en el gen RET o en el gen SDHB, entre otros. En cambio, el MEN-1 se asocia con mutaciones en el gen MEN1. Por lo tanto, la opción correcta es B, ya que el feocromocitoma no suele asociarse con el MEN-1. \n\n- **🔴 Opción A (Incorrecta):** El adenoma de hipófisis es una de las neoplasias típicamente asociadas con el síndrome de neoplasia endocrina múltiple tipo MEN-1. Por lo tanto, esta opción no es correcta. \n\n- **🔴 Opción C (Incorrecta):** El insulinoma es una de las neoplasias típicamente asociadas con el síndrome de neoplasia endocrina múltiple tipo MEN-1. Por lo tanto, esta opción no es correcta. \n\n- **🔴 Opción D (Incorrecta):** El glucagonoma es una de las neoplasias típicamente asociadas con el síndrome de neoplasia endocrina múltiple tipo MEN-1. Por lo tanto, esta opción no es correcta. \n\nLa perla MIR es: 'El feocromocitoma no se asocia con el MEN-1, pero con el síndrome de von Hipple-Lindau o con mutaciones en el gen RET o en el gen SDHB.'"
   },
   {
     "id": "q-170",
     "localNumber": 170,
     "category": "General",
-    "stem": "Mujer de 75 años en tratamiento con sertralina que acude a urgencias por un cuadro confusio- nal. No se evidencian edemas y la tensión arte- rial es de 130/70 mmHg. En la analítica destaca Na 126 mEq/l y K 4 mEq/l, la natriuria es de 45 mEq/l y se ha descartado la ingesta de diuréti- cos. ¿De las siguientes cuál es la actitud más correcta?:",
+    "stem": "Mujer de 75 años en tratamiento con sertralina que acude a urgencias por un cuadro confusional. No se evidencian edemas y la tensión arterial es de 130/70 mmHg. En la analítica destaca Na 126 mEq/l y K 4 mEq/l, la natriuria es de 45 mEq/l y se ha descartado la ingesta de diuréticos. ¿De las siguientes cuál es la actitud más correcta?",
     "options": [
       "Se trata de una enfermedad de Addison y deben administrarse corticoides de inmediato.",
       "Administrar suero salino hipertónico a fin de restablecer cuanto antes la natremia.",
-      "Indicar restricción hídrica y si no se eleva la natremia pasar a infusión lenta de suero sa- lino.",
-      "Solicitar resonancia magnética cerebral, ya que seguramente se trata de una diabetes insí- pida."
+      "Indicar restricción hídrica y si no se eleva la natremia pasar a infusión lenta de suero salino.",
+      "Solicitar resonancia magnética cerebral, ya que seguramente se trata de una diabetes insípida."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 170 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Esta opción es la correcta porque la paciente tiene hiponatremia (Na 126 mEq/l) con natriuria baja (45 mEq/l), lo que sugiere una respuesta inadecuada del riñón a la ingesta de líquidos. La restricción hídrica y la infusión lenta de suero salino son medidas adecuadas para tratar la hiponatremia, especialmente si no se dispone de información sobre la ingesta de diuréticos. Esta opción no implica la administración inmediata de corticoides ni la realización de una resonancia magnética cerebral, que no es indicada en este caso.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque la hiponatremia no se asocia con la enfermedad de Addison, que se caracteriza por hiponatremia severa (Na < 130 mEq/l) y natriuria baja (menos de 10 mEq/l). Además, la administración de corticoides de inmediato no es la medida adecuada para tratar la hiponatremia en este caso.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque la administración de suero salino hipertónico no es la medida adecuada para tratar la hiponatremia en este caso. La infusión de suero salino hipertónico puede empeorar la hiponatremia si no se controla adecuadamente la ingesta de líquidos.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque la resonancia magnética cerebral no es indicada en este caso. La diabetes insípida no se asocia con la hiponatremia y la natriuria baja, y no hay indicios de que la paciente tenga diabetes insípida.\n\nLa perla MIR es: La hiponatremia debe ser tratada con medidas adecuadas, como la restricción hídrica y la infusión lenta de suero salino, y no con la administración inmediata de corticoides ni la realización de una resonancia magnética cerebral."
   },
   {
     "id": "q-171",
     "localNumber": 171,
     "category": "General",
-    "stem": "Mujer de 38 años que consulta por astenia e hipotensión de seis meses de evolución. Después de una evaluación extensa, en la analítica úni- camente destaca cortisol 8 microg/dl (5-25 mi- crog/dl) y ACTH de 240 pg/ml (10-60 pg/ml). ¿Cuál de las siguientes afirmaciones es cierta?:",
+    "stem": "Mujer de 38 años que consulta por astenia e hipotensión de seis meses de evolución. Después de una evaluación extensa, en la analítica únicamente destaca cortisol 8 microg/dl (5-25 microg/dl) y ACTH de 240 pg/ml (10-60 pg/ml). ¿Cuál de las siguientes afirmaciones es cierta?",
     "options": [
-      "Debe solicitarse test de estimulación con ACTH con la sospecha de insuficiencia su- prarrenal primaria.",
+      "Debe solicitarse test de estimulación con ACTH con la sospecha de insuficiencia suprarrenal primaria.",
       "Se trata de un síndrome de resistencia a la ACTH y debe solicitarse consejo genético.",
       "Debe descartarse tumor hipofisario secretor de ACTH.",
-      "Se trata de una secreción ectópica de ACTH y debe buscarse una neoplasia. - 25 -"
+      "Se trata de una secreción ectópica de ACTH y debe buscarse una neoplasia."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 171 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La paciente presenta una disminución del cortisol sérico (8 microg/dl) y un aumento del ACTH sérico (240 pg/ml). Esto sugiere una insuficiencia suprarrenal primaria, ya que el ACTH se eleva para intentar estimular la producción de cortisol. La prueba de estimulación con ACTH es una herramienta útil para diagnosticar esta condición, ya que puede demostrar una respuesta inadecuada del cortisol a la estimulación. Por lo tanto, se debe solicitar un test de estimulación con ACTH para confirmar el diagnóstico.\n\n- **🔴 Opción B (Incorrecta):** El síndrome de resistencia a la ACTH se caracteriza por una disminución del cortisol sérico y un ACTH sérico normal o elevado. Sin embargo, en este caso, el ACTH es elevado, lo que hace que esta opción no sea la adecuada. Además, el síndrome de resistencia a la ACTH suele estar asociado con mutaciones en el gen NR3C1, que no se mencionan en el escenario.\n\n- **🔴 Opción C (Incorrecta):** Un tumor hipofisario secretor de ACTH (Cushing's enfermedad secundaria) se caracteriza por un cortisol sérico elevado y un ACTH sérico elevado. En este caso, el cortisol sérico es disminuido, lo que hace que esta opción no sea la adecuada. Además, la presencia de un tumor hipofisario secretor de ACTH no explicaría la disminución del cortisol sérico.\n\n- **🔴 Opción D (Incorrecta):** La secreción ectópica de ACTH se caracteriza por una producción anormal de ACTH por células no pituitarias, lo que puede causar un aumento del cortisol sérico. Sin embargo, en este caso, el cortisol sérico es disminuido, lo que hace que esta opción no sea la adecuada. Además, la presencia de una neoplasia no se menciona en el escenario y no explicaría la disminución del cortisol sérico.\n\nLa perla MIR: Recordar que la disminución del cortisol sérico y el aumento del ACTH sérico pueden sugerir una insuficiencia suprarrenal primaria, y que la prueba de estimulación con ACTH es una herramienta útil para diagnosticar esta condición."
   },
   {
     "id": "q-172",
     "localNumber": 172,
     "category": "General",
-    "stem": "En el síndrome de Klin efelter, ¿cuál de las si- guientes afirmaciones es correcta?:",
+    "stem": "En el síndrome de Klinefelter, ¿cuál de las siguientes afirmaciones es correcta?",
     "options": [
       "El tratamiento con testosterona potencia la fertilidad.",
-      "Los niveles de gonadotrofinas están dismi- nuidos en la mayoría de los pacientes.",
+      "Los niveles de gonadotrofinas están disminuidos en la mayoría de los pacientes.",
       "El cariotipo X0 subyace en la mayoría de los casos.",
       "La incidencia de lupus eritematoso es mayor que en los varones de la población general."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 172 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El síndrome de Klinefelter se caracteriza por la presencia de un o más cromosomas X extra en los varones, lo que puede llevar a una mayor incidencia de ciertas enfermedades autoinmunes, incluyendo el lupus eritematoso. Esto se debe a la disfunción inmunológica asociada con la anormalidad cromosómica. Por lo tanto, la afirmación de que la incidencia de lupus eritematoso es mayor en los pacientes con síndrome de Klinefelter que en los varones de la población general es correcta clínicamente.\n\n- **🔴 Opción A (Incorrecta):** El tratamiento con testosterona puede mejorar algunos síntomas del síndrome de Klinefelter, como la disminución de la masa muscular y la grasa corporal, pero no tiene efecto sobre la fertilidad. De hecho, la fertilidad es uno de los aspectos más afectados en el síndrome de Klinefelter, ya que la mayoría de los pacientes son infértil debido a la anormalidad cromosómica. Por lo tanto, esta afirmación es incorrecta.\n\n- **🔴 Opción B (Incorrecta):** Los niveles de gonadotrofinas pueden estar alterados en el síndrome de Klinefelter, pero no necesariamente están disminuidos en la mayoría de los pacientes. De hecho, muchos pacientes con síndrome de Klinefelter presentan niveles elevados de gonadotrofinas debido a la disfunción gonadal asociada con la anormalidad cromosómica. Por lo tanto, esta afirmación es incorrecta.\n\n- **🔴 Opción C (Incorrecta):** El cariotipo X0 no subyace en la mayoría de los casos del síndrome de Klinefelter. En realidad, el cariotipo más común en el síndrome de Klinefelter es el cariotipo XXY, que se debe a la presencia de un cromosoma X extra en los varones. El cariotipo X0 se asocia con el síndrome de Turner, una condición diferente que se caracteriza por la ausencia de un cromosoma X en las mujeres. Por lo tanto, esta afirmación es incorrecta.\n\nLa perla MIR para recordar este concepto es: 'Klinefelter, lupus y anormalidad cromosómica, un triángulo de consecuencias'."
   },
   {
     "id": "q-173",
