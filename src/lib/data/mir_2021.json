@@ -1697,35 +1697,35 @@
     "id": "q-123",
     "localNumber": 123,
     "category": "General",
-    "stem": "¿Cuál de las siguientes afirmaciones es FALSA con relación al síndrome del QT largo?:",
+    "stem": "¿Cuál de las siguientes afirmaciones es FALSA con relación al síndrome del QT largo?",
     "options": [
       "Los betabloqueantes están contraindicados en el QT largo congénito.",
-      "Los antidepresivos tricíclicos pueden dar lu- gar a un QT largo adquirido.",
-      "Predispone a la taquicardia ventricular poli- mórfica.",
-      "Su fisiopatología se basa en una alteración de los canales iónicos responsables del potencial de acción transmembrana de la célula mio- cárdica."
+      "Los antidepresivos tricíclicos pueden dar lugar a un QT largo adquirido.",
+      "Predispone a la taquicardia ventricular polimórfica.",
+      "Su fisiopatología se basa en una alteración de los canales iónicos responsables del potencial de acción transmembrana de la célula miocárdica."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 123 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Los betabloqueantes, en realidad, **son beneficiosos** en el tratamiento del síndrome del QT largo congénito. Esto se debe a que reducen la frecuencia cardíaca y pueden ayudar a prevenir las arritmias. Por lo tanto, esta afirmación es **falsa** en el contexto del síndrome del QT largo congénito. Los betabloqueantes no están contraindicados, sino que pueden ser útiles en su tratamiento.\n\n- **🔴 Opción B (Incorrecta):** Los antidepresivos tricíclicos pueden **prolongar** el intervalo QT, lo que puede aumentar el riesgo de arritmias. Esto se debe a que algunos de estos medicamentos pueden afectar la conductividad eléctrica del corazón. Sin embargo, esto no significa que cause un QT largo adquirido de manera directa, sino que puede exacerbar la condición existente.\n\n- **🔴 Opción C (Incorrecta):** El síndrome del QT largo puede **prender** a la taquicardia ventricular polimórfica (TVP), pero esto no es una característica exclusiva de esta condición. La TVP puede ser causada por una variedad de factores, incluyendo el síndrome del QT largo, pero no es una afirmación precisa sobre la condición en sí.\n\n- **🔴 Opción D (Incorrecta):** La fisiopatología del síndrome del QT largo se basa en una alteración de los canales iónicos responsables del potencial de acción transmembrana de la célula miocárdica. Esto es **verdadero** y forma parte de la comprensión básica de la condición. Por lo tanto, esta afirmación no es falsa.\n\n**Perla MIR:** La condición clave a recordar es que los betabloqueantes no son contraindicados en el síndrome del QT largo congénito, sino que pueden ser beneficiosos en su tratamiento."
   },
   {
     "id": "q-124",
     "localNumber": 124,
     "category": "Cardiología",
-    "stem": "Mujer de 82 años con fibrilación auricular cró- nica de 10 años de evolución y función sistólica biventricular conservada que presenta episodios de bloqueo aurículo-vent ricular completo sin- t o m á t i c o s , p o r l o q u e s e d e c i d e i m p l a n t a r u n sistema de estimulación cardiaco definitivo. ¿Cuál de los siguientes está indicado?:",
+    "stem": "Mujer de 82 años con fibrilación auricular crónica de 10 años de evolución y función sistólica biventricular conservada que presenta episodios de bloqueo aurículo-ventricular completo sin tómaticos, por lo que se decide implantar un sistema de estimulación cardiaco definitivo.",
     "options": [
       "Marcapasos DDD (bicameral).",
       "Marcapasos VVI (unicameral ventricular).",
       "Marcapasos AAI (unicameral auricular).",
-      "Terapia de resincronización ventricular (TRC)."
+      "Terapia de resincronización ventricular (TRC)"
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 124 del examen MIR de la convocatoria FSE."
+    "explanation": "Para determinar la mejor opción, debemos considerar el tipo de bloqueo aurículo-ventricular que se presenta en esta paciente. En este caso, se trata de episodios de bloqueo completo sin tómaticos. Esto implica que la función auricular es severamente afectada y no puede mantener un ritmo regular sin la intervención del sistema de estimulación cardiaco.\n\n**🟢 Opción B (Correcta):** La opción B, Marcapasos VVI (unicameral ventricular), es la correcta en este caso. Esto se debe a que la paciente tiene una función sistólica biventricular conservada, lo que sugiere que la función ventricular es relativamente normal. Un marcapasos VVI es adecuado para pacientes con bloqueo aurículo-ventricular completo, ya que puede proporcionar un ritmo regular y estable para el corazón.\n\n**🔴 Opción A (Incorrecta):** La opción A, Marcapasos DDD (bicameral), no es adecuada en este caso. Un marcapasos DDD es más adecuado para pacientes con bloqueo aurículo-ventricular parcial o sin bloqueo, ya que puede sincronizar el ritmo auricular y ventricular. En este caso, la paciente tiene un bloqueo completo, por lo que un marcapasos VVI es más adecuado.\n\n**🔴 Opción C (Incorrecta):** La opción C, Marcapasos AAI (unicameral auricular), no es adecuada en este caso. Un marcapasos AAI es más adecuado para pacientes con bloqueo aurículo-ventricular parcial o sin bloqueo, ya que puede proporcionar un ritmo regular y estable para el corazón. En este caso, la paciente tiene un bloqueo completo, por lo que un marcapasos VVI es más adecuado.\n\n**🔴 Opción D (Incorrecta):** La opción D, Terapia de resincronización ventricular (TRC), no es adecuada en este caso. La TRC es más adecuada para pacientes con fibrilación auricular crónica y función sistólica ventricular disminuida. En este caso, la paciente tiene una función sistólica biventricular conservada, lo que sugiere que la función ventricular es relativamente normal. Un marcapasos VVI es más adecuado para esta paciente.\n\n**Perla MIR:** En el examen MIR, es importante considerar la función sistólica ventricular y el tipo de bloqueo aurículo-ventricular al elegir un sistema de estimulación cardiaco definitivo."
   },
   {
     "id": "q-125",
     "localNumber": 125,
     "category": "Cardiología",
-    "stem": "Varón de 23 años diagnosticado de síndrome de Wolff-Parkinson-White que acude a urgencias por palpitaciones. El ECG muestra una taqui- cardia irregular de QRS ancho, con una fre- cuencia cardiaca de 205 lpm, compatible con fibrilación auricular preex citada. ¿Cuál de los siguientes fármacos considera adecuado admi- nistrar para detener la taquicardia?:",
+    "stem": "Varón de 23 años diagnosticado de síndrome de Wolff-Parkinson-White que acude a urgencias por palpitaciones. El ECG muestra una taquicardia irregular de QRS ancho, con una frecuencia cardiaca de 205 lpm, compatible con fibrilación auricular preexcitada. ¿Cuál de los siguientes fármacos considera adecuado administrar para detener la taquicardia?",
     "options": [
       "Verapamilo.",
       "Digoxina.",
@@ -1733,27 +1733,27 @@
       "Procainamida."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 125 del examen MIR de la convocatoria FSE."
+    "explanation": "La respuesta correcta es la opción D, Procainamida. A continuación, se explican las razones por las que las otras opciones son incorrectas:\n\n- **🔴 Opción A (Incorrecta):** El Verapamilo es un bloqueador de canales de calcio que puede ser útil en el tratamiento de la taquicardia, pero no es el mejor opción en este caso. En el síndrome de Wolff-Parkinson-White, el bloqueador de canales de calcio puede empeorar la situación, ya que puede facilitar la confluencia de las ondas de depolarización anteriores y posteriores, lo que puede empeorar la taquicardia.\n\n- **🔴 Opción B (Incorrecta):** La Digoxina es un medicamento que se utiliza para tratar la fibrilación auricular, pero no es el mejor opción en este caso. La Digoxina puede empeorar la taquicardia en el síndrome de Wolff-Parkinson-White, ya que puede aumentar la frecuencia cardiaca y empeorar la situación.\n\n- **🔴 Opción C (Incorrecta):** La Adenosina es un medicamento que se utiliza para tratar la taquicardia, pero no es el mejor opción en este caso. La Adenosina puede empeorar la taquicardia en el síndrome de Wolff-Parkinson-White, ya que puede aumentar la frecuencia cardiaca y empeorar la situación.\n\n- **🟢 Opción D (Correcta):** La Procainamida es un medicamento que se utiliza para tratar la taquicardia en el síndrome de Wolff-Parkinson-White. La Procainamida es un bloqueador de canales de potasio que puede ser útil en el tratamiento de la taquicardia, ya que puede disminuir la frecuencia cardiaca y mejorar la situación.\n\nLa perla MIR es que en el síndrome de Wolff-Parkinson-White, es importante elegir un medicamento que no empeore la situación, y que en su lugar pueda disminuir la frecuencia cardiaca y mejorar la situación. La Procainamida es una buena opción en este caso, ya que puede ser útil en el tratamiento de la taquicardia."
   },
   {
     "id": "q-126",
     "localNumber": 126,
     "category": "General",
-    "stem": "Varón de 58 años con antecedentes de hiperten- sión arterial de 6 años de evolución, que consul- ta por mal control de las cifras de presión arte- rial a pesar de recibir tratamiento con un inhi- bidor de la enzima convertidora de angiotensi- na, un diurético y un calcioantagonista. En consulta presenta cifras de 149/100 mmHg. Analítica: creatinina 1, 2 mg/dl, potasio 2,2 mEq/l y alcalosis metabólica compensada; resto del estudio bioquímico, hemograma, coagula- ción y sedimento urinario normal. Señale la afirmación correcta:",
+    "stem": "Varón de 58 años con antecedentes de hipertensión arterial de 6 años de evolución, que consulta por mal control de las cifras de presión arterial a pesar de recibir tratamiento con un inhibidor de la enzima convertidora de angiotensina, un diurético y un calcioantagonista. En consulta presenta cifras de 149/100 mmHg. Analítica: creatinina 1,2 mg/dl, potasio 2,2 mEq/l y alcalosis metabólica compensada; resto del estudio bioquímico, hemograma, coagulación y sedimento urinario normal.",
     "options": [
-      "El origen de la hipertensión en este caso es la secreción excesiva de aldosterona causada por una hiperfunción autónoma de la médula su- prarrenal.",
-      "En la mayoría de los casos el sustrato anató- mico es una hiperplasia bilateral de la corteza suprarrenal.",
+      "El origen de la hipertensión en este caso es la secreción excesiva de aldosterona causada por una hiperfunción autónoma de la médula suprarrenal.",
+      "En la mayoría de los casos el sustrato anatómico es una hiperplasia bilateral de la corteza suprarrenal.",
       "La TC forma parte del estudio diagnóstico en caso de haber una confirmación bioquímica.",
       "La espironolactona está contraindicada en el manejo de esta patología."
     ],
     "correctIndex": -1,
-    "explanation": "Pregunta oficial número 126 del examen MIR de la convocatoria FSE."
+    "explanation": "La respuesta correcta es D. Para explicar esto, debemos analizar cada opción individualmente.\n\n**🟢 Opción D (Correcta):** La espironolactona es un medicamento que bloquea la acción de la aldosterona, un hormona que regula la presión arterial. En este caso, la hipertensión no se debe a una hiperfunción autónoma de la médula suprarrenal, sino más bien a un problema de retención de líquidos y electrolitos. La espironolactona es un tratamiento efectivo para este tipo de hipertensión, por lo que no está contraindicada en este caso. Por el contrario, podría ser una opción terapéutica adecuada.\n\n**🔴 Opción A (Incorrecta):** La hiperfunción autónoma de la médula suprarrenal es una causa rara de hipertensión, y no es la explicación más probable en este caso. La hipertensión en este paciente se debe más bien a un problema de retención de líquidos y electrolitos.\n\n**🔴 Opción B (Incorrecta):** La hiperplasia bilateral de la corteza suprarrenal es una causa rara de hipertensión, y no es la explicación más probable en este caso. La hipertensión en este paciente se debe más bien a un problema de retención de líquidos y electrolitos.\n\n**🔴 Opción C (Incorrecta):** La TC (tomografía computarizada) no es necesaria en este caso, ya que la hipertensión se puede diagnosticar y tratar mediante pruebas bioquímicas y análisis de sangre. La TC sería un estudio adicional innecesario.\n\nLa perla MIR para recordar este concepto es: \"La espironolactona es un medicamento que bloquea la acción de la aldosterona, y no está contraindicada en el manejo de la hipertensión por retención de líquidos y electrolitos\"."
   },
   {
     "id": "q-127",
     "localNumber": 127,
     "category": "Cardiología",
-    "stem": "Entre las intervencion es sobre los factores de riesgo cardiovascular mostrados ¿cuál es la más rentable para reducir eventos coronarios en prevención secundaria?:",
+    "stem": "Entre las intervenciones sobre los factores de riesgo cardiovascular mostrados, ¿cuál es la más rentable para reducir eventos coronarios en prevención secundaria?",
     "options": [
       "Abandono del tabaco.",
       "Aumento de los niveles de lipoproteínas de alta densidad (colesterol HDL).",
@@ -1761,7 +1761,7 @@
       "Aumento de la actividad física."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 127 del examen MIR de la convocatoria FSE."
+    "explanation": "### Intervenciones para reducir eventos coronarios en prevención secundaria\n\n#### Análisis de opciones\n\n- **🟢 Opción A (Correcta):** El abandono del tabaco es una intervención muy efectiva para reducir eventos coronarios en prevención secundaria. El tabaquismo es un factor de riesgo importante para la enfermedad cardiovascular y su abandono puede reducir significativamente el riesgo de eventos coronarios. Además, el abandono del tabaco también tiene beneficios para la salud en general, como la reducción del riesgo de cáncer de pulmón y enfermedades respiratorias.\n\n- **🔴 Opción B (Incorrecta):** El aumento de los niveles de lipoproteínas de alta densidad (colesterol HDL) es beneficioso para la salud cardiovascular, pero no es una intervención directa para reducir eventos coronarios en prevención secundaria. De hecho, la terapia con estatinas es más efectiva para aumentar los niveles de HDL y reducir el riesgo de eventos coronarios.\n\n- **🔴 Opción C (Incorrecta):** El control adecuado de la glucemia en pacientes diabéticos es importante para prevenir complicaciones a largo plazo, como la nefropatía diabética y la retinopatía diabética. Sin embargo, no es una intervención directa para reducir eventos coronarios en prevención secundaria.\n\n- **🔴 Opción D (Incorrecta):** El aumento de la actividad física es beneficioso para la salud cardiovascular en general, pero no es una intervención específica para reducir eventos coronarios en prevención secundaria. De hecho, la actividad física es importante para prevenir la obesidad y la dislipidemia, pero no es una intervención directa para reducir el riesgo de eventos coronarios en pacientes con factores de riesgo cardiovascular establecidos.\n\n### Perla MIR\n\nLa prevención secundaria de eventos coronarios implica identificar y tratar los factores de riesgo cardiovascular establecidos en pacientes con enfermedad cardiovascular previa. El abandono del tabaco es una intervención muy efectiva para reducir eventos coronarios en esta población. Recuerda que la prevención secundaria es una oportunidad para cambiar el curso de la enfermedad cardiovascular y mejorar la calidad de vida de los pacientes."
   },
   {
     "id": "q-128",
