@@ -1481,13 +1481,13 @@
       "Liposucción."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 106 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La liposucción no está recomendada en este caso porque puede empeorar el linfedema, ya que la extracción de grasa puede dañar los vasos linfáticos y aumentar la presión en el sistema linfático, lo que podría exacerbar el edema y el empastamiento del brazo derecho de la paciente. Además, la liposucción no es un tratamiento establecido para el linfedema y puede ser una medida invasiva que no aporta beneficios en este contexto clínico específico.\n\n- **🔴 Opción A (Incorrecta):** La realización de actividad física con elevación del miembro superior derecho es recomendada en el manejo del linfedema, ya que puede ayudar a mejorar la circulación linfática y reducir el edema. Esta actividad es una parte importante de la terapia física y puede ser beneficiosa para la paciente.\n\n- **🔴 Opción B (Incorrecta):** La terapia física con fisioterapia descongestiva es una opción terapéutica adecuada para el linfedema, ya que puede ayudar a reducir el edema y mejorar la movilidad del miembro afectado. La fisioterapia descongestiva es una técnica que busca reducir la presión en el sistema linfático y mejorar la circulación linfática.\n\n- **🔴 Opción D (Incorrecta):** Los diuréticos pueden ser considerados en algunos casos de linfedema, pero no son la primera opción de tratamiento en este escenario. La administración de diuréticos puede ayudar a reducir el edema, pero es importante considerar los posibles efectos secundarios y la efectividad en cada caso clínico individual. En este escenario, la respuesta correcta se enfoca en la liposucción como la medida no recomendada.\n\n**Perla MIR:** Recuerda que el manejo del linfedema requiere un enfoque integral que incluya actividad física, terapia física y, en algunos casos, medicamentos. La liposucción no es una opción terapéutica recomendada en este contexto, ya que puede empeorar el linfedema y no aportar beneficios en la reducción del edema y el empastamiento del brazo derecho de la paciente."
   },
   {
     "id": "q-107",
     "localNumber": 107,
     "category": "Nefrología",
-    "stem": "En un paciente que tras una embolectomía por isquemia arterial aguda secundaria a un émbolo en la bifurcación aorto -ilíaca, presenta hipotensión, hipercalciuria, mioglobinuria e insuficiencia renal, ¿cuál de entre los siguientes es el diagnóstico más probable?",
+    "stem": "En un paciente que tras una embolectomía por isquemia arterial aguda secundaria a un émbolo en la bifurcación aorto-ilíaca, presenta hipotensión, hipercalciuria, mioglobinuria e insuficiencia renal, ¿cuál de entre los siguientes es el diagnóstico más probable?",
     "options": [
       "Trombosis arterial recurrente.",
       "Síndrome de reperfusión.",
@@ -1495,13 +1495,13 @@
       "Neuropatía isquémica."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 107 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El síndrome de reperfusión es un evento clínico que ocurre después de una revascularización en un paciente con isquemia crónica. Se caracteriza por una reacción inflamatoria y tóxica causada por el restablecimiento del flujo sanguíneo en un territorio previamente isquémico. En este caso, la embolectomía habría restaurado el flujo en el territorio afectado, lo que habría llevado a la reperfusión y, como consecuencia, a la liberación de productos tóxicos como el mioglobina, la hipercalciuria y la insuficiencia renal.\n\n- **🔴 Opción A (Incorrecta):** La trombosis arterial recurrente se refiere a la formación de un nuevo trombo en un vaso sanguíneo que ya había sufrido una trombosis anterior. Sin embargo, en este caso, el paciente ya ha pasado por una embolectomía, lo que sugiere que el problema actual no es la formación de un nuevo trombo.\n\n- **🔴 Opción C (Incorrecta):** La necrosis muscular es un tipo de lesión muscular que se caracteriza por la muerte de células musculares. Si bien la mioglobinuria es un signo de necrosis muscular, no es la causa principal de los síntomas en este paciente, ya que la mioglobinuria también se puede presentar en el síndrome de reperfusión.\n\n- **🔴 Opción D (Incorrecta):** La neuropatía isquémica se refiere a la lesión de las células nerviosas debido a la falta de oxígeno y nutrientes. Sin embargo, en este caso, la insuficiencia renal y la mioglobinuria sugieren que el problema se encuentra en el sistema cardiovascular en lugar de en el sistema nervioso.\n\n- **Perla MIR:** Recuerda que el síndrome de reperfusión es un evento clínico crítico que ocurre después de una revascularización en un paciente con isquemia crónica. Busca signos de reperfusión, como la mioglobinuria, la hipercalciuria y la insuficiencia renal, en pacientes que han pasado por una embolectomía o otra revascularización."
   },
   {
     "id": "q-108",
     "localNumber": 108,
     "category": "Cardiología",
-    "stem": "Hombre de 55 años con HTA y dislipemia que consulta por disnea de esfuerzo. Presenta en la ecocardiografía válvula aórtica bicúspide con área valvular aórtica de 0,9 cm 2, gradiente transvalvular de 45 mmHg, velocidad pico de 5,5 m/seg, raíz aórtica de 6 cm y fracción de eyección de ventrículo izquierdo de 45%. En la analítica, péptido natriurético tipo B el triple de lo normal. ¿Qué opción terapéutica le recomendaría?:",
+    "stem": "Hombre de 55 años con hipertensión arterial y dislipemia que consulta por disnea de esfuerzo. Presenta en la ecocardiografía válvula aórtica bicúspide con área valvular aórtica de 0,9 cm², gradiente transvalvular de 45 mmHg, velocidad pico de 5,5 m/seg, raíz aórtica de 6 cm y fracción de eyección de ventrículo izquierdo de 45%. En la analítica, péptido natriurético tipo B el triple de lo normal.",
     "options": [
       "Seguimiento por médico de atención primaria mientras esté asintomático.",
       "Implante de una prótesis valvular aórtica biológica transcatéter (TAVI).",
@@ -1509,7 +1509,7 @@
       "Cirugía de sustitución valvular aórtica y raíz."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 108 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta presenta un caso clínico de un paciente con hipertensión arterial y dislipemia que consulta por disnea de esfuerzo. La ecocardiografía muestra una válvula aórtica bicúspide con área valvular aórtica reducida y gradiente transvalvular elevado, lo que sugiere una estenosis aórtica severa. Además, el paciente tiene una fracción de eyección de ventrículo izquierdo (FEVI) reducida y un péptido natriurético tipo B elevado, lo que indica una función cardíaca comprometida.\n\n**🟢 Opción D (Correcta):** La cirugía de sustitución valvular aórtica y raíz es la opción más adecuada en este caso. La estenosis aórtica severa y la FEVI reducida sugieren que el paciente requiere una intervención quirúrgica para mejorar la función cardíaca y reducir el riesgo de complicaciones. La cirugía de sustitución valvular aórtica y raíz es la opción más completa para abordar la estenosis aórtica y la disfunción de la raíz aórtica.\n\n**🔴 Opción A (Incorrecta):** El seguimiento por médico de atención primaria mientras esté asintomático no es una opción adecuada en este caso. La estenosis aórtica severa y la FEVI reducida sugieren que el paciente requiere una intervención quirúrgica para mejorar la función cardíaca y reducir el riesgo de complicaciones.\n\n**🔴 Opción B (Incorrecta):** El implante de una prótesis valvular aórtica biológica transcatéter (TAVI) puede ser una opción para pacientes con estenosis aórtica severa y riesgo quirúrgico elevado, pero no es la opción más adecuada en este caso. La FEVI reducida sugiere que el paciente requiere una intervención quirúrgica más completa para mejorar la función cardíaca.\n\n**🔴 Opción C (Incorrecta):** La valvuloplastia aórtica es una opción para pacientes con estenosis aórtica leve a moderada, pero no es la opción más adecuada en este caso. La estenosis aórtica severa y la FEVI reducida sugieren que el paciente requiere una intervención quirúrgica más completa para mejorar la función cardíaca.\n\nLa perla MIR es que la cirugía de sustitución valvular aórtica y raíz es la opción más completa para abordar la estenosis aórtica y la disfunción de la raíz aórtica en pacientes con estenosis aórtica severa y FEVI reducida."
   },
   {
     "id": "q-109",
@@ -1517,19 +1517,19 @@
     "category": "General",
     "stem": "En la respuesta inmune innata, las células más numerosas a nivel pulmonar, que conforman la primera línea defensiva, son:",
     "options": [
-      "Neutrófilos.",
-      "Macrófagos.",
-      "Eosinófilos.",
-      "Mastocitos."
+      "Neutrófilos",
+      "Macrófagos",
+      "Eosinófilos",
+      "Mastocitos"
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 109 del examen MIR de la convocatoria FSE."
+    "explanation": "\n### Explicación detallada de las opciones\n- **🟢 Opción B (Correcta):** Los macrófagos son las células más numerosas a nivel pulmonar y conforman la primera línea defensiva en la respuesta inmune innata. Estas células desempeñan un papel crucial en la defensa del organismo al reconocer y eliminar patógenos, como bacterias y virus, y también participan en la presentación de antígenos a las células T, lo que ayuda a iniciar una respuesta inmune adaptativa.\n- **🔴 Opción A (Incorrecta):** Los neutrófilos son un tipo de glóbulo blanco importante en la respuesta inmune innata, especialmente en la lucha contra las infecciones bacterianas. Aunque son cruciales en la defensa del organismo, no son las células más numerosas a nivel pulmonar en comparación con los macrófagos.\n- **🔴 Opción C (Incorrecta):** Los eosinófilos son células involucradas principalmente en la respuesta alérgica y en la lucha contra las infecciones parasitarias. No son las células más numerosas en el pulmón en el contexto de la primera línea defensiva.\n- **🔴 Opción D (Incorrecta):** Los mastocitos son células clave en las reacciones alérgicas y desempeñan un papel en la respuesta inmune innata, pero no son las más numerosas a nivel pulmonar en comparación con los macrófagos.\n\n### Perla MIR\nRecuerda que los macrófagos son fundamentales en la primera línea de defensa en el pulmón, participando activamente en la eliminación de patógenos y en la iniciación de la respuesta inmune adaptativa."
   },
   {
     "id": "q-110",
     "localNumber": 110,
     "category": "General",
-    "stem": "Hombre de 60 años que acude a consulta por presentar tos y expectoración habitual mucosa, amarillenta, con más de 4 -5 episodios de reagudizaciones al año, algunas veces con hemoptisis. ¿Cuál de los siguientes es el diagnóstico más probable?",
+    "stem": "Hombre de 60 años que acude a consulta por presentar tos y expectoración habitual mucosa, amarillenta, con más de 4-5 episodios de reagudizaciones al año, algunas veces con hemoptisis.",
     "options": [
       "Asma.",
       "Fibrosis pulmonar idiopática.",
@@ -1537,7 +1537,7 @@
       "Insuficiencia cardíaca."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 110 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La fibrosis pulmonar idiopática es una enfermedad crónica que afecta la capacidad pulmonar, caracterizada por la presencia de tos y expectoración crónica, con episodios de reagudización y potencialmente hemoptisis. La edad del paciente y los síntomas descritos se alinean con esta enfermedad. Además, la fibrosis pulmonar idiopática no tiene un tratamiento específico para revertir la enfermedad, por lo que se enfoca en manejar los síntomas y mejorar la calidad de vida del paciente.\n\n- **🔴 Opción A (Incorrecta):** El asma es una enfermedad obstructiva crónica que se caracteriza por episodios de broncoconstricción, con síntomas de tos, estertor y disnea. Sin embargo, en la pregunta no se menciona la presencia de estertores ni la necesidad de esfuerzos para respirar, lo que hace que esta opción sea menos probable.\n\n- **🔴 Opción B (Incorrecta):** La fibrosis pulmonar idiopática se distingue de la fibrosis pulmonar hereditaria (FPH) y la fibrosis pulmonar asociada a enfermedad pulmonar obstructiva crónica (EPOC). En el caso de la FPH, se observan síntomas a una edad más temprana y con una mayor presencia de signos familiares. Por otro lado, la fibrosis pulmonar asociada a la EPOC es una complicación de la enfermedad pulmonar obstructiva crónica, lo que no se menciona en la pregunta.\n\n- **🔴 Opción D (Incorrecta):** La insuficiencia cardíaca es una enfermedad que afecta la capacidad del corazón para bombear sangre. Aunque la tos y expectoración pueden ser síntomas de insuficiencia cardíaca en casos avanzados, no se menciona en la pregunta la presencia de otros síntomas característicos como edema, disnea o acufeno nocturno, lo que hace que esta opción sea menos probable.\n\nLa perla MIR para recordar el concepto clave es: en la tos crónica y expectoración con episodios de reagudización, especialmente en pacientes de edad avanzada, la fibrosis pulmonar idiopática debe ser considerada como diagnóstico principal."
   },
   {
     "id": "q-111",
