@@ -2325,21 +2325,21 @@
     "id": "q-167",
     "localNumber": 167,
     "category": "General",
-    "stem": "Respecto al diagnóstico diferencial de las crisis epilépticas, ¿cuál de las siguientes afirmaciones es correcta?:",
+    "stem": "Respecto al diagnóstico diferencial de las crisis epilépticas, ¿cuál de las siguientes afirmaciones es correcta?",
     "options": [
       "Los síncopes neuromediados tienen una fase tónica prolongada.",
-      "En las crisis psicógenas el electroencefa- lograma (EEG) muestra siempre descar- gas epileptiformes.",
+      "En las crisis psicógenas el electroencefalograma (EEG) muestra siempre descargas epileptiformes.",
       "La amnesia global transitoria cursa con pérdida de conciencia prolongada.",
-      "Los síncopes presentan recuperación rá- pida sin confusión proscritica."
+      "Los síncopes presentan recuperación rápida sin confusión posterior."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 167 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Los síncopes son episodios transitorios de pérdida de conciencia que no están asociados con convulsiones epilépticas. La recuperación es rápida y no hay confusión posterior. Esta opción es correcta porque describe con precisión la característica clínica de los síncopes.\n\n- **🔴 Opción A (Incorrecta):** Los síncopes neuromediados no tienen una fase tónica prolongada. De hecho, los síncopes son caracterizados por una pérdida repentina de conciencia sin convulsiones, y la recuperación es rápida. La opción A es incorrecta porque confunde los síncopes con las crisis epilépticas.\n\n- **🔴 Opción B (Incorrecta):** En las crisis psicógenas, el EEG puede mostrar descargas epileptiformes, pero no siempre. Las crisis psicógenas son episodios de pérdida de conciencia que no tienen una base orgánica, y el EEG puede mostrar variaciones normales o patológicas. La opción B es incorrecta porque generaliza demasiado.\n\n- **🔴 Opción C (Incorrecta):** La amnesia global transitoria no cursa con pérdida de conciencia prolongada. Es un trastorno caracterizado por una pérdida repentina de memoria que dura desde unos minutos a una semana, sin pérdida de conciencia prolongada. La opción C es incorrecta porque confunde la amnesia global transitoria con los síncopes.\n\nLa perla MIR: Recuerda que los síncopes son episodios transitorios de pérdida de conciencia sin convulsiones, con recuperación rápida y sin confusión posterior."
   },
   {
     "id": "q-168",
     "localNumber": 168,
     "category": "General",
-    "stem": "¿Cuál de las siguientes características es típica de la cefalea tensional?:",
+    "stem": "¿Cuál de las siguientes características es típica de la cefalea tensional?",
     "options": [
       "Dolor pulsátil bilateral con fotofobia.",
       "Dolor pulsátil unilateral.",
@@ -2347,13 +2347,13 @@
       "Dolor que empeora con el ejercicio físico."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 168 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La cefalea tensional se caracteriza por un dolor opresivo bilateral, que se siente como si una corona de dolor estuviera rodeando la cabeza. Este tipo de dolor es diferente al de las migrañas o las cefaleas vasculares, que pueden tener características pulsátiles. La cefalea tensional puede ser desencadenada por factores como el estrés, la fatiga o los cambios en el ritmo del sueño, pero no empeora con el ejercicio físico ni se asocia con fotofobia (sensibilidad a la luz). Por lo tanto, la opción C es la correcta porque describe con precisión la característica típica de la cefalea tensional.\n\n- **🔴 Opción A (Incorrecta):** El dolor pulsátil bilateral con fotofobia es más característico de las cefaleas vasculares, especialmente de la migraña. Esta condición se asocia con dolores intensos y pulsátiles, así como con síntomas como fotofobia, fotofobia y sensibilidad a los ruidos. Por lo tanto, la opción A no es la adecuada para describir la cefalea tensional.\n\n- **🔴 Opción B (Incorrecta):** El dolor pulsátil unilateral es típico de las cefaleas vasculares, especialmente de la migraña. Este tipo de dolor puede ser muy intenso y se caracteriza por ser unilateral, lo que significa que se siente en un lado de la cabeza. La cefalea tensional, por otro lado, suele ser bilateral. Por lo tanto, la opción B no es la adecuada para describir la cefalea tensional.\n\n- **🔴 Opción D (Incorrecta):** El dolor que empeora con el ejercicio físico no es una característica típica de la cefalea tensional. Aunque la fatiga y el estrés pueden desencadenar o empeorar los síntomas de la cefalea tensional, el ejercicio físico en sí mismo no suele ser un desencadenante. Por lo tanto, la opción D no es la adecuada para describir la cefalea tensional.\n\nLa perla MIR es: La cefalea tensional se caracteriza por un dolor opresivo bilateral que no empeora con el ejercicio físico ni se asocia con fotofobia. Recuerda que esta característica es clave para distinguir la cefalea tensional de otras condiciones como las migrañas o las cefaleas vasculares."
   },
   {
     "id": "q-169",
     "localNumber": 169,
     "category": "General",
-    "stem": "¿Cuál de los siguientes hallazgos apoya el diagnóstico de enfermedad de Parkinson según los criterios de la Movement Disor- der Society (MDS)?:",
+    "stem": "¿Cuál de los siguientes hallazgos apoya el diagnóstico de enfermedad de Parkinson según los criterios de la Movement Disorder Society (MDS)?",
     "options": [
       "Ausencia de respuesta al tratamiento con levodopa.",
       "Pérdida de olfato.",
@@ -2361,27 +2361,27 @@
       "Disfunción cerebelosa precoz."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 169 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La pérdida de olfato es uno de los síntomas no motor tempranos de la enfermedad de Parkinson, y se considera uno de los criterios diagnósticos según los criterios de la Movement Disorder Society (MDS). Esto se debe a que la degeneración de las células dopaminérgicas en la sustancia negra también afecta a las células olfatorias, lo que conduce a una disminución de la sensibilidad olfativa. Por lo tanto, la pérdida de olfato es un hallazgo que apoya el diagnóstico de enfermedad de Parkinson según los criterios de la MDS.\n\n- **🔴 Opción A (Incorrecta):** La ausencia de respuesta al tratamiento con levodopa no es un criterio diagnóstico de la enfermedad de Parkinson. De hecho, la mayoría de los pacientes con enfermedad de Parkinson responden al tratamiento con levodopa, lo que mejora significativamente sus síntomas. La ausencia de respuesta al tratamiento con levodopa puede ser más característica de otras condiciones, como la enfermedad de Huntington o la enfermedad de Wilson.\n\n- **🔴 Opción C (Incorrecta):** Las caídas recurrentes en los primeros años no son un síntoma característico de la enfermedad de Parkinson. Aunque las caídas pueden ocurrir en pacientes con enfermedad de Parkinson, especialmente en aquellos con inestabilidad postural o equilibrio alterado, no son un criterio diagnóstico. Las caídas recurrentes en los primeros años pueden ser más características de otras condiciones, como la osteoporosis o la enfermedad de Alzheimer.\n\n- **🔴 Opción D (Incorrecta):** La disfunción cerebelosa precoz no es un síntoma característico de la enfermedad de Parkinson. La enfermedad de Parkinson se asocia con degeneración de las células dopaminérgicas en la sustancia negra, mientras que la disfunción cerebelosa se asocia con degeneración de las células cerebelosas. La disfunción cerebelosa precoz puede ser más característica de otras condiciones, como la enfermedad de Friedreich o la ataxia de espinocerebelosa.\n\nLa pérdida de olfato es un hallazgo importante en la enfermedad de Parkinson, ya que se considera uno de los criterios diagnósticos según los criterios de la Movement Disorder Society (MDS). Es importante tener en cuenta que la pérdida de olfato puede ser un síntoma no motor temprano de la enfermedad de Parkinson, y su detección puede ayudar a establecer un diagnóstico temprano y adecuado."
   },
   {
     "id": "q-170",
     "localNumber": 170,
     "category": "General",
-    "stem": "En la exploración del tono muscular, ¿qué caracteriza a la hipertonía espástica?:",
+    "stem": "En la exploración del tono muscular, ¿qué caracteriza a la hipertonía espástica?",
     "options": [
-      "Aumento de la resistencia constante du- rante todo el movimiento.",
+      "Aumento de la resistencia constante durante todo el movimiento.",
       "Aumento de la resistencia dependiente de la velocidad del movimiento.",
-      "Disminución del tono con ausencia de re- sistencia.",
+      "Disminución del tono con ausencia de resistencia.",
       "Resistencia irregular con fenómeno de rueda dentada."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 170 del examen MIR de la convocatoria FSE."
+    "explanation": "La hipertonía espástica se caracteriza por una resistencia muscular que aumenta con la velocidad del movimiento. Esto se debe a que las fibras musculares se contraen de manera más rápida y fuerte en respuesta a la velocidad del movimiento. La opción correcta es la que describe esta relación entre la velocidad del movimiento y la resistencia muscular.\n\n**🟢 Opción B (Correcta):** La hipertonía espástica se caracteriza por un aumento de la resistencia dependiente de la velocidad del movimiento. Esto se debe a que las fibras musculares se contraen de manera más rápida y fuerte en respuesta a la velocidad del movimiento.\n\n**🔴 Opción A (Incorrecta):** Un aumento de la resistencia constante durante todo el movimiento no es característico de la hipertonía espástica, ya que la resistencia muscular puede variar dependiendo de la velocidad del movimiento.\n\n**🔴 Opción C (Incorrecta):** Una disminución del tono con ausencia de resistencia no es característica de la hipertonía espástica, ya que esta condición se caracteriza por una resistencia muscular aumentada.\n\n**🔴 Opción D (Incorrecta):** Una resistencia irregular con fenómeno de rueda dentada no es característica de la hipertonía espástica, ya que esta condición se caracteriza por una resistencia muscular aumentada y dependiente de la velocidad del movimiento.\n\nLa perla MIR para recordar esta característica de la hipertonía espástica es: \"Aumento de la resistencia con velocidad, no constante\"."
   },
   {
     "id": "q-171",
     "localNumber": 171,
     "category": "General",
-    "stem": "Una mujer de 53 años es diagnosticada de vólvulo de intestino medio e isquemia in- testinal. Se realiza laparotomía para liberar la obstrucción intestinal. ¿Cuál de las si- guientes estructuras se usa como punto de referencia anatómico para determinar la po- sición de la unión duodenoyeyunal?:",
+    "stem": "Una mujer de 53 años es diagnosticada de vólvulo de intestino medio e isquemia intestinal. Se realiza laparotomía para liberar la obstrucción intestinal. ¿Cuál de las siguientes estructuras se usa como punto de referencia anatómico para determinar la posición de la unión duodenoyeyunal?",
     "options": [
       "Ligamento de Treitz.",
       "Arteria mesentérica superior.",
@@ -2389,7 +2389,7 @@
       "Ligamento frenocólico"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 171 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El ligamento de Treitz es un punto de referencia anatómico importante en la exploración abdominal. Se encuentra en la unión del duodeno y el páncreas y es un punto de referencia clave para la ubicación de la unión duodenoyeyunal. La posición del ligamento de Treitz es estable y puede ser utilizado como referencia para determinar la ubicación de la unión duodenoyeyunal en la cirugía abdominal. Por lo tanto, la opción A es la correcta en este contexto. \n\n- **🔴 Opción B (Incorrecta):** La arteria mesentérica superior es una estructura importante en la circulación sanguínea del intestino delgado, pero no es un punto de referencia anatómico para la ubicación de la unión duodenoyeyunal. La arteria mesentérica superior se encuentra en la región del intestino delgado y no es una estructura estable que pueda ser utilizada como referencia para la ubicación de la unión duodenoyeyunal. \n\n- **🔴 Opción C (Incorrecta):** La arteria mesentérica inferior es una estructura importante en la circulación sanguínea del intestino grueso, pero no es un punto de referencia anatómico para la ubicación de la unión duodenoyeyunal. La arteria mesentérica inferior se encuentra en la región del intestino grueso y no es una estructura estable que pueda ser utilizada como referencia para la ubicación de la unión duodenoyeyunal. \n\n- **🔴 Opción D (Incorrecta):** El ligamento frenocólico es un ligamento que se encuentra en la región del intestino delgado, pero no es un punto de referencia anatómico para la ubicación de la unión duodenoyeyunal. El ligamento frenocólico se utiliza para describir la relación entre el duodeno y el páncreas, pero no es una estructura estable que pueda ser utilizada como referencia para la ubicación de la unión duodenoyeyunal.\n\nLa perla MIR para recordar la posición de la unión duodenoyeyunal es: "
   },
   {
     "id": "q-172",
