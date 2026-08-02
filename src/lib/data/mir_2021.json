@@ -2189,33 +2189,33 @@
     "category": "General",
     "stem": "Señale el tumor en el que la braquiterapia NO es una alternativa efectiva de tratamiento:",
     "options": [
-      "Adenocarcinoma de endo metrio estadio I-B grado 2.",
+      "Adenocarcinoma de endometrio estadio I-B grado 2.",
       "Carcinoma ductal infiltrante de mama tras intervención quirúrgica del lecho tumoral con margen cercano.",
-      "Glioblastoma multiforme resecado parcial- mente.",
+      "Glioblastoma multiforme resecado parcialmente.",
       "Adenocarcinoma de próstata T1N0M0 Gleason 6."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 158 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La braquiterapia no es una alternativa efectiva de tratamiento en el caso de un glioblastoma multiforme resecado parcialmente. La braquiterapia se utiliza principalmente para tratar tumores de células en anaplasia (CCEA) de tipo epitelial, como el cáncer de cervix, el cáncer de endometrio y el cáncer de próstata. No es adecuada para tumores de tejidos de origen nervioso, como el glioblastoma multiforme. En este caso, la opción C es la correcta porque el glioblastoma multiforme es un tipo de tumor de tejido nervioso que requiere tratamientos más invasivos y complejos, como la radioterapia con partículas de alta energía o la quimioterapia intravenosa, en lugar de la braquiterapia.\n\n- **🔴 Opción A (Incorrecta):** La braquiterapia es una alternativa efectiva de tratamiento para el adenocarcinoma de endometrio estadio I-B grado 2. En este caso, la braquiterapia puede ser utilizada para tratar el cáncer de endometrio en etapas tempranas, especialmente si el tumor es pequeño y no se ha extendido a otros órganos. La braquiterapia puede ser una opción efectiva para reducir la tasa de recurrencia del cáncer y mejorar la calidad de vida del paciente.\n\n- **🔴 Opción B (Incorrecta):** La braquiterapia no es la única alternativa efectiva de tratamiento para el carcinoma ductal infiltrante de mama tras intervención quirúrgica del lecho tumoral con margen cercano. En este caso, la braquiterapia puede ser utilizada en combinación con la quimioterapia intravenosa para tratar el cáncer de mama en etapas tempranas. La braquiterapia puede ser una opción efectiva para reducir la tasa de recurrencia del cáncer y mejorar la calidad de vida del paciente.\n\n- **🔴 Opción D (Incorrecta):** La braquiterapia es una alternativa efectiva de tratamiento para el adenocarcinoma de próstata T1N0M0 Gleason 6. En este caso, la braquiterapia puede ser utilizada para tratar el cáncer de próstata en etapas tempranas, especialmente si el tumor es pequeño y no se ha extendido a otros órganos. La braquiterapia puede ser una opción efectiva para reducir la tasa de recurrencia del cáncer y mejorar la calidad de vida del paciente.\n\nLa perla MIR: La braquiterapia es una alternativa efectiva de tratamiento para tumores de células en anaplasia (CCEA) de tipo epitelial, pero no es adecuada para tumores de tejidos de origen nervioso, como el glioblastoma multiforme."
   },
   {
     "id": "q-159",
     "localNumber": 159,
     "category": "General",
-    "stem": "Además de las posibles complicaciones hemo- rrágicas ¿qué otro efecto adverso del tratamien- to parenteral con heparina puede ser grave y comprometer la vida del paciente?:",
+    "stem": "Además de las posibles complicaciones hemorrágicas, ¿qué otro efecto adverso del tratamiento parenteral con heparina puede ser grave y comprometer la vida del paciente?",
     "options": [
-      "Hipopotasemia extrema.",
-      "Trastornos gastrointestinales con diarrea abundante y deshidratación.",
-      "Alcalosis metabólica por toxicidad tubular renal.",
-      "Trombopenia grave acompañada de fenóme- nos trombóticos venosos o arteriales."
+      "Hipopotasemia extrema",
+      "Trastornos gastrointestinales con diarrea abundante y deshidratación",
+      "Alcalosis metabólica por toxicidad tubular renal",
+      "Trombopenia grave acompañada de fenómenos trombóticos venosos o arteriales"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 159 del examen MIR de la convocatoria FSE."
+    "explanation": "### Efecto adverso del tratamiento parenteral con heparina\n\n#### **🟢 Opción D (Correcta):** Trombopenia grave acompañada de fenómenos trombóticos venosos o arteriales.\n\nLa trombopenia grave es un efecto adverso grave del tratamiento con heparina, ya que puede llevar a la formación de coágulos sanguíneos en los vasos sanguíneos, lo que puede ser fatal. Esto se debe a que la heparina inhibe la coagulación de la sangre, pero también puede causar una respuesta inadecuada del sistema coagulativo, lo que lleva a la formación de coágulos.\n\n#### **🔴 Opción A (Incorrecta):** Hipopotasemia extrema.\n\nLa hipopotasemia extrema es un efecto adverso grave del tratamiento con otros medicamentos, como los diuréticos, pero no es un efecto común del tratamiento con heparina. La heparina no es conocida por causar hipopotasemia.\n\n#### **🔴 Opción B (Incorrecta):** Trastornos gastrointestinales con diarrea abundante y deshidratación.\n\nLos trastornos gastrointestinales pueden ser un efecto adverso de muchos medicamentos, pero no son un efecto común del tratamiento con heparina. La heparina se administra en forma parenteral, lo que reduces la probabilidad de trastornos gastrointestinales.\n\n#### **🔴 Opción C (Incorrecta):** Alcalosis metabólica por toxicidad tubular renal.\n\nLa alcalosis metabólica es un efecto adverso grave del tratamiento con algunos medicamentos, como los aminoglicósidos, pero no es un efecto común del tratamiento con heparina. La heparina no es conocida por causar alcalosis metabólica.\n\n### Perla MIR:\n\n La heparina es un medicamento anticoagulante que puede causar trombopenia grave y formación de coágulos sanguíneos en los vasos sanguíneos. Es importante ser consciente de estos efectos adversos graves en pacientes que reciben tratamiento con heparina."
   },
   {
     "id": "q-160",
     "localNumber": 160,
     "category": "General",
-    "stem": "Mujer de 35 años, que toma anticonceptivos, acude a urgencias con síndrome febril y pares- tesias en hemicuerpo izquierdo. En la analítica d e s a n g r e s e o b s e r v a H b 7 , 5 g / d l , p l a q u e t a s 7.000/microl, leucocitos normales con recuento diferencial normal, LDH 1 .200 UI/l, reticuloci- t o s 1 0 % ( n o r m a l 0 , 5 - 2 % ) , h a p t o g l o b i n a e n suero indetectable, test de Coombs directo ne- gativo y frotis de sangre periférica con esquisto- citos. Coagulación (tiempo de protrombina y APTT) normal. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "stem": "Mujer de 35 años que toma anticonceptivos acude a urgencias con síndrome febril y parestesias en hemicuerpo izquierdo. En la analítica de sangre se observa HB 7,5 g/dl, plaquetas 7.000/microl, leucocitos normales con recuento diferencial normal, LDH 1.200 UI/l, reticulocitos 10% (normal 0,5-2%), haptoglobina en suero indetectable, test de Coombs directo negativo y frotis de sangre periférica con esquistocitos. Coagulación (tiempo de protrombina y APTT) normal.",
     "options": [
       "Anemia hemolítica autoinmune.",
       "Púrpura trombótica trombocitopénica.",
@@ -2223,13 +2223,13 @@
       "Trombocitopenia inmune idiopática."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 160 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La paciente presenta un síndrome febril con parestesias en hemicuerpo izquierdo y alteraciones en la analítica de sangre, como HB 7,5 g/dl, LDH elevado y reticulocitos 10%. Estos signos sugieren una anemia hemolítica. La presencia de plaquetas normales y coagulación normal descarta la trombocitopenia. Además, el test de Coombs directo es negativo, lo que hace que la anemia hemolítica autoinmune sea una opción menos probable. Sin embargo, la combinación de parestesias, anemia hemolítica y plaquetas normales hace que la **Púrpura trombótica trombocitopénica** sea el diagnóstico más probable. Esta condición se caracteriza por una trombocitopenia con plaquetas anormales, anemia hemolítica y parestesias, que pueden ser causadas por una respuesta inmune a plaquetas anormales o alteraciones en la función plaquetaria.\n\n- **🔴 Opción A (Incorrecta):** La anemia hemolítica autoinmune se caracteriza por la presencia de anticuerpos contra la hemoglobina o la membrana eritrocítica. El test de Coombs directo es negativo, lo que hace que esta opción sea menos probable.\n\n- **🔴 Opción C (Incorrecta):** El síndrome de Evans se caracteriza por la combinación de anemia hemolítica y trombocitopenia inmunes. La paciente presenta plaquetas normales, lo que hace que esta opción sea menos probable.\n\n- **🔴 Opción D (Incorrecta):** La trombocitopenia inmune idiopática se caracteriza por una trombocitopenia sin anemia hemolítica ni plaquetas anormales. La paciente presenta anemia hemolítica y plaquetas normales, lo que hace que esta opción sea menos probable.\n\nLa perla MIR: 'Púrpura trombótica trombocitopénica: trombocitopenia con plaquetas anormales, anemia hemolítica y parestesias'."
   },
   {
     "id": "q-161",
     "localNumber": 161,
     "category": "General",
-    "stem": "En el diagnóstico de un proceso linfoproliferati- vo es fundamental el estudio molecular y del inmunofenotipo. La detección de la transloca- ción 11:14 con afectación de la ciclina D1 es característica de un:",
+    "stem": "En el diagnóstico de un proceso linfoproliferativo es fundamental el estudio molecular y del inmunofenotipo. La detección de la translocación 11:14 con afectación de la ciclina D1 es característica de un:",
     "options": [
       "Linfoma folicular.",
       "Linfoma de la zona marginal.",
@@ -2237,21 +2237,21 @@
       "Linfoma del manto."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 161 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La translocación 11:14 con afectación de la ciclina D1 es característica del linfoma de Burkitt, que es un tipo de linfoma agresivo y rápido en su progresión. Esta translocación se debe a la fusión del gen MYC con el gen IG (inmunoglobulina) y es un evento genético importante en la patogénesis de este linfoma. El linfoma de Burkitt se clasifica como un linfoma del manto (DLBCL) debido a su origen en las células del manto del folículo linfático. Por lo tanto, la opción D es la correcta en este contexto.\n\n- **🔴 Opción A (Incorrecta):** El linfoma folicular es un tipo de linfoma que se caracteriza por su origen en las células del folículo linfático. No está asociado con la translocación 11:14 ni con la afectación de la ciclina D1. Por lo tanto, la opción A no es la adecuada en este caso.\n\n- **🔴 Opción B (Incorrecta):** El linfoma de la zona marginal es un tipo de linfoma que se caracteriza por su origen en las células de la zona marginal del linfónodo. No está asociado con la translocación 11:14 ni con la afectación de la ciclina D1. Por lo tanto, la opción B no es la adecuada en este caso.\n\n- **🔴 Opción C (Incorrecta):** El linfoma linfoblástico es un tipo de linfoma que se caracteriza por su origen en las células linfoblásticas. No está asociado con la translocación 11:14 ni con la afectación de la ciclina D1. Por lo tanto, la opción C no es la adecuada en este caso.\n\nLa perla MIR es: La detección de la translocación 11:14 con afectación de la ciclina D1 es característica del linfoma de Burkitt, un tipo de linfoma agresivo y rápido en su progresión."
   },
   {
     "id": "q-162",
     "localNumber": 162,
     "category": "General",
-    "stem": "¿Cuál de las siguientes escalas o instrumentos utilizados para valorar la condición de fragili- dad en un paciente mayor se basa en el juicio clínico del observador y es, por tanto, la más subjetiva?:",
+    "stem": "¿Cuál de las siguientes escalas o instrumentos utilizados para valorar la condición de fragilidad en un paciente mayor se basa en el juicio clínico del observador y es, por tanto, la más subjetiva?",
     "options": [
-      "El fenotipo de Fried.",
-      "La escala clínica de fragilidad (Clinical Frai- lty Scale).",
-      "SPPB (Short Physical Performance Battery).",
-      "Timed Up & Go."
+      "El fenotipo de Fried",
+      "La escala clínica de fragilidad (Clinical Frailty Scale)",
+      "SPPB (Short Physical Performance Battery)",
+      "Timed Up & Go"
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 162 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La escala clínica de fragilidad (Clinical Frailty Scale) es una herramienta utilizada para valorar la fragilidad en pacientes mayores. Se basa en el juicio clínico del observador, lo que la hace más subjetiva. Esta escala considera factores como la capacidad funcional, la presencia de enfermedades crónicas y la capacidad de realizar actividades diarias. El evaluador debe utilizar su juicio clínico para determinar el grado de fragilidad del paciente en una escala de 1 a 9. Por lo tanto, esta opción es la correcta porque se basa en el juicio clínico del observador y es más subjetiva que las otras opciones.\n\n- **🔴 Opción A (Incorrecta):** El fenotipo de Fried se refiere a la caracterización de un paciente según su condición de fragilidad. No es una escala o instrumento utilizada para valorar la fragilidad, sino más bien una descripción de los factores que contribuyen a la fragilidad. Por lo tanto, esta opción no es la adecuada en este caso.\n\n- **🔴 Opción C (Incorrecta):** El SPPB (Short Physical Performance Battery) es una herramienta utilizada para evaluar la capacidad funcional de un paciente. Se basa en la realización de tres pruebas físicas: caminar a paso rápido, subir y bajar escaleras y sentarse y levantarse de una silla. Esta herramienta es más objetiva que la escala clínica de fragilidad, ya que se basa en resultados medibles y no en el juicio clínico del observador.\n\n- **🔴 Opción D (Incorrecta):** El Timed Up & Go es una prueba utilizada para evaluar la capacidad funcional de un paciente. Se basa en la capacidad del paciente para levantarse de una silla, caminar un cierto distancia y regresar a la silla. Esta prueba es más objetiva que la escala clínica de fragilidad, ya que se basa en resultados medibles y no en el juicio clínico del observador.\n\nLa perla MIR es que la fragilidad en pacientes mayores se puede valorar de manera subjetiva a través de la escala clínica de fragilidad, lo que requiere un juicio clínico sólido del evaluador."
   },
   {
     "id": "q-163",
