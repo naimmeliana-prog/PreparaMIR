@@ -2047,7 +2047,7 @@
     "id": "q-148",
     "localNumber": 148,
     "category": "Nefrología",
-    "stem": "Paciente de 48 años remitido a consulta de ne- frología por un filtrado glomerular estimado (FGe) de 32 ml/min/1,72 m2. ¿Cuál de los si- g u i e n t e s d a t o s N O o r i e n t a r í a a p e n s a r e n u n a enfermedad renal crónica?:",
+    "stem": "Paciente de 48 años remitido a consulta de nefrología por un filtrado glomerular estimado (FGe) de 32 ml/min/1,72 m2. ¿Cuál de los siguientes datos NO orientaría a pensar en una enfermedad renal crónica?",
     "options": [
       "Riñones de pequeño tamaño.",
       "Antecedentes familiares de nefropatía.",
@@ -2055,27 +2055,27 @@
       "Buena diferenciación ecográfica de corteza y médula renales."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 148 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La buena diferenciación ecográfica de corteza y médula renales indica una arquitectura renal preservada, típica de riñones normales; en la enfermedad renal crónica se pierde esta diferenciación por fibrosis y ecogenicidad aumentada, por lo que este dato no orienta a CKD.\\n- **🔴 Opción A (Incorrecta):** Riñones de pequeño tamaño son un hallazgo ecográfico característico de la enfermedad renal crónica avanzada, por lo que sí orienta a su presencia.\\n- **🔴 Opción B (Incorrecta):** Los antecedentes familiares de nefropatía sugieren una posible etiología hereditaria o congénita de la enfermedad renal, orientando hacia una patología crónica.\\n- **🔴 Opción C (Incorrecta):** Los niveles elevados de fósforo en sangre (hiperfosfatemia) son consecuencia de la disminución de la excreción renal en la insuficiencia renal crónica, así que también orienta a enfermedad renal crónica.\\n\\nPerla MIR: En ecografía renal, la pérdida de la diferenciación corteza-médula y el riñón pequeño son signos de chronicidad; su presencia descarta la normalidad."
   },
   {
     "id": "q-149",
     "localNumber": 149,
     "category": "Nefrología",
-    "stem": "Mujer de 67 años con enfermedad renal crónica secundaria a nefropatía diabética. En la actua- lidad presenta una creatinina de 3,2 mg/dl con filtrado glomerular es timado (CKD-EPI) 14 ml/min. ¿Cuál de las siguientes afirmaciones es cierta?:",
+    "stem": "Mujer de 67 años con enfermedad renal crónica secundaria a nefropatía diabética. En la actualidad presenta una creatinina de 3,2 mg/dl con filtrado glomerular estimado (CKD-EPI) 14 ml/min. ¿Cuál de las siguientes afirmaciones es cierta?",
     "options": [
-      "Presenta una enfermedad renal crónica esta- dio 3 y debe iniciar quelantes del fósforo.",
-      "Presenta una enfermedad renal crónica esta- dio 5 y debe considerarse el tratamiento renal sustitutivo.",
+      "Presenta una enfermedad renal crónica estadio 3 y debe iniciar quelantes del fósforo.",
+      "Presenta una enfermedad renal crónica estadio 5 y debe considerarse el tratamiento renal sustitutivo.",
       "Un buen control glucémico puede revertir la insuficiencia renal.",
-      "Es poco probable que presente una proteinu- ria superior a 500 mg/24h. - 22 -"
+      "Es poco probable que presente una proteinuria superior a 500 mg/24h."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 149 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La paciente se encuentra en estadio 5 de la enfermedad renal crónica (ERCr) según la clasificación de la Sociedad Europea de Nefrología (ESRD). Esto se debe a que su filtrado glomerular estimado (CKD-EPI) es de 14 ml/min, lo que indica una disminución significativa de la función renal. En este estadio, la paciente debe considerarse para el tratamiento renal sustitutivo, ya que la enfermedad renal crónica en estadio 5 a menudo requiere la realización de diálisis o trasplante de riñón.\n\n- **🔴 Opción A (Incorrecta):** La paciente no se encuentra en estadio 3 de la ERCr, ya que su CKD-EPI es de 14 ml/min, lo que es más bajo que el umbral de 60 ml/min para el estadio 3. Además, la iniciación de quelantes del fósforo no es la medida más adecuada en esta etapa de la enfermedad.\n\n- **🔴 Opción C (Incorrecta):** Un buen control glucémico puede mejorar la función renal en la nefropatía diabética, pero no puede revertir la insuficiencia renal en una paciente que ya se encuentra en estadio 5 de la ERCr. La insuficiencia renal en este estadio es una condición irreversible que requiere tratamiento renal sustitutivo.\n\n- **🔴 Opción D (Incorrecta):** Es probable que la paciente presente una proteinuria superior a 500 mg/24h, ya que la nefropatía diabética a menudo se asocia con proteinuria significativa. La proteinuria es un marcador importante de la enfermedad renal crónica y puede ser utilizado para monitorizar la progresión de la enfermedad.\n\n- **Perla MIR:** En el estadio 5 de la enfermedad renal crónica, la progresión de la enfermedad es inevitable y el tratamiento renal sustitutivo es la única opción para evitar la muerte por insuficiencia renal. Es importante reconocer los signos de progresión de la enfermedad y referir a los pacientes a servicios de nefrología para una valoración y tratamiento adecuados."
   },
   {
     "id": "q-150",
     "localNumber": 150,
     "category": "Nefrología",
-    "stem": "Mujer de 47 años que consulta por síndrome miccional. Se le diagnostica de infección urina- ria no complicada y se le trata con ciprofloxa- cino durante 5 días. A la semana vuelve a con- sultar por mal estado general, artralgias y apa- rición de un rash cutáneo. En la analítica desta- ca un filtrado glomerular de 45 ml/min (CKD- EPI), siendo el de hace 6 meses de 100 ml/min. En el sedimento se identifican leucocitos, siendo negativo para nitritos. ¿De las siguientes, cuál es la causa más probable de su insuficiencia renal?:",
+    "stem": "Mujer de 47 años que consulta por síndrome miccional. Se le diagnostica infección urinaria no complicada y se le trata con ciprofloxacino durante 5 días. A la semana vuelve a consultar por mal estado general, artralgias y aparición de un rash cutáneo. En la analítica destaca un filtrado glomerular de 45 ml/min (CKD-EPI), siendo el de hace 6 meses de 100 ml/min. En el sedimento se identifican leucocitos, siendo negativo para nitritos.",
     "options": [
       "Glomerulonefritis postinfecciosa.",
       "Nefrotoxicidad por ciprofloxacino.",
@@ -2083,13 +2083,13 @@
       "Nefritis intersticial aguda."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 150 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La nefrotoxicidad por ciprofloxacino es la causa más probable de la insuficiencia renal en este paciente. La razón es que el ciprofloxacino, un antibiótico de la clase de las fluoroquinolonas, puede causar nefrotoxicidad en ciertos pacientes, especialmente aquellos con condiciones preexistentes de enfermedad renal. En este caso, el paciente tiene una disminución significativa en la función renal después de recibir el ciprofloxacino, lo que sugiere que el medicamento es la causa subyacente de la insuficiencia renal.\n\n- **🔴 Opción A (Incorrecta):** La glomerulonefritis postinfecciosa es una causa de insuficiencia renal que suele estar asociada con una infección anterior, como una neumonía o una infección urinaria. Sin embargo, en este caso, el paciente ya había sido tratado con ciprofloxacino para la infección urinaria y no hay indicio de una infección reciente.\n\n- **🔴 Opción B (Incorrecta):** La pielonefritis aguda es una infección del riñón que puede causar insuficiencia renal. Sin embargo, en este caso, el sedimento urinario es negativo para nitritos, lo que sugiere que la pielonefritis es poco probable.\n\n- **🔴 Opción C (Incorrecta):** La nefritis intersticial aguda es una causa de insuficiencia renal que suele estar asociada con la exposición a ciertos medicamentos, como los antiinflamatorios no esteroides. Sin embargo, en este caso, el paciente recientemente ha sido tratado con ciprofloxacino, que es más probable que cause nefrotoxicidad que nefritis intersticial aguda.\n\n*Perla MIR:* La nefrotoxicidad por antibióticos es una causa importante de insuficiencia renal en pacientes que han recibido estos medicamentos. Es importante considerar esta posibilidad en pacientes con síntomas de insuficiencia renal después de recibir tratamiento con antibióticos."
   },
   {
     "id": "q-151",
     "localNumber": 151,
     "category": "Aparato digestivo",
-    "stem": "Varón de 22 años que acude a urgencias por presentar orina \"casi negra\" desde hace 12 horas. No tiene antecedentes de interés ni toma medicamentos. Refiere un cuadro catarral de vías altas desde hace 4-5 días para el que ha tomado paracetamol. Exploración: temperatura 37,3 ºC, PA 150/95, FC 8 5 lpm, ligero eritema faríngeo, resto normal. En analítica destaca: Hb 12,8 g/dl, Hcto 39 %, leucocitos 10.500 /mm3 con fórmula normal, plaquetas 250.000 /mm3, coagulación normal, urea 25 mg/dl, creatinina 0,8 mg/dl, iones, perfil hepático, lipídico, albú- mina y proteínas totales normales. Estudio de autoinmunidad normal y serología vírica nega- tiva. Orina de 24 h con proteinuria de 0,75 g/24h, sedimento con 10 eritrocitos por campo (90 % dismórficos), no l eucocituria. Ecografía renal normal. ¿Qué diagnóstico le parece más probable?:",
+    "stem": "Varón de 22 años que acude a urgencias por presentar orina casi negra desde hace 12 horas. No tiene antecedentes de interés ni toma medicamentos. Refiere un cuadro catarral de vías altas desde hace 4-5 días para el que ha tomado paracetamol. Exploración: temperatura 37,3 ºC, PA 150/95, FC 85 lpm, ligero eritema faríngeo, resto normal. En analítica destaca: Hb 12,8 g/dl, Hcto 39 %, leucocitos 10.500 /mm3 con fórmula normal, plaquetas 250.000 /mm3, coagulación normal, urea 25 mg/dl, creatinina 0,8 mg/dl, iones, perfil hepático, lipídico, albúmina y proteínas totales normales. Estudio de autoinmunidad normal y serología vírica negativa. Orina de 24 h con proteinuria de 0,75 g/24h, sedimento con 10 eritrocitos por campo (90 % dismórficos), no leucocituria. Ecografía renal normal. ¿Qué diagnóstico le parece más probable?",
     "options": [
       "Nefropatía por cambios mínimos.",
       "Glomerulonefritis post-infecciosa.",
@@ -2097,13 +2097,13 @@
       "Nefritis intersticial aguda."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 151 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La nefropatía IgA es una causa común de hematuria microscópica y, ocasionalmente, macroscópica, especialmente en jóvenes. La presentación con orina 'casi negra' debido a la hematuria y la presencia de eritrocitos dismórficos en el sedimento urinario apoyan este diagnóstico. La enfermedad suele seguir a una infección de vías respiratorias altas, lo cual es consistente con el cuadro catarral del paciente.\n   - **🔴 Opción A (Incorrecta):** La nefropatía por cambios mínimos se caracteriza por proteinuria masiva y pérdida de albúmina, lo que no se observa en este caso, ya que la proteinuria es moderada y no hay alteraciones en los niveles de albúmina.\n   - **🔴 Opción B (Incorrecta):** La glomerulonefritis post-infecciosa típicamente se desarrolla después de una infección estreptocócica, y aunque el paciente tiene un cuadro catarral, no hay evidencia específica de infección estreptocócica, y los resultados de la serología vírica y el estudio de autoinmunidad son negativos.\n   - **🔴 Opción D (Incorrecta):** La nefritis intersticial aguda puede presentarse con dolor abdominal, fiebre y elevación de los niveles de creatinina, lo que no se observa en este caso, donde la creatinina es normal y no se mencionan síntomas como el dolor abdominal.\n   La nefropatía IgA es una entidad clínica importante a considerar en pacientes jóvenes con hematuria, especialmente si sigue a una infección de vías respiratorias altas, y debe ser incluida en el diagnóstico diferencial de pacientes con orina 'casi negra' y eritrocitos dismórficos en el sedimento urinario."
   },
   {
     "id": "q-152",
     "localNumber": 152,
     "category": "Neurología",
-    "stem": "Varón de 24 años que presenta microhematuria dismórfica, proteinuria de 3 g/24 h, FGe (CKD- EPI) 85 ml/min e hipoacusia neurosensorial. Refiere que su abuela materna precisó diálisis a los 70 años y tanto su madre como su hermana pequeña presentan microhematuria aislada. ¿Cuál de las siguientes enfermedades es más probable?:",
+    "stem": "Varón de 24 años que presenta microhematuria dismórfica, proteinuria de 3 g/24 h, FGe (CKD-EPI) 85 ml/min e hipoacusia neurosensorial. Refiere que su abuela materna precisó diálisis a los 70 años y tanto su madre como su hermana pequeña presentan microhematuria aislada.",
     "options": [
       "Síndrome de Alport.",
       "Nefropatía IgA.",
@@ -2111,7 +2111,7 @@
       "Poliquistosis renal autosómica dominante."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 152 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta planteada describe un paciente con microhematuria dismórfica, proteinuria moderada, disminución de la función renal y hipoacusia neurosensorial, así como antecedentes familiares de enfermedades renales. Analicemos cada opción:\n\n- **🟢 Opción A (Correcta):** El Síndrome de Alport es una enfermedad genética que afecta principalmente a la audición y puede asociarse con enfermedades renales progresivas. La presencia de hipoacusia neurosensorial en el paciente, así como la afectación renal y los antecedentes familiares de enfermedades renales, hacen que esta opción sea la más probable. Además, la enfermedad de Alport puede presentarse con microhematuria dismórfica y proteinuria, lo que coincide con los síntomas del paciente.\n\n- **🔴 Opción B (Incorrecta):** La Nefropatía IgA es una enfermedad renal que se caracteriza por la presencia de depósitos de IgA en los riñones. Si bien puede presentarse con microhematuria dismórfica y proteinuria, no está directamente relacionada con la hipoacusia neurosensorial ni con los antecedentes familiares de enfermedades renales descritos en el paciente.\n\n- **🔴 Opción C (Incorrecta):** La Enfermedad de Fabry es una condición genética que afecta la producción de una enzima llamada alfa-Gal A, lo que puede causar problemas renales, cardíacos y neurológicos. Sin embargo, no está directamente relacionada con la hipoacusia neurosensorial ni con los antecedentes familiares de enfermedades renales descritos en el paciente.\n\n- **🔴 Opción D (Incorrecta):** La Poliquistosis renal autosómica dominante es una enfermedad genética que causa la formación de quistes en los riñones. Si bien puede presentarse con microhematuria dismórfica y proteinuria, no está directamente relacionada con la hipoacusia neurosensorial ni con los antecedentes familiares de enfermedades renales descritos en el paciente.\n\nLa perla MIR es la siguiente: 'Un paciente con microhematuria dismórfica, proteinuria, hipoacusia neurosensorial y antecedentes familiares de enfermedades renales es más probable que tenga Síndrome de Alport'."
   },
   {
     "id": "q-153",
