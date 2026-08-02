@@ -647,49 +647,49 @@
     "id": "q-48",
     "localNumber": 48,
     "category": "General",
-    "stem": "Para conocer si el uso habitual de ácido acetil salicílico (AAS) se asocia a un mayor riesgo de hipertensión se selecciona un grupo de sujetos, se averigua cuántos están tomando AAS y se les sigue durante 5 años para identificar los casos nuevos de hipertensión. ¿Cuál es el diseño de este estudio?:",
+    "stem": "Para conocer si el uso habitual de ácido acetilsalicílico (AAS) se asocia a un mayor riesgo de hipertensión se selecciona un grupo de sujetos, se averigua cuántos están tomando AAS y se les sigue durante 5 años para identificar los casos nuevos de hipertensión.",
     "options": [
       "Es un ensayo clínico, porque se realiza con fármacos.",
       "Es un estudio ecológico, porque se sigue a muchos sujetos.",
       "Es un estudio de casos y controles, en el que los casos toman AAS y los controles no.",
-      "Es un estudio de cohortes, porque se sigue a sujetos clasificados se gún su exposición para identificar el riesgo de una enfermedad."
+      "Es un estudio de cohortes, porque se sigue a sujetos clasificados según su exposición para identificar el riesgo de una enfermedad."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 48 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Este estudio se llama de cohortes porque se sigue a un grupo de sujetos que comparten una característica común (en este caso, el uso habitual de AAS) durante un período de tiempo determinado (5 años) para identificar los casos nuevos de hipertensión. De esta manera, se puede determinar el riesgo de desarrollar hipertensión en función del uso de AAS.\n- **🔴 Opción A (Incorrecta):** Un ensayo clínico es un tipo de estudio que evalúa la efectividad y la seguridad de un fármaco o tratamiento en comparación con otro. En este caso, no se está comparando AAS con otro fármaco, sino que se está evaluando su asociación con la hipertensión.\n- **🔴 Opción B (Incorrecta):** Un estudio ecológico es un tipo de estudio que analiza la relación entre una variable independiente (en este caso, el uso de AAS) y una variable dependiente (la hipertensión) en una población grande, pero no se sigue a los sujetos individuales. En este caso, se está siguiendo a los sujetos individuales durante 5 años.\n- **🔴 Opción C (Incorrecta):** Un estudio de casos y controles es un tipo de estudio que compara los casos de una enfermedad con controles saludables para identificar factores de riesgo. En este caso, no se está comparando casos y controles, sino que se está siguiendo a un grupo de sujetos que toman AAS.\n- **Perla MIR:** 'Cohorte' es un término que se refiere a un grupo de sujetos que comparten una característica común y se siguen durante un período de tiempo para identificar riesgos o resultados. Recuerda que la cohorte es un tipo de estudio que se utiliza para determinar la asociación entre una exposición y un resultado."
   },
   {
     "id": "q-49",
     "localNumber": 49,
     "category": "General",
-    "stem": "¿Cuál es la mejor forma de medir la carga glo- bal de enfermedad en una población?:",
+    "stem": "¿Cuál es la mejor forma de medir la carga global de enfermedad en una población?",
     "options": [
       "Los años vividos con discapacidad.",
-      "Los años de vida perdidos por muerte prema- tura.",
+      "Los años de vida perdidos por muerte prematura.",
       "La mortalidad general y por las principales enfermedades.",
       "Los años de vida ajustados por discapacidad."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 49 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La mejor forma de medir la carga global de enfermedad en una población es a través de los años de vida ajustados por discapacidad (AVAD). Este indicador tiene en cuenta no solo la mortalidad, sino también la discapacidad crónica, lo que permite una evaluación más completa de la carga de enfermedad en una población.\n\n- **🔴 Opción A (Incorrecta):** Los años vividos con discapacidad son un indicador importante, pero no son la mejor forma de medir la carga global de enfermedad. Esto es porque no considera la gravedad de la discapacidad ni la mortalidad asociada.\n\n- **🔴 Opción B (Incorrecta):** Los años de vida perdidos por muerte prematura son un indicador que mide la mortalidad prematura, pero no tiene en cuenta la discapacidad crónica ni la carga de enfermedad que puede generar.\n\n- **🔴 Opción C (Incorrecta):** La mortalidad general y por las principales enfermedades es un indicador importante, pero no proporciona información sobre la discapacidad crónica ni la carga de enfermedad en una población.\n\n**Perla MIR:** La carga global de enfermedad se mide mejor a través de los años de vida ajustados por discapacidad (AVAD), que consideran tanto la mortalidad como la discapacidad crónica."
   },
   {
     "id": "q-50",
     "localNumber": 50,
     "category": "Cardiología",
-    "stem": "Varón de 58 años que acude a control progra- mado de una diabetes mellitus tipo 2 diagnosti- cada hace 6 años. Tiene antecedentes personales de HTA, dislipidemia, cardiopatía isquémica y pancreatitis de origen biliar. Su medicación incluye lisinopril, metoprolol, metformina, AAS y atorvastatina. En la exploración física presen- ta tensión arterial 151/93 mmHg, IMC 27,1 kg/m2. La hemoglobina glicada es de 8,3 %. ¿Cuál de los siguientes es el tratamiento más adecuado para este paciente?:",
+    "stem": "Varón de 58 años que acude a control programado de una diabetes mellitus tipo 2 diagnosticada hace 6 años. Tiene antecedentes personales de hipertensión arterial, dislipidemia, cardiopatía isquémica y pancreatitis de origen biliar. Su medicación incluye lisinopril, metoprolol, metformina, ácido acetilsalicílico y atorvastatina. En la exploración física presenta tensión arterial 151/93 mmHg, índice de masa corporal 27,1 kg/m2. La hemoglobina glucada es de 8,3 %. ¿Cuál de los siguientes es el tratamiento más adecuado para este paciente?",
     "options": [
-      "Empaglifozina.",
-      "Glipizida.",
-      "Acarbosa.",
-      "Sitagliptina."
+      "Empagliflozina",
+      "Glipizida",
+      "Acarbosa",
+      "Sitagliptina"
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 50 del examen MIR de la convocatoria FSE."
+    "explanation": "\n   - **🟢 Opción A (Correcta):** La empagliflozina es un inhibidor del cotransportador de sodio-glucosa tipo 2 (SGLT2), que ha demostrado beneficios en la reducción de la hemoglobina glucada, la presión arterial y el peso corporal, además de tener efectos cardiovasculares y renales protectores. En este paciente con diabetes tipo 2, hipertensión arterial, dislipidemia, cardiopatía isquémica y con un control glucémico subóptimo (HbA1c de 8,3%), la empagliflozina ofrece un perfil de beneficios que se alinea con sus necesidades clínicas específicas.\n   - **🔴 Opción B (Incorrecta):** La glipizida es una sulfonilurea que estimula la secreción de insulina, lo que puede aumentar el riesgo de hipoglucemia y peso corporal, aspectos que no son ideales en este paciente con sobrepeso e índice de masa corporal elevado.\n   - **🔴 Opción C (Incorrecta):** La acarbosa es un inhibidor de la alfa-glucosidasa que retrasa la absorción de carbohidratos, pero tiene un efecto moderado en la reducción de la hemoglobina glucada y puede estar asociada con efectos gastrointestinales, lo que la hace menos atractiva en comparación con otras opciones.\n   - **🔴 Opción D (Incorrecta):** La sitagliptina es un inhibidor de la dipeptidil peptidasa-4 (DPP-4) que mejora el control glucémico con un bajo riesgo de hipoglucemia, pero en este paciente, la elección de la empagliflozina ofrece beneficios adicionales en términos de reducción de peso y efectos cardiovasculares protectores.\n\n   La elección del tratamiento para la diabetes tipo 2 debe considerar no solo el control glucémico, sino también los beneficios y riesgos cardiovasculares, el efecto sobre el peso corporal y la presencia de comorbilidades. La empagliflozina, al ofrecer beneficios en varias de estas áreas, se convierte en una opción atractiva para pacientes con perfiles clínicos complejos como el descrito."
   },
   {
     "id": "q-51",
     "localNumber": 51,
     "category": "General",
-    "stem": "Mujer de 55 años con diabetes tipo 1 diagnosti- cada a los 15 años que refiere náuseas y disten- sión abdominal, especialmente después de las comidas. La evaluación e s compatible con una gastroparesia diabética. ¿Cuál de los siguientes medicamentos sería el tratamiento más adecua- do para mejorar sus síntomas?:",
+    "stem": "Mujer de 55 años con diabetes tipo 1 diagnosticada a los 15 años que refiere náuseas y distensión abdominal, especialmente después de las comidas. La evaluación es compatible con una gastroparesia diabética. ¿Cuál de los siguientes medicamentos sería el tratamiento más adecuado para mejorar sus síntomas?",
     "options": [
       "Lansoprazol.",
       "Ondansetrón.",
@@ -697,13 +697,13 @@
       "Metoclopramida."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 51 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La metoclopramida es un antipéptico que estimula la motilidad gástrica y reduce la frecuencia y la gravedad de los episodios de náuseas y vómitos. Es particularmente útil en el tratamiento de la gastroparesia diabética, ya que ayuda a mejorar la emptying gástrica y reduce los síntomas asociados. La metoclopramida es una opción terapéutica efectiva para mejorar los síntomas de la gastroparesia diabética en pacientes como la mujer descrita en el escenario del examen MIR.\n\n- **🔴 Opción A (Incorrecta):** El lansoprazol es un inhibidor de la bomba de protones que se utiliza para tratar la enfermedad por reflujo gastroesofágico (GERD) y úlceras pépticas. Aunque puede ayudar a reducir la acidez estomacal, no tiene efecto sobre la motilidad gástrica ni sobre la gastroparesia diabética, por lo que no es la opción adecuada para mejorar los síntomas de esta paciente.\n\n- **🔴 Opción B (Incorrecta):** El ondansetrón es un antiemético que se utiliza para tratar la náusea y el vómito asociados con la quimioterapia y la radioterapia. Aunque puede ser útil en ciertos casos de náusea y vómito, no tiene efecto sobre la motilidad gástrica ni sobre la gastroparesia diabética, por lo que no es la opción adecuada para mejorar los síntomas de esta paciente.\n\n- **🔴 Opción C (Incorrecta):** La loperamida es un antipéptico que se utiliza para tratar la diarrea y la constipación. Aunque puede ayudar a mejorar la función intestinal, no tiene efecto sobre la motilidad gástrica ni sobre la gastroparesia diabética, por lo que no es la opción adecuada para mejorar los síntomas de esta paciente.\n\nLa gastroparesia diabética es un trastorno del vaciamiento gástrico que se caracteriza por una demora en la emptying del contenido gástrico en el intestino delgado. Es un problema común en pacientes con diabetes tipo 1 y puede causar síntomas como náuseas, vómitos, distensión abdominal y pérdida de peso. El tratamiento de la gastroparesia diabética se centra en mejorar la función gástrica y reducir los síntomas asociados. La metoclopramida es un medicamento que se utiliza para tratar la gastroparesia diabética y puede ser especialmente útil en pacientes como la mujer descrita en el escenario del examen MIR. **La perla MIR es: La metoclopramida es un antipéptico que estimula la motilidad gástrica y reduce la frecuencia y la gravedad de los episodios de náuseas y vómitos.**"
   },
   {
     "id": "q-52",
     "localNumber": 52,
     "category": "General",
-    "stem": "Mujer de 35 años diagnosticada de esquizofre- nia refractaria que ha iniciado tratamiento con clozapina. ¿Qué valor de laboratorio se debería monitorizar de forma periódica?:",
+    "stem": "Mujer de 35 años diagnosticada de esquizofrenia refractaria que ha iniciado tratamiento con clozapina. ¿Qué valor de laboratorio se debería monitorizar de forma periódica?",
     "options": [
       "El aclaramiento de creatinina.",
       "El recuento sanguíneo de leucocitos.",
@@ -711,7 +711,7 @@
       "El nivel sérico de transaminasas."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 52 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La clozapina es un antipsicótico que puede causar agranulocitosis, una condición en la que el recuento de leucocitos se reduce. Debido a esto, es fundamental monitorizar periódicamente el recuento sanguíneo de leucocitos en pacientes que reciben este medicamento para detectar cualquier signo de agranulocitosis lo antes posible y realizar ajustes en el tratamiento si es necesario.\n\n- **🔴 Opción A (Incorrecta):** El aclaramiento de creatinina se utiliza para evaluar la función renal, pero no está directamente relacionado con el tratamiento con clozapina. Si bien la clozapina puede causar efectos secundarios en los riñones, el aclaramiento de creatinina no es el valor de laboratorio más importante que se debe monitorizar en este contexto.\n\n- **🔴 Opción C (Incorrecta):** El nivel sérico de colesterol puede estar elevado en pacientes que reciben clozapina, pero no es el valor de laboratorio más crítico que se debe monitorizar en este caso. La vigilancia del colesterol es importante en pacientes que reciben este medicamento, pero no es la opción más adecuada en este escenario.\n\n- **🔴 Opción D (Incorrecta):** El nivel sérico de transaminasas se utiliza para evaluar la función hepática, pero no está directamente relacionado con el tratamiento con clozapina. Si bien la clozapina puede causar efectos secundarios en los riñones, el nivel sérico de transaminasas no es el valor de laboratorio más importante que se debe monitorizar en este contexto.\n\nLa perla MIR: 'Clozapina y leucocitos': recuerda que la clozapina puede causar agranulocitosis, por lo que es fundamental monitorizar periódicamente el recuento de leucocitos en pacientes que reciben este medicamento."
   },
   {
     "id": "q-53",
