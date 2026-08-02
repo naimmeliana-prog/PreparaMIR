@@ -983,21 +983,21 @@
     "id": "q-72",
     "localNumber": 72,
     "category": "General",
-    "stem": "Primigesta de 26 semanas de gestación, con se- guimiento dentro de la normalidad hasta la fe- cha. Acude a su centro de salud con un resultado en el test de O´Sullivan de 175 m g/dL. Ante esta situación, ¿cómo deberíamos proceder?:",
+    "stem": "Primigesta de 26 semanas de gestación, con seguimiento dentro de la normalidad hasta la fecha. Acude a su centro de salud con un resultado en el test de O'Sullivan de 175 mg/dL. Ante esta situación, ¿cómo deberíamos proceder?",
     "options": [
-      "Debe ser informada del riesgo de diabetes ges- tacional con riesgo fetal y remitida al servicio de urgencias hospitalarias.",
+      "Debe ser informada del riesgo de diabetes gestacional con riesgo fetal y remitida al servicio de urgencias hospitalarias.",
       "Se indicará una sobrecarga oral de glucosa de 100 g solamente si tiene factores de riesgo para alteraciones del metabolismo de la glucosa.",
-      "Al ser un valor superior a 165 mg/dL se con- firma el diagnóstico de diabetes gestacional.",
+      "Al ser un valor superior a 165 mg/dL se confirma el diagnóstico de diabetes gestacional.",
       "Debe solicitarse una confirmación diagnóstica de diabetes gestacional mediante la realización de una sobrecarga oral de glucosa de 100 g."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 72 del examen MIR de la convocatoria FSE."
+    "explanation": "El test de O'Sullivan es un método de cribado para detectar la diabetes gestacional. Un resultado de 175 mg/dL es superior a la norma y requiere una confirmación diagnóstica. La opción D es la correcta porque establece la necesidad de una sobrecarga oral de glucosa de 100 g para confirmar el diagnóstico de diabetes gestacional. Esta es la prueba de oro para diagnosticar la diabetes gestacional, ya que es más sensible y específica que el test de O'Sullivan solo. Las opciones A, B y C son incorrectas porque no establecen la necesidad de una confirmación diagnóstica mediante la sobrecarga oral de glucosa de 100 g."
   },
   {
     "id": "q-73",
     "localNumber": 73,
     "category": "Ginecología y Obstetricia",
-    "stem": "Mu jer de 36 años con antecedentes de 2 abortos de primer trimestre y preeclampsia grave que requirió cesárea por pérdida de bienestar fetal a las 33 semanas de gestación. El estudio analítico postparto es normal salvo por la presencia de anticuerpos antifosfolípido I gM e I gG, siendo el resto del estudio de trombofilia normal. La pre- sencia de anticuerpos antifosfolípido fue confir- mada a los 4 meses de la primera analítica. ¿Qué recomendación haríamos a esta paciente en caso de nueva gestación?:",
+    "stem": "Una mujer de 36 años con antecedentes de 2 abortos de primer trimestre y preeclampsia grave que requirió cesárea por pérdida de bienestar fetal a las 33 semanas de gestación. El estudio analítico postparto es normal salvo por la presencia de anticuerpos antifosfolípido IgM e IgG, siendo el resto del estudio de trombofilia normal. La presencia de anticuerpos antifosfolípido fue confirmada a los 4 meses de la primera analítica. ¿Qué recomendación haríamos a esta paciente en caso de nueva gestación?",
     "options": [
       "Aspirina y heparina de bajo peso molecular a dosis profilácticas.",
       "Vitaminas antioxidantes a dosis altas.",
@@ -1005,49 +1005,49 @@
       "Tratamiento según cribado de preeclampsia de primer trimestre con aspirina a dosis bajas si alto riesgo."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 73 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La presencia de anticuerpos antifosfolípido en la paciente es un factor de riesgo para la recurrencia de preeclampsia y abortos. La aspirina y la heparina de bajo peso molecular a dosis profilácticas son un tratamiento recomendado para disminuir el riesgo de recurrencia de preeclampsia y mejorar el resultado gestacional. Esta opción es la correcta porque se ajusta a las recomendaciones clínicas para el manejo de la síndrome antifosfolípida en pacientes con antecedentes de preeclampsia grave y abortos recurrentes.\n\n- **🔴 Opción B (Incorrecta):** Las vitaminas antioxidantes a dosis altas no han demostrado ser efectivas en la prevención de la preeclampsia y los abortos recurrentes. Esta opción no es adecuada en este caso porque no se basa en evidencia clínica sólida.\n\n- **🔴 Opción C (Incorrecta):** El diagnóstico genético preimplantacional es una técnica que se utiliza para identificar defectos genéticos en embriones antes de la implantación en la pared uterina. Sin embargo, esta opción no es relevante en este caso porque la paciente no ha presentado defectos genéticos conocidos y la causa subyacente de sus abortos y preeclampsia es la síndrome antifosfolípida. Esta opción no es adecuada en este caso porque no se ajusta al escenario clínico descrito.\n\n- **🔴 Opción D (Incorrecta):** El cribado de preeclampsia de primer trimestre con aspirina a dosis bajas es una técnica que se utiliza para identificar pacientes con alto riesgo de preeclampsia y prevenir su recurrencia. Sin embargo, esta opción no es adecuada en este caso porque la paciente ya ha presentado preeclampsia grave y abortos recurrentes, lo que la coloca en una categoría de alto riesgo. La aspirina a dosis bajas no es suficiente para prevenir la recurrencia de preeclampsia y abortos en pacientes con síndrome antifosfolípida.\n\nLa perla MIR para memorizar este concepto clave es: 'Aspirina y heparina profilácticas para síndrome antifosfolípida'."
   },
   {
     "id": "q-74",
     "localNumber": 74,
     "category": "Nefrología",
-    "stem": "Mu jer de 54 años nuli gesta que consulta por pérdidas de orina tras la percepción de ur gencia miccional y por sensación de necesidad de orinar en la noche 3-4 veces. En la exploración gineco- lógica se evidencia un cistocele de primer grado y una atrofia vaginal moderada. ¿Cuáles serían las medidas iniciales a realizar?:",
+    "stem": "Una mujer de 54 años sin gestas que consulta por pérdidas de orina tras la percepción de urgencia miccional y por sensación de necesidad de orinar en la noche 3-4 veces. En la exploración ginecológica se evidencia un cistocele de primer grado y una atrofia vaginal moderada. ¿Cuáles serían las medidas iniciales a realizar?",
     "options": [
       "Corrección quirúrgica del cistocele.",
       "Realización de diario miccional y reeducación vesical.",
-      "Indicación de flujometrí a y evaluación de la función uretral.",
+      "Indicación de flujo metría y evaluación de la función uretral.",
       "Prescripción de tratamiento oral con fármacos colinérgicos."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 74 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La opción correcta es la realización de diario miccional y reeducación vesical. Esto se debe a que la paciente presenta síntomas de disfunción miccional, como pérdidas de orina y urgencia nocturna, que pueden ser tratados con medidas no quirúrgicas. El diario miccional y la reeducación vesical ayudan a la paciente a identificar y modificar sus hábitos de orina, lo que puede mejorar su función miccional y reducir sus síntomas.\n\n- **🔴 Opción A (Incorrecta):** La corrección quirúrgica del cistocele es un tratamiento para el cistocele, pero no es la medida inicial adecuada en este caso. El cistocele de primer grado es un hallazgo INCIDENTAL y no está directamente relacionado con los síntomas de disfunción miccional.\n\n- **🔴 Opción C (Incorrecta):** La indicación de flujo metría y evaluación de la función uretral puede ser útil en casos de disfunción uretral, pero no es la medida inicial adecuada en este caso. La paciente no presenta síntomas específicos de disfunción uretral, como dolor al orinar o sangrado.\n\n- **🔴 Opción D (Incorrecta):** La prescripción de tratamiento oral con fármacos colinérgicos puede ser útil en casos de disfunción vesical, pero no es la medida inicial adecuada en este caso. Antes de recurrir a fármacos, se deben intentar medidas no quirúrgicas como el diario miccional y la reeducación vesical.\n\n- **🔵 Perla MIR:** La disfunción vesical debe ser tratada de manera integral, considerando tanto medidas no quirúrgicas como quirúrgicas según sea necesario."
   },
   {
     "id": "q-75",
     "localNumber": 75,
     "category": "General",
-    "stem": "Primi gesta de 29 años sin antecedentes de interés remitida a las 36,5 semanas de gestación por sospecha ecográfica de restricción de crecimien- to. En la consulta presenta tensión arterial 125/75 mmHg y e n l a e c ografía obstétrica se objetiva un peso fetal estimado compatible con un percentil 6 para la edad gestacional y un índi- ce de pulsatilidad Doppler de arteria umbilical por encima del percentil 95. ¿Qué recomenda- ción haría en esta situación?:",
+    "stem": "Una paciente de 29 años sin antecedentes de interés es remitida a las 36,5 semanas de gestación por sospecha ecográfica de restricción de crecimiento. En la consulta presenta tensión arterial 125/75 mmHg y en la ecografía obstétrica se objetiva un peso fetal estimado compatible con un percentil 6 para la edad gestacional y un índice de pulsatilidad Doppler de arteria umbilical por encima del percentil 95. ¿Qué recomendación haría en esta situación?",
     "options": [
-      "Finalización de la gestación de forma inmedia- ta mediante una cesárea.",
+      "Finalización de la gestación de forma inmediata mediante una cesárea.",
       "Controles semanales con monitorización fetal y ecografía obstétrica cada dos semanas hasta el inicio espontáneo del parto.",
       "Controles semanales con monitorización fetal y ecografía obstétrica cada dos semanas hasta las 40 semanas de gestación.",
       "Inducción del parto a partir de las 37 semanas de gestación."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 75 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La finalización de la gestación de forma inmediata mediante una cesárea no es la opción más adecuada en este caso, ya que no se ha establecido un riesgo claro para la salud de la madre o el feto. Además, la ecografía obstétrica no muestra signos de compromiso fetal inminente. La cesárea no es necesaria a menos que se presenten complicaciones graves que requieran una intervención quirúrgica inmediata.\n\n- **🔴 Opción B (Incorrecta):** Los controles semanales con monitorización fetal y ecografía obstétrica cada dos semanas hasta el inicio espontáneo del parto pueden ser una opción en casos de restricción de crecimiento, pero en este caso específico, se sugiere que el feto está creciendo a un ritmo adecuado (percentil 6). Por lo tanto, no es necesario un seguimiento tan estrecho.\n\n- **🔴 Opción C (Incorrecta):** Los controles semanales con monitorización fetal y ecografía obstétrica cada dos semanas hasta las 40 semanas de gestación son demasiado frecuentes y no se justifican en este caso, ya que el feto está creciendo a un ritmo adecuado. Además, la mayoría de los bebés nacen entre las 37 y 42 semanas de gestación.\n\n- **🟢 Opción D (Correcta):** La inducción del parto a partir de las 37 semanas de gestación es la opción más adecuada en este caso, ya que se ha establecido que el feto está creciendo a un ritmo adecuado y no hay signos de compromiso fetal inminente. La inducción del parto a esta edad reduce el riesgo de complicaciones maternas y fetales asociados con la prolongación de la gestación. Además, es una opción que permite una planificación y preparación adecuada para el parto.\n\nLa perla MIR es: \"Si el feto está creciendo a un ritmo adecuado, la mejor opción es la inducción del parto a partir de las 37 semanas de gestación.\""
   },
   {
     "id": "q-76",
     "localNumber": 76,
     "category": "Ginecología y Obstetricia",
-    "stem": "Mu jer de 35 años que consulta por amenorrea de 6 meses de evolución. En la anamnesis le dice que últimamente le cuesta dormir y se despierta por la noche con mucho calor. Menarquia a los 12 años. Tiene 2 hi jas (partos eutócicos) y d e s e o genésico cumplido. Su madre tuvo la menopausia a los 41 años. La analítica de san gre muestra FSH 65,1 U/L (2-13,8), LH 12 U/L (2-13,8), es- tradiol < 0,05 pg/mL (fase folicular: 30-100; fase lútea: 50-150; pico ovulatorio: 100-400). Dos meses más tarde le repite la analítica con valores similares. ¿Cuál es el dia gnóstico de sospecha y la actitud a seguir?:",
+    "stem": "Una mujer de 35 años consulta por amenorrea de 6 meses de evolución. En la anamnesis le dice que últimamente le cuesta dormir y se despierta por la noche con mucho calor. Menarquia a los 12 años. Tiene 2 hijos (partos eutócicos) y descubre genésico cumplido. Su madre tuvo la menopausia a los 41 años. La analítica de sangre muestra FSH 65,1 U/L (2-13,8), LH 12 U/L (2-13,8), estradiol < 0,05 pg/mL (fase folicular: 30-100; fase lútea: 50-150; pico ovulatorio: 100-400). Dos meses más tarde le repite la analítica con valores similares.",
     "options": [
       "Probablemente está menopáusica, pero hasta que no se cumplan los 12 meses de amenorrea no podrá iniciar ningún tratamiento.",
-      "Insuficiencia ovárica prematura. Inicia estudio con cariotipo e indica terapia hormonal sustitu- tiva.",
-      "Insuficiencia ovárica prematura. Le explica que son esenciales los hábitos de vida saluda- bles: no fumar, ejercicio y adecuada ingesta de vitamina D. La terapia hormonal la deja como tratamiento de segunda línea.",
-      "Amenorrea hipotalámica. P r e c i s a e s t u d i o c o n una RM craneal."
+      "Insuficiencia ovárica prematura. Inicia estudio con cariotipo e indica terapia hormonal sustitutiva.",
+      "Insuficiencia ovárica prematura. Le explica que son esenciales los hábitos de vida saludables: no fumar, ejercicio y adecuada ingesta de vitamina D. La terapia hormonal la deja como tratamiento de segunda línea.",
+      "Amenorrea hipotalámica. Precisa estudio con una RM craneal."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 76 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La paciente tiene síntomas de insuficiencia ovárica prematura, como amenorrea y síntomas climatéricos. Los valores de FSH y LH elevados y el estradiol bajo confirman esta sospecha. La insuficiencia ovárica prematura es una condición en la que las ovarios dejan de funcionar prematuramente, lo que puede ocurrir antes de los 40 años. El tratamiento de primera línea es la terapia hormonal sustitutiva para aliviar los síntomas y mejorar la calidad de vida de la paciente. El estudio de cariotipo puede ser útil para identificar posibles causas genéticas de la insuficiencia ovárica prematura. **🔴 Opción A (Incorrecta):** La paciente no está menopáusica, ya que la amenorrea puede deberse a varias causas. La menopausia se diagnostica después de un período de amenorrea de al menos 12 meses. **🔴 Opción C (Incorrecta):** La terapia hormonal sustitutiva es el tratamiento de primera línea para la insuficiencia ovárica prematura, no de segunda línea. **🔴 Opción D (Incorrecta):** La amenorrea hipotalámica puede ser una causa de la amenorrea, pero no se ajusta a los valores de FSH, LH y estradiol de la paciente. Además, no hay síntomas de otros trastornos hipotalámicos."
   },
   {
     "id": "q-77",
