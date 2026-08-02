@@ -353,29 +353,29 @@
     "id": "q-26",
     "localNumber": 26,
     "category": "General",
-    "stem": "¿Cuál de los siguientes estudios de la coagula- ción se encontraría alterado en un paciente en el que se sospecha un trastorno hemorrágico he- reditario por deficiencia del factor VII?:",
+    "stem": "¿Cuál de los siguientes estudios de la coagulación se encontraría alterado en un paciente en el que se sospecha un trastorno hemorrágico hereditario por deficiencia del factor VII?",
     "options": [
-      "Tiempo de tromboplastina parcial activado.",
-      "Tiempo de trombina.",
-      "Tiempo de protrombina.",
-      "Determinación de factor von Willebrand."
+      "Tiempo de tromboplastina parcial activado",
+      "Tiempo de trombina",
+      "Tiempo de protrombina",
+      "Determinación de factor von Willebrand"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 26 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** El tiempo de tromboplastina parcial activado (TPA) es un estudio que mide la actividad de los factores de coagulación que participan en la formación de un coágulo de sangre. La deficiencia del factor VII no afectaría directamente este paraméro, ya que la tromboplastina parcial activada es una enzima que desencadena la cascada de coagulación, pero no depende del factor VII.\n- **🔴 Opción B (Incorrecta):** El tiempo de trombina es un estudio que mide la tiempo que tarda en formarse la trombina en la sangre. La deficiencia del factor VII no afectaría directamente este parámetro, ya que la trombina se forma a partir de la protrombina mediante la acción del factor X, que no está relacionado con el factor VII.\n- **🟢 Opción C (Correcta):** El tiempo de protrombina es un estudio que mide la tiempo que tarda en formarse la protrombina en la sangre, que a su vez se convierte en trombina. La deficiencia del factor VII alteraría este parámetro, ya que el factor VII es esencial para la conversión de la protrombina en trombina.\n- **🔴 Opción D (Incorrecta):** La determinación del factor von Willebrand no está relacionada con la deficiencia del factor VII, ya que el factor von Willebrand es una proteína que participa en la adhesión de plaquetas y en la coagulación de sangre, pero no depende del factor VII.\n- La perla MIR es: La deficiencia del factor VII se diagnostica mediante el tiempo de protrombina, que se encuentra alterado en estos pacientes."
   },
   {
     "id": "q-27",
     "localNumber": 27,
     "category": "General",
-    "stem": "En relación con la toxicidad del etanol, señale la afirmación correcta:",
+    "stem": "En relación con la toxicidad del etanol, señale la afirmación correcta",
     "options": [
-      "El acetato producido en el metabolismo hepá- tico del etanol es oxidado en este tejido para obtener energía.",
+      "El acetato producido en el metabolismo hepático del etanol es oxidado en este tejido para obtener energía.",
       "El incremento en la relación NADH/NAD+ en el metabolismo hepático del etanol inhibe la gluconeogénesis.",
-      "El ácido úrico compite con el lactato en la excreción urinaria, contribuyendo a la hiper- lactacidemia.",
-      "Los principales marcadores bioquímicos de ingesta habitual de etanol son las transamina- sas, especialmente la alanina- aminotransferasa sobre la aspartato- aminotransferasa."
+      "El ácido úrico compite con el lactato en la excreción urinaria, contribuyendo a la hiperlactacidemia.",
+      "Los principales marcadores bioquímicos de ingesta habitual de etanol son las transaminasas, especialmente la alanina-aminotransferasa sobre la aspartato-aminotransferasa."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 27 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La relación NADH/NAD+ se ve alterada en el metabolismo hepático del etanol debido a la reducción de NAD+ a NADH. Esta alteración inhibe la gluconeogénesis, que es el proceso por el cual el hígado produce glucosa a partir de aminoácidos y lactato. La inhibición de la gluconeogénesis contribuye a la hipoglucemia y a la hiperlactacidemia en el contexto del abuso de etanol. Por lo tanto, esta opción es la correcta porque describe una consecuencia directa de la toxicidad del etanol en el metabolismo hepático.\n\n- **🔴 Opción A (Incorrecta):** El acetato producido en el metabolismo hepático del etanol no es oxidado en este tejido para obtener energía. En realidad, el acetato es un producto secundario del metabolismo del etanol y se excreta principalmente a través de la orina. Por lo tanto, esta afirmación no es correcta en el contexto de la toxicidad del etanol.\n\n- **🔴 Opción C (Incorrecta):** El ácido úrico no compite con el lactato en la excreción urinaria de manera significativa. El ácido úrico se excreta principalmente a través de la orina y no compite con el lactato en la excreción urinaria. Por lo tanto, esta afirmación no es correcta en el contexto de la toxicidad del etanol.\n\n- **🔴 Opción D (Incorrecta):** Las transaminasas, especialmente la alanina-aminotransferasa y la aspartato-aminotransferasa, no son los principales marcadores bioquímicos de ingesta habitual de etanol. Las transaminasas se elevan en el contexto de la hepatitis y no están directamente relacionadas con la toxicidad del etanol. Por lo tanto, esta afirmación no es correcta en el contexto de la toxicidad del etanol.\n\nLa perla MIR: La toxicidad del etanol se asocia con la alteración de la relación NADH/NAD+ en el metabolismo hepático, lo que inhibe la gluconeogénesis y contribuye a la hipoglucemia y la hiperlactacidemia."
   },
   {
     "id": "q-28",
@@ -389,35 +389,35 @@
       "Aumento de la utilización de citrulina por los enterocitos."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 28 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La citrulina es un aminoácido no esencial que se produce en el músculo esquelético como resultado de la degradación de la arginina. En el intestino delgado, la citrulina es absorbida por los enterocitos y utilizada para sintetizar argininocto, un precursor de la síntesis de arginina. En este contexto, el aumento de la utilización de citrulina por los enterocitos no es una respuesta metabólica directa a la ingesta de una comida rica en proteínas y pocos hidratos de carbono, por lo que es la opción correcta en este caso.\n\n- **🔴 Opción A (Incorrecta):** La oxidación de aminoácidos de cadena ramificada en el músculo esquelético es un proceso metabólico que se incrementa después de una ingesta de proteínas, ya que el cuerpo utiliza estos aminoácidos para la síntesis de proteínas musculares o para la producción de energía. Por lo tanto, esta opción es una respuesta metabólica adecuada a la ingesta de proteínas.\n\n- **🔴 Opción B (Incorrecta):** El glucagón es una hormona producida por las células alfa del páncreas que se libera en respuesta a la ingesta de alimentos, especialmente de proteínas y grasas. Su principal función es la estimulación de la gluconeogénesis hepática, lo que lleva a un aumento de la producción de glucosa en el hígado. Por lo tanto, esta opción es una respuesta metabólica adecuada a la ingesta de una comida rica en proteínas y pocos hidratos de carbono.\n\n- **🔴 Opción C (Incorrecta):** La gluconeogénesis hepática es un proceso metabólico que se incrementa en respuesta a la ingesta de proteínas y grasas, ya que el cuerpo utiliza estos nutrientes para la producción de glucosa en el hígado. Por lo tanto, esta opción es una respuesta metabólica adecuada a la ingesta de una comida rica en proteínas y pocos hidratos de carbono.\n\nLa respuesta correcta a esta pregunta es la Opción D, ya que la utilización de citrulina por los enterocitos no es una respuesta metabólica directa a la ingesta de una comida rica en proteínas y pocos hidratos de carbono. La perla MIR para recordar este concepto es: 'La citrulina no es un aminoácido que se metabolice directamente en respuesta a la ingesta de proteínas'."
   },
   {
     "id": "q-29",
     "localNumber": 29,
     "category": "Nefrología",
-    "stem": "En relación con el control fisiológico hormonal y por autacoides de la f iltración glomerular y del flujo sanguíneo renal, indique la afirmación FALSA:",
+    "stem": "En relación con el control fisiológico hormonal y por autacoides de la filtración glomerular y del flujo sanguíneo renal, indique la afirmación FALSA:",
     "options": [
-      "El óxido nítrico derivado del endotelio au- menta la resistencia vascular y disminuye la filtración glomerular.",
-      "Las prostaglandinas y la bradicinina reducen la resistencia vascular renal y tienden a au- mentar la filtración glomerular.",
-      "La noradrenalina y la adrenalina contraen los vasos sanguíneos y reducen la filtración glo- merular.",
+      "El óxido nítrico derivado del endotelio aumenta la resistencia vascular y disminuye la filtración glomerular.",
+      "Las prostaglandinas y la bradicinina reducen la resistencia vascular renal y tienden a aumentar la filtración glomerular.",
+      "La noradrenalina y la adrenalina contraen los vasos sanguíneos y reducen la filtración glomerular.",
       "La angiotensina II contrae preferentemente las arteriolas eferentes en la mayoría de los estados fisiológicos."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 29 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta trata sobre el control fisiológico de la filtración glomerular y el flujo sanguíneo renal. Analicemos cada opción:\n\n- **🟢 Opción A (Correcta):** El óxido nítrico es un autacuido que relaja los vasos sanguíneos, lo que aumenta la resistencia vascular y disminuye la filtración glomerular. Por lo tanto, esta afirmación es verdadera y no es la respuesta correcta. Sin embargo, como se trata de la afirmación FALSA, debemos buscar la opción incorrecta.\n\n- **🔴 Opción B (Incorrecta):** Las prostaglandinas y la bradicinina tienen efectos vasodilatadores, lo que reduce la resistencia vascular renal y tiende a aumentar la filtración glomerular. Por lo tanto, esta afirmación es verdadera y no es la respuesta correcta.\n\n- **🔴 Opción C (Incorrecta):** La noradrenalina y la adrenalina son catecolaminas que contraen los vasos sanguíneos, lo que aumenta la resistencia vascular renal y reduce la filtración glomerular. Por lo tanto, esta afirmación es verdadera y no es la respuesta correcta.\n\n- **🔴 Opción D (Incorrecta):** La angiotensina II es un peptido que contrae preferentemente las arteriolas aferentes, no eferentes. En la mayoría de los estados fisiológicos, la angiotensina II aumenta la resistencia vascular renal y reduce la filtración glomerular. Por lo tanto, esta afirmación es falsa y es la respuesta correcta.\n\n**Perla MIR:** Recuerda que la angiotensina II contrae las arteriolas aferentes, no eferentes, y que sus efectos en la resistencia vascular renal y la filtración glomerular son contrarios a los de las prostaglandinas y la bradicinina."
   },
   {
     "id": "q-30",
     "localNumber": 30,
     "category": "General",
-    "stem": "Con respecto a la actividad eléctrica del múscu- lo liso gastrointestinal en una situación fisiológi- ca, indique la afirmación FALSA:",
+    "stem": "Con respecto a la actividad eléctrica del músculo liso gastrointestinal en una situación fisiológica, indique la afirmación FALSA:",
     "options": [
-      "El ritmo de casi todas las contracciones gas- trointestinales viene determinado por la fre- cuencia de las ondas lentas.",
+      "El ritmo de casi todas las contracciones gastrointestinales viene determinado por la frecuencia de las ondas lentas.",
       "La despolarización de las ondas lentas viene determinada por la entrada de iones sodio y calcio.",
       "Los potenciales en espiga son potenciales de acción y tienen una duración mayor que el de las grandes fibras nerviosas.",
-      "En la generación y características de los po- tenciales en espiga es determinante la partici- pación de iones calcio."
+      "En la generación y características de los potenciales en espiga es determinante la participación de iones calcio."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 30 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La afirmación falsa se refiere a la despolarización de las ondas lentas, que no es determinada por la entrada de iones sodio y calcio. En realidad, la despolarización de las ondas lentas es el resultado de la entrada de iones de calcio, que desencadena la contracción muscular. La entrada de iones sodio es más relevante en la fase de repolarización de las ondas lentas. Por lo tanto, esta opción es la correcta porque confunde la fase de despolarización con la entrada de iones sodio y calcio.\n\n- **🔴 Opción A (Incorrecta):** Esta afirmación es verdadera. La frecuencia de las ondas lentas determina en gran medida el ritmo de las contracciones gastrointestinales. Las ondas lentas son un tipo de potencial eléctrico que se produce en las células musculares lisas del intestino y otros órganos. La frecuencia de estas ondas determina la velocidad a la que se contrae el músculo y, por lo tanto, la frecuencia de las contracciones.\n\n- **🔴 Opción C (Incorrecta):** Esta afirmación es verdadera. Los potenciales en espiga son potenciales de acción que se producen en las células musculares lisas. Estos potenciales son similares a los potenciales de acción que se producen en las células nerviosas, pero tienen una duración mayor. La duración de los potenciales en espiga es mayor que la de las grandes fibras nerviosas debido a la presencia de canales de iones que prolongan la despolarización.\n\n- **🔴 Opción D (Incorrecta):** Esta afirmación es verdadera. La participación de iones calcio es determinante en la generación y características de los potenciales en espiga. Los iones de calcio desempeñan un papel crucial en la despolarización y la contracción muscular. La entrada de iones de calcio es el resultado de la apertura de canales de calcio, que permite el flujo de iones de calcio hacia la célula.\n\nLa perla MIR: La actividad eléctrica del músculo liso gastrointestinal es un proceso complejo que involucra la interacción de múltiples tipos de canales de iones y potenciales eléctricos. La comprensión de la despolarización de las ondas lentas y la participación de los iones calcio es fundamental para entender la fisiología del músculo liso gastrointestinal."
   },
   {
     "id": "q-31",
