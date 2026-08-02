@@ -1835,35 +1835,35 @@
     "id": "q-132",
     "localNumber": 132,
     "category": "General",
-    "stem": "Varón de 63 años con carcinoma de prós- tata resistente a la castración con metásta- sis ganglionares y óseas múltiples. Actual- mente, se encuentra en tratamiento con En- zalutamida. Acude a consulta por dolor lumbar de reciente aparición, aunque re- fiere no haber tomado analgesia. Reconoce episodios de incontinencia urinaria. A la ex- ploración se detecta un ligero déficit motor en extremidad inferior izquierda (3/5). ¿Cuál sería la mejor actitud a seguir con este pa- ciente?:",
+    "stem": "Varón de 63 años con carcinoma de próstata resistente a la castración con metástasis ganglionares y óseas múltiples. Actualmente, se encuentra en tratamiento con Enzalutamida. Acude a consulta por dolor lumbar de reciente aparición, aunque refiere no haber tomado analgesia. Reconoce episodios de incontinencia urinaria. A la exploración se detecta un ligero déficit motor en extremidad inferior izquierda (3/5). ¿Cuál sería la mejor actitud a seguir con este paciente?",
     "options": [
-      "Realización de resonancia magnética ur- gente.",
+      "Realización de resonancia magnética urinaria.",
       "Administración de dexametasona 10 mg.",
       "Administración de AINEs y reevaluación en 48 horas.",
-      "Realización de radiografía simple de co- lumna."
+      "Realización de radiografía simple de columna."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 132 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La administración de dexametasona 10 mg es la mejor opción en este caso. El paciente presenta síntomas de dolor lumbar y incontinencia urinaria, lo que sugiere la posibilidad de una compresión medular o una lesión en la médula espinal. La dexametasona es un corticosteroides que puede ayudar a reducir la inflamación y el edema en la médula espinal, lo que podría aliviar los síntomas del paciente. Además, la dexametasona es un medicamento de acción rápida, por lo que puede ser administrada de inmediato para tratar los síntomas del paciente.\n\n- **🔴 Opción A (Incorrecta):** La resonancia magnética urinaria no es la mejor opción en este caso. Si bien la resonancia magnética puede ser útil para diagnosticar problemas en la médula espinal, no es necesario realizarla de inmediato si el paciente está presentando síntomas de dolor lumbar y incontinencia urinaria. La administración de dexametasona es una medida más inmediata y efectiva para tratar los síntomas del paciente.\n\n- **🔴 Opción C (Incorrecta):** La administración de AINEs y reevaluación en 48 horas no es la mejor opción en este caso. Si bien los AINEs pueden ser útiles para tratar el dolor, no son la mejor opción para un paciente que presenta síntomas de incontinencia urinaria y déficit motor en la extremidad inferior. La administración de dexametasona es una medida más inmediata y efectiva para tratar los síntomas del paciente.\n\n- **🔴 Opción D (Incorrecta):** La realización de radiografía simple de columna no es la mejor opción en este caso. La radiografía simple no puede detectar lesiones en la médula espinal o problemas en la columna vertebral, y no es una prueba adecuada para diagnosticar los síntomas del paciente. La administración de dexametasona es una medida más inmediata y efectiva para tratar los síntomas del paciente.\n\n**Perla MIR:** La administración de dexametasona es una medida inmediata y efectiva para tratar los síntomas de dolor lumbar y incontinencia urinaria en un paciente con cáncer de próstata y metástasis en la médula espinal. La dexametasona puede ayudar a reducir la inflamación y el edema en la médula espinal, lo que podría aliviar los síntomas del paciente."
   },
   {
     "id": "q-133",
     "localNumber": 133,
     "category": "General",
-    "stem": "Paciente varón de 63 años con anteceden- tes de miastenia gravis. Ha sido diagnosti- cado recientemente de melanoma estadio IV con extensa carga de enfermedad con afectación hepática múltiple, pulmonar bila- teral y adenopatías generalizadas. Se rea- liza una determinación de BRAF por inmu- nohistoquímica siendo positiva para V600E. ¿Cuál sería el tratamiento más razonable te- niendo en cuenta el riesgo beneficio?:",
+    "stem": "Paciente varón de 63 años con antecedentes de miastenia gravis ha sido diagnosticado recientemente de melanoma estadio IV con extensa carga de enfermedad con afectación hepática múltiple pulmonar bilateral y adenopatías generalizadas se realiza una determinación de BRAF por inmunohistoquímica siendo positiva para V600E ¿Cuál sería el tratamiento más razonable teniendo en cuenta el riesgo beneficio:",
     "options": [
-      "Pembrolizumab.",
-      "Nivolumab.",
-      "Dabrafenib-Trametinib.",
-      "Nivolumab-Ipilimumab."
+      "Pembrolizumab",
+      "Nivolumab",
+      "Dabrafenib-Trametinib",
+      "Nivolumab-Ipilimumab"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 133 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Dabrafenib-Trametinib es la opción más adecuada en este caso debido a la presencia de la mutación V600E en el gen BRAF. Esta mutación es un marcador de resistencia a la terapia con inhibidores de BRAF como vemurafenib y dabrafenib. Sin embargo, cuando se combina con trametinib un inhibidor de MEK se puede mejorar la respuesta clínica y reducir la aparición de resistencia. Además la combinación de dabrafenib y trametinib ha demostrado ser efectiva en pacientes con melanoma metastásico y mutación V600E. Por lo tanto esta es la opción más razonable teniendo en cuenta el riesgo beneficio en este paciente con melanoma estadio IV y mutación V600E.\n\n- **🔴 Opción A (Incorrecta):** Pembrolizumab es un inhibidor de CTLA-4 que se utiliza en el tratamiento del melanoma. Aunque es efectivo en pacientes con melanoma metastásico no tiene actividad en pacientes con mutación V600E en el gen BRAF. Por lo tanto no es la opción adecuada en este caso.\n\n- **🔴 Opción B (Incorrecta):** Nivolumab es un inhibidor de PD-1 que se utiliza en el tratamiento del melanoma. Aunque es efectivo en pacientes con melanoma metastásico no tiene actividad en pacientes con mutación V600E en el gen BRAF. Por lo tanto no es la opción adecuada en este caso.\n\n- **🔴 Opción D (Incorrecta):** Nivolumab-Ipilimumab es una combinación de un inhibidor de PD-1 y un inhibidor de CTLA-4 que se utiliza en el tratamiento del melanoma. Aunque es efectivo en pacientes con melanoma metastásico no tiene actividad en pacientes con mutación V600E en el gen BRAF. Además la combinación de Nivolumab e Ipilimumab no ha demostrado ser más efectiva que la combinación de dabrafenib y trametinib en pacientes con melanoma metastásico y mutación V600E. Por lo tanto no es la opción adecuada en este caso.\n\nLa perla MIR es que la selección del tratamiento en el melanoma depende de la presencia de mutaciones específicas en el gen BRAF y que la combinación de dabrafenib y trametinib es una opción efectiva en pacientes con melanoma metastásico y mutación V600E."
   },
   {
     "id": "q-134",
     "localNumber": 134,
     "category": "General",
-    "stem": "Paciente de 92 años que acude a la consulta de Atención Primaria y se le realiza una eva- luación de fragilidad según los criterios de Linda P. Fried. Objetivamos los siguientes resultados: Pérdida de peso de 2kg el año previo, fuerza prensora normal para su IMC, no refiere baja resistencia o agotamiento, presenta lentitud de la marcha y un nivel normal de actividad física. ¿Cuál sería su nivel de fragilidad?:",
+    "stem": "Paciente de 92 años que acude a la consulta de Atención Primaria y se le realiza una evaluación de fragilidad según los criterios de Linda P. Fried. Objetivamos los siguientes resultados: Pérdida de peso de 2kg el año previo, fuerza prensora normal para su IMC, no refiere baja resistencia o agotamiento, presenta lentitud de la marcha y un nivel normal de actividad física.",
     "options": [
       "Robusto.",
       "Pre-frágil.",
@@ -1871,13 +1871,13 @@
       "Discapacitado."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 134 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Según los criterios de Linda P. Fried, la fragilidad se evalúa en función de la pérdida de masa muscular, la fuerza prensora, la resistencia, la velocidad de marcha y el nivel de actividad física. En este caso, el paciente presenta pérdida de peso, pero la fuerza prensora es normal y no refiere baja resistencia o agotamiento. Además, presenta lentitud de la marcha, pero un nivel normal de actividad física. Esto sugiere que el paciente tiene algunas características de fragilidad, pero no es lo suficientemente grave como para considerarlo frágil. Por lo tanto, el nivel de fragilidad correcto es pre-frágil.\n\n- **🔴 Opción A (Incorrecta):** El paciente no es robusto, ya que presenta pérdida de peso y lentitud de la marcha, lo que sugiere una posible disminución de la masa muscular y la función física.\n\n- **🔴 Opción C (Incorrecta):** El paciente no es frágil, ya que la fuerza prensora es normal y no refiere baja resistencia o agotamiento. Además, el nivel de actividad física es normal, lo que sugiere que el paciente no tiene una función física severamente comprometida.\n\n- **🔴 Opción D (Incorrecta):** El paciente no es discapacitado, ya que no hay indicios de una discapacidad significativa que afecte su capacidad para realizar actividades de la vida diaria. La lentitud de la marcha se puede considerar una limitación funcional, pero no es lo suficientemente grave como para considerarlo discapacitado.\n\nLa perla MIR es: \"La fragilidad se evalúa en función de la pérdida de masa muscular, la fuerza prensora, la resistencia, la velocidad de marcha y el nivel de actividad física. Un paciente pre-frágil tiene algunas características de fragilidad, pero no es lo suficientemente grave como para considerarlo frágil.\""
   },
   {
     "id": "q-135",
     "localNumber": 135,
     "category": "General",
-    "stem": "Acude a urgencias un varón de 25 años con una uveítis anterior izquierda. En su histo- rial clínico únicamente destaca que ha te- nido úlceras orales dolorosas con cierta frecuencia en los últimos dos años. Refiere la aparición de una pápula eritematosa alre- dedor del sitio de punción de la vacuna an- tigripal, que recibió recientemente. ¿Cuál es el diagnóstico más probable?:",
+    "stem": "Acude a urgencias un varón de 25 años con una uveítis anterior izquierda. En su historial clínico únicamente destaca que ha tenido úlceras orales dolorosas con cierta frecuencia en los últimos dos años. Refiere la aparición de una pápula eritematosa alrededor del sitio de punción de la vacuna antigripal, que recibió recientemente.",
     "options": [
       "Sarcoidosis.",
       "Sífilis.",
@@ -1885,13 +1885,13 @@
       "Enfermedad de Crohn."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 135 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La Enfermedad de Behçet es una afección crónica e inflamatoria que afecta múltiples sistemas del cuerpo, incluyendo la piel, los ojos y la boca. Las úlceras orales dolorosas y la uveítis anterior izquierda son síntomas clásicos de esta enfermedad. La aparición de una pápula eritematosa alrededor del sitio de punción de la vacuna antigripal también es consistente con la Enfermedad de Behçet, ya que esta enfermedad puede causar lesiones cutáneas y reacciones a vacunas. Por lo tanto, la Enfermedad de Behçet es el diagnóstico más probable en este caso.\n\n- **🔴 Opción A (Incorrecta):** La Sarcoidosis es una enfermedad inflamatoria crónica que puede afectar múltiples órganos, pero no está directamente relacionada con las úlceras orales dolorosas, la uveítis anterior izquierda o las reacciones a vacunas. Por lo tanto, la Sarcoidosis no es el diagnóstico más probable en este caso.\n\n- **🔴 Opción B (Incorrecta):** La Sífilis es una infección bacteriana que puede causar lesiones cutáneas y reacciones a vacunas, pero no está directamente relacionada con las úlceras orales dolorosas o la uveítis anterior izquierda. La Sífilis también puede causar lesiones cutáneas, pero estas no suelen ser eritematosas alrededor de la vacuna antigripal. Por lo tanto, la Sífilis no es el diagnóstico más probable en este caso.\n\n- **🔴 Opción D (Incorrecta):** La Enfermedad de Crohn es una afección inflamatoria crónica del intestino delgado que no está directamente relacionada con las úlceras orales dolorosas, la uveítis anterior izquierda o las reacciones a vacunas. Por lo tanto, la Enfermedad de Crohn no es el diagnóstico más probable en este caso."
   },
   {
     "id": "q-136",
     "localNumber": 136,
     "category": "Reumatología",
-    "stem": "Acude a su consulta un varón de 70 años con rigidez matutina y dolor a la moviliza- ción de cintura escapular y pélvica bilateral, desde hace tres meses, sin afectación de otras articulaciones periféricas. En la analí- tica destacan una leve anemia normocítica normocrómica y una velocidad de sedimen- tación glomerular de 85 mm en la primera hora. El factor reumatoide y los anticuerpos antipeptídicos citrulinados son negativos. ¿Cuál es su diagnóstico?:",
+    "stem": "Acude a su consulta un varón de 70 años con rigidez matutina y dolor a la movilización de cintura escapular y pélvica bilateral, desde hace tres meses, sin afectación de otras articulaciones periféricas. En la análisis destacan una leve anemia normocítica normocrómica y una velocidad de sedimentación glomerular de 85 mm en la primera hora. El factor reumatoide y los anticuerpos antipeptídicos citrulinados son negativos. ¿Cuál es su diagnóstico?",
     "options": [
       "Artritis reumatoide seronegativa.",
       "Polimialgia reumática.",
@@ -1899,7 +1899,7 @@
       "Artrosis."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 136 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La polimialgia reumática es una enfermedad autoinmune crónica que afecta a personas mayores, caracterizada por rigidez matutina y dolor en las articulaciones sin afectación de otras articulaciones periféricas. El diagnóstico se basa en la presencia de rigidez matutina y dolor en las articulaciones, sin otra causa aparente, y la velocidad de sedimentación glomerular elevada. La falta de anticuerpos reumatoide y antipeptídicos citrulinados descarta otras causas de artritis. En este caso, el paciente tiene una edad de 70 años, lo que lo hace más propenso a la polimialgia reumática. Además, la falta de afectación de otras articulaciones periféricas y la presencia de anemia normocítica normocrómica son características compatibles con esta enfermedad.\n\n- **🔴 Opción A (Incorrecta):** La artritis reumatoide seronegativa no es compatible con la falta de anticuerpos reumatoide y antipeptídicos citrulinados en el paciente. La artritis reumatoide es una enfermedad autoinmune que se caracteriza por la presencia de anticuerpos reumatoide y antipeptídicos citrulinados, lo que no se observa en este caso.\n\n- **🔴 Opción C (Incorrecta):** La artritis indiferenciada no es una condición clínica específica y no se ajusta a los síntomas y signos presentados en el paciente. La artritis indiferenciada es un término que se utiliza para describir artritis que no se ajusta a ninguna otra condición específica, pero en este caso hay suficiente información para considerar otras opciones más específicas.\n\n- **🔴 Opción D (Incorrecta):** La artrosis es una condición degenerativa que afecta a las articulaciones, pero no se ajusta a los síntomas y signos presentados en el paciente. La artrosis se caracteriza por dolor y rigidez en las articulaciones, pero también se asocia con pérdida de cartílago y deformidad en las articulaciones, lo que no se observa en este caso."
   },
   {
     "id": "q-137",
