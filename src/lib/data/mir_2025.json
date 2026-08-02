@@ -2675,63 +2675,63 @@
     "id": "q-192",
     "localNumber": 192,
     "category": "Nefrología",
-    "stem": "¿Cuál es el mejor marcador bioquímico de función renal en la práctica clínica habi- tual?:",
+    "stem": "¿Cuál es el mejor marcador bioquímico de función renal en la práctica clínica habitual?",
     "options": [
-      "La Urea plasmática.",
-      "La Creatinina plasmática.",
-      "El Potasio sérico.",
+      "La urea plasmática.",
+      "La creatinina plasmática.",
+      "El potasio sérico.",
       "El filtrado glomerular estimado."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 192 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El filtrado glomerular estimado (eGFR) es considerado el mejor marcador bioquímico de función renal en la práctica clínica habitual. Esto se debe a que refleja con mayor precisión la función glomerular real y es menos influyente por la variabilidad individual y la diuresis. Además, el eGFR está estrechamente relacionado con el riesgo de enfermedad renal crónica y complicaciones relacionadas con la función renal. La Sociedad Europea de Nefrología y la Sociedad Americana de Nefrología también recomiendan el uso del eGFR como marcador principal de función renal en la práctica clínica diaria.\n\n- **🔴 Opción A (Incorrecta):** La urea plasmática no es un marcador bioquímico confiable de función renal debido a que puede ser influenciada por la diuresis, el estado nutricional y otros factores que no están relacionados directamente con la función renal. Además, la urea puede ser excretada por la orina de manera variable, lo que puede llevar a una sobre o subestimación de la función renal.\n\n- **🔴 Opción B (Incorrecta):** La creatinina plasmática es un marcador bioquímico comúnmente utilizado para evaluar la función renal, pero puede ser influenciada por factores como la dieta, la edad, el sexo y la masa muscular. Además, la creatinina puede ser sobre o subestimada en ciertas condiciones, lo que puede llevar a una evaluación inexacta de la función renal.\n\n- **🔴 Opción C (Incorrecta):** El potasio sérico es un marcador bioquímico importante para evaluar la función renal, pero no es un indicador directo de la función renal. El potasio puede ser influenciado por factores como la dieta, la pérdida de potasio a través de la orina, y la insuficiencia renal secundaria a otros procesos.\n\nLa perla MIR: 'El eGFR es el rey de la función renal, porque es el mejor marcador bioquímico para evaluar la función glomerular real.'"
   },
   {
     "id": "q-193",
     "localNumber": 193,
     "category": "General",
-    "stem": "Son características de la preclampsia:",
+    "stem": "Son características de la preclampsia: Hipertensión arterial, microhematuria y edemas en la última parte del embarazo.",
     "options": [
       "Hipertensión arterial, microhematuria y edemas en la última parte del embarazo.",
-      "Hipertensión arterial, microhematuria y edemas en el primer trimestre del emba- razo.",
-      "Hipertensión arterial, proteinuria y ede- mas en la segunda mitad del embarazo.",
-      "Hipertensión arterial, proteinuria y ede- mas en el primer trimestre del embarazo."
+      "Hipertensión arterial, microhematuria y edemas en el primer trimestre del embarazo.",
+      "Hipertensión arterial, proteinuria y edemas en la segunda mitad del embarazo.",
+      "Hipertensión arterial, proteinuria y edemas en el primer trimestre del embarazo."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 193 del examen MIR de la convocatoria FSE."
+    "explanation": "La preclampsia es una condición médica grave que se caracteriza por la presencia de hipertensión arterial, proteinuria y edemas en la segunda mitad del embarazo. A continuación, se analizarán cada una de las opciones para determinar cuál es la correcta:\n\n- **🟢 Opción C (Correcta):** Esta opción es la correcta porque la preclampsia se define por la presencia de hipertensión arterial, proteinuria (no microhematuria) y edemas en la segunda mitad del embarazo. La proteinuria es un indicador clave de la enfermedad renal asociada a la preclampsia. La microhematuria se refiere a la presencia de sangre en la orina, pero no es un criterio diagnóstico de la preclampsia. En la última parte del embarazo, la presión arterial aumentada puede causar daño a los riñones y al feto.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque no especifica la proteinuria, que es un criterio esencial para el diagnóstico de la preclampsia. Además, la microhematuria no es un indicador de la enfermedad renal asociada a la preclampsia.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque el primer trimestre del embarazo no es el período de tiempo adecuado para el diagnóstico de la preclampsia. La preclampsia se desarrolla en la segunda mitad del embarazo.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque, al igual que la opción B, el primer trimestre del embarazo no es el período de tiempo adecuado para el diagnóstico de la preclampsia. Además, la proteinuria no es microhematuria, y ambas no se mencionan en esta opción.\n\n**Perla MIR:** La preclampsia se caracteriza por hipertensión arterial, proteinuria y edemas en la segunda mitad del embarazo. Recuerda que la microhematuria no es un indicador de la enfermedad renal asociada a la preclampsia."
   },
   {
     "id": "q-194",
     "localNumber": 194,
     "category": "Nefrología",
-    "stem": "Un paciente de 62 años con diabetes melli- tus tipo 2, en tratamiento con metformina, enalapril a dosis máximas toleradas y 10 mg diarios de empagliflozina, mantiene un buen control tensional (130/78 mmHg) y una HbA1c de 6.3 %. A pesar de ello, per- siste una albuminuria con un cociente albú- mina/creatinina de 160 mg/g. Su tasa de fil- trado glomerular es de 65 ml/min/1.73m² y su potasio sérico es de 4.4 mEq/L. ¿Cuál sería la siguiente medida terapéutica más adecuada para reducir la progresión de su enfermedad renal diabética?:",
+    "stem": "Un paciente de 62 años con diabetes mellitus tipo 2, en tratamiento con metformina, enalapril a dosis máximas toleradas y 10 mg diarios de empagliflozina, mantiene un buen control tensional (130/78 mmHg) y una HbA1c de 6.3 %. A pesar de ello, persiste una albuminuria con un cociente albúmina/creatinina de 160 mg/g. Su tasa de filtrado glomerular es de 65 ml/min/1.73m² y su potasio sérico es de 4.4 mEq/L. ¿Cuál sería la siguiente medida terapéutica más adecuada para reducir la progresión de su enfermedad renal diabética?",
     "options": [
       "Sustituir el enalapril por un antagonista de los receptores de angiotensina II (ARA II).",
       "Añadir un agonista del receptor de GLP-1.",
-      "Añadir finerenona (antagonista no esteroi- deo del receptor mineralcorticoide).",
-      "Aumentar la dosis de empaglifocina."
+      "Añadir finerenona (antagonista no esteroide del receptor mineralcorticoide).",
+      "Aumentar la dosis de empagliflozina."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 194 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** En este caso, la opción más adecuada sería añadir finerenona, un antagonista no esteroide del receptor mineralcorticoide. Esto se debe a que el paciente ya está recibiendo tratamiento con empagliflozina, un inhibidor del recambio de sodio y potasio, que ya está ayudando a reducir la presión arterial y mejorar la función renal. Sin embargo, la presencia de albuminuria y una tasa de filtrado glomerular reducida sugiere que el paciente podría beneficiarse de un tratamiento adicional para reducir la presión intraglomerular y evitar la progresión de la enfermedad renal. La finerenona puede ayudar a reducir la presión intraglomerular y mejorar la función renal sin aumentar el riesgo de hipokalemia en pacientes que ya están recibiendo tratamiento con empagliflozina.\n- **🔴 Opción A (Incorrecta):** Sustituir el enalapril por un antagonista de los receptores de angiotensina II (ARA II) no es la mejor opción en este caso. Aunque los ARA II pueden ser útiles en la reducción de la presión arterial y la prevención de la progresión de la enfermedad renal, el paciente ya está recibiendo tratamiento con enalapril, que es un inhibidor de la enzima convertidora de la angiotensina (ECA). La sustitución de enalapril por un ARA II podría no ser efectiva y podría incluso aumentar el riesgo de hipotensión y otros efectos adversos.\n- **🔴 Opción B (Incorrecta):** Añadir un agonista del receptor de GLP-1 no es la mejor opción en este caso. Aunque los agonistas del receptor de GLP-1 pueden ser beneficiosos en la gestión de la diabetes, no tienen un efecto directo en la reducción de la progresión de la enfermedad renal. Además, en pacientes con enfermedad renal avanzada, los agonistas del receptor de GLP-1 pueden aumentar el riesgo de hiperglucemia y otros efectos adversos.\n- **🔴 Opción D (Incorrecta):** Aumentar la dosis de empagliflozina no es la mejor opción en este caso. Aunque la empagliflozina es un inhibidor del recambio de sodio y potasio que puede ser beneficioso en la reducción de la presión arterial y la prevención de la progresión de la enfermedad renal, aumentar la dosis podría aumentar el riesgo de hipokalemia y otros efectos adversos.\nLa perla MIR: La finerenona puede ser una opción útil en la reducción de la progresión de la enfermedad renal diabética en pacientes con albuminuria y una tasa de filtrado glomerular reducida, especialmente cuando se combina con un inhibidor del recambio de sodio y potasio como la empagliflozina."
   },
   {
     "id": "q-195",
     "localNumber": 195,
     "category": "General",
-    "stem": "La policía encuentra en la calle, incons- ciente e inmóvil, a altas horas de la madru- gada a un indigente que presente múltiples hematomas y fetor etílico. En el hospital se detecta urea de 200 mg/dl, creatinina de 6 mg/dl, ácido úrico de 10 mg/dl y CPK de 9000 U/L. El diagnóstico probable es:",
+    "stem": "La policía encuentra en la calle, inconsciente e inmóvil, a altas horas de la madrugada a un indigente que presente múltiples hematomas y fetor etílico. En el hospital se detecta urea de 200 mg/dl, creatinina de 6 mg/dl, ácido úrico de 10 mg/dl y CPK de 9000 U/L. El diagnóstico probable es:",
     "options": [
       "Necrosis tubular aguda alcohólica.",
       "Fracaso renal agudo por urato.",
-      "Fracaso renal agudo prerrenal por deshi- dratación.",
+      "Fracaso renal agudo prerrenal por deshidratación.",
       "Fracaso renal agudo por rabdomiolisis."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 195 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El paciente presenta una combinación de signos clínicos sugestivos de rabdomiolisis (elevada CPK) y deterioro renal (elevada urea y creatinina). La rabdomiolisis puede provocar un fracaso renal agudo debido a la depuración de productos de descomposición muscular en el torrente sanguíneo, lo que puede causar un aumento de la carga de trabajo renal y, en consecuencia, un deterioro renal. Esta opción es la más adecuada en este caso, dado el conjunto de signos y síntomas presentados por el paciente.\n\n- **🔴 Opción A (Incorrecta):** La necrosis tubular aguda alcohólica es una condición que puede ocurrir en pacientes con consumo excesivo de alcohol, pero no está directamente relacionada con la elevada CPK y el deterioro renal observados en este caso.\n\n- **🔴 Opción B (Incorrecta):** El fracaso renal agudo por urato puede ser una causa de deterioro renal, pero no está directamente relacionada con la elevada CPK y la presencia de fetor etílico en el paciente.\n\n- **🔴 Opción C (Incorrecta):** El fracaso renal agudo prerrenal por deshidratación puede ser una causa de deterioro renal, pero no está directamente relacionada con la elevada CPK y la presencia de múltiples hematomas en el paciente.\n\nLa perla MIR: 'Rabdomiolisis y deterioro renal pueden ir de la mano, especialmente en pacientes con múltiples lesiones y fetor etílico'."
   },
   {
     "id": "q-196",
     "localNumber": 196,
     "category": "General",
-    "stem": "Paciente de 23 años, que es llevado a un servicio de urgencias hospitalario por ha- ber sido encontrado en calle con bajo nivel de conciencia. A su llegada el paciente res- ponde a estímulos dolorosos intensos, tiene una frecuencia cardiaca de 40 latidos por minuto, unas cifras de presión arterial de 90/60 mmHg, sin fiebre y unas pupilas puntiformes. Ante la sospecha de una into- xicación, ¿cuál de los siguientes antídotos estaría más indicado?:",
+    "stem": "Paciente de 23 años, que es llevado a un servicio de urgencias hospitalario por haber sido encontrado en calle con bajo nivel de conciencia. A su llegada el paciente responde a estímulos dolorosos intensos, tiene una frecuencia cardiaca de 40 latidos por minuto, unas cifras de presión arterial de 90/60 mmHg, sin fiebre y unas pupilas puntiformes. Ante la sospecha de una intoxicación, ¿cuál de los siguientes antídotos estaría más indicado?",
     "options": [
       "Naloxona.",
       "Flumazenilo.",
@@ -2739,7 +2739,7 @@
       "Pralidoxima."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 196 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La naloxona es un antídoto específico para el opiáceo, que es el tipo de sustancia más comúnmente involucrada en intoxicaciones con drogas en este tipo de pacientes. La naloxona actúa bloqueando los efectos de los opiáceos en el sistema nervioso central, lo que puede revertir los síntomas de intoxicación, como la respiración lenta, la somnolencia y la disminución de la frecuencia cardiaca. En este caso, la frecuencia cardiaca del paciente es de 40 latidos por minuto, lo que sugiere una posible intoxicación por opiáceo.\n- **🔴 Opción B (Incorrecta):** El flumazenilo es un antídoto para la benzodiacepina, que es un tipo de medicamento sedante y relajante. Si bien es posible que el paciente haya tomado benzodiacepina, no hay evidencia en el enunciado que sugiera esto. Además, la presión arterial del paciente es baja (90/60 mmHg), lo que podría estar relacionado con una intoxicación por opiáceo más que con una intoxicación por benzodiacepina.\n- **🔴 Opción C (Incorrecta):** La atropina es un medicamento que se utiliza para tratar la intoxicación por muscarina, un tipo de toxina que puede ser producida por ciertos tipos de plantas. No hay evidencia en el enunciado que sugiera una intoxicación por muscarina.\n- **🔴 Opción D (Incorrecta):** La pralidoxima es un antídoto para la intoxicación por organofosfato, un tipo de veneno químico. No hay evidencia en el enunciado que sugiera una intoxicación por organofosfato.\nLa perla MIR: En un paciente con bajo nivel de conciencia y frecuencia cardiaca lenta, la naloxona es el primer antídoto que se debe considerar, ya que es específico para la intoxicación por opiáceo."
   },
   {
     "id": "q-197",
