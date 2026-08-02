@@ -563,7 +563,7 @@
     "id": "q-41",
     "localNumber": 41,
     "category": "Cardiología",
-    "stem": "Al finalizar el periodo de seguimiento en el estudio PREDIMET (“Primary Prevention of Cardiovascular Disease with a Mediterranean Diet”), el 3,8% de los individuos asignados a dieta mediterránea presentaron algún tipo de evento cardiovascular (infartos de miocardio, ictus o muertes de origen cardiovascular), frente al 4,4% de eventos ocurridos en el grupo control. ¿Cuál es el número necesario de pacientes a tratar (NNT) con dieta mediterránea para evitar un evento cardiovascular?:",
+    "stem": "Al finalizar el periodo de seguimiento en el estudio PREDIMET (Primary Prevention of Cardiovascular Disease with a Mediterranean Diet), el 3,8% de los individuos asignados a dieta mediterránea presentaron algún tipo de evento cardiovascular (infartos de miocardio, ictus o muertes de origen cardiovascular), frente al 4,4% de eventos ocurridos en el grupo control. ¿Cuál es el número necesario de pacientes a tratar (NNT) con dieta mediterránea para evitar un evento cardiovascular?",
     "options": [
       "26.",
       "60.",
@@ -571,13 +571,13 @@
       "167."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 41 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Para calcular el NNT, utilizamos la fórmula: NNT = 1 / (p1 - p2), donde p1 es la proporción de eventos en el grupo de control (4,4%) y p2 es la proporción de eventos en el grupo de dieta mediterránea (3,8%). Al realizar el cálculo, obtenemos NNT = 1 / (0,044 - 0,038) = 1 / 0,006 = 167. Por lo tanto, la opción D es la correcta, ya que 167 es el número necesario de pacientes a tratar con dieta mediterránea para evitar un evento cardiovascular en uno de ellos.\n\n- **🔴 Opción A (Incorrecta):** Esta opción no es correcta porque no se basa en la fórmula adecuada para calcular el NNT. La opción A sugiere que el NNT es 26, lo que no se ajusta a la fórmula utilizada en la opción D.\n\n- **🔴 Opción B (Incorrecta):** Esta opción también es incorrecta porque no se basa en la fórmula adecuada para calcular el NNT. La opción B sugiere que el NNT es 60, lo que tampoco se ajusta a la fórmula utilizada en la opción D.\n\n- **🔴 Opción C (Incorrecta):** Esta opción también es incorrecta porque no se basa en la fórmula adecuada para calcular el NNT. La opción C sugiere que el NNT es 80, lo que tampoco se ajusta a la fórmula utilizada en la opción D.\n\nLa perla MIR es: Para calcular el NNT, recuerda utilizar la fórmula: NNT = 1 / (p1 - p2), donde p1 es la proporción de eventos en el grupo de control y p2 es la proporción de eventos en el grupo de interés."
   },
   {
     "id": "q-42",
     "localNumber": 42,
     "category": "General",
-    "stem": "En evaluación económica de intervenciones sanitarias, un estudio que compare los costes alternativos de dos intervenciones frente a sus resultados de salud expresados en años ajustados por calidad o años de vida ajustados por discapacidad se denomina:",
+    "stem": "En la evaluación económica de intervenciones sanitarias, un estudio que compare los costes alternativos de dos intervenciones frente a sus resultados de salud expresados en años ajustados por calidad o años de vida ajustados por discapacidad se denomina:",
     "options": [
       "Análisis coste-beneficio.",
       "Análisis coste-efectividad.",
@@ -585,7 +585,7 @@
       "Análisis de minimización de costes."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 42 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Un análisis coste-utilidad es un tipo de evaluación económica que compara los costes de diferentes intervenciones sanitarias frente a sus resultados de salud expresados en años ajustados por calidad (AALC) o años de vida ajustados por discapacidad (AVAD). Esto permite evaluar la eficacia de cada intervención en términos de mejora en la calidad de vida de los pacientes. Por lo tanto, la opción C es la correcta en este caso.\n\n- **🔴 Opción A (Incorrecta):** Un análisis coste-beneficio se utiliza para evaluar las intervenciones que tienen un resultado de salud directamente cuantificable, como la reducción de la mortalidad o la mejora en la calidad de vida. Sin embargo, no se utiliza para comparar intervenciones con resultados de salud expresados en AALC o AVAD.\n\n- **🔴 Opción B (Incorrecta):** Un análisis coste-efectividad se utiliza para evaluar las intervenciones que tienen un resultado de salud directamente cuantificable, pero no necesariamente en términos de AALC o AVAD. Se utiliza para comparar intervenciones que tienen resultados de salud similares, pero con diferentes costes.\n\n- **🔴 Opción D (Incorrecta):** Un análisis de minimización de costes se utiliza para evaluar las intervenciones que tienen un resultado de salud indirectamente cuantificable, como la reducción de la morbilidad o la mejora en la calidad de vida. No se utiliza para comparar intervenciones con resultados de salud expresados en AALC o AVAD.\n\nLa perla MIR: Recuerda que la evaluación económica de intervenciones sanitarias se basa en comparar los costes alternativos frente a sus resultados de salud expresados en AALC o AVAD. Un análisis coste-utilidad es la herramienta adecuada para evaluar la eficacia de cada intervención en términos de mejora en la calidad de vida de los pacientes."
   },
   {
     "id": "q-43",
@@ -599,35 +599,35 @@
       "Ante un contacto de riesgo con un paciente con meningitis meningocócica, la vacunación del contacto no debe ser la primera estrategia de profilaxis postexposición."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 43 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La afirmación de que se dispone de vacunas efectivas únicamente para la prevención de 4 subtipos de meningococo es incorrecta. En realidad, existen vacunas efectivas para prevenir la mayoría de los subtipos de meningococo, incluyendo el tipo B. La vacuna frente al meningococo tipo B es una de las vacunas más efectivas en la prevención de la enfermedad meningocócica.\n- **🔴 Opción A (Incorrecta):** El mecanismo de transmisión de la enfermedad meningocócica es principalmente a través de gotas respiratorias y contacto cercano, por lo que esta afirmación es correcta.\n- **🔴 Opción C (Incorrecta):** La vacuna frente al meningococo tipo B no está incluida en el calendario sistemático de inmunizaciones del Sistema Nacional de Salud en todos los países, por lo que esta afirmación es incorrecta.\n- **🔴 Opción D (Incorrecta):** La vacunación del contacto es una de las primeras estrategias de profilaxis postexposición para prevenir la enfermedad meningocócica, por lo que esta afirmación es incorrecta.\nLa perla MIR: La enfermedad meningocócica se transmite principalmente a través de gotas respiratorias y contacto cercano, y se pueden prevenir con vacunas efectivas para la mayoría de los subtipos de meningococo."
   },
   {
     "id": "q-44",
     "localNumber": 44,
     "category": "Pediatría",
-    "stem": "Se diagnostica de varicela a un niño de 8 años. Su madre está embarazada de 32 semanas y se le solicita una serología en la que se observan anticuerpos de tipo IgG frente a varicela por debajo de los niveles protectores y niega haber padecido la enfermedad en el pasado. ¿Cuál es la actitud recomendada con la gestante sabiendo que han pasado 3 días desde el inicio de la exposición?",
+    "stem": "Se diagnostica varicela a un niño de 8 años. Su madre está embarazada de 32 semanas y se le solicita una serología en la que se observan anticuerpos de tipo IgG frente a varicela por debajo de los niveles protectores y niega haber padecido la enfermedad en el pasado. ¿Cuál es la actitud recomendada con la gestante sabiendo que han pasado 3 días desde el inicio de la exposición?",
     "options": [
       "Administrar una dosis de la vacuna frente a varicela.",
       "Forzar la terminación del embarazo para poder vacunarla.",
       "Es tarde para plantear una estrategia de profilaxis post-exposición.",
-      "Administrar gammaglobulinas polivalentes o hiperinmunes. Página: 8 de 33"
+      "Administrar gammaglobulinas polivalentes o hiperinmunes."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 44 del examen MIR de la convocatoria FSE."
+    "explanation": "### Análisis de la pregunta MIR sobre varicela en embarazo\n\n#### Opciones y explicación detallada\n\n- **🟢 Opción D (Correcta):** La administración de gammaglobulinas polivalentes o hiperinmunes es la estrategia recomendada en este caso. Esto se debe a que la madre gestante ha tenido exposición reciente a la varicela y tiene anticuerpos de tipo IgG por debajo de los niveles protectores. La administración de gammaglobulinas puede ayudar a aumentar los niveles de anticuerpos y prevenir la infección en la madre y en el feto. Es importante mencionar que la vacuna frente a la varicela no se recomienda durante el embarazo, especialmente en las últimas semanas de gestación. Por otro lado, forzar la terminación del embarazo no es una opción viable y no es necesario en este caso. La estrategia de profilaxis post-exposición es demasiado tarde ya que han pasado 3 días desde el inicio de la exposición.\n\n- **🔴 Opción A (Incorrecta):** La administración de una dosis de la vacuna frente a varicela no es recomendada durante el embarazo, especialmente en las últimas semanas de gestación. La vacuna puede aumentar el riesgo de complicaciones en el feto y no es efectiva en la prevención de la infección en la madre.\n\n- **🔴 Opción B (Incorrecta):** Forzar la terminación del embarazo no es una opción viable y no es necesario en este caso. La madre gestante no tiene síntomas graves de varicela y la administración de gammaglobulinas es una estrategia más efectiva y segura.\n\n- **🔴 Opción C (Incorrecta):** Es tarde para plantear una estrategia de profilaxis post-exposición. Aunque la profilaxis post-exposición puede ser efectiva en la prevención de la infección en la madre y en el feto, en este caso ya han pasado 3 días desde el inicio de la exposición y no es viable implementar esta estrategia.\n\n#### Perla MIR\n\nLa administración de gammaglobulinas polivalentes o hiperinmunes es la estrategia recomendada en casos de exposición reciente a la varicela en embarazo, especialmente cuando los anticuerpos de tipo IgG están por debajo de los niveles protectores."
   },
   {
     "id": "q-45",
     "localNumber": 45,
     "category": "General",
-    "stem": "En un metaanálisis, el riesgo relativo estimado para la asociación causal entre el uso de mascarilla y la incidencia de SARS -CoV-2 fue de 0,47. ¿Cuál es la interpretación correcta de este resultado?:",
+    "stem": "En un metaanálisis, el riesgo relativo estimado para la asociación causal entre el uso de mascarilla y la incidencia de SARS-CoV-2 fue de 0,47. ¿Cuál es la interpretación correcta de este resultado?",
     "options": [
       "La incidencia de SARS-CoV-2 se reduce un 47% cuando la población usa mascarilla.",
       "No usar mascarilla aumenta un 53% el riesgo de infección por SARS-CoV-2.",
-      "El uso de mascarilla podría evitar 47 de cada 100 casos de SARS -CoV-2 que se dan en personas que no la usan.",
-      "La incidencia de SARS -CoV-2 en la población que no usa mascarilla se reduciría un 53% si la utilizara."
+      "El uso de mascarilla podría evitar 47 de cada 100 casos de SARS-CoV-2 que se dan en personas que no la usan.",
+      "La incidencia de SARS-CoV-2 en la población que no usa mascarilla se reduciría un 53% si la utilizara."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 45 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La opción D es la correcta porque el riesgo relativo (RR) indica la relación entre la probabilidad de una enfermedad en la población expuesta (en este caso, la que no usa mascarilla) y la probabilidad en la población no expuesta (aquella que sí usa mascarilla). Un RR inferior a la unidad (0,47) indica una disminución del riesgo de infección en la población que usa mascarilla. Por lo tanto, si la población que no usa mascarilla tiene un riesgo de infección de 100, la población que usa mascarilla tendría un riesgo de 47. Para encontrar la proporción de reducción de riesgo, podemos calcular la diferencia entre 100 y 47 (53) y expresarla como porcentaje de la población no expuesta (100 - 47 = 53, que es el 53% que representan los casos evitados). \n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque establece que la reducción del riesgo es directamente proporcional al riesgo relativo. Sin embargo, un RR de 0,47 significa que la población que usa mascarilla tiene un 47% de la probabilidad de infección que la población que no usa mascarilla, no que se reduzca la incidencia en un 47%.\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque establece que no usar mascarilla aumenta el riesgo de infección en un 53%, lo cual no es lo mismo que decir que la población que no usa mascarilla tiene un riesgo de infección 53% mayor que la población que sí usa mascarilla. La verdadera cuestión es cuántos casos se evitan al usar mascarilla.\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque establece que el uso de mascarilla podría evitar 47 de cada 100 casos de SARS-CoV-2, lo cual no es una forma precisa de expresar la reducción de riesgo. Un RR de 0,47 significa que la población que usa mascarilla tiene un riesgo de infección 53% menor que la población que no usa mascarilla, no que se eviten 47 casos de cada 100.\n- **Perla MIR:** Un riesgo relativo (RR) inferior a la unidad indica una disminución del riesgo de infección en la población expuesta. Para encontrar la proporción de reducción de riesgo, debemos calcular la diferencia entre 100 y el valor del RR y expresarla como porcentaje de la población no expuesta."
   },
   {
     "id": "q-46",
