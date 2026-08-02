@@ -2747,7 +2747,7 @@
     "id": "q-197",
     "localNumber": 197,
     "category": "Traumatología",
-    "stem": "Hombre de 50 años que acude a la consulta por una lesión pigmentada en su pierna derecha que ha cambiado de tamaño y color en los últimos 4 meses. La lesión es de 8 mm de diámetro, asimétrica, con bordes irregulares y con varias tonalidades de marrón y negro. Además, refiere prurito ocasional en la zona. No tiene antecedentes personales de cáncer, ni otros de interés, pero su madre fue diagnosticada de melanoma a los 60 años. Se realiza una dermatoscopia que revela un patrón de red irregular, puntos negros, áreas de regresión y vasos sanguíneos irregulares . ¿Cuál es el manejo más apropiado?:",
+    "stem": "Hombre de 50 años que acude a la consulta por una lesión pigmentada en su pierna derecha que ha cambiado de tamaño y color en los últimos 4 meses. La lesión es de 8 mm de diámetro, asimétrica, con bordes irregulares y con varias tonalidades de marrón y negro. Además, refiere prurito ocasional en la zona. No tiene antecedentes personales de cáncer, ni otros de interés, pero su madre fue diagnosticada de melanoma a los 60 años. Se realiza una dermatoscopia que revela un patrón de red irregular, puntos negros, áreas de regresión y vasos sanguíneos irregulares.",
     "options": [
       "Biopsia mediante punción de la parte más pigmentada de la lesión para confirmar el diagnóstico.",
       "Biopsia mediante escisión completa con márgenes quirúrgicos de 2 mm y estudio histopatológico.",
@@ -2755,13 +2755,13 @@
       "Terapia fotodinámica para reducir el tamaño de la lesión antes de realizar una biopsia."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 197 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La biopsia mediante escisión completa es la opción más adecuada en este caso debido a la alteración clínica y dermatoscópica de la lesión, que sugiere un melanoma. La escisión completa con márgenes quirúrgicos de 2 mm permite obtener un tejido suficiente para realizar un estudio histopatológico preciso y determinar el grado de malignidad de la lesión. Además, esta opción permite eliminar la lesión y prevenir posibles complicaciones en el futuro.\n- **🔴 Opción A (Incorrecta):** La biopsia mediante punción no es adecuada en este caso debido a la asimetría y los bordes irregulares de la lesión, que sugieren una posible invasión tumorosa. La punción puede no proporcionar un tejido representativo y puede llevar a un diagnóstico erróneo.\n- **🔴 Opción C (Incorrecta):** La monitorización de la lesión con dermatoscopia digital y seguimiento en 3 meses no es adecuada en este caso debido a la velocidad de crecimiento de la lesión y la posible presencia de una invasión tumorosa. El seguimiento puede no ser suficiente para detectar un cambio significativo en la lesión y puede llevar a un retraso en el diagnóstico y el tratamiento.\n- **🔴 Opción D (Incorrecta):** La terapia fotodinámica no es adecuada en este caso debido a la naturaleza de la lesión, que sugiere un melanoma. La terapia fotodinámica se utiliza principalmente para tratar lesiones que no son cancerosas o que tienen un bajo riesgo de malignidad."
   },
   {
     "id": "q-198",
     "localNumber": 198,
     "category": "Pediatría",
-    "stem": "Una lactante prematura de 32 semanas, consulta al mes de nacimiento por 3 hemangiomas infantiles superficiales que han crecido en las 2 últimas semanas en el antebrazo derecho, en el tórax y en la espalda. Respecto a los hemangiomas infantiles que presenta la paciente, señale la respuesta INCORRECTA:",
+    "stem": "Una lactante prematura de 32 semanas, consulta al mes de nacimiento por 3 hemangiomas infantiles superficiales que han crecido en las dos últimas semanas en el antebrazo derecho, en el tórax y en la espalda. Respecto a los hemangiomas infantiles que presenta la paciente, señale la respuesta INCORRECTA:",
     "options": [
       "Tienen 3 fases evolutivas: una fase proliferativa en la que la lesión crece aceleradamente, un periodo de estabilidad y una fase involutiva.",
       "Suponen la única lesión positiva para el marcador GLUT-1 (proteína transportadora de glucosa).",
@@ -2769,35 +2769,35 @@
       "La mayoría de los hemangiomas infantiles tiene un curso clínico predecible por lo que, si no hay compromiso funcional ni estético, una opción válida es no tratar a estos pacientes."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 198 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Es necesario realizar estudios de imagen (la ecografía sería la técnica de elección) por el riesgo aumentado de hemangiomas a nivel visceral. Esto se debe a que los hemangiomas infantiles pueden extenderse a otras partes del cuerpo, como el hígado o los pulmones, especialmente en lactantes prematuras. La ecografía es una técnica de imagen no invasiva que permite evaluar el tamaño y la ubicación de los hemangiomas en otras partes del cuerpo.\n\n- **🔴 Opción A (Incorrecta):** Los hemangiomas infantiles tienen 2 fases evolutivas principales: una fase proliferativa y una fase involutiva. La fase proliferativa es la primera etapa, durante la cual la lesión crece rápidamente. Luego, entra en una fase de estabilidad, después de la cual comienza la involución, la pérdida de volumen y la transformación en una cicatriz. La descripción de 3 fases es incorrecta.\n\n- **🔴 Opción B (Incorrecta):** Los hemangiomas infantiles no son la única lesión positiva para el marcador GLUT-1. Esta proteína también se expresa en otros tipos de células tumorales, como los melanomas y algunos tipos de linfomas. El marcador GLUT-1 es útil para diagnosticar el origen de las células, pero no es exclusivo de los hemangiomas infantiles.\n\n- **🔴 Opción D (Incorrecta):** La mayoría de los hemangiomas infantiles no tienen un curso clínico predecible, y en algunos casos pueden requerir tratamiento para evitar complicaciones. Si no hay compromiso funcional ni estético, la decisión de no tratar a los pacientes es válida, pero no es una opción automática. La decisión de no tratar debe ser individualizada y depender de la evaluación clínica del caso específico.\n\n- La perla MIR: Recuerda que los hemangiomas infantiles pueden ser lesiones benignas, pero requieren una evaluación cuidadosa, especialmente en lactantes prematuras. La ecografía es una herramienta útil para evaluar el riesgo de extensiones a otras partes del cuerpo."
   },
   {
     "id": "q-199",
     "localNumber": 199,
     "category": "General",
-    "stem": "Hombre de 45 años con antecedentes personales de hipertensión arterial, dislipemia, hígado graso y esclerosis múltiple y en tratamiento con fingolimod, enalapril y simvastatina, presenta una psoriasis con afectación de más del 10% de la superficie corporal y un índice de la severidad del área de psoriasis (PASI) de 14. Había realizado previamente tratamiento con acitretina durante 15 meses con escasa mejoría. El paciente pregunta por otra alternativa terapéutica que consiga mejorar su psoriasis. ¿Cuál considera que es la mejor opción de tratamiento?:",
+    "stem": "Hombre de 45 años con antecedentes personales de hipertensión arterial, dislipemia, hígado graso y esclerosis múltiple y en tratamiento con fingolimod, enalapril y simvastatina, presenta una psoriasis con afectación de más del 10% de la superficie corporal y un índice de severidad de la psoriasis (PASI) de 14. Había realizado previamente tratamiento con acitretina durante 15 meses con escasa mejoría. El paciente pregunta por otra alternativa terapéutica que consiga mejorar su psoriasis. ¿Cuál considera que es la mejor opción de tratamiento?",
     "options": [
-      "Fototerapia.",
-      "Biológico con mecanismo de acción anti -TNF (factor de necrosis tumoral).",
-      "Ciclosporina.",
-      "Biológico con mecanismo de acción anti - Interleucina 23."
+      "Fototerapia",
+      "Biológico con mecanismo de acción anti - TNF (factor de necrosis tumoral)",
+      "Ciclosporina",
+      "Biológico con mecanismo de acción anti - Interleucina 23"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 199 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La mejor opción de tratamiento para este paciente sería el biológico con mecanismo de acción anti-interleucina 23 (IL-23). Esto se debe a que el paciente ya ha recibido tratamiento con acitretina durante 15 meses con escasa mejoría, lo que sugiere que la psoriasis de este paciente es resistente a la terapia sintética. Los biológicos que bloquean la IL-23, como risankizumab y mirikizumab, han demostrado ser eficaces en el tratamiento de la psoriasis severa y resistente a la terapia sintética. Además, el paciente ya está tomando fingolimod para la esclerosis múltiple, por lo que es importante elegir un tratamiento que no interactúe con este medicamento.\n\n- **🔴 Opción A (Incorrecta):** La fototerapia no es la mejor opción de tratamiento para este paciente. Si bien la fototerapia puede ser efectiva en el tratamiento de la psoriasis, no es adecuada para pacientes con afectación de más del 10% de la superficie corporal o un PASI superior a 10. Además, el paciente ya ha recibido tratamiento con acitretina durante 15 meses con escasa mejoría, lo que sugiere que la psoriasis de este paciente es resistente a la terapia sintética.\n\n- **🔴 Opción B (Incorrecta):** Los biológicos que bloquean la TNF (factor de necrosis tumoral) pueden ser efectivos en el tratamiento de la psoriasis, pero no son la mejor opción para este paciente. El paciente ya está tomando enalapril y simvastatina para la hipertensión arterial y la dislipemia, respectivamente, por lo que es importante elegir un tratamiento que no interactúe con estos medicamentos. Además, el paciente ya ha recibido tratamiento con acitretina durante 15 meses con escasa mejoría, lo que sugiere que la psoriasis de este paciente es resistente a la terapia sintética.\n\n- **🔴 Opción C (Incorrecta):** La ciclosporina puede ser efectiva en el tratamiento de la psoriasis, pero no es la mejor opción para este paciente. La ciclosporina puede aumentar el riesgo de infecciones y puede interactuar con otros medicamentos, incluyendo el fingolimod que el paciente ya está tomando para la esclerosis múltiple. Además, el paciente ya ha recibido tratamiento con acitretina durante 15 meses con escasa mejoría, lo que sugiere que la psoriasis de este paciente es resistente a la terapia sintética.\n\n**Perla MIR:** La elección del tratamiento para la psoriasis depende de la severidad de la enfermedad, la respuesta al tratamiento previo y la presencia de comorbilidades. Es importante elegir un tratamiento que sea eficaz y seguro para el paciente."
   },
   {
     "id": "q-200",
     "localNumber": 200,
     "category": "General",
-    "stem": "Indique, de los siguientes, ¿cuál es un criterio de malignidad radiológica de los tumores óseos?:",
+    "stem": "Indique, de los siguientes, ¿cuál es un criterio de malignidad radiológica de los tumores óseos?",
     "options": [
-      "Esclerosis perilesional reactiva.",
-      "Presencia de calcificaciones puntiformes en el interior de la estructura ósea.",
-      "Rotura de la cortical ósea.",
-      "Localización epifisaria del tumor por la posibilidad de afectación de la articulación."
+      "Esclerosis perilesional reactiva",
+      "Presencia de calcificaciones puntiformes en el interior de la estructura ósea",
+      "Rotura de la cortical ósea",
+      "Localización epifisaria del tumor por la posibilidad de afectación de la articulación"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 200 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La presencia de calcificaciones puntiformes en el interior de la estructura ósea es un signo radiológico de malignidad en los tumores óseos. Las calcificaciones pueden ser indicativas de una respuesta tisular anormal a la lesión celular, que es un hallazgo común en los tumores malignos.\n\n- **🔴 Opción A (Incorrecta):** La esclerosis perilesional reactiva es un signo radiológico que puede ser observado en ambos tumores benignos y malignos. No está específicamente relacionado con la malignidad.\n\n- **🔴 Opción B (Incorrecta):** La rotura de la cortical ósea puede ser un resultado de la expansión del tumor, pero no es un signo específico de malignidad. Esto puede ocurrir tanto en tumores benignos como malignos.\n\n- **🔴 Opción D (Incorrecta):** La localización epifisaria del tumor por la posibilidad de afectación de la articulación no es un signo de malignidad. La ubicación del tumor no define su comportamiento maligno o benigno.\n\nLa perla MIR para recordar este concepto es: \"Calcificaciones puntiformes = malignidad\"."
   },
   {
     "id": "q-201",
@@ -2807,11 +2807,11 @@
     "options": [
       "En los casos sin manifestaciones sistémicas de la enfermedad es suficiente con tratamiento tópico.",
       "Para el diagnóstico es necesaria la práctica de una serología.",
-      "Si se precisa tratamiento antibiótico, se recomienda azitromicina 500 mg . en una dosis inicial y 250 mg cada 24 horas durante 4 días más.",
+      "Si se precisa tratamiento antibiótico, se recomienda azitromicina 500 mg en una dosis inicial y 250 mg cada 24 horas durante 4 días más.",
       "La mayoría de los casos curan de forma espontánea en semanas o meses sin tratamiento de ningún tipo."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 201 del examen MIR de la convocatoria FSE."
+    "explanation": "\n   - **🟢 Opción B (Correcta):** La opción B es la incorrecta porque, en la enfermedad por arañazo de gato, el diagnóstico generalmente se basa en la clínica y la historia de exposición, como el antecedente de un arañazo por un gato. La serología puede ser útil en algunos casos, pero no es necesaria para el diagnóstico en la mayoría de las situaciones. \n   - **🔴 Opción A (Incorrecta):** Esta opción puede considerarse incorrecta en el contexto de la pregunta porque, aunque los casos sin manifestaciones sistémicas pueden ser manejados con medidas tópicas y de soporte, la afirmación puede llevar a subestimar la importancia de la vigilancia y el seguimiento en busca de signos de progresión o complicaciones.\n   - **🔴 Opción C (Incorrecta):** La opción C es incorrecta en el contexto de la pregunta porque se considera una opción de tratamiento adecuada para la enfermedad por arañazo de gato cuando se requiere tratamiento antibiótico. La azitromicina es efectiva contra *Bartonella henselae*, el agente causal de la enfermedad.\n   - **🔴 Opción D (Incorrecta):** Esta opción, aunque generalmente cierta, no es la respuesta a la pregunta de cuál es la afirmación incorrecta. La mayoría de los casos de enfermedad por arañazo de gato sí curan de forma espontánea, pero la pregunta busca la opción que no sea aplicable o necesaria en el contexto del diagnóstico y manejo de la enfermedad. \n   La perla MIR a recordar es que, en la enfermedad por arañazo de gato, el diagnóstico clínico y la historia de exposición son fundamentales, y no siempre se requiere serología para el diagnóstico."
   },
   {
     "id": "q-202",
