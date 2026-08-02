@@ -23,7 +23,7 @@ export async function GET() {
     return Response.json({ conversations: [] });
   }
 
-  const convIds = convs.map((c) => c.id);
+  const convIds = convs.map((c: any) => c.id);
   const allMsgs = await db
     .select()
     .from(messages)
@@ -36,7 +36,7 @@ export async function GET() {
     previewByConv.set(m.conversationId, cleanPreview(m.content));
   }
 
-  const result: ConversationSummary[] = convs.map((c) => ({
+  const result: ConversationSummary[] = convs.map((c: any) => ({
     id: c.id,
     title: c.title,
     createdAt: c.createdAt.toISOString(),
