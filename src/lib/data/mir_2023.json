@@ -857,7 +857,7 @@
     "id": "q-62",
     "localNumber": 62,
     "category": "General",
-    "stem": "Las siguientes enfer medades sisté micas puede n cursar con síntomas otorrinolaringológicos. Señale aquella que puede afec tar con mayor frecuencia (aproximadamente 70-80 % de los c asos) a la cavidad nasal, la cavidad bucal y la orofaringe, y que en la mitad de los casos puede existi r también afectación laríngea:",
+    "stem": "Las siguientes enfermedades sistémicas pueden cursar con síntomas otorrinolaringológicos. Señale aquella que puede afectar con mayor frecuencia (aproximadamente 70-80 % de los casos) a la cavidad nasal, la cavidad bucal y la orofaringe, y que en la mitad de los casos puede existir también afectación laríngea:",
     "options": [
       "Penfigoide.",
       "Policondritis recidivante.",
@@ -865,55 +865,55 @@
       "Pénfigo."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 62 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La sarcoidosis es una enfermedad sistémica de origen desconocido que puede afectar a cualquier órgano del cuerpo. La forma cutánea es la más común, pero también puede afectar a los pulmones, hígado, riñones, corazón, sistema nervioso, ojos, piel, ganglios linfáticos y otros órganos. La afectación de la cavidad nasal, la cavidad bucal y la orofaringe es frecuente en la sarcoidosis, y en aproximadamente la mitad de los casos también se produce afectación laríngea. Esto se debe a la capacidad de la enfermedad para afectar a los tejidos linfáticos y a los órganos del sistema respiratorio. Por lo tanto, la sarcoidosis es la opción correcta en este caso.\n\n- **🔴 Opción A (Incorrecta):** El penfigoide es una enfermedad autoinmune que afecta a la piel y puede producir úlceras y áreas de erupción. No está relacionada con la afectación de la cavidad nasal, la cavidad bucal y la orofaringe, ni con la afectación laríngea. Por lo tanto, no es la opción correcta.\n\n- **🔴 Opción B (Incorrecta):** La policondritis recidivante es una enfermedad inflamatoria que afecta a las articulaciones y puede producir dolor y rigidez en las articulaciones. No está relacionada con la afectación de la cavidad nasal, la cavidad bucal y la orofaringe, ni con la afectación laríngea. Por lo tanto, no es la opción correcta.\n\n- **🔴 Opción D (Incorrecta):** El pénfigo es una enfermedad autoinmune que afecta a la piel y puede producir úlceras y áreas de erupción. No está relacionada con la afectación de la cavidad nasal, la cavidad bucal y la orofaringe, ni con la afectación laríngea. Por lo tanto, no es la opción correcta.\n\nLa perla MIR: La sarcoidosis es una enfermedad sistémica que puede afectar a cualquier órgano del cuerpo, incluyendo la cavidad nasal, la cavidad bucal y la orofaringe, y en aproximadamente la mitad de los casos también puede producir afectación laríngea."
   },
   {
     "id": "q-63",
     "localNumber": 63,
     "category": "General",
-    "stem": "Hombre de 4 8 años, profesor universitario, que refiere sufrir problem as c on la voz de sde hace varios años, que han empeorado progresivamente y que consis ten e n voz áspera y f orzada, co n posibles c ambios de ton o, cansancio y fa tiga al hablar. En la expl oración fibrovideoendoscópica faringolaríngea no se observan lesiones or gánicas en las cuerdas vocales, pero sí una disminución del diámetro anteroposterior del v estíbulo la ríngeo durante l a fonación. El diagnóstico má s probable del trastorno vocal que padece este paciente es:",
+    "stem": "Un hombre de 48 años, profesor universitario, que refiere sufrir problemas con la voz desde hace varios años, que han empeorado progresivamente y que consisten en voz áspera y forzada, con posibles cambios de tono, cansancio y fatiga al hablar. En la exploración fibrovideoendoscópica faringolaríngea no se observan lesiones orgánicas en las cuerdas vocales, pero sí una disminución del diámetro anteroposterior del vestíbulo laríngeo durante la fonación.",
     "options": [
       "Parálisis abductora laríngea.",
       "Disfonía espasmódica.",
       "Distonía de la musculatura extrínseca laríngea.",
-      "Disfonía por tensión muscular. (--MEDICINA-0--11/36) Pagina: 9 de 34"
+      "Disfonía por tensión muscular."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 63 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La disfonía espasmódica se caracteriza por una voz áspera y forzada debido a espasmos involuntarios de las cuerdas vocales, lo que se refleja en la disminución del diámetro anteroposterior del vestíbulo laríngeo durante la fonación. Esta condición se asocia con esfuerzos repetitivos y emocionales, lo que coincide con la historia del paciente.\n- **🔴 Opción A (Incorrecta):** La parálisis abductora laríngea se refiere a la parálisis de la múscula laríngea posterior, lo que no se observó en la exploración endoscópica.\n- **🔴 Opción C (Incorrecta):** La distonía de la musculatura extrínseca laríngea se refiere a una disfunción de los músculos que controlan la voz, pero no se mencionan síntomas relacionados con esta condición.\n- **🔴 Opción D (Incorrecta):** La disfonía por tensión muscular se refiere a una disfunción vocal debido a tensión en los músculos de la laringe, pero no se mencionan síntomas relacionados con esta condición.\nLa clave para esta pregunta es identificar la relación entre los síntomas vocales del paciente y la disminución del diámetro anteroposterior del vestíbulo laríngeo durante la fonación, lo que se asocia con la disfonía espasmódica."
   },
   {
     "id": "q-64",
     "localNumber": 64,
     "category": "General",
-    "stem": "¿En cu ál de las si guientes pacientes NO estaría indicada la rea lización d e un a his teroscopia diagnóstica como primera línea de estudio?:",
+    "stem": "¿En cuál de las siguientes pacientes no estaría indicada la realización de una histeroscopia diagnóstica como primera línea de estudio?",
     "options": [
-      "Mujer de 32 años con estudio ecográfico normal, episodios d e d ismenorrea grav e y esterilidad primaria.",
-      "Mujer de 70 a ños con metrorragia postmenopáusica de 1 mes de evolución.",
-      "Mujer de 4 5 años c on hemorragia uterina anormal cíclica de 6 meses de evolución.",
-      "Mujer de 4 3 años c on hemorragia uterina anormal acíclica y sospecha ecográfica de mioma tipo 2 de la FIGO."
+      "Mujer de 32 años con estudio ecográfico normal, episodios de dismenorrea grave y esterilidad primaria.",
+      "Mujer de 70 años con metrorragia postmenopáusica de 1 mes de evolución.",
+      "Mujer de 45 años con hemorragia uterina anormal cíclica de 6 meses de evolución.",
+      "Mujer de 43 años con hemorragia uterina anormal acíclica y sospecha ecográfica de mioma tipo 2 de la FIGO."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 64 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La histeroscopia diagnóstica no es necesaria en esta paciente porque ya tiene un estudio ecográfico normal. Además, se trata de una mujer de 32 años con dismenorrea grave y esterilidad primaria, lo que sugiere una posible causa hormonal. Una histeroscopia puede ser considerada en caso de que se sospeche una causa localizada, pero en este caso, la ecografía ya ha sido realizada y no ha encontrado ninguna anomalía. Por lo tanto, no hay indicación para una histeroscopia como primera línea de estudio en esta paciente.\n\n- **🔴 Opción B (Incorrecta):** La histeroscopia diagnóstica puede ser indicada en esta paciente porque se trata de una mujer de 70 años con metrorragia postmenopáusica de 1 mes de evolución. Aunque la metrorragia postmenopáusica es más común en mujeres en menopausia, puede ocurrir en cualquier edad. Una histeroscopia puede ayudar a identificar la causa de la metrorragia y a planificar el tratamiento adecuado.\n\n- **🔴 Opción C (Incorrecta):** La histeroscopia diagnóstica puede ser indicada en esta paciente porque se trata de una mujer de 45 años con hemorragia uterina anormal cíclica de 6 meses de evolución. La histeroscopia puede ayudar a identificar la causa de la hemorragia y a planificar el tratamiento adecuado. Además, la edad de la paciente es lo suficientemente joven como para considerar la posibilidad de una causa localizada.\n\n- **🔴 Opción D (Incorrecta):** La histeroscopia diagnóstica puede ser indicada en esta paciente porque se trata de una mujer de 43 años con hemorragia uterina anormal acíclica y sospecha ecográfica de mioma tipo 2 de la FIGO. La histeroscopia puede ayudar a confirmar el diagnóstico de mioma y a planificar el tratamiento adecuado. Además, la edad de la paciente es lo suficientemente joven como para considerar la posibilidad de una causa localizada.\n\nLa perla MIR es que la histeroscopia diagnóstica no es necesaria en pacientes con estudios ecográficos normales y sin síntomas graves."
   },
   {
     "id": "q-65",
     "localNumber": 65,
     "category": "Ginecología y Obstetricia",
-    "stem": "Mu jer de 17 años que c onsulta porque no tiene la menstruación desde hace 7 meses . No re fiere antecedentes de interés ni otra sintomatología. No ha acudido antes porque estaba entrenando en un centro de portivo de alto rendimien to. Tuvo la menarquia a los 13 años, ciclos muy irre gulares, sin dismenor rea y una interrupción l egal del embarazo a l os 16 añ os. La an alítica muestr a hemograma normal, FSH <0 ,1 U/L, LH <0,1 U/L, estradiol <5,0 pg/mL, TSH 1,56 mU/L. ¿Cuál de los siguientes es el di agnóstico más probable y la actitud a seguir?:",
+    "stem": "Una mujer de 17 años consulta porque no tiene la menstruación desde hace 7 meses. No refiere antecedentes de interés ni otra sintomatología. No ha acudido antes porque estaba entrenando en un centro deportivo de alto rendimiento. Tuvo la menarquia a los 13 años, ciclos muy irregulares, sin dismenorrea y una interrupción legal del embarazo a los 16 años. La análisis muestr a hemograma normal, FSH < 0,1 U/L, LH < 0,1 U/L, estradiol < 5,0 pg/mL, TSH 1,56 mU/L.",
     "options": [
-      "Fallo ovárico prematuro, po r lo que le p auta terapia hormon al su stitutiva y control en 3 meses.",
-      "Síndrome d e Asherman, por l o q ue i ndica una histeroscopia.",
-      "Amenorrea c entral hipofisaria (sí ndrome de Sheehan), por l o que s olicita resonancia magnética cerebral para confirmar el diagnóstico y pautar tratamiento sustitutivo.",
+      "Fallo ovárico prematuro, por lo que le pauta terapia hormonal sustitutiva y control en 3 meses.",
+      "Síndrome de Asherman, por lo que indica una histeroscopia.",
+      "Amenorrea central hipofisaria (síndrome de Sheehan), por lo que solicita resonancia magnética cerebral para confirmar el diagnóstico y pautar tratamiento sustitutivo.",
       "Amenorrea central hipotalámica funcional, por lo que solicita resonancia magnética para descartar otras patologías."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 65 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La paciente tiene una amenorrea secundaria, ya que anteriormente tuvo la menarquia a los 13 años. El hecho de que el FSH, LH y estradiol estén muy bajos (< 0,1 U/L y < 5,0 pg/mL, respectivamente) sugiere un problema de producción de hormonas sexuales. El TSH está dentro de los límites normales, lo que descarta una disfunción tiroidea. El fallo ovárico prematuro es una causa común de amenorrea secundaria en adolescentes, y se trata con terapia hormonal sustitutiva. La resonancia magnética cerebral no es necesaria en este caso, ya que no hay indicación de una lesión cerebral o una disfunción hipofisaria. Por lo tanto, la opción A es la más adecuada.\n\n- **🔴 Opción B (Incorrecta):** El síndrome de Asherman se caracteriza por la presencia de adhesiones en el útero, lo que puede causar una amenorrea secundaria. Sin embargo, en este caso no hay antecedentes de parto o aborto, lo que hace menos probable esta causa. Además, la histeroscopia no es una prueba adecuada para diagnosticar el síndrome de Asherman en este contexto.\n\n- **🔴 Opción C (Incorrecta):** El síndrome de Sheehan es una condición rara que se caracteriza por una lesión hipofisaria secundaria a un parto hemorrágico. La resonancia magnética cerebral no es necesaria en este caso, ya que no hay indicación de una lesión cerebral o una disfunción hipofisaria. Además, el FSH, LH y estradiol están muy bajos, lo que sugiere un problema de producción de hormonas sexuales, más que una lesión hipofisaria.\n\n- **🔴 Opción D (Incorrecta):** La amenorrea central hipotalámica funcional es una causa rara de amenorrea secundaria. La resonancia magnética no es necesaria en este caso, ya que no hay indicación de una lesión cerebral o una disfunción hipotalámica. Además, el FSH, LH y estradiol están muy bajos, lo que sugiere un problema de producción de hormonas sexuales, más que una disfunción hipotalámica.\n\nLa perla MIR es: \"En el examen MIR, es importante considerar la edad de la paciente, su historia clínica y los resultados de las pruebas de laboratorio para diagnosticar correctamente la causa de la amenorrea secundaria.\""
   },
   {
     "id": "q-66",
     "localNumber": 66,
     "category": "Ginecología y Obstetricia",
-    "stem": "A una de s us pacien tes, primi gesta, s e le ha practicado un a eco grafía de rut ina a las 20 semanas de gestación que ha detectado un mioma en su úter o que parece haber crecido bas tante respecto a l as previas. Está mu y preoc upada por las posibles secuelas que este tumor pueda tener en el resultado d e su embarazo. Usted le in forma de que todas l as si guientes complicaci ones pueden ocurrir en el embarazo como c onsecuencia de l os miomas uterinos, EXCEPTO:",
+    "stem": "A una de sus pacientes, primera gestante, se le ha practicado una ecografía de rutina a las 20 semanas de gestación que ha detectado un mioma en su útero que parece haber crecido bastante respecto a las previas. Está muy preocupada por las posibles secuelas que este tumor pueda tener en el resultado de su embarazo. Usted le informa de que todas las siguientes complicaciones pueden ocurrir en el embarazo como consecuencia de los miomas uterinos, EXCEPTO:",
     "options": [
       "Necrosis y degeneración de los miomas.",
       "Malposición fetal.",
@@ -921,7 +921,7 @@
       "Parto pretérmino."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 66 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La malposición fetal no está directamente relacionada con la presencia de miomas uterinos. La malposición fetal se refiere a la posición anormal del feto en el útero, que puede ser causada por varias razones, pero no está directamente asociada con los miomas uterinos. Por lo tanto, esta es la opción correcta.\n\n- **🔴 Opción A (Incorrecta):** La necrosis y degeneración de los miomas pueden ocurrir como consecuencia de la crecimiento excesivo de los miomas durante el embarazo, lo que puede causar dolor y hemorragia. Por lo tanto, esta es una posible complicación del embarazo en presencia de miomas uterinos.\n\n- **🔴 Opción C (Incorrecta):** La progresión a leiomiosarcoma es un riesgo potencial para los miomas uterinos, ya que un pequeño porcentaje de miomas pueden transformarse en leiomiosarcoma, un tipo de cáncer uterino. Por lo tanto, esta es una posible complicación del embarazo en presencia de miomas uterinos.\n\n- **🔴 Opción D (Incorrecta):** El parto pretérmino puede ocurrir en presencia de miomas uterinos, especialmente si el mioma crece significativamente durante el embarazo y causa dolor y hemorragia. Por lo tanto, esta es una posible complicación del embarazo en presencia de miomas uterinos.\n\nLa perla MIR: 'Miomas uterinos pueden causar necrosis, degeneración, progresión a leiomiosarcoma y parto pretérmino, EXCEPTO la malposición fetal'."
   },
   {
     "id": "q-67",
