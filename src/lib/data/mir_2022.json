@@ -2453,71 +2453,71 @@
     "id": "q-177",
     "localNumber": 177,
     "category": "Cardiología",
-    "stem": "Varón de 45 años, no fumador y no consume alcohol, que consulta por disnea pro gresiva de dos meses de evolución. Exploración física: afe- bril, frecuencia respiratoria 19 rpm, frecuencia cardiaca 120 lpm, SatO2 93 %. Lesiones cutá- neas de aspecto ulceroso en palmas y d e d o s d e las manos; estertores crepitantes en ambas bases pulmonares; fuerza muscular normal. Análisis: CK 300 UI/L (N: <150) y aldolasa 12 UI/L (N: <6 ). Radiografía de tórax: patrón intersticial biba- sal. Una biopsia muscular evidenció necrosis de células musculares, atrofia perifascicular e infil- trados inflamatorios perivasculares. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "stem": "Varón de 45 años, no fumador y no consume alcohol, que consulta por disnea progresiva de dos meses de evolución. Exploración física: afebril, frecuencia respiratoria 19 rpm, frecuencia cardiaca 120 lpm, SatO2 93%. Lesiones cutáneas de aspecto ulceroso en palmas y dedos de las manos; estertores crepitantes en ambas bases pulmonares; fuerza muscular normal. Análisis: CK 300 UI/L (N: <150) y aldolasa 12 UI/L (N: <6). Radiografía de tórax: patrón intersticial bibasal. Una biopsia muscular evidenció necrosis de células musculares, atrofia perifascicular e infiltrados inflamatorios perivasculares.",
     "options": [
-      "Dermatomiositis asociada al autoanticuerpo anti-TIF1-gamma ( transcription intermediary factor 1-gamma).",
-      "Miopatía inflamatoria idiopática asociada al autoanticuerpo anti-FHL-1 ( Four and a hal f LIM domains 1).",
-      "Dermatomiositis asociada al autoanticuerpo anti-MDA-5 ( melanoma di ﬀerentiation- associated gen 5).",
+      "Dermatomiositis asociada al autoanticuerpo anti-TIF1-gamma (transcripción intermedia factor 1-gamma).",
+      "Miopatía inflamatoria idiopática asociada al autoanticuerpo anti-FHL-1 (Four and a half LIM dominios 1).",
+      "Dermatomiositis asociada al autoanticuerpo anti-MDA-5 (melanoma diferenciación- asociado gen 5).",
       "Miopatía miofibrilar asociada al anticuerpo anti-desmina."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 177 del examen MIR de la convocatoria FSE."
+    "explanation": "La respuesta correcta es **🟢 Opción C (Correcta):** Dermatomiositis asociada al autoanticuerpo anti-MDA-5 (melanoma diferenciación-asociado gen 5). Esto se debe a que las lesiones cutáneas ulcerosas en palmas y dedos de las manos, así como la presencia de estertores crepitantes en ambas bases pulmonares, son características clínicas de la dermatomiositis. La elevación de la creatina cinasa (CK) y la presencia de necrosis de células musculares, atrofia perifascicular e infiltrados inflamatorios perivasculares en la biopsia muscular, también son compatibles con esta condición. La dermatomiositis asociada al autoanticuerpo anti-MDA-5 es una subforma de la dermatomiositis que se caracteriza por una mayor frecuencia y gravedad de la enfermedad, incluyendo la presencia de estertores crepitantes y afectación pulmonar. Las otras opciones no son adecuadas en este caso porque la dermatomiositis asociada al autoanticuerpo anti-TIF1-gamma y la miopatía inflamatoria idiopática asociada al autoanticuerpo anti-FHL-1 son subformas diferentes de la dermatomiositis y la miopatía, respectivamente, que no se caracterizan por la misma combinación de síntomas y hallazgos clínicos. La miopatía miofibrilar asociada al anticuerpo anti-desmina es una condición diferente que se caracteriza por la afectación de los fibras musculares y no por la presencia de lesiones cutáneas ulcerosas o estertores crepitantes."
   },
   {
     "id": "q-178",
     "localNumber": 178,
     "category": "General",
-    "stem": "Varón de 56 años, que acude para control de su diabetes mellitus tipo 2. En tratamiento con met- formina 850 mg dos veces al día desde hace ocho semanas. Refiere encontra rse bien, sin poliuria ni polidipsia, con controles glucémicos entre 140- 180 mg/dL. Su última HbA1c fue 7,7 %. Explo- ración física: tensión arterial 137/86 mmH g y pulso 74 lpm. El fondo de o jo revela retinopatía proliferativa leve. En el sedimento urinario se observa microalbuminuria de 180 mg/g creatini- na. ¿Cuál es el siguiente paso más adecuado?:",
+    "stem": "Varón de 56 años que acude para control de su diabetes mellitus tipo 2. En tratamiento con metformina 850 mg dos veces al día desde hace ocho semanas. Refiere encontrarse bien, sin poliuria ni polidipsia, con controles glucémicos entre 140-180 mg/dL. Su última HbA1c fue 7,7 %. Exploración física: tensión arterial 137/86 mmHg y pulso 74 lpm. El fondo de ojo revela retinopatía proliferativa leve. En el sedimento urinario se observa microalbuminuria de 180 mg/g creatinina. ¿Cuál es el siguiente paso más adecuado?",
     "options": [
-      "Estudio de orina de 24 horas para determina- ción de proteínas y creatinina.",
+      "Estudio de orina de 24 horas para determinación de proteínas y creatinina.",
       "Indicar una ecografía renal.",
       "Iniciar tratamiento con antagonistas del calcio.",
       "Iniciar tratamiento con IECAs."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 178 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Iniciar tratamiento con IECAs (Inhibidores de la Esterasa de la Angiotensina) es el siguiente paso más adecuado en este caso. La presencia de microalbuminuria (180 mg/g creatinina) en un paciente con diabetes mellitus tipo 2 y retinopatía proliferativa leve indica un alto riesgo de progresión a nefropatía diabética. Los IECAs han demostrado reducir significativamente la tasa de progresión de la enfermedad renal en pacientes con diabetes mellitus tipo 2 y microalbuminuria. Por lo tanto, iniciar tratamiento con IECAs es el paso más adecuado para prevenir la progresión de la enfermedad renal en este paciente.\n\n- **🔴 Opción A (Incorrecta):** Un estudio de orina de 24 horas para determinación de proteínas y creatinina no es necesario en este caso, ya que la microalbuminuria ya se ha detectado en el sedimento urinario. Además, un estudio de orina de 24 horas no proporcionaría información adicional útil en este contexto.\n\n- **🔴 Opción B (Incorrecta):** Una ecografía renal no es necesaria en este caso, ya que no hay indicios de lesiones o enfermedades renales que requieran una exploración más detallada. Además, una ecografía renal no proporcionaría información sobre la función renal o la presencia de microalbuminuria.\n\n- **🔴 Opción C (Incorrecta):** Iniciar tratamiento con antagonistas del calcio no es adecuado en este caso, ya que no hay indicaciones de hipercalcemia o enfermedades óseas que requieran un tratamiento con antagonistas del calcio. Además, los antagonistas del calcio no han demostrado reducir la tasa de progresión de la enfermedad renal en pacientes con diabetes mellitus tipo 2 y microalbuminuria."
   },
   {
     "id": "q-179",
     "localNumber": 179,
     "category": "Nefrología",
-    "stem": "Mujer de 65 años que consulta por hipercoleste- rolemia. Niega antecedentes personales o fami- liares de dislipemia. En la analítica destaca: colesterol total 500 m g/dL, colesterol LDL 350 mg/ d L , H D L 3 8 mg/dL y t r iglicéridos 206 mg/dL. Resto de análisis y hormonas tiroideas normales, salvo proteínas totales 5,9 g/dL (N: 6,4-8,3) y albúmina 3 g/dL (N: 3,5-5). Orina ele- mental con relación albúmina/creatinina de 2.000 m g/g y proteinuria +++. En el examen físico no hay xantomas ni arco corneal, sí discre- tos edemas maleolares. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "stem": "Mujer de 65 años que consulta por hipercolesterolemia. Niega antecedentes personales o familiares de dislipemia. En la analítica destaca: colesterol total 500 mg/dL, colesterol LDL 350 mg/dL, HDL 38 mg/dL y triglicéridos 206 mg/dL. Resto de análisis y hormonas tiroideas normales, salvo proteínas totales 5,9 g/dL (N: 6,4-8,3) y albúmina 3 g/dL (N: 3,5-5). Orina elemental con relación albúmina/creatinina de 2.000 mg/g y proteinuria ++++. En el examen físico no hay xantomas ni arco corneal, sí discretos edemas maleolares. ¿Cuál de los siguientes es el diagnóstico más probable?",
     "options": [
       "Dislipemia secundaria a un síndrome nefrótico.",
       "Hipercolesterolemia familiar heterocigota.",
       "Hipercolesterolemia familiar homocigota.",
-      "Hipercolesterolemia familiar recesiva por afec- tación del gen LDLRAP1."
+      "Hipercolesterolemia familiar recesiva por afectación del gen LDLRAP1."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 179 del examen MIR de la convocatoria FSE."
+    "explanation": "Para abordar esta pregunta, debemos considerar cada opción individualmente:\n\n**🟢 Opción A (Correcta):** La dislipemia secundaria a un síndrome nefrótico es la opción más probable. La paciente presenta niveles altos de proteínas totales y albúmina en orina, lo que sugiere la presencia de un síndrome nefrótico. Además, la disminución de la albúmina sérica (3 g/dL) y la elevación de la albúmina en orina (2.000 mg/g) respaldan esta hipótesis. La hipercolesterolemia severa y la falta de antecedentes familiares de dislipemia apoyan la idea de que la dislipemia es secundaria a un síndrome nefrótico. Por tanto, la Opción A es la respuesta correcta.\n\n**🔴 Opción B (Incorrecta):** La hipercolesterolemia familiar heterocigota no es la opción más probable en este caso. La paciente no tiene antecedentes familiares de dislipemia, lo que reduce la probabilidad de una enfermedad familiar. Además, la dislipemia es severa y no se ajusta a la distribución típica de la hipercolesterolemia familiar heterocigota.\n\n**🔴 Opción C (Incorrecta):** La hipercolesterolemia familiar homocigota tampoco es la opción más probable. La paciente no tiene antecedentes familiares de dislipemia, lo que reduce la probabilidad de una enfermedad familiar. Además, la dislipemia es severa y no se ajusta a la distribución típica de la hipercolesterolemia familiar homocigota.\n\n**🔴 Opción D (Incorrecta):** La hipercolesterolemia familiar recesiva por afectación del gen LDLRAP1 no es la opción más probable en este caso. La paciente no tiene antecedentes familiares de dislipemia, lo que reduce la probabilidad de una enfermedad familiar. Además, la dislipemia es severa y no se ajusta a la distribución típica de esta enfermedad.\n\nLa perla MIR es: 'La dislipemia secundaria a un síndrome nefrótico es una causa importante de hipercolesterolemia en la vida adulta'."
   },
   {
     "id": "q-180",
     "localNumber": 180,
     "category": "General",
-    "stem": "¿Qué tipo de deseos del paciente NO pueden atenderse en una planifi cación anticipada de decisiones (o planificación compartida de la atención)?:",
+    "stem": "¿Qué tipo de deseos del paciente NO pueden atenderse en una planificación anticipada de decisiones (o planificación compartida de la atención)?",
     "options": [
       "Rechazo de intervenciones con riesgo vital.",
       "Donación de órganos.",
       "Rechazo de intervenciones sin riesgo vital.",
-      "Instauración de intervenciones fútiles, sin indi- cación clínica."
+      "Instauración de intervenciones fútiles, sin indicación clínica."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 180 del examen MIR de la convocatoria FSE."
+    "explanation": "## Planificación Anticipada de Decisiones\n\n### ¿Qué tipo de deseos del paciente NO pueden atenderse?\n\nLa planificación anticipada de decisiones es un proceso en el que se discuten y se toman decisiones sobre el tratamiento y la atención del paciente con enfermedades crónicas o en etapas avanzadas.\n\n- **🟢 Opción D (Correcta):** Instauración de intervenciones fútiles, sin indicación clínica. Esto se debe a que la planificación anticipada de decisiones se enfoca en discutir y tomar decisiones sobre intervenciones que sean relevantes y necesarias para el paciente, y no en instaurar intervenciones que no tengan un beneficio clínico para el paciente.\n\n- **🔴 Opción A (Incorrecta):** Rechazo de intervenciones con riesgo vital. Si bien es cierto que las intervenciones con riesgo vital deben ser discutidas con el paciente y su familia, la planificación anticipada de decisiones no es solo sobre rechazar intervenciones, sino también sobre discutir y tomar decisiones sobre el tratamiento y la atención del paciente.\n\n- **🔴 Opción B (Incorrecta):** Donación de órganos. La donación de órganos es un tema complejo y delicado que debe ser discutido con el paciente y su familia. La planificación anticipada de decisiones puede incluir la discusión sobre la donación de órganos, por lo que esta opción no es la correcta.\n\n- **🔴 Opción C (Incorrecta):** Rechazo de intervenciones sin riesgo vital. Similar a la opción A, la planificación anticipada de decisiones no se enfoca solo en rechazar intervenciones, sino también en discutir y tomar decisiones sobre el tratamiento y la atención del paciente.\n\n### Perla MIR\n\nLa planificación anticipada de decisiones se enfoca en discutir y tomar decisiones sobre intervenciones relevantes y necesarias para el paciente, y no en instaurar intervenciones fútiles o sin indicación clínica."
   },
   {
     "id": "q-181",
     "localNumber": 181,
     "category": "Infecciosas",
-    "stem": "Mujer de 89 años, institucionalizada en residen- cia desde hace 5 años por demencia tipo Alzhei- mer de 8 años de evolución. Es dependiente para todas las actividades bá sicas de la vida diaria y presenta deterioro co gnitivo grave. No reconoce a sus familiares ni es capaz de emitir len guaje. Ingresa por un cuadro de infección respiratoria de mecanismo aspirativo. Tras completar un ciclo antibiótico evoluciona favorablemente pero al intentar reintroducir la in gesta oral persiste disfagia con riesgo alto de aspiración. El médico responsable propone a los hijos no iniciar estra- tegias de alimentación enteral por sondas, sino dejar la enfermedad a su evolución natural, rea- lizando un tratamiento sintomático de eventuales complicaciones. ¿Qué concepto ético sub yace a esta decisión clínica?:",
+    "stem": "Mujer de 89 años, institucionalizada en residencia desde hace 5 años por demencia tipo Alzheimer de 8 años de evolución. Es dependiente para todas las actividades básicas de la vida diaria y presenta deterioro cognitivo grave. No reconoce a sus familiares ni es capaz de emitir lenguaje. Ingresa por un cuadro de infección respiratoria de mecanismo aspirativo. Tras completar un ciclo antibiótico evoluciona favorablemente pero al intentar reintroducir la ingestión oral persiste disfagia con riesgo alto de aspiración. El médico responsable propone a los hijos no iniciar estrategias de alimentación enteral por sondas, sino dejar la enfermedad a su evolución natural, realizando un tratamiento sintomático de eventuales complicaciones.",
     "options": [
       "Rechazo al tratamiento.",
       "Eutanasia activa.",
-      "Limitación de esfuerzo terapéutico.",
+      "Limitación de esfuerzos terapéuticos.",
       "Obstinación terapéutica."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 181 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La decisión del médico responsable se basa en la limitación de esfuerzos terapéuticos. Esto se refiere a la decisión de no continuar con un tratamiento que no ofrece beneficios significativos para el paciente, en este caso, la alimentación enteral por sondas. La limitación de esfuerzos terapéuticos es un concepto ético que se aplica en situaciones en las que el tratamiento no es beneficioso para el paciente y puede generar más daño que beneficio. En este caso, el tratamiento propuesto no es beneficioso para la paciente y puede generar complicaciones adicionales, por lo que la decisión del médico es la adecuada desde un punto de vista ético.\n\n- **🔴 Opción A (Incorrecta):** El rechazo al tratamiento no es el concepto ético subyacente en esta decisión. La decisión del médico no se basa en el rechazo del tratamiento, sino en la limitación de esfuerzos terapéuticos.\n\n- **🔴 Opción B (Incorrecta):** La eutanasia activa no es el concepto ético subyacente en esta decisión. La eutanasia activa se refiere a la acción de eliminar la vida de un paciente con intención de aliviar su sufrimiento, lo que no es lo mismo que la limitación de esfuerzos terapéuticos. En este caso, la decisión del médico se basa en la limitación de esfuerzos terapéuticos, no en eliminar la vida de la paciente.\n\n- **🔴 Opción D (Incorrecta):** La obstinación terapéutica no es el concepto ético subyacente en esta decisión. La obstinación terapéutica se refiere a la insistencia en un tratamiento que no es beneficioso para el paciente, lo que no es lo mismo que la limitación de esfuerzos terapéuticos. En este caso, la decisión del médico se basa en la limitación de esfuerzos terapéuticos, no en insistir en un tratamiento que no es beneficioso.\n\nLa perla MIR: 'Limitar esfuerzos terapéuticos' es un concepto clave en medicina que implica priorizar la calidad de vida del paciente sobre la prolongación de su vida a través de tratamientos invasivos o poco efectivos. Es importante considerar la calidad de vida del paciente y evitar tratamientos que puedan generar más daño que beneficio."
   },
   {
     "id": "q-182",
