@@ -1975,21 +1975,21 @@
     "id": "q-142",
     "localNumber": 142,
     "category": "Cardiología",
-    "stem": "Valora en la consulta a una paciente de 56 años por un cuadro de unos 10 días de fe- brícula, bocio de pequeño tamaño, leve- mente doloroso a la presión y que muestra un aumento de la vascularización tiroidea en la ecografía. Está ansiosa, levemente su- dorosa. Su frecuencia cardíaca es de 100 la- tidos por minuto y su presión arterial de 145/75 mmHg ¿Cuál de las siguientes com- binaciones de hallazgos complementarios esperaría según su sospecha diagnóstica?:",
+    "stem": "La paciente de 56 años acude a consulta por un cuadro de unos 10 días de fiebre, bocio de pequeño tamaño, ligeramente doloroso a la presión y que muestra un aumento de la vascularización tiroidea en la ecografía. Está ansiosa, ligeramente sudorosa. Su frecuencia cardíaca es de 100 latidos por minuto y su presión arterial de 145/75 mmHg. ¿Cuál de las siguientes combinaciones de hallazgos complementarios esperaría según su sospecha diagnóstica?",
     "options": [
-      "TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides negativos e hipo- captación de iodo en la gammagrafía tiroi- dea.",
-      "TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides positivos e hiper- captación de iodo en la gammagrafía tiroi- dea.",
-      "TSH elevada, T4 libre elevada, anticuer- pos estimulantes del tiroides negativos e hipercaptación de iodo en la gammagrafía tiroidea.",
-      "TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides positivos e hipo- captación de iodo en la gammagrafía tiroi- dea."
+      "TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides negativos e hipocaptación de iodo en la gammagrafía tiroidea.",
+      "TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides positivos e hiper captación de iodo en la gammagrafía tiroidea.",
+      "TSH elevada, T4 libre elevada, anticuerpos estimulantes del tiroides negativos e hipercaptación de iodo en la gammagrafía tiroidea.",
+      "TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides positivos e hipocaptación de iodo en la gammagrafía tiroidea."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 142 del examen MIR de la convocatoria FSE."
+    "explanation": "### Diagnóstico clínico y laboratorio\n\nEl paciente presenta síntomas de fiebre, bocio y aumento de vascularización tiroidea, lo que sugiere una enfermedad tiroidea. La frecuencia cardíaca elevada y la presión arterial alta pueden estar relacionadas con el estrés o la ansiedad.\n\n### Opción A (Correcta)\n* **🟢 Opción A (Correcta):** La combinación de TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides negativos e hipocaptación de iodo en la gammagrafía tiroidea es consistente con un caso de **tiroides autónoma**, donde el bocio puede ser doloroso a la presión y la vascularización aumentada en la ecografía. La TSH baja y el aumento de T4 libre sugieren una producción excesiva de hormonas tiroideas. La hipocaptación de iodo en la gammagrafía tiroidea es característica de la enfermedad tiroidea autónoma.\n\n### Opciones incorrectas\n* **🔴 Opción B (Incorrecta):** La combinación de TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides positivos e hiper captación de iodo en la gammagrafía tiroidea es inconsistente con el caso presentado, ya que la hiper captación de iodo es típica de la enfermedad tiroidea autoimmune, como la tiroides autoinmune.\n\n* **🔴 Opción C (Incorrecta):** La combinación de TSH elevada, T4 libre elevada, anticuerpos estimulantes del tiroides negativos e hipercaptación de iodo en la gammagrafía tiroidea es inconsistent con el caso presentado, ya que la hipercaptación de iodo es típica de la enfermedad tiroidea autoimmune, como la tiroides autoinmune.\n\n* **🔴 Opción D (Incorrecta):** La combinación de TSH baja, T4 libre elevada, anticuerpos estimulantes del tiroides positivos e hipocaptación de iodo en la gammagrafía tiroidea es inconsistente con el caso presentado, ya que la hipocaptación de iodo es típica de la enfermedad tiroidea autónoma, pero la presencia de anticuerpos estimulantes del tiroides sugiere una enfermedad tiroidea autoimmune.\n\n### Perla MIR\nLa enfermedad tiroidea autónoma es una condición rara que puede causar síntomas como fiebre, bocio doloroso y aumento de vascularización tiroidea. La gammagrafía tiroidea puede mostrar hipocaptación de iodo, que es característica de esta condición. Es importante tener en cuenta la presencia de anticuerpos estimulantes del tiroides, que pueden sugerir una enfermedad tiroidea autoimmune."
   },
   {
     "id": "q-143",
     "localNumber": 143,
     "category": "Nefrología",
-    "stem": "Un paciente de 39 años que presenta emi- sión recidivante de orina rojiza, episodios repetidos de dolor abdominal de etiología no diagnosticada, acude a urgencias con un nuevo episodio de dolor abdominal in- tenso. En los estudios realizados en urgen- cias se objetiva una trombosis venosa me- sentérica. ¿Cuál es el diagnóstico de sos- pecha que considera más probable?:",
+    "stem": "Un paciente de 39 años que presenta emisión recidivante de orina rojiza, episodios repetidos de dolor abdominal de etiología no diagnosticada, acude a urgencias con un nuevo episodio de dolor abdominal intenso. En los estudios realizados en urgencias se objetiva una trombosis venosa mesentérica. ¿Cuál es el diagnóstico de sospecha que considera más probable?",
     "options": [
       "Hemoglobinuria paroxística nocturna.",
       "Síndrome antifosfolípido.",
@@ -1997,41 +1997,41 @@
       "Fiebre mediterránea familiar."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 143 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El síndrome antifosfolípido es una condición autoinmune que puede causar trombosis venosa profunda, incluyendo la trombosis venosa mesentérica. La presentación clínica de esta condición puede incluir episodios recurrentes de dolor abdominal, sangrado gastrointestinal y trombosis venosa. La presencia de antífosfolípido en la sangre (trombocitopenia) puede ser un indicador de esta condición. Por lo tanto, la Opción A es la más probable en este caso.\n\n- **🔴 Opción B (Incorrecta):** La hemoglobinuria paroxística nocturna es una condición que causa hemoglobina en la orina, pero no está directamente relacionada con la trombosis venosa mesentérica. Esta condición puede presentarse en pacientes con enfermedades del riñón o trastornos de la hemoglobina, pero no es la causa más probable de la trombosis venosa en este caso.\n\n- **🔴 Opción C (Incorrecta):** La coproporfiria eritropoyética es una condición genética que causa una acumulación de porfirinas en el cuerpo, lo que puede llevar a una anemia hemolítica. Aunque esta condición puede causar dolor abdominal y episodios recurrentes de anemia, no está directamente relacionada con la trombosis venosa mesentérica.\n\n- **🔴 Opción D (Incorrecta):** La fiebre mediterránea familiar es una condición genética que causa una anemia hemolítica y puede llevar a la trombosis venosa, pero no es la causa más probable de la trombosis venosa mesentérica en este caso. La presentación clínica de esta condición puede incluir episodios recurrentes de dolor abdominal y anemia, pero no está directamente relacionada con la trombosis venosa mesentérica.\n\nLa perla MIR: En la evaluación de un paciente con trombosis venosa mesentérica, es importante considerar la posibilidad de un síndrome antifosfolípido, especialmente en pacientes con episodios recurrentes de dolor abdominal y antífosfolípido en la sangre."
   },
   {
     "id": "q-144",
     "localNumber": 144,
     "category": "Aparato digestivo",
-    "stem": "Un paciente de 56 años ha perdido 10kg en el último año coincidiendo con un notable aumento de las deposiciones que son pas- tosas, amarillas y flotantes. Presenta dolor epigástrico-mesogástrico postprandial que limita la ingesta. Hace 4 años recibió trata- miento erradicador de Helicobacter Pylori por úlcera duodenal recidivante. ¿Cuál de las siguientes exploraciones en heces le parece más útil en el primer estudio para orientar el diagnóstico?:",
+    "stem": "Un paciente de 56 años ha perdido 10kg en el último año coincidiendo con un notable aumento de las deposiciones que son pastosas, amarillas y flotantes. Presenta dolor epigástrico-mesogástrico postprandial que limita la ingesta. Hace 4 años recibió tratamiento erradicador de Helicobacter Pylori por úlcera duodenal recidivante. ¿Cuál de las siguientes exploraciones en heces le parece más útil en el primer estudio para orientar el diagnóstico?",
     "options": [
       "Estudio coproparasitario.",
       "Aclaramiento fecal de alfa-1-antitripsina.",
-      "Determinación de antígeno de Helicobac- ter Pylori en heces.",
+      "Determinación de antígeno de Helicobacter Pylori en heces.",
       "Cuantificación de elastasa fecal."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 144 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La cuantificación de elastasa fecal es la opción más adecuada en este caso. La pérdida de peso y los síntomas gastrointestinales pueden estar relacionados con una pancreatitis crónica, lo que podría ser indicado por una elevación de la elastasa fecal en las heces. Esta exploración es útil para orientar el diagnóstico y es una de las primeras opciones a considerar en un paciente con estos síntomas.\n\n- **🔴 Opción A (Incorrecta):** El estudio coproparasitario no es relevante en este caso, ya que los síntomas no sugieren una infección parasitaria. Es más útil en casos de sospecha de infección parasitaria.\n\n- **🔴 Opción B (Incorrecta):** El aclaramiento fecal de alfa-1-antitripsina no es directamente relevante para el diagnóstico de los síntomas descritos. Esta exploración se utiliza principalmente para diagnosticar la enfermedad de Alpha-1 antitripsina.\n\n- **🔴 Opción C (Incorrecta):** La determinación de antígeno de Helicobacter Pylori en heces no es la opción más adecuada, ya que el paciente ya recibió tratamiento erradicador hace 4 años. La presencia de antígenos de H. Pylori en heces podría indicar recaída, pero no es la primera opción a considerar en este caso.\n\nLa perla MIR: 'Cuantifica la elastasa fecal para diagnosticar la pancreatitis crónica en pacientes con pérdida de peso y síntomas gastrointestinales'."
   },
   {
     "id": "q-145",
     "localNumber": 145,
     "category": "General",
-    "stem": "Según el Real decreto 888/2022, ¿a partir de qué grado se reconoce oficialmente la con- dición de persona con discapacidad en Es- paña (anteriormente llamada “minusvalía”) ?:",
+    "stem": "Según el Real decreto 888/2022, ¿a partir de qué grado se reconoce oficialmente la condición de persona con discapacidad en España (anteriormente llamada “minusvalía”)?",
     "options": [
-      "25%.",
-      "30%.",
-      "33%.",
-      "45%."
+      "25 por ciento",
+      "30 por ciento",
+      "33 por ciento",
+      "45 por ciento"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 145 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** A partir del 33 por ciento, según el Real decreto 888/2022, se reconoce oficialmente la condición de persona con discapacidad en España, lo que incluye a aquellas personas que tienen una discapacidad física, sensorial, intelectual o psíquica que les causa una limitación importante en su capacidad para participar en la vida de la comunidad. Esto se aplica a personas con discapacidades que requieren adaptaciones en el entorno y en las actividades para asegurar su participación plena y efectiva en la sociedad. El 33 por ciento se considera un umbral importante para determinar la discapacidad en España, y se utiliza para evaluar la necesidad de apoyo y adaptaciones en diferentes contextos. Por lo tanto, la opción C es la correcta porque refleja con precisión el umbral de discapacidad establecido en el Real decreto 888/2022.\n\n- **🔴 Opción A (Incorrecta):** A partir del 25 por ciento, se reconoce oficialmente la condición de persona con discapacidad en España. Esto no es correcto porque el Real decreto 888/2022 establece un umbral de 33 por ciento para determinar la discapacidad, no el 25 por ciento. Aunque algunas personas pueden experimentar limitaciones importantes a partir del 25 por ciento, no se considera oficialmente discapacidad hasta que se alcance el 33 por ciento.\n\n- **🔴 Opción B (Incorrecta):** A partir del 30 por ciento, se reconoce oficialmente la condición de persona con discapacidad en España. Esto tampoco es correcto porque el Real decreto 888/2022 establece un umbral de 33 por ciento para determinar la discapacidad, no el 30 por ciento. Aunque algunas personas pueden experimentar limitaciones importantes a partir del 30 por ciento, no se considera oficialmente discapacidad hasta que se alcance el 33 por ciento.\n\n- **🔴 Opción D (Incorrecta):** A partir del 45 por ciento, se reconoce oficialmente la condición de persona con discapacidad en España. Esto no es correcto porque el Real decreto 888/2022 establece un umbral de 33 por ciento para determinar la discapacidad, no el 45 por ciento. Aunque algunas personas pueden experimentar limitaciones importantes a partir del 45 por ciento, no se considera oficialmente discapacidad hasta que se alcance el 33 por ciento.\n\nLa perla MIR para recordar este concepto es: \"Un 33 por ciento de discapacidad es un 100 por ciento de reconocimiento en España\"."
   },
   {
     "id": "q-146",
     "localNumber": 146,
     "category": "General",
-    "stem": "En la prescripción de ayudas para la mar- cha, es importante conocer qué músculos intervienen para potenciarlos en caso de que puedan estar deficitarios. ¿Cuál de los siguientes músculos NO es prioritario en el control de la marcha asistida?:",
+    "stem": "En la prescripción de ayudas para la marcha, es importante conocer qué músculos intervienen para potenciarlas en caso de que puedan estar deficitarias.",
     "options": [
       "Flexores de dedos.",
       "Extensores de muñecas.",
@@ -2039,7 +2039,7 @@
       "Tríceps braquial."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 146 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El Pronador redondo es un músculo importante para la marcha asistida, ya que ayuda a estabilizar el antebrazo y a mantener el equilibrio durante la marcha. Sin embargo, en la lista de músculos que intervienen en la marcha asistida, el Pronador redondo no es prioritario en comparación con otros músculos como los flexores de dedos, los extensores de muñecas y el tríceps braquial, que tienen un papel más directo en el control de la marcha. Por lo tanto, la respuesta correcta es la opción C, que corresponde al Pronador redondo.\n\n- **🔴 Opción A (Incorrecta):** Los flexores de dedos son importantes para la marcha asistida, ya que ayudan a mantener el control y la estabilidad en la mano durante la marcha. Por lo tanto, esta opción no es la correcta.\n\n- **🔴 Opción B (Incorrecta):** Los extensores de muñecas también son importantes para la marcha asistida, ya que ayudan a mantener el control y la estabilidad en la mano durante la marcha. Por lo tanto, esta opción no es la correcta.\n\n- **🔴 Opción D (Incorrecta):** El Tríceps braquial es un músculo importante para la marcha asistida, ya que ayuda a estabilizar el antebrazo y a mantener el equilibrio durante la marcha. Por lo tanto, esta opción no es la correcta.\n\nLa marcha asistida es un proceso complejo que requiere la coordinación de múltiples músculos. Es importante conocer los músculos que intervienen en la marcha asistida para potenciarlas en caso de que puedan estar deficitarias. En este caso, la respuesta correcta es la opción C, que corresponde al Pronador redondo."
   },
   {
     "id": "q-147",
