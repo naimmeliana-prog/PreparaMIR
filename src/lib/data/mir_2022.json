@@ -73,7 +73,7 @@
     "id": "q-6",
     "localNumber": 6,
     "category": "Cardiología",
-    "stem": "Pregunta asociada a la imagen 6. Varón de 39 años, fumador de 20 ci garrillos al día, con antecedentes de un infarto a gudo de miocardio inferior a los 38 años. En el cateteris- mo se observó una lesión en la coronaria derecha proximal y se implantó un stent fármacoactivo. La FEVI era normal. Está en tratamiento con atorvastatina 80 mg/día, ácido acetilsalicílico 100 mg/día y bisoprolol 2,5 m g/día. Realiza dieta adecuada y ejercicio y está asintomático desde el punto de vista cardiovascular. Aporta analítica con lipoproteína (a) 380 nmol/L (valor normal hasta 125 nmol/L), colesterol total 238 m g/dL, HDL 45 m g/ d L , L D L 1 3 2 mg/dL y TG 142 mg/dL. En la exploración física se observa el siguiente hallazgo (ver imagen). Además de insis- tirle en que deje de fumar ¿cuál de las siguientes recomendaciones es más adecuada?:",
+    "stem": "Varón de 39 años, fumador de 20 cigarrillos al día, con antecedentes de un infarto agudo de miocardio inferior a los 38 años. En el cateterismo se observó una lesión en la coronaria derecha proximal y se implantó un stent fármacoactivo. La FEVI era normal. Está en tratamiento con atorvastatina 80 mg/día, ácido acetilsalicílico 100 mg/día y bisoprolol 2,5 mg/día. Realiza dieta adecuada y ejercicio y está asintomático desde el punto de vista cardiovascular. Aporta analítica con lipoproteína (a) 380 nmol/L (valor normal hasta 125 nmol/L), colesterol total 238 mg/dL, HDL 45 mg/dL, LDL 132 mg/dL y TG 142 mg/dL. En la exploración física se observa el siguiente hallazgo.",
     "options": [
       "Para llegar a los objetivos de tratamiento de la dislipemia, añadir ezetimiba.",
       "Añadir un inhibidor de la PCSK9 y solicitar un test genético de hipercolesterolemia familiar.",
@@ -81,13 +81,13 @@
       "Añadir niacina para disminuir la lipoproteína (a)."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 6 del examen MIR de la convocatoria FSE."
+    "explanation": "### Análisis de la pregunta\n\nLa pregunta presenta un paciente con antecedentes de infarto agudo de miocardio inferior y lesión en la coronaria derecha proximal, tratado con stent fármacoactivo. El paciente tiene un nivel elevado de lipoproteína (a) y dislipemia. El objetivo es determinar la mejor recomendación para mejorar la situación clínica del paciente.\n\n#### Opción B (Correcta):\n\n**🟢 Opción B (Correcta):** Añadir un inhibidor de la PCSK9 y solicitar un test genético de hipercolesterolemia familiar. Esta opción es correcta porque el paciente tiene un nivel elevado de lipoproteína (a) y dislipemia. Los inhibidores de la PCSK9, como la evolocumab, pueden reducir la lipoproteína (a) y el LDL. Además, la solicitud de un test genético de hipercolesterolemia familiar puede ayudar a identificar si el paciente tiene una condición genética subyacente que contribuye a su dislipemia. Esto permitirá al médico personalizar el tratamiento y aumentar la eficacia del mismo.\n\n#### Opción A (Incorrecta):\n\n**🔴 Opción A (Incorrecta):** Para llegar a los objetivos de tratamiento de la dislipemia, añadir ezetimiba. Esta opción no es adecuada porque el paciente ya está tomando atorvastatina, que es un HMG-CoA reductasa inhibitor, y el ezetimiba actúa de manera complementaria, reduciendo la absorción intestinal de colesterol. Sin embargo, si el paciente ya está en tratamiento con un HMG-CoA reductasa inhibitor, es probable que la adición de ezetimiba no sea necesaria y podría aumentar el riesgo de efectos secundarios.\n\n#### Opción C (Incorrecta):\n\n**🔴 Opción C (Incorrecta):** Enviarle al oftalmólogo para descartar una enfermedad de Wilson. Esta opción no es adecuada porque la enfermedad de Wilson es una condición rara que se caracteriza por la acumulación de cobre en el cuerpo. El paciente no tiene síntomas o signos que sugieran esta condición, y la exploración física no menciona ningún hallazgo que sugiera la presencia de la enfermedad de Wilson.\n\n#### Opción D (Incorrecta):\n\n**🔴 Opción D (Incorrecta):** Añadir niacina para disminuir la lipoproteína (a). Esta opción no es adecuada porque la niacina puede aumentar la lipoproteína (a) en algunos pacientes, especialmente aquellos con niveles de lipoproteína (a) elevados. En este caso, la adición de niacina podría empeorar la situación clínica del paciente.\n\n### Perla MIR\n\nLa respuesta correcta es la opción B, que sugiere la adición de un inhibidor de la PCSK9 y la solicitud de un test genético de hipercolesterolemia familiar. Esto permite personalizar el tratamiento y aumentar la eficacia del mismo, especialmente en pacientes con niveles elevados de lipoproteína (a) y dislipemia."
   },
   {
     "id": "q-7",
     "localNumber": 7,
     "category": "Neumología",
-    "stem": "Pregunta asociada a la imagen 7. Varón de 60 años, fumador activo, que presenta tos y expec tor ación di aria d e años de e volución, ocasionalmente hemoptoica. En los últimos me- ses se añade disnea progresiva. Presenta acropa- quia y en la auscultación pulmonar destacan roncus y sibilantes teleinspiratorios en pulmón izquierdo. La TC pulmonar de alta resolución se muestra en la imagen adjunta. ¿Cuál es el diag- nóstico más probable?:",
+    "stem": "Varón de 60 años, fumador activo, que presenta tos y expectoración diaria de años de evolución, ocasionalmente hemoptoica. En los últimos meses se añade disnea progresiva. Presenta acropatía y en la auscultación pulmonar destacan roncus y sibilantes teleinspiratorios en pulmón izquierdo. La TC pulmonar de alta resolución se muestra en la imagen adjunta.",
     "options": [
       "Carcinoma quístico.",
       "Enfisema pulmonar.",
@@ -95,13 +95,13 @@
       "Bronquiectasias."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 7 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El diagnóstico más probable es **Bronquiectasias**. Esto se debe a que el paciente presenta tos y expectoración crónica, hemoptoia ocasional y disnea progresiva, lo que sugiere una enfermedad crónica del sistema respiratorio. La auscultación pulmonar revela roncus y sibilantes teleinspiratorios en el pulmón izquierdo, lo que es característico de las bronquiectasias. Además, la TC pulmonar de alta resolución puede mostrar dilatación de los bronquios y presencia de bronquiectasias. \n\n- **🔴 Opción A (Incorrecta):** El **Carcinoma quístico** no es el diagnóstico más probable en este caso. Si bien el paciente es fumador activo y tiene tos y expectoración crónica, los síntomas no sugieren un cáncer pulmonar. Además, la TC pulmonar de alta resolución no mostraría los hallazgos típicos de un carcinoma quístico. \n\n- **🔴 Opción B (Incorrecta):** El **Enfisema pulmonar** tampoco es el diagnóstico más probable. Aunque el paciente tiene tos y expectoración crónica, la auscultación pulmonar revela roncus y sibilantes teleinspiratorios, lo que sugiere una enfermedad más grave que el enfisema pulmonar. Además, el enfisema pulmonar no explicaría la disnea progresiva y la hemoptoia ocasional. \n\n- **🔴 Opción C (Incorrecta):** La **Tuberculosis cavitada** no es el diagnóstico más probable en este caso. Aunque el paciente tiene tos y expectoración crónica, la auscultación pulmonar no revela los hallazgos típicos de la tuberculosis, como la auscultación de un área de cavidad. Además, la TC pulmonar de alta resolución no mostraría los hallazgos típicos de la tuberculosis cavitada. \n\n**Perla MIR:** Recordar que las bronquiectasias se caracterizan por la dilatación de los bronquios y la presencia de expectoración crónica y hemoptoia ocasional. La TC pulmonar de alta resolución es fundamental para el diagnóstico de este trastorno."
   },
   {
     "id": "q-8",
     "localNumber": 8,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 8. Mu jer de 82 años que acude a ur gencias por un cuadro de dolor abdominal localizado en flanco derecho, irradiado a espalda y febrícula de 37,3 ºC. Se realiza ecografía abdominal que en hipo- condrio derecho muestra los resultados de la imagen. ¿Cuál es el diagnóstico más probable?:",
+    "stem": "Un paciente de 82 años acude a urgencias con dolor abdominal localizado en flanco derecho, irradiado a espalda y febrícula de 37,3 °C. Se realiza ecografía abdominal que muestra resultados en hipocóndrio derecho.",
     "options": [
       "Colecistitis aguda.",
       "Enfermedad de Caroli.",
@@ -109,35 +109,35 @@
       "Cólico biliar."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 8 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La colecistitis aguda es una inflamación de la vesícula biliar que puede causar dolor abdominal, irradiado a la espalda y fiebre. La ecografía abdominal es una herramienta útil para detectar la inflamación de la vesícula y es la opción más probable en este caso, dada la descripción del paciente y los resultados de la ecografía.\n\n- **🔴 Opción B (Incorrecta):** La enfermedad de Caroli es una condición rara que afecta a las pequeñas tuberías del hígado y no está directamente relacionada con la inflamación de la vesícula biliar. No se menciona ningún síntoma que sugiera esta condición.\n\n- **🔴 Opción C (Incorrecta):** La vesícula en porcelana es una condición benigna que se caracteriza por la formación de cálculos en la vesícula biliar. Sin embargo, no está asociada con la inflamación y el dolor abdominal descritos en el caso.\n\n- **🔴 Opción D (Incorrecta):** El cólico biliar es un dolor abdominal repentino que puede estar relacionado con la vesícula biliar, pero no es una condición que se pueda diagnosticar a través de la ecografía abdominal. La descripción del paciente sugiere una inflamación más que un dolor repentino.\n\nLa perla MIR: Recuerda que la colecistitis aguda es una emergencia médica que requiere tratamiento inmediato, especialmente en pacientes de edad avanzada con síntomas de inflamación y dolor abdominal."
   },
   {
     "id": "q-9",
     "localNumber": 9,
     "category": "General",
-    "stem": "Pregunta asociada a la imagen 9. En relación con la patolo gía que se observa en la imagen, es correcto que:",
+    "stem": "Pregunta asociada a la imagen 9. En relación con la patología que se observa en la imagen, es correcto que:",
     "options": [
-      "Su forma de debut más frecuente es un sangra- do menstrual.",
+      "Su forma de debut más frecuente es un sangrado menstrual.",
       "La citología no es útil en el diagnóstico pero sí en el seguimiento.",
       "Es más frecuente en mujeres jóvenes.",
       "Uno de los factores de riesgo más importantes es el tabaco."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 9 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La citología (o citodiagnóstico) es un método que se utiliza para analizar las células de la superficie de la piel, mucosas y otros tejidos. En el caso de la imagen 9, se asume que se trata de un caso de cáncer de cuello uterino. Uno de los factores de riesgo más importantes para desarrollar cáncer de cuello uterino es, efectivamente, el tabaquismo. La exposición a los productos químicos y el consumo de alcohol también son factores de riesgo, pero el tabaco es uno de los más importantes. Por lo tanto, la opción D es la correcta.\n\n- **🔴 Opción A (Incorrecta):** La forma de debut más frecuente del cáncer de cuello uterino no es un sangrado menstrual. Aunque el sangrado anormal puede ser un síntoma de esta enfermedad, no es la forma más común de debut. El sangrado anormal puede ser un síntoma de muchas otras condiciones, incluyendo infecciones y trastornos hormonales.\n\n- **🔴 Opción B (Incorrecta):** La citología no es útil en el diagnóstico del cáncer de cuello uterino, pero sí en el seguimiento. La citología se utiliza para detectar células anormales en la superficie de la piel o mucosas, lo que puede indicar la presencia de una enfermedad, como el cáncer. Sin embargo, la citología no es un método de diagnóstico definitivo para el cáncer de cuello uterino. El diagnóstico definitivo se realiza mediante biopsia y análisis histopatológico.\n\n- **🔴 Opción C (Incorrecta):** El cáncer de cuello uterino no es más frecuente en mujeres jóvenes. Aunque la edad de inicio de la enfermedad puede variar, el cáncer de cuello uterino es más común en mujeres de edad media a avanzada. La mayoría de los casos de cáncer de cuello uterino se diagnostican en mujeres entre los 50 y 70 años de edad. Las mujeres jóvenes pueden desarrollar cáncer de cuello uterino, pero es menos común en esta población.\n\nLa perla MIR: Recuerda que el tabaquismo es un factor de riesgo importante para el cáncer de cuello uterino, y que la citología puede ser útil en el seguimiento de esta enfermedad."
   },
   {
     "id": "q-10",
     "localNumber": 10,
     "category": "General",
-    "stem": "Pregunta asociad a a la imagen 10. Varón de 38 años de ori gen centroafricano que presenta el siguiente frotis. Respecto a la enfer- medad que sospecha, señale la respuesta correc- ta:",
+    "stem": "Varón de 38 años de origen centroafricano que presenta el siguiente frotis. Respecto a la enfermedad que sospecha, señale la respuesta correcta.",
     "options": [
       "La esplenomegalia es un hallazgo frecuente en los cuadros de larga evolución.",
       "Puede producir episodios dolorosos por crisis oclusivas vasculares.",
-      "Es debida a un defecto congénito en las proteí- nas de la membrana eritrocitaria.",
+      "Es debida a un defecto congénito en las proteínas de la membrana eritrocitaria.",
       "En el examen del frotis sanguíneo se observa trombopenia y numerosos esquistocitos."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 10 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La enfermedad que sospecha es la esquistosomiasis, una parasitosis causada por el parásito del género Schistosoma. Esta enfermedad puede producir episodios dolorosos por crisis oclusivas vasculares debido a la acumulación de huevos del parásito en los vasos sanguíneos.\n\n- **🔴 Opción A (Incorrecta):** La esplenomegalia es un hallazgo frecuente en los cuadros de larga evolución, pero no es específico ni exclusivo de la esquistosomiasis. La esplenomegalia se puede observar en diversas enfermedades, como la esplenomelagia primaria, la infección por VIH, la leucemia, entre otras.\n\n- **🔴 Opción C (Incorrecta):** El defecto congénito en las proteínas de la membrana eritrocitaria se relaciona con la enfermedad de la hemoglobinopatía, como la anemia falciforme. No está relacionado con la esquistosomiasis.\n\n- **🔴 Opción D (Incorrecta):** La trombopenia y los esquistocitos se relacionan con la leucemia aguda o la infección por VIH, no con la esquistosomiasis.\n\nLa perla MIR: La esquistosomiasis puede producir episodios dolorosos por crisis oclusivas vasculares debido a la acumulación de huevos del parásito en los vasos sanguíneos."
   },
   {
     "id": "q-11",
