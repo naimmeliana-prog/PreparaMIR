@@ -493,7 +493,7 @@
     "id": "q-36",
     "localNumber": 36,
     "category": "General",
-    "stem": "El paso de autoanticuerpos de la madre al feto a través de la placenta puede asociarse a la aparición de enfermedades autoinmunes en el recién nacido. Señale cuál de las parejas Enfermedad – Autoanticuerpo es INCORRECTA:",
+    "stem": "El paso de autoanticuerpos de la madre al feto a través de la placenta puede asociarse a la aparición de enfermedades autoinmunes en el recién nacido. Señale cuál de las parejas Enfermedad – Autoanticuerpo es INCORRECTA.",
     "options": [
       "Pénfigo vulgar – Anticuerpos antidesmogleina 3.",
       "Bloqueo cardíaco congénito – Anticuerpos anti Ro y anti-La.",
@@ -501,55 +501,55 @@
       "Lupus eritematoso neonatal – Anticuerpos anti - Sm."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 36 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La respuesta correcta es la opción D, ya que el lupus eritematoso neonatal se asocia con la presencia de anticuerpos anti-Sm en la madre y, por lo tanto, en el recién nacido. Estos anticuerpos son específicos de la enfermedad de lupus y su presencia en el recién nacido indica una inmunidad materno-fetal y una mayor predisposición a desarrollar la enfermedad.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque el pénfigo vulgar se asocia con la presencia de anticuerpos antidesmogleina 3, pero no se ha demostrado que estos anticuerpos se transmitan de la madre al feto a través de la placenta. La enfermedad se desarrolla debido a una mutación en el gen que codifica la desmogleína 3, lo que afecta la unión de las células epiteliales.\n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque el bloqueo cardíaco congénito no se asocia con la presencia de anticuerpos anti-Ro y anti-La. La enfermedad se desarrolla debido a una mutación en el gen que codifica la subunidad α del receptor del canal de sodio en el corazón, lo que afecta la conducción eléctrica.\n\n- **🔴 Opción C (Incorrecta):** La opción C es incorrecta porque la miastenia gravis se asocia con la presencia de anticuerpos anti-receptor de la acetilcolina, pero no se ha demostrado que estos anticuerpos se transmitan de la madre al feto a través de la placenta. La enfermedad se desarrolla debido a una autoinmunidad contra el receptor de la acetilcolina en los neuromusculares.\n\nLa perla MIR: Recordar que la inmunidad materno-fetal puede influir en la aparición de enfermedades autoinmunes en el recién nacido, y que la presencia de anticuerpos específicos en la madre y el recién nacido puede indicar una mayor predisposición a desarrollar la enfermedad."
   },
   {
     "id": "q-37",
     "localNumber": 37,
     "category": "General",
-    "stem": "Mutaciones en el gen Btk pueden causar una inmunodeficiencia primaria que cursa con la disminución drástica o ausencia de inmunoglobulinas en la sangre periférica (agammaglobulinemia). En relación al estudio de los pacientes con esta agammaglobulinemia, ¿cuál de las siguientes afirmaciones es cierta?",
+    "stem": "Mutaciones en el gen Btk pueden causar una inmunodeficiencia primaria que cursa con la disminución drástica o ausencia de inmunoglobulinas en la sangre periférica (agammaglobulinemia).",
     "options": [
       "Es una enfermedad autosómica recesiva.",
       "El porcentaje de linfocitos que expresan CD19 o CD20 (linfocitos B) en sangre periférica está dentro de los límites normales.",
       "El nivel de IgG en suero disminuye paulatinamente desde el nacimiento hasta resultar indetectable.",
-      "La expresión de la proteína Btk en monocitos es normal. Página: 7 de 33"
+      "La expresión de la proteína Btk en monocitos es normal."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 37 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La agammaglobulinemia causada por mutaciones en el gen Btk es una enfermedad autosómica recesiva, lo que significa que se hereda de manera autosómica recesiva. Sin embargo, esta afirmación no se relaciona directamente con el estudio de los pacientes con agammaglobulinemia, por lo que no es la opción correcta en este contexto.\n\n- **🔴 Opción B (Incorrecta):** Los linfocitos B expresan CD19 y CD20, y en la agammaglobulinemia causada por mutaciones en el gen Btk, el número de linfocitos B es normal, pero no producen inmunoglobulinas. Por lo tanto, el porcentaje de linfocitos que expresan CD19 o CD20 en sangre periférica está dentro de los límites normales, pero la función de estos linfocitos es anormal.\n\n- **🔴 Opción C (Incorrecta):** La agammaglobulinemia causada por mutaciones en el gen Btk es una enfermedad caracterizada por la ausencia de inmunoglobulinas, no por una disminución paulatinamente desde el nacimiento hasta resultar indetectable. Los niveles de inmunoglobulinas en la sangre periférica son bajos o ausentes desde el nacimiento.\n\n- **🟢 Opción D (Correcta):** La proteína Btk es esencial para la señalización de los receptores de la inmunoglobulina en los linfocitos B. En la agammaglobulinemia causada por mutaciones en el gen Btk, la expresión de la proteína Btk en monocitos es normal, ya que los monocitos no dependen de la señalización de los receptores de la inmunoglobulina para su función. Por lo tanto, esta afirmación es cierta en el contexto de la agammaglobulinemia causada por mutaciones en el gen Btk."
   },
   {
     "id": "q-38",
     "localNumber": 38,
     "category": "General",
-    "stem": "Hombre de 20 años que, tras ingesta de gambas, presenta de forma prácticamente inmediata prurito palmoplantar, sensación de nudo en la garganta y ronquera, mareo, sensación de inestabilidad y debilidad intensa. Entre sus antecedentes destaca cuadro de edema laríngeo por alergia a las lentejas al año de edad. No refiere alergia conocida a otros alimentos, tampoco reacciones adversas a fármacos ni picadura de insectos. Entre los antecedentes familiares tiene un hermano con rinitis alérgica leve intermitente por alergia a pólenes. ¿Cuál debe ser el tratamiento inicial de forma urgente?:",
+    "stem": "Hombre de 20 años que, tras ingesta de gambas, presenta de forma prácticamente inmediata prurito palmoplantar, sensación de nudo en la garganta y ronquera, mareo, sensación de inestabilidad y debilidad intensa. Entre sus antecedentes destaca cuadro de edema laríngeo por alergia a las lentejas al año de edad. No refiere alergia conocida a otros alimentos, tampoco reacciones adversas a fármacos ni picadura de insectos. Entre los antecedentes familiares tiene un hermano con rinitis alérgica leve intermitente por alergia a pólenes. ¿Cuál debe ser el tratamiento inicial de forma urgente?",
     "options": [
       "Hidrocortisona 500 mg IV y dexclorfeniramina 5 mg IV.",
       "Adrenalina 0,3-0,5 mL IV.",
-      "Adrenalina 0,3-05 mL IM.",
+      "Adrenalina 0,3-0,5 mL IM.",
       "Metilprednisolona 40 mg IM y desclorfeniramina 5 mg IV."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 38 del examen MIR de la convocatoria FSE."
+    "explanation": "### Análisis de la pregunta MIR sobre el tratamiento de una reacción anafiláctica a gambas.\n\n#### Enunciado de la pregunta.\n\nUn joven de 20 años ingiere gambas y presenta una reacción anafiláctica caracterizada por prurito palmoplantar, sensación de nudo en la garganta, ronquera, mareo y debilidad intensa. Su antecedente de edema laríngeo por alergia a las lentejas a los 1 año de edad sugiere una predisposición a la alergia. ¿Cuál debe ser el tratamiento inicial de forma urgente?\n\n#### Análisis de las opciones.\n\n#### **🟢 Opción C (Correcta):**\n\nLa opción correcta es la inyección intravenosa de adrenalina en una dosis de 0,3-0,5 mL. La adrenalina es un agonista selectivo de los receptores alfa-adrenérgicos, que estimula la liberación de catecolaminas y produce efectos beneficiosos en la reacción anafiláctica, como la dilatación de los vasos sanguíneos, la contracción de los músculos lisos y la estimulación del sistema nervioso central. La inyección intravenosa permite una acción rápida y efectiva en la reacción anafiláctica.\n\n#### **🔴 Opción A (Incorrecta):**\n\nLa combinación de hidrocortisona y dexclorfeniramina no es la opción más adecuada en un primer momento en una reacción anafiláctica. La hidrocortisona es un corticosteroides que puede ser útil en la prevención de reacciones anafilácticas, pero no es efectiva en la acción rápida y urgente necesaria en un caso de reacción anafiláctica. La dexclorfeniramina es un antihistamínico que puede ser útil en la alivio de los síntomas de la alergia, pero no es la opción más adecuada en un primer momento en una reacción anafiláctica.\n\n#### **🔴 Opción B (Incorrecta):**\n\nLa inyección intravenosa de adrenalina en una dosis de 0,3-0,5 mL es la opción correcta, pero la inyección intramuscular de adrenalina no es efectiva en un primer momento en una reacción anafiláctica. La inyección intravenosa permite una acción rápida y efectiva en la reacción anafiláctica, mientras que la inyección intramuscular puede ser lenta y no tan efectiva.\n\n#### **🔴 Opción D (Incorrecta):**\n\nLa combinación de metilprednisolona y desclorfeniramina no es la opción más adecuada en un primer momento en una reacción anafiláctica. La metilprednisolona es un corticosteroides que puede ser útil en la prevención de reacciones anafilácticas, pero no es efectiva en la acción rápida y urgente necesaria en un caso de reacción anafiláctica. La desclorfeniramina es un antihistamínico que puede ser útil en la alivio de los síntomas de la alergia, pero no es la opción más adecuada en un primer momento en una reacción anafiláctica.\n\n#### Perla MIR.\n\nEn una reacción anafiláctica, la inyección intravenosa de adrenalina en una dosis de 0,3-0,5 mL es la opción más adecuada en un primer momento para aliviar los síntomas y prevenir complicaciones. Es importante recordar que la adrenalina es la primera línea de tratamiento en una reacción anafiláctica y que la inyección intravenosa es la forma más efectiva de administrarla."
   },
   {
     "id": "q-39",
     "localNumber": 39,
     "category": "General",
-    "stem": "Hombre de 40 años sin antecedentes patológicos de interés, residente en una zona de interior de la península ibérica, que presentó cuadro de urticaria aguda por sensibilización a Anisakis simplex tras haber ingerido larvas vivas en unos boquerones en vinagre. El cuadro descrito le ocurrió hace más de 6 meses. Aporta prueba cutánea e IgE específica positiva frente a dicho parásito. En relación a la ingesta de pescados, ¿qué pauta de las que se indican a continuación debe seguir?:",
+    "stem": "Hombre de 40 años sin antecedentes patológicos de interés, residente en una zona de interior de la península ibérica, que presentó cuadro de urticaria aguda por sensibilización a Anisakis simplex tras haber ingerido larvas vivas en unos boquerones en vinagre. El cuadro descrito le ocurrió hace más de 6 meses. Aporta prueba cutánea e IgE específica positiva frente a dicho parásito. En relación a la ingesta de pescados, ¿qué pauta de las que se indican a continuación debe seguir?",
     "options": [
       "Puede comer pescados y mariscos sin ningún tipo de precaución dado que han transcurrido más de 6 meses de la ingesta.",
       "No puede ingerir ningún tipo de pescado.",
       "Puede comer pescado cocinado a 45ºC.",
-      "Puede comer pescado previamente congelado a - 20ºC durante 72 horas en el domicilio o pescado congelado industrial."
+      "Puede comer pescado previamente congelado a -20ºC durante 72 horas en el domicilio o pescado congelado industrial."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 39 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La persona puede comer pescado previamente congelado a -20ºC durante 72 horas en el domicilio o pescado congelado industrial. Esto se debe a que el congelamiento a temperaturas muy bajas durante un período prolongado es efectivo para matar a los parásitos como Anisakis simplex. La congelación a -20ºC durante 72 horas es una medida de control adecuada para eliminar el riesgo de ingesta de parásitos en los pescados. Por otro lado, el calentamiento a 45ºC puede no ser suficiente para matar a los parásitos, ya que la temperatura de 45ºC puede no alcanzar los tejidos internos de los pescados. Además, la ingesta de pescados sin ningún tipo de precaución después de más de 6 meses de la exposición no garantiza la seguridad, ya que es posible que aún existan parásitos en los tejidos del pescado. Por último, no recomendar el consumo de pescado sin ningún tipo de precaución es la opción más conservadora y segura."
   },
   {
     "id": "q-40",
     "localNumber": 40,
     "category": "General",
-    "stem": "La medida adecuada para estimar el riesgo individual de enfermar es:",
+    "stem": "La medida adecuada para estimar el riesgo individual de enfermar es",
     "options": [
       "La incidencia acumulada.",
       "La densidad de incidencia.",
@@ -557,7 +557,7 @@
       "El riesgo relativo."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 40 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La incidencia acumulada es la medida que se refiere a la proporción de casos nuevos en una población expuesta a un factor de riesgo durante un período de tiempo específico. Esto permite estimar el riesgo individual de enfermar en función de la exposición a dicho factor. Es la opción más adecuada para estimar el riesgo individual de enfermar porque proporciona una medida que se ajusta a la población expuesta durante un período determinado.\n\n- **🔴 Opción B (Incorrecta):** La densidad de incidencia se refiere a la tasa de aparición de nuevos casos en una población expuesta durante un período de tiempo específico, pero no se ajusta a la población expuesta durante todo el período. No es la medida más adecuada para estimar el riesgo individual de enfermar.\n\n- **🔴 Opción C (Incorrecta):** La prevalencia puntual se refiere a la proporción de casos existentes en una población en un momento específico, pero no se ajusta a la exposición a factores de riesgo ni a la aparición de nuevos casos. No es la medida más adecuada para estimar el riesgo individual de enfermar.\n\n- **🔴 Opción D (Incorrecta):** El riesgo relativo se refiere a la proporción entre la tasa de aparición de nuevos casos en una población expuesta y la tasa en una población no expuesta, pero no se ajusta a la población expuesta durante un período específico. No es la medida más adecuada para estimar el riesgo individual de enfermar.\n\nLa perla MIR es que la incidencia acumulada es la medida más adecuada para estimar el riesgo individual de enfermar en función de la exposición a factores de riesgo."
   },
   {
     "id": "q-41",
