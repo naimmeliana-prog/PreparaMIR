@@ -2605,7 +2605,7 @@
     "id": "q-187",
     "localNumber": 187,
     "category": "Cardiología",
-    "stem": "Paciente de 58 años con diagnóstico de dia- betes tipo 2, HbA1c de 8,2 %, IMC de 33 kg/m2, antecedentes de infarto agudo de miocardio y Filtrado glomerular estudiado de 52 ml/min/1.73m², que actualmente re- cibe tratamiento con metformina. ¿Cuál sería el medicamento más apropiado para añadir a su terapia?:",
+    "stem": "Paciente de 58 años con diagnóstico de diabetes tipo 2, HbA1c de 8,2 %, IMC de 33 kg/m², antecedentes de infarto agudo de miocardio y filtrado glomerular estudiado de 52 ml/min/1.73m², que actualmente recibe tratamiento con metformina. ¿Cuál sería el medicamento más apropiado para añadir a su terapia?",
     "options": [
       "Insulina basal.",
       "Pioglitazona.",
@@ -2613,13 +2613,13 @@
       "Inhibidor de SGLT2 (empaglifozina)."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 187 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La opción más adecuada sería agregar un inhibidor de SGLT2 (empaglifozina) a la terapia del paciente. Esto se debe a que el paciente tiene una función renal comprometida (filtrado glomerular de 52 ml/min/1.73m²), lo que lo hace susceptible a efectos nefrotóxicos de la insulina y otros medicamentos que pueden agravar la insuficiencia renal. Los inhibidores de SGLT2, como la empaglifozina, tienen un perfil de seguridad favorable en pacientes con insuficiencia renal y pueden incluso ofrecer beneficios renoprotectores. Además, la empaglifozina puede ayudar a controlar la glucemia y a reducir el peso corporal del paciente, lo que puede ser beneficioso en alguien con IMC de 33 kg/m² y antecedentes de infarto agudo de miocardio. La pioglitazona y los inhibidores de DPP-4 pueden no ser la mejor opción en este caso debido a la función renal comprometida del paciente. La insulina basal puede no ser la mejor opción a corto plazo, ya que puede requerir ajustes en la dosis y puede tener efectos secundarios como hipoglicemia, especialmente en pacientes con función renal comprometida."
   },
   {
     "id": "q-188",
     "localNumber": 188,
     "category": "Ginecología y Obstetricia",
-    "stem": "¿Cuál es el rango de glucosa definido como Tiempo en Rango (TIR) durante el embarazo según el perfil glucémico ambu- latorio (AGP)?:",
+    "stem": "¿Cuál es el rango de glucosa definido como Tiempo en Rango (TIR) durante el embarazo según el perfil glucémico ambulatorio (AGP)?",
     "options": [
       "70-180 mg/dL.",
       "70-140 mg/dL.",
@@ -2627,27 +2627,27 @@
       "60-130 mg/dL."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 188 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El rango de glucosa definido como Tiempo en Rango (TIR) durante el embarazo según el perfil glucémico ambulatorio (AGP) se considera adecuado entre 63-140 mg/dL. Esto se debe a que este rango permite evaluar la capacidad de las células beta del páncreas para regular la glucosa en sangre durante el embarazo, lo cual es crucial para la salud materna y fetal. La opción C es la correcta porque se alinea con los criterios clínicos establecidos para la evaluación del TIR durante el embarazo.\n\n- **🔴 Opción A (Incorrecta):** La opción A (70-180 mg/dL) es incorrecta porque el rango superior es demasiado amplio, lo que puede llevar a resultados falsos positivos y consecuentemente a una sobreestimación de la resistencia a la insulina. Esto puede tener implicaciones graves en la gestión del embarazo y la salud de la madre y el feto.\n\n- **🔴 Opción B (Incorrecta):** La opción B (70-140 mg/dL) es incorrecta porque el rango inferior es demasiado bajo, lo que puede llevar a resultados falsos negativos y consecuentemente a una subestimación de la resistencia a la insulina. Esto puede tener implicaciones graves en la gestión del embarazo y la salud de la madre y el feto.\n\n- **🔴 Opción D (Incorrecta):** La opción D (60-130 mg/dL) es incorrecta porque el rango inferior es demasiado bajo, lo que puede llevar a resultados falsos negativos y consecuentemente a una subestimación de la resistencia a la insulina. Además, el rango superior es demasiado bajo para considerarlo un rango de referencia adecuado para la evaluación del TIR durante el embarazo.\n\nLa perla MIR es la siguiente: 'La evaluación del TIR durante el embarazo es crucial para la salud materna y fetal. Recuerda que el rango correcto es 63-140 mg/dL.'"
   },
   {
     "id": "q-189",
     "localNumber": 189,
     "category": "General",
-    "stem": "Un hombre de 35 años con diabetes melli- tus tipo 1 (DM1) acude a su consulta. Re- fiere que, por su cuenta, ha solicitado una analítica a su hijo de 8 años, completa- mente asintomático. El resultado muestra anticuerpos anti-GAD y anti -tirosina fosfa- tasa (anti-IA2) positivos, con una glucemia basal de 88 mg/dL y una HbA1c de 5.2%. El padre, muy preocupado, le pregunta qué actitud se debe tomar a continuación. Según las recomendaciones actuales, ¿cuál sería la conducta más apropiada?:",
+    "stem": "Un hombre de 35 años con diabetes mellitus tipo 1 acude a su consulta y refiere que ha solicitado una analítica a su hijo de 8 años, completamente asintomático. El resultado muestra anticuerpos anti-GAD y anti-tirosina fosfatas (anti-IA2) positivos, con una glucemia basal de 88 mg/dL y una HbA1c de 5.2%. El padre, muy preocupado, le pregunta qué actitud se debe tomar a continuación.",
     "options": [
-      "Tranquilizar a la familia, ya que al estar el niño asintomático y con glucemias norma- les, solo requiere una vigilancia pasiva.",
-      "Iniciar tratamiento con metformina para in- tentar preservar la función de la célula beta.",
-      "Clasificar al niño como estadio 1 de DM1 y derivarlo a una unidad de endocrinología pediátrica para seguimiento y posible in- clusión en ensayos clínicos de preven- ción.",
+      "Tranquilizar a la familia, ya que al estar el niño asintomático y con glucemias normales, solo requiere una vigilancia pasiva.",
+      "Iniciar tratamiento con metformina para intentar preservar la función de la célula beta.",
+      "Clasificar al niño como estadio 1 de DM1 y derivarlo a una unidad de endocrinología pediátrica para seguimiento y posible inclusión en ensayos clínicos de prevención.",
       "Repetir la determinación de glucosa cada año, ya que el desarrollo de la enfermedad es improbable antes de la pubertad."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 189 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La conducta más apropiada es clasificar al niño como estadio 1 de DM1 y derivarlo a una unidad de endocrinología pediátrica para seguimiento y posible inclusión en ensayos clínicos de prevención. Esto se debe a que la presencia de anticuerpos anti-GAD y anti-IA2 es un indicador temprano de la enfermedad, y el niño requiere una evaluación y seguimiento exhaustivo para determinar su riesgo de desarrollar diabetes. La clasificación como estadio 1 de DM1 permite una vigilancia y tratamiento tempranos, lo que puede prevenir o retrasar la progresión de la enfermedad.\n\n- **🔴 Opción A (Incorrecta):** Tranquilizar a la familia sin más es una actitud inapropiada, ya que la presencia de anticuerpos anti-GAD y anti-IA2 indica un riesgo de diabetes que requiere una evaluación y seguimiento exhaustivo. La simple tranquilidad sin más puede llevar a una falta de vigilancia y tratamiento tempranos, lo que puede agravar la enfermedad.\n\n- **🔴 Opción B (Incorrecta):** Iniciar tratamiento con metformina sin más es una actitud inapropiada, ya que no se ha demostrado la eficacia de esta droga en la prevención o tratamiento de la diabetes en niños asintomáticos. Además, la metformina puede tener efectos secundarios en los niños, por lo que su uso debe ser cuidadoso y supervisado por un especialista.\n\n- **🔴 Opción D (Incorrecta):** Repetir la determinación de glucosa cada año es una actitud inapropiada, ya que la presencia de anticuerpos anti-GAD y anti-IA2 indica un riesgo de diabetes que requiere una evaluación y seguimiento exhaustivo. La simple repetición de la determinación de glucosa cada año puede no ser suficiente para detectar la enfermedad en sus primeras etapas.\n\n**Perla MIR:** La presencia de anticuerpos anti-GAD y anti-IA2 en un niño asintomático es un indicador temprano de la enfermedad, y requiere una evaluación y seguimiento exhaustivo para determinar su riesgo de desarrollar diabetes."
   },
   {
     "id": "q-190",
     "localNumber": 190,
     "category": "General",
-    "stem": "¿Cuál de estas patologías NO es causa de hipopotasemia?:",
+    "stem": "¿Cuál de estas patologías no es causa de hipopotasemia?",
     "options": [
       "Hipomagnesemia.",
       "Hipoaldosteronismo.",
@@ -2655,13 +2655,13 @@
       "Síndrome de Bartter."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 190 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El hipoaldosteronismo es una condición en la que el cuerpo produce poca o ninguna aldosterona, una hormona producida por las glándulas suprarrenales que ayuda a regular la cantidad de sodio y potasio en el cuerpo. La falta de aldosterona puede llevar a una disminución de la cantidad de potasio en el cuerpo, lo que puede causar hipopotasemia. Sin embargo, en este caso, la pregunta está preguntando por la causa de hipopotasemia, y el hipoaldosteronismo es en realidad una causa de hipopotasemia, no una causa de hiperpotasemia. Por lo tanto, esta opción es incorrecta y se utiliza como distracción para la respuesta correcta.\n\n- **🔴 Opción A (Incorrecta):** La hipomagnesemia es una condición en la que el cuerpo tiene niveles bajos de magnesio. La hipomagnesemia puede causar hipopotasemia, ya que el magnesio ayuda a regular la cantidad de potasio en el cuerpo. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción C (Incorrecta):** Los vómitos pueden causar hipopotasemia, ya que los vómitos pueden llevar a la pérdida de potasio en el cuerpo. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** El síndrome de Bartter es una condición genética que afecta la capacidad del cuerpo para regular la cantidad de potasio. El síndrome de Bartter puede causar hipopotasemia, ya que el cuerpo no puede regular adecuadamente la cantidad de potasio. Por lo tanto, esta opción es incorrecta.\n\nLa perla MIR es: 'El hipoaldosteronismo es una causa de hipopotasemia, no una causa de hiperpotasemia'."
   },
   {
     "id": "q-191",
     "localNumber": 191,
     "category": "General",
-    "stem": "La enfermedad que más frecuentemente conduce a los programas de diálisis y tras- plante en España es:",
+    "stem": "La enfermedad que más frecuentemente conduce a los programas de diálisis y trasplante en España es",
     "options": [
       "Pielonefritis crónica.",
       "Nefroesclerosis.",
@@ -2669,7 +2669,7 @@
       "Enfermedad renal diabética."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 191 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La enfermedad renal diabética es una de las causas más comunes de insuficiencia renal crónica en España, lo que conduce a programas de diálisis y trasplante. Esto se debe a que la diabetes mellitus tipo 2 es una de las principales enfermedades crónicas en la población española y puede causar daño a los riñones a largo plazo.\n\n- **🔴 Opción A (Incorrecta):** La pielonefritis crónica es una infección crónica de los riñones que puede causar daño renal, pero no es la causa más común de insuficiencia renal crónica en España.\n\n- **🔴 Opción B (Incorrecta):** La nefroesclerosis es un término que se refiere a la pérdida de función renal debido a la enfermedad vascular en los riñones, pero no es una enfermedad específica que conduce a programas de diálisis y trasplante.\n\n- **🔴 Opción C (Incorrecta):** La poliquistosis hepato-renal es una condición genética que afecta a los riñones y el hígado, pero no es la causa más común de insuficiencia renal crónica en España.\n\nLa perla MIR: La enfermedad renal diabética es la causa más común de insuficiencia renal crónica en España, lo que conduce a programas de diálisis y trasplante. Recuerda que la diabetes es una de las principales enfermedades crónicas en la población española y puede causar daño a los riñones a largo plazo."
   },
   {
     "id": "q-192",
