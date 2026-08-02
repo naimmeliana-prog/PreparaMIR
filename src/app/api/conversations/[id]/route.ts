@@ -30,7 +30,7 @@ export async function GET(
     .where(eq(messages.conversationId, id))
     .orderBy(asc(messages.createdAt));
 
-  const msgs: ChatMessage[] = rows.map((r) => ({
+  const msgs: ChatMessage[] = rows.map((r: any) => ({
     id: r.id,
     conversationId: r.conversationId,
     role: r.role as "user" | "assistant",
