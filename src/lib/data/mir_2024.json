@@ -983,15 +983,15 @@
     "id": "q-71",
     "localNumber": 71,
     "category": "General",
-    "stem": "Todas las siguientes pueden ser manifestaciones tardías de sífilis congénita, habitualmente no evidentes clínicamente en los 2 primeros años de vida. Indique la manifestación que NO es habitual en esta patología:",
+    "stem": "Todas las siguientes pueden ser manifestaciones tardías de sífilis congénita, habitualmente no evidentes clínicamente en los 2 primeros años de vida. Indique la manifestación que NO es habitual en esta patología",
     "options": [
-      "Dientes de Hutchinson.",
-      "Nariz en silla de montar.",
-      "Queratitis intersticial.",
-      "Cardiopatía congénita."
+      "Dientes de Hutchinson",
+      "Nariz en silla de montar",
+      "Queratitis intersticial",
+      "Cardiopatía congénita"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 71 del examen MIR de la convocatoria FSE."
+    "explanation": "\n### Explicación detallada de las opciones\n\n- **🟢 Opción D (Correcta):** La cardiopatía congénita es una manifestación que puede ser evidente al nacimiento o en los primeros años de vida en casos de sífilis congénita, por lo que no se considera una manifestación tardía que habitualmente no sea evidente en los 2 primeros años de vida.\n- **🔴 Opción A (Incorrecta):** Los dientes de Hutchinson son una manifestación característica de la sífilis congénita tardía, que incluye anomalías dentales como incisivos centrales superiores con forma de pala o de botón, y se presentan después de los 2 primeros años de vida.\n- **🔴 Opción B (Incorrecta):** La nariz en silla de montar es una deformidad nasal que puede ser resultado de la sífilis congénita tardía, debido a la destrucción del tabique nasal y el crecimiento anormal del maxilar, y suele ser evidente después de los primeros años de vida.\n- **🔴 Opción C (Incorrecta):** La queratitis intersticial es una inflamación del estroma corneal que puede ocurrir en la sífilis congénita tardía, generalmente después de los 5 años de edad, y es una de las manifestaciones oculares más comunes de esta condición.\n\nLa **perla MIR** a recordar es que las manifestaciones de la sífilis congénita se dividen en tempranas (evidentes en los primeros 2 años de vida) y tardías (que pueden aparecer después de los 2 años), y cada una de las opciones, excepto la cardiopatía congénita, puede ser una manifestación tardía de esta condición."
   },
   {
     "id": "q-72",
@@ -1005,7 +1005,7 @@
       "Trastorno de ansiedad generalizada."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 72 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La reacción aguda de estrés se caracteriza por la respuesta al estrés o trauma inmediato, lo que coincide con la historia de la paciente. Los síntomas de insomnio, pesadillas y recuerdos vívidos del accidente son comunes en esta condición. Además, la hiperactivación también es un síntoma característico de la reacción aguda de estrés. Por lo tanto, esta es la opción más probable en este caso.\n\n- **🔴 Opción B (Incorrecta):** La reacción adaptativa depresiva no se ajusta a la situación de la paciente, ya que no hay indicaciones de depresión en su historia clínica. Además, la reacción adaptativa depresiva es una respuesta a un evento traumático que lleva a un estado de depresión, lo que no se aplica en este caso.\n\n- **🔴 Opción C (Incorrecta):** El trastorno de estrés postraumático (TEPT) es una condición más grave y crónica que requiere la presencia de síntomas durante al menos un mes después del evento traumático. En este caso, la paciente acude a la consulta dos días después del accidente, por lo que no se ajusta a los criterios del TEPT.\n\n- **🔴 Opción D (Incorrecta):** El trastorno de ansiedad generalizada es una condición caracterizada por la presencia de ansiedad persistente y generalizada en diferentes contextos. No hay indicaciones de que la paciente tenga ansiedad generalizada en su historia clínica, por lo que esta opción no es adecuada en este caso.\n\n**Perla MIR:** Recuerda que la reacción aguda de estrés es una respuesta inmediata al estrés o trauma, y los síntomas como insomnio, pesadillas y recuerdos vívidos del evento son comunes en esta condición."
   },
   {
     "id": "q-73",
@@ -1019,7 +1019,7 @@
       "Regresión."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 73 del examen MIR de la convocatoria FSE."
+    "explanation": "## Mehanismos de defensa en el trastorno delirante\n\n### Opciones a considerar\n\n- **🟢 Opción D (Correcta):** La regresión no es un mecanismo de defensa que se asocia directamente con el trastorno delirante. Los mecanismos de defensa más comunes en este contexto son la proyección, la negación y la formación reactiva. La regresión, por otro lado, se refiere a la vuelta a una etapa anterior del desarrollo, lo que no está directamente relacionado con el trastorno delirante.\n\n- **🔴 Opción A (Incorrecta):** La proyección es un mecanismo de defensa que implica atribuir a otros personas o situaciones nuestros propios pensamientos, sentimientos o deseos. En el trastorno delirante, la proyección puede ser un mecanismo de defensa común, ya que los individuos pueden atribuir sus propios pensamientos o sentimientos a otras personas o situaciones.\n\n- **🔴 Opción B (Incorrecta):** La negación es un mecanismo de defensa que implica negar o rechazar la realidad de un pensamiento, sentimiento o experiencia. En el trastorno delirante, la negación puede ser un mecanismo de defensa común, ya que los individuos pueden negar la realidad de sus pensamientos o sentimientos delirantes.\n\n- **🔴 Opción C (Incorrecta):** La formación reactiva es un mecanismo de defensa que implica crear un pensamiento, sentimiento o experiencia que sea una respuesta a un estímulo o evento. En el trastorno delirante, la formación reactiva puede ser un mecanismo de defensa común, ya que los individuos pueden crear pensamientos o sentimientos delirantes en respuesta a estímulos o eventos.\n\n### Perla MIR\n\nLa perla MIR para recordar esta opción es: \"La regresión no es una defensa común en el trastorno delirante, pero la proyección, la negación y la formación reactiva sí lo son.\""
   },
   {
     "id": "q-74",
@@ -1027,19 +1027,19 @@
     "category": "Psiquiatría",
     "stem": "Sobre los factores de mal pronóstico en la esquizofrenia, señale la respuesta INCORRECTA:",
     "options": [
-      "Inicio en edad temprana.",
-      "Presencia de síntomas negativos.",
-      "Presentación clínica aguda.",
-      "Antecedentes de agresividad."
+      "Inicio en edad temprana",
+      "Presencia de síntomas negativos",
+      "Presentación clínica aguda",
+      "Antecedentes de agresividad"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 74 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La presentación clínica aguda no es un factor de mal pronóstico en la esquizofrenia. De hecho, los pacientes que presentan síntomas de manera gradual suelen tener un pronóstico más favorable. La presentación aguda puede ser asociada con un mayor impacto en la vida del paciente y una mayor necesidad de intervención temprana, pero no necesariamente con un mal pronóstico a largo plazo.\n- **🔴 Opción A (Incorrecta):** El inicio en edad temprana es un factor de mal pronóstico en la esquizofrenia. Los pacientes que desarrollan la enfermedad a una edad temprana suelen tener un pronóstico más grave y una mayor dificultad para recuperarse.\n- **🔴 Opción B (Incorrecta):** La presencia de síntomas negativos es un factor de mal pronóstico en la esquizofrenia. Los síntomas negativos, como la apatía y la falta de interés, pueden ser más difíciles de tratar que los síntomas positivos, como los delirios y las alucinaciones.\n- **🔴 Opción D (Incorrecta):** Los antecedentes de agresividad pueden ser un factor de mal pronóstico en la esquizofrenia, pero no es el factor incorrecto en esta pregunta. La agresividad puede ser una manifestación de la enfermedad y puede requerir una intervención especializada.\nLa perla MIR: Recuerda que el inicio en edad temprana y la presencia de síntomas negativos son factores de mal pronóstico en la esquizofrenia."
   },
   {
     "id": "q-75",
     "localNumber": 75,
     "category": "Psiquiatría",
-    "stem": "Adolescente de 16 años que es traída a la consulta por sus padres debido a cambios drásticos en su comportamiento en los últimos seis meses. Ha mostrado síntomas de depresión, irritabilidad y recientemente ha comenzado a autolesionarse realizándose cortes en los brazos. También se ha aislado socialmente y ha tenido dificultades para mantener su rendimiento académico. ¿Cuál de los siguientes factores es el más significativo para indicar desregulación emocional y riesgo de conducta suicida en esta paciente?:",
+    "stem": "Adolescente de 16 años que es traída a la consulta por sus padres debido a cambios drásticos en su comportamiento en los últimos seis meses. Ha mostrado síntomas de depresión, irritabilidad y recientemente ha comenzado a autolesionarse realizándose cortes en los brazos. También se ha aislado socialmente y ha tenido dificultades para mantener su rendimiento académico.",
     "options": [
       "Presencia de autolesiones.",
       "Aislamiento social.",
@@ -1047,7 +1047,7 @@
       "Dificultades académicas."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 75 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La presencia de autolesiones es un indicador significativo de desregulación emocional y riesgo de conducta suicida en esta paciente. Las autolesiones son un comportamiento autodestructivo que puede ser un intento de comunicar el dolor emocional y la sensación de vacío. En este caso, la paciente ha comenzado a autolesionarse, lo que sugiere un mayor nivel de angustia y desesperanza. Esto es un factor de riesgo importante para la conducta suicida y requiere una evaluación y un seguimiento estrecho por parte del profesional de la salud mental.\n\n- **🔴 Opción B (Incorrecta):** El aislamiento social es un síntoma de depresión y puede estar relacionado con la desregulación emocional, pero no es el factor más significativo para indicar riesgo de conducta suicida. Si bien el aislamiento puede aumentar el riesgo de conducta suicida, no es tan específico como la presencia de autolesiones.\n\n- **🔴 Opción C (Incorrecta):** La irritabilidad es un síntoma común de la depresión, pero no es un indicador específico de riesgo de conducta suicida. La irritabilidad puede estar relacionada con la desregulación emocional, pero no es tan significativa como la presencia de autolesiones.\n\n- **🔴 Opción D (Incorrecta):** Las dificultades académicas pueden estar relacionadas con la depresión y la desregulación emocional, pero no son un indicador significativo de riesgo de conducta suicida. Las dificultades académicas pueden ser un síntoma de la enfermedad, pero no son tan específicas como la presencia de autolesiones.\n\nLa perla MIR es: \"Las autolesiones son un grito de auxilio emocional, no un intento de buscar atención médica\"."
   },
   {
     "id": "q-76",
