@@ -577,7 +577,7 @@
     "id": "q-42",
     "localNumber": 42,
     "category": "General",
-    "stem": "Un paciente acude a c onsulta recie ntemente diagnosticado de esofa gitis eo sinofílica y tr as exponerle las opciones de tratamiento prefiere hacer tratamiento dietético con die ta de exclusión de d os alimentos. ¿Cuáles son l os alimentos que tendría que retirar de la dieta?:",
+    "stem": "Un paciente acude a consulta recientemente diagnosticado de esofagitis esofágica y tras exponerle las opciones de tratamiento prefiere hacer tratamiento dietético con dieta de exclusión de dos alimentos.",
     "options": [
       "Huevo y trigo.",
       "Leche de vaca y pescado.",
@@ -585,27 +585,27 @@
       "Leche de vaca y trigo."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 42 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La esofagitis esofágica es una inflamación de la mucosa del esófago, que puede ser causada por la exposición a ciertos alimentos, entre ellos el huevo y el trigo. Estos alimentos pueden irritar la mucosa del esófago y empeorar la condición. Por lo tanto, la exclusión de estos alimentos de la dieta puede ayudar a aliviar los síntomas y promover la curación. Además, la exclusión de ambos alimentos es una medida preventiva eficaz para evitar la reactivación de la esofagitis esofágica. La elección de estos alimentos es justificada ya que ambos son comúnmente involucrados en la irritación de la mucosa del esófago en pacientes con esta condición. Esto se debe a que el huevo contiene caseína, una proteína que puede causar inflamación en el esófago, y el trigo contiene gluten, que también puede causar reacciones adversas en algunos individuos. Por lo tanto, la exclusión de estos alimentos de la dieta es una medida razonable para ayudar a aliviar los síntomas de la esofagitis esofágica y promover la curación."
   },
   {
     "id": "q-43",
     "localNumber": 43,
     "category": "General",
-    "stem": "En relación con las condiciones necesarias para la implementación de un programa de cribado poblacional de c áncer, señale la respue sta INCORRECTA:",
+    "stem": "En relación con las condiciones necesarias para la implementación de un programa de cribado poblacional de cáncer, señale la respuesta INCORRECTA:",
     "options": [
-      "Debe e xistir una prueba adecu ada para l a detección, independientemente de la aceptabilidad de la prueba en la población.",
-      "La enfermeda d que se detecta mediant e el cribado debe ser relevante desde el punto de vista de salud pública.",
-      "La enfermeda d que se detecta mediant e el cribado de be ser tratabl e en la e tapa presintomática y el daño po tencial de la intervención debe ser in ferior al del tratamiento en la etapa sintomática.",
-      "Se debe disponer de recursos suficientes para la implementación de la est rategia a medio / largo plazo."
+      "Debe existir una prueba adecuada para la detección, independientemente de la aceptabilidad de la prueba en la población.",
+      "La enfermedad que se detecta mediante el cribado debe ser relevante desde el punto de vista de salud pública.",
+      "La enfermedad que se detecta mediante el cribado debe ser tratable en la etapa presintomática y el daño potencial de la intervención debe ser inferior al del tratamiento en la etapa sintomática.",
+      "Se debe disponer de recursos suficientes para la implementación de la estrategia a medio / largo plazo."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 43 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La opción C es la correcta porque establece que la enfermedad detectada mediante el cribado debe ser tratable en la etapa presintomática y que el daño potencial de la intervención debe ser inferior al del tratamiento en la etapa sintomática. Esto es crucial para justificar la implementación de un programa de cribado poblacional, ya que no tiene sentido detectar una enfermedad que no pueda ser tratada de manera efectiva en la etapa presintomática. Además, la opción C también tiene en cuenta el daño potencial de la intervención, lo que es importante para evitar dañar al paciente con la detección temprana de una enfermedad que no puede ser tratada de manera efectiva.\n\n- **🔴 Opción A (Incorrecta):** La opción A es incorrecta porque establece que debe existir una prueba adecuada para la detección, independientemente de la aceptabilidad de la prueba en la población. Esto no es suficiente para justificar la implementación de un programa de cribado poblacional, ya que la aceptabilidad de la prueba en la población es crucial para asegurar que el programa sea efectivo y aceptado por la población objetivo.\n\n- **🔴 Opción B (Incorrecta):** La opción B es incorrecta porque establece que la enfermedad que se detecta mediante el cribado debe ser relevante desde el punto de vista de salud pública. Si bien esto es cierto en general, no es suficiente para justificar la implementación de un programa de cribado poblacional. La opción B no tiene en cuenta la tratabilidad de la enfermedad en la etapa presintomática, lo que es crucial para justificar la implementación de un programa de cribado poblacional.\n\n- **🔴 Opción D (Incorrecta):** La opción D es incorrecta porque establece que se debe disponer de recursos suficientes para la implementación de la estrategia a medio / largo plazo. Si bien esto es cierto en general, no es suficiente para justificar la implementación de un programa de cribado poblacional. La opción D no tiene en cuenta la tratabilidad de la enfermedad en la etapa presintomática y el daño potencial de la intervención, lo que es crucial para justificar la implementación de un programa de cribado poblacional.\n\n**Perla MIR:** Para justificar la implementación de un programa de cribado poblacional de cáncer, es necesario que la enfermedad detectada mediante el cribado sea tratable en la etapa presintomática y que el daño potencial de la intervención sea inferior al del tratamiento en la etapa sintomática. La aceptabilidad de la prueba en la población y la disponibilidad de recursos suficientes también son importantes, pero no son suficientes para justificar la implementación de un programa de cribado poblacional."
   },
   {
     "id": "q-44",
     "localNumber": 44,
     "category": "General",
-    "stem": "¿Qué ti po de est udio epi demiológico NO PERMITE calcular un riesgo relativo?:",
+    "stem": "¿Qué tipo de estudio epidemiológico NO PERMITE calcular un riesgo relativo?",
     "options": [
       "Un ensayo clínico aleatorizado.",
       "Un estudio de cohortes retrospectivo.",
@@ -613,13 +613,13 @@
       "Un estudio de casos y controles."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 44 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Un estudio de cohortes retrospectivo no permite calcular un riesgo relativo porque no se puede establecer una relación causal entre el factor de riesgo y el resultado de la enfermedad. En este tipo de estudio, se analiza retrospectivamente una cohorte de personas que ya han desarrollado la enfermedad y se compara con una cohorte de personas sanas. No se puede determinar si el factor de riesgo es la causa de la enfermedad o si es un efecto secundario. Por lo tanto, no se puede calcular un riesgo relativo preciso.\n\n- **🔴 Opción A (Incorrecta):** Un ensayo clínico aleatorizado sí permite calcular un riesgo relativo. En este tipo de estudio, se asignan aleatoriamente a los participantes a un grupo de tratamiento o a un grupo de control. Se pueden calcular riesgos relativos precisos porque se puede establecer una relación causal entre el tratamiento y el resultado de la enfermedad.\n\n- **🔴 Opción C (Incorrecta):** Un estudio de cohortes prospectivo sí permite calcular un riesgo relativo. En este tipo de estudio, se sigue prospectivamente a una cohorte de personas sanas y se registra el desarrollo de la enfermedad. Se pueden calcular riesgos relativos precisos porque se puede establecer una relación causal entre el factor de riesgo y el resultado de la enfermedad.\n\n- **🔴 Opción D (Incorrecta):** Un estudio de casos y controles sí permite calcular un riesgo relativo. En este tipo de estudio, se compara el número de casos con el número de controles y se registra la presencia de factores de riesgo. Se pueden calcular riesgos relativos precisos porque se puede establecer una relación causal entre el factor de riesgo y el resultado de la enfermedad.\n\nLa perla MIR: Recuerda que para calcular un riesgo relativo, es necesario establecer una relación causal entre el factor de riesgo y el resultado de la enfermedad. Esto se puede lograr mediante estudios de cohortes prospectivos o ensayos clínicos aleatorizados."
   },
   {
     "id": "q-45",
     "localNumber": 45,
     "category": "General",
-    "stem": "Al aumentar el tam año muestr al de un es tudio transversal (o de prevalencia) aumenta:",
+    "stem": "Al aumentar el tamaño de la muestra de un estudio transversal (o de prevalencia) aumenta:",
     "options": [
       "La representatividad de la muestra.",
       "La validez del estudio.",
@@ -627,21 +627,21 @@
       "La precisión del estudio."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 45 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** Al aumentar el tamaño de la muestra de un estudio transversal, se mejora la representatividad de la muestra. Esto se debe a que una muestra más grande es más probable que refleje la población objetivo, lo que a su vez aumenta la confiabilidad de los resultados. La representatividad es fundamental en los estudios de prevalencia, ya que permite generalizar los hallazgos a la población en general.\n\n- **🔴 Opción B (Incorrecta):** La validez del estudio no se ve directamente afectada por el tamaño de la muestra. La validez se refiere a la capacidad del estudio para medir lo que pretende medir, y no está relacionada con la cantidad de participantes. Aunque un estudio con una muestra grande puede tener más validez que uno con una muestra pequeña, no es una relación directa.\n\n- **🔴 Opción C (Incorrecta):** La reproducibilidad del estudio se refiere a la capacidad de obtener resultados similares al repetir el estudio. Aunque un estudio con una muestra grande puede ser más reproducible que uno con una muestra pequeña, el tamaño de la muestra no es el factor principal que afecta la reproducibilidad.\n\n- **🔴 Opción D (Incorrecta):** La precisión del estudio se refiere a la exactitud de los resultados. Aunque un estudio con una muestra grande puede tener más precisión que uno con una muestra pequeña, el tamaño de la muestra no es el único factor que afecta la precisión. Otros factores, como la calidad de los instrumentos de medición y la técnica de recolección de datos, también son importantes.\n\nLa perla MIR: 'La representatividad de la muestra se ve directamente afectada por el tamaño de la muestra en estudios transversales de prevalencia'."
   },
   {
     "id": "q-46",
     "localNumber": 46,
     "category": "General",
-    "stem": "En un estudio s obre la validez de un a pr ueba diagnóstica, para resumir la relación entre la sensibilidad y la especi ficidad de la p rueba se puede usar:",
+    "stem": "En un estudio sobre la validez de una prueba diagnóstica, para resumir la relación entre la sensibilidad y la especificidad de la prueba se puede usar:",
     "options": [
       "El índice de Kappa.",
-      "La curv a ROC (receiver operating characteristics).",
+      "La curva ROC (receiver operating characteristics).",
       "El coeficiente de correlación intraclase.",
-      "El gráfico de Altman y Bland. (--MEDICINA-0--9/36) Pagina: 7 de 34"
+      "El gráfico de Altman y Bland."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 46 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La curva ROC (receiver operating characteristics) es un gráfico que muestra la relación entre la sensibilidad y la especificidad de una prueba diagnóstica. Es un método utilizado para evaluar la capacidad de una prueba para distinguir entre casos y controles. La curva ROC se construye ploteando la sensibilidad en el eje y la especificidad en el eje x, y se utiliza para evaluar la precisión de la prueba en diferentes umbrales de decisión. La área bajo la curva ROC (AUC) es un indicador de la capacidad de la prueba para discriminar entre casos y controles, y se considera un valor importante para evaluar la validez de una prueba diagnóstica.\n\n- **🔴 Opción A (Incorrecta):** El índice de Kappa es un coeficiente utilizado para evaluar la concordancia entre dos observadores que evalúan la misma variable. No se utiliza para evaluar la relación entre la sensibilidad y la especificidad de una prueba diagnóstica.\n\n- **🔴 Opción B (Incorrecta):** El coeficiente de correlación intraclase es un estadístico utilizado para evaluar la correlación entre dos variables en el mismo grupo de observación. No se utiliza para evaluar la relación entre la sensibilidad y la especificidad de una prueba diagnóstica.\n\n- **🔴 Opción D (Incorrecta):** El gráfico de Altman y Bland es un gráfico utilizado para evaluar la precisión de una prueba diagnóstica en comparación con una prueba de referencia. No se utiliza para resumir la relación entre la sensibilidad y la especificidad de la prueba.\n\nLa curva ROC es un método fundamental para evaluar la validez de una prueba diagnóstica, y su uso es esencial en la medicina para garantizar la precisión y la confiabilidad de las pruebas diagnósticas."
   },
   {
     "id": "q-47",
