@@ -1417,21 +1417,21 @@
     "id": "q-103",
     "localNumber": 103,
     "category": "General",
-    "stem": "Varón de 30 años que consulta por cefaleas perioculares unilaterales que progresan rápi- damente hasta hacerse muy intensas. Las crisis de dolor duran entre 30-60 minutos, ocurren 2- 3 veces al día y se acompañan de lagrimeo en el ojo que le duele y rinorre a unilateral. ¿Cuál es el tratamiento preventivo más adecuado?:",
+    "stem": "Varón de 30 años que consulta por cefaleas perioculares unilaterales que progresan rápidamente hasta hacerse muy intensas. Las crisis de dolor duran entre 30-60 minutos, ocurren 2-3 veces al día y se acompañan de lagrimeo en el ojo que le duele y rinorre a unilateral. ¿Cuál es el tratamiento preventivo más adecuado?",
     "options": [
       "Prednisona oral con retirada en 2-3 meses.",
-      "Prednisona oral con retirada en un mes, aso- ciada a verapamilo oral a dosis de 80-180 mg cada 8 horas.",
+      "Prednisona oral con retirada en un mes, asociada a verapamilo oral a dosis de 80-180 mg cada 8 horas.",
       "Carbamazepina a dosis de 600-1200 mg al día.",
       "Indometacina a dosis de 50 mg cada 8 horas durante un mes."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 103 del examen MIR de la convocatoria FSE."
+    "explanation": "Para abordar esta pregunta, debemos considerar la presentación clínica del paciente y las opciones terapéuticas disponibles.\n\n**🟢 Opción B (Correcta):** Esta opción es la correcta porque la asociación de prednisona oral con retirada en un mes y verapamilo oral a dosis de 80-180 mg cada 8 horas es un tratamiento efectivo para la prevención de crisis de dolor en pacientes con dolores de cabeza de gran intensidad. La prednisona tiene efecto antiinflamatorio y la verapamilo tiene efecto vasodilatador, lo que ayuda a reducir la frecuencia y la intensidad de las crisis de dolor.\n\n**🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque la retirada de prednisona oral en 2-3 meses no es suficiente para prevenir las crisis de dolor en pacientes con dolores de cabeza de gran intensidad. La prednisona es un medicamento que debe ser utilizado con precaución y bajo supervisión médica para evitar efectos secundarios.\n\n**🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque la carbamazepina es un medicamento anticonvulsivo que se utiliza principalmente para tratar la epilepsia, y no es el tratamiento más adecuado para los dolores de cabeza de gran intensidad.\n\n**🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque la indometacina es un medicamento antiinflamatorio no esteroide que puede ser utilizado para tratar la dolor crónico, pero no es el tratamiento más adecuado para los dolores de cabeza de gran intensidad.\n\nLa perla MIR para recordar este concepto es: \"La asociación de prednisona oral con retirada en un mes y verapamilo oral a dosis de 80-180 mg cada 8 horas es el tratamiento preventivo más adecuado para los dolores de cabeza de gran intensidad.\""
   },
   {
     "id": "q-104",
     "localNumber": 104,
     "category": "Neurología",
-    "stem": "En un paciente con una parálisis facial periféri- ca (parálisis de Bell) izquierda ¿cuál de los si- guientes signos o síntomas NO esperaría encon- trar?:",
+    "stem": "En un paciente con una parálisis facial periférica (parálisis de Bell) izquierda, ¿cuál de los siguientes signos o síntomas NO esperaría encontrar?",
     "options": [
       "Hiperacusia izquierda.",
       "Hipoestesia de la hemicara izquierda.",
@@ -1439,49 +1439,49 @@
       "Falta de lagrimeo en el ojo izquierdo."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 104 del examen MIR de la convocatoria FSE."
+    "explanation": "\n- **🟢 Opción B (Correcta):** La hipoestesia de la hemicara izquierda no es un síntoma esperado en una parálisis facial periférica, como la parálisis de Bell. La parálisis de Bell afecta los nervios faciales periféricos, lo que puede causar debilidad o parálisis de los músculos faciales, pero no altera la sensibilidad cutánea, que es función de los nervios trigémino y otros nervios sensoriales.\n- **🔴 Opción A (Incorrecta):** La hiperacusia izquierda puede ser un síntoma en la parálisis de Bell debido a la parálisis del músculo estapedio, que normalmente regula la cantidad de sonido que llega al oído interno.\n- **🔴 Opción C (Incorrecta):** La hipogeusia puede estar presente en la parálisis de Bell, ya que el nervio facial periférico también transporta fibras gustativas del tercio anterior de la lengua.\n- **🔴 Opción D (Incorrecta):** La falta de lagrimeo en el ojo izquierdo es un síntoma posible, ya que el nervio facial periférico controla el reflejo lacrimal a través de la rama greater petrosal.\nLa parálisis de Bell es una condición que requiere un diagnóstico y manejo adecuados para evitar complicaciones. Una perla MIR para recordar es que la parálisis de Bell no afecta la sensibilidad cutánea, lo que ayuda a distinguirla de otras condiciones neurológicas."
   },
   {
     "id": "q-105",
     "localNumber": 105,
     "category": "Neurología",
-    "stem": "Varón de 45 años traído a la consulta por sus familiares por un cuadro de un año de evolu- ción de pérdida de memoria, que ha ido progre- sando hasta necesitar ayuda para algunas acti- vidades de su vida cotidiana. Tiene antecedentes de migrañas y algún episodio de focalidad neu- rológica autolimitada por los que no ha consul- tado nunca. La exploración neuropsicológica es compatible con una demencia inicial y la RM cerebral muestra una leucoencefalopatía grave. ¿Qué prueba habría que solicitar?:",
+    "stem": "Un varón de 45 años es traído a la consulta por sus familiares por un cuadro de un año de evolución de pérdida de memoria, que ha ido progresando hasta necesitar ayuda para algunas actividades de su vida cotidiana. Tiene antecedentes de migrañas y algún episodio de focalidad neurológica autolimitada por los que no ha consultado nunca. La exploración neuropsicológica es compatible con una demencia inicial y la RM cerebral muestra una leucoencefalopatía grave. ¿Qué prueba habría que solicitar?",
     "options": [
-      "Punción lumbar para analizar amiloide y pro- teína tau en LCR.",
+      "Punción lumbar para analizar amiloide y proteína tau en LCR.",
       "Estudio genético para presenilina 1 (PSEN1).",
       "Estudio genético para NOTCH3.",
       "Estudio genético para progranulina."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 105 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La punción lumbar para analizar amiloide y proteína tau en LCR (líquido cefalorraquídeo) puede ser útil en la detección de algunas causas de demencia, como la enfermedad de Creutzfeldt-Jakob. Sin embargo, en este caso, la leucoencefalopatía grave sugerida por la RM cerebral no está directamente relacionada con la presencia de amiloide o proteína tau en el LCR. Por tanto, esta opción no es la más adecuada en este escenario clínico.\n\n- **🔴 Opción B (Incorrecta):** El estudio genético para presenilina 1 (PSEN1) puede ser útil en la detección de algunas causas de demencia familiar, como la enfermedad de Alzheimer. Sin embargo, en este caso, no hay antecedentes familiares de demencia ni se menciona la presencia de mutaciones en el gen PSEN1. Por tanto, esta opción no es la más adecuada en este escenario clínico.\n\n- **🔴 Opción D (Incorrecta):** El estudio genético para progranulina puede ser útil en la detección de algunas causas de demencia, como la enfermedad de frontotemporal. Sin embargo, en este caso, no hay antecedentes de demencia frontotemporal ni se menciona la presencia de mutaciones en el gen progranulina. Por tanto, esta opción no es la más adecuada en este escenario clínico.\n\n- **🟢 Opción C (Correcta):** El estudio genético para NOTCH3 puede ser útil en la detección de la enfermedad de CADASIL (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencefalopathy), una condición que puede causar leucoencefalopatía grave y demencia. La presencia de migrainas y episodios de focalidad neurológica autolimitada en el historial clínico del paciente sugiere la posibilidad de esta condición. Por tanto, esta opción es la más adecuada en este escenario clínico.\n\nLa perla MIR: 'NOTCH3' para CADASIL"
   },
   {
     "id": "q-106",
     "localNumber": 106,
     "category": "General",
-    "stem": "Con respecto al trata miento de la hipertensión intracraneal NO es una medida aceptada:",
+    "stem": "Con respecto al tratamiento de la hipertensión intracraneal no es una medida aceptada",
     "options": [
       "Elevar la cabeza del enfermo y mantener la cabeza centrada.",
       "El drenaje de LCR a través de un drenaje lumbar.",
       "La hiperventilación moderada.",
-      "Los glucocorticoides en algunas circunstan- cias."
+      "Los glucocorticoides en algunas circunstancias."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 106 del examen MIR de la convocatoria FSE."
+    "explanation": "Para abordar esta pregunta, debemos considerar cada una de las opciones en relación con el tratamiento de la hipertensión intracraneal. Esta condición se caracteriza por un aumento de la presión intracraneal que puede ser causada por varias razones, incluyendo hemorragias, edema cerebral o obstrucción de los fluídos cerebroespinales (LCR).\n\n- **🟢 Opción B (Correcta):** El drenaje de LCR a través de un drenaje lumbar no es una medida aceptada para el tratamiento de la hipertensión intracraneal. Esto se debe a que puede aumentar la presión intracraneal y empeorar la condición, ya que no se está abordando la causa subyacente. Además, puede provocar una reacción en cadena de daños al tejido cerebral.\n\n- **🔴 Opción A (Incorrecta):** Elevar la cabeza del enfermo y mantener la cabeza centrada es una medida aceptada para reducir la presión intracraneal y mejorar la ventilación cerebral. Esto puede ser beneficioso en casos de hipertensión intracraneal causada por edema cerebral o obstrucción de los fluídos cerebroespinales.\n\n- **🔴 Opción C (Incorrecta):** La hiperventilación moderada puede ser utilizada como una medida de emergencia para reducir la presión intracraneal en casos de hipertensión intracraneal. Al hacer que el paciente respire más profundamente, se reduce la cantidad de dióxido de carbono en la sangre, lo que a su vez disminuye la presión intracraneal. Sin embargo, esto debe ser utilizado con cuidado y bajo supervisión médica.\n\n- **🔴 Opción D (Incorrecta):** Los glucocorticoides pueden ser utilizados en algunas circunstancias para tratar la hipertensión intracraneal, especialmente en casos de edema cerebral o inflamación cerebral. Los glucocorticoides pueden ayudar a reducir la inflamación y la presión intracraneal, lo que puede ser beneficioso para el tratamiento de esta condición.\n\nLa hipertensión intracraneal es una condición médica grave que requiere un enfoque rápido y efectivo para reducir la presión intracraneal y prevenir daños al tejido cerebral. Al comprender las medidas aceptadas y no aceptadas para tratar esta condición, los médicos pueden tomar decisiones informadas para abordar los casos de hipertensión intracraneal."
   },
   {
     "id": "q-107",
     "localNumber": 107,
     "category": "Neurología",
-    "stem": "Varón de 55 años que sufre una hemorragia subaracnoidea por rotura de un aneurisma de arteria cerebral media. Es tratado de forma quirúrgica. Tras una buena evolución en la que recupera la capacidad de caminar, un mes después de sufrir la hemorragia presenta un deterioro progresivo, llegando a encontrarse obnubilado y con dificultad para obedecer ór- denes. Señale la afirmación correcta:",
+    "stem": "Varón de 55 años que sufre una hemorragia subaracnoidea por rotura de un aneurisma de arteria cerebral media. Es tratado de forma quirúrgica. Tras una buena evolución en la que recupera la capacidad de caminar, un mes después de sufrir la hemorragia presenta un deterioro progresivo, llegando a encontrarse obnubilado y con dificultad para obedecer órdenes.",
     "options": [
       "Se encuentra en el momento de la evolución en el que es más frecuente el vasoespasmo.",
       "Probablemente este deterioro progresivo sea secundario al resangrado del aneurisma.",
-      "El deterioro subagudo que presenta con ma- yor probabilidad se debe a hidrocefalia.",
-      "La técnica diagnóstica de elección es la an- giografía cerebral. - 16 -"
+      "El deterioro subagudo que presenta con mayor probabilidad se debe a hidrocefalia.",
+      "La técnica diagnóstica de elección es la angiografía cerebral."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 107 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El deterioro subagudo en este paciente se debe probablemente a hidrocefalia. Esto se debe a que la hemorragia subaracnoidea puede causar un aumento de la presión intracraneal, lo que a su vez puede llevar a la formación de hidrocefalia. La hidrocefalia es un posible consecuencia de la hemorragia subaracnoidea y puede causar deterioro cognitivo y dificultad para la comunicación. La angiografía cerebral no es la técnica diagnóstica de elección para el diagnóstico de hidrocefalia. La angiografía cerebral es más útil para diagnosticar problemas vasculares cerebrales como aneurismas o malformaciones arteriovenosas. Por otro lado, el vasoespasmo es una complicación potencial de la cirugía para la reparación de aneurismas, pero no es la causa más probable del deterioro subagudo en este paciente. El resangrado del aneurisma también es una complicación potencial, pero en este caso, el deterioro subagudo es más probablemente causado por la hidrocefalia que por el resangrado del aneurisma.\n\n- **🔴 Opción A (Incorrecta):** El vasoespasmo es una complicación potencial de la cirugía para la reparación de aneurismas, pero no es la causa más probable del deterioro subagudo en este paciente. El vasoespasmo puede causar deterioro cognitivo y dificultad para la comunicación, pero en este caso, la causa más probable del deterioro subagudo es la hidrocefalia.\n\n- **🔴 Opción B (Incorrecta):** El resangrado del aneurisma es una complicación potencial, pero en este caso, el deterioro subagudo es más probablemente causado por la hidrocefalia que por el resangrado del aneurisma. El resangrado del aneurisma puede causar deterioro cognitivo y dificultad para la comunicación, pero no es la causa más probable del deterioro subagudo en este paciente.\n\n- **🔴 Opción D (Incorrecta):** La angiografía cerebral no es la técnica diagnóstica de elección para el diagnóstico de hidrocefalia. La angiografía cerebral es más útil para diagnosticar problemas vasculares cerebrales como aneurismas o malformaciones arteriovenosas. En este caso, la causa más probable del deterioro subagudo es la hidrocefalia, por lo que la angiografía cerebral no es la técnica diagnóstica de elección.\n\nLa perla MIR es: El deterioro subagudo después de una hemorragia subaracnoidea puede ser causado por hidrocefalia, no por vasoespasmo o resangrado del aneurisma."
   },
   {
     "id": "q-108",
