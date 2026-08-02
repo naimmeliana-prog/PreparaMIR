@@ -2677,7 +2677,7 @@
     "id": "q-193",
     "localNumber": 193,
     "category": "Cardiología",
-    "stem": "Según las recomendaciones preventivas cardio- vasculares del Programa de Actividades Pre- v e n t i v a s y P r o m o c i ó n d e l a S a l u d ( P A P P S ) , indique la opción correcta sobre la periodicidad del cribado de hipertensión arterial en personas mayores de 40 años:",
+    "stem": "Según las recomendaciones preventivas cardiovasculares del Programa de Actividades Preventivas y Promoción de la Salud (PAPPS), indique la opción correcta sobre la periodicidad del cribado de hipertensión arterial en personas mayores de 40 años:",
     "options": [
       "Se recomienda tomar la presión arterial anualmente.",
       "Se recomienda tomar la presión arterial cada dos años.",
@@ -2685,7 +2685,7 @@
       "Se recomienda tomar la presión arterial cada cuatro años."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 193 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La periodicidad del cribado de hipertensión arterial en personas mayores de 40 años según las recomendaciones del PAPPS es anual. Esto se debe a que la hipertensión arterial es una condición crónica que puede llevar a complicaciones cardiovasculares si no se trata adecuadamente. Un cribado anual permite identificar la hipertensión arterial temprano y iniciar el tratamiento adecuado para prevenir complicaciones. Además, la hipertensión arterial es una condición que puede cambiar con el tiempo, por lo que un cribado anual es necesario para ajustar el tratamiento según sea necesario.\n\n- **🔴 Opción B (Incorrecta):** La opción de tomar la presión arterial cada dos años no es adecuada para personas mayores de 40 años. La hipertensión arterial puede desarrollarse y progresar rápidamente, especialmente en personas con factores de riesgo como la obesidad, la diabetes o la familiares con hipertensión arterial. Un cribado cada dos años no permite identificar la hipertensión arterial temprano y iniciar el tratamiento adecuado para prevenir complicaciones.\n\n- **🔴 Opción C (Incorrecta):** La opción de tomar la presión arterial cada tres años no es adecuada para personas mayores de 40 años. Al igual que la opción B, un cribado cada tres años no permite identificar la hipertensión arterial temprano y iniciar el tratamiento adecuado para prevenir complicaciones. Además, la hipertensión arterial puede desarrollarse y progresar rápidamente, por lo que un cribado cada tres años no es suficiente para prevenir complicaciones.\n\n- **🔴 Opción D (Incorrecta):** La opción de tomar la presión arterial cada cuatro años no es adecuada para personas mayores de 40 años. Un cribado cada cuatro años no permite identificar la hipertensión arterial temprano y iniciar el tratamiento adecuado para prevenir complicaciones. Además, la hipertensión arterial puede desarrollarse y progresar rápidamente, por lo que un cribado cada cuatro años no es suficiente para prevenir complicaciones.\n\n**Perla MIR:** La periodicidad del cribado de hipertensión arterial en personas mayores de 40 años debe ser anual según las recomendaciones del PAPPS. Esto se debe a que la hipertensión arterial es una condición crónica que puede llevar a complicaciones cardiovasculares si no se trata adecuadamente. Un cribado anual permite identificar la hipertensión arterial temprano y iniciar el tratamiento adecuado para prevenir complicaciones."
   },
   {
     "id": "q-194",
@@ -2694,18 +2694,18 @@
     "stem": "Respecto del síndrome cardiorrenal, señale la afirmación FALSA:",
     "options": [
       "Es de causa multifactorial.",
-      "Se observa galope S1- S2 y edemas periférico y pulmonar.",
-      "S u p r e s e n c i a e m p e o r a n o t a b l e m e n t e e l p r o - nóstico y los síntomas de la insuficiencia car- diaca y dificulta su tratamiento.",
-      "La anemia asociada a la insuficiencia renal puede agravar los síntomas de la insuficiencia cardiaca. - 28 -"
+      "Se observa galope S1-S2 y edemas periférico y pulmonar.",
+      "Su presencia empeora notablemente el pronóstico y los síntomas de la insuficiencia cardíaca y dificulta su tratamiento.",
+      "La anemia asociada a la insuficiencia renal puede agravar los síntomas de la insuficiencia cardiaca."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 194 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La respuesta correcta es la Opción C. Esto se debe a que el síndrome cardiorrenal se caracteriza por una interacción entre la insuficiencia cardíaca y la insuficiencia renal, lo que puede empeorar significativamente el pronóstico y los síntomas de la insuficiencia cardíaca, así como dificultar su tratamiento. La presencia de insuficiencia renal puede aumentar la carga de trabajo del corazón, lo que a su vez puede empeorar la insuficiencia cardíaca. Además, la insuficiencia renal puede ser una causa de anemia, lo que puede agravar los síntomas de la insuficiencia cardíaca. Por lo tanto, la afirmación de la Opción C es verdadera y no es la respuesta correcta a la pregunta de la afirmación FALSA. En lugar de eso, la Opción C es la afirmación verdadera y la Opción B es la afirmación FALSA. \n\n- **🔴 Opción A (Incorrecta):** La afirmación de la Opción A es verdadera. El síndrome cardiorrenal es de causa multifactorial, lo que significa que se debe a una combinación de factores, incluyendo la insuficiencia cardíaca y la insuficiencia renal. Por lo tanto, la Opción A no es la respuesta correcta a la pregunta de la afirmación FALSA. \n\n- **🔴 Opción B (Incorrecta):** La afirmación de la Opción B es falsa. El síndrome cardiorrenal se caracteriza por un galope S3, no S1-S2, y edemas periféricos y pulmonares. El galope S3 es un signo de insuficiencia cardíaca y se debe a la acumulación de líquido en los pulmones. Por lo tanto, la Opción B no es la respuesta correcta a la pregunta de la afirmación FALSA. \n\n- **🔴 Opción D (Incorrecta):** La afirmación de la Opción D es verdadera. La anemia asociada a la insuficiencia renal puede agravar los síntomas de la insuficiencia cardiaca. La anemia puede disminuir la capacidad del corazón para bombear sangre y aumentar la carga de trabajo del corazón, lo que puede empeorar la insuficiencia cardíaca. Por lo tanto, la Opción D no es la respuesta correcta a la pregunta de la afirmación FALSA."
   },
   {
     "id": "q-195",
     "localNumber": 195,
     "category": "Nefrología",
-    "stem": "Mujer de 66 años con diabetes mellitus tipo 2. Valorando su función renal presenta un estadio G3a/A1. ¿A qué valores corresponde este esta- dío, el más frecuente en pacientes con nefropa- tía diabética?:",
+    "stem": "Mujer de 66 años con diabetes mellitus tipo 2. Valorando su función renal presenta un estadio G3a/A1. ¿A qué valores corresponde este estadio, el más frecuente en pacientes con nefropatía diabética?",
     "options": [
       "Filtrado glomerular 45-59 ml/min/1,73 m2 y albuminuria < 30 mg/ml.",
       "Filtrado glomerular 30-44 ml/min/1,73 m2 y albuminuria < 30 mg/ml.",
@@ -2713,35 +2713,35 @@
       "Filtrado glomerular 15-29 ml/min/1,73 m2 y albuminuria < 30 mg/ml."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 195 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El estadio G3a/A1 se refiere a una función renal moderadamente deteriorada, con un filtrado glomerular entre 45-59 ml/min/1,73 m2 y albuminuria leve (< 30 mg/ml). Esto es el más frecuente en pacientes con nefropatía diabética, ya que la enfermedad renal crónica progresiva puede llevar a un deterioro gradual de la función renal y la aparición de albuminuria. La opción A se ajusta a este escenario, ya que refleja un estadio de enfermedad renal moderado con albuminuria leve, que es común en pacientes con nefropatía diabética.\n\n- **🔴 Opción B (Incorrecta):** Esta opción describe un filtrado glomerular entre 30-44 ml/min/1,73 m2, lo que corresponde a un estadio G3b, no G3a. Además, la albuminuria es igual a < 30 mg/ml, lo que no se ajusta a la presencia de albuminuria moderada en el estadio G3a/A1.\n\n- **🔴 Opción C (Incorrecta):** Esta opción describe un filtrado glomerular entre 45-59 ml/min/1,73 m2, lo que corresponde al estadio G3a, pero la albuminuria es de 30-300 mg/ml, lo que es más severa que la descripción del estadio G3a/A1. Además, la presencia de albuminuria moderada no se ajusta a la descripción del estadio A1.\n\n- **🔴 Opción D (Incorrecta):** Esta opción describe un filtrado glomerular entre 15-29 ml/min/1,73 m2, lo que corresponde a un estadio G4, no G3a. Además, la albuminuria es igual a < 30 mg/ml, lo que no se ajusta a la presencia de albuminuria en el estadio G3a/A1.\n\nLa perla MIR: 'El estadio G3a/A1 se refiere a un filtrado glomerular de 45-59 ml/min/1,73 m2 con albuminuria leve (< 30 mg/ml), lo que es el más frecuente en pacientes con nefropatía diabética.'"
   },
   {
     "id": "q-196",
     "localNumber": 196,
     "category": "General",
-    "stem": "Mujer de 25 años en estudio por una hepatopa- tía de origen autoinmune, con importante coles- tasis. Refiere prurito intenso y aparición de lesiones cutáneas sugestivas de xantomas. Nive- les de colesterol total 800 mg/dL con colesterol LDL 395 mg/dL. Indique la respuesta correcta respecto a su enfermedad:",
+    "stem": "Mujer de 25 años en estudio por una hepatopatía de origen autoinmune, con importante colestasis. Refiere prurito intenso y aparición de lesiones cutáneas sugestivas de xantomas. Niveles de colesterol total 800 mg/dL con colesterol LDL 395 mg/dL.",
     "options": [
-      "Se trata de una hipercolesterolemia secunda- ria a colestasis.",
-      "Es imprescindible realizar un test genético para descartar una hipercolesterolemia fami- liar.",
-      "Dados los niveles de colesterol total y de co- lesterol LDL se trata de una hipercolestero- lemia familiar homocigota.",
-      "La eliminación del colesterol es fundamen- talmente renal, por lo que hay que excluir una causa primaria de hipercolesterolemia."
+      "Se trata de una hipercolesterolemia secundaria a colestasis.",
+      "Es imprescindible realizar un test genético para descartar una hipercolesterolemia familiar.",
+      "Dados los niveles de colesterol total y de colesterol LDL, se trata de una hipercolesterolemia familiar homocigota.",
+      "La eliminación del colesterol es fundamentalmente renal, por lo que hay que excluir una causa primaria de hipercolesterolemia."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 196 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La colestasis es una condición en la que hay una obstrucción del flujo de bilis desde el hígado hacia el intestino. Esto puede llevar a una acumulación de colesterol en la sangre, lo que se conoce como hipercolesterolemia secundaria. En este caso, la paciente tiene niveles altos de colesterol total y LDL, lo que sugiere que la colestasis está causando un aumento en los niveles de colesterol en la sangre.\n- **🔴 Opción B (Incorrecta):** Un test genético puede ser útil para diagnosticar hipercolesterolemia familiar, pero no es imprescindible en este caso. La paciente tiene una hepatopatía autoinmune, lo que sugiere que la causa de la hipercolesterolemia es más probablemente secundaria a la colestasis que a una condición genética.\n- **🔴 Opción C (Incorrecta):** La hipercolesterolemia familiar es una condición genética que se caracteriza por niveles altos de colesterol en la sangre desde la infancia. La paciente tiene niveles altos de colesterol, pero su edad y la presencia de hepatopatía autoinmune sugieren que la causa es más probablemente secundaria a la colestasis.\n- **🔴 Opción D (Incorrecta):** La eliminación del colesterol es principalmente hepática, no renal. La colestasis puede causar un aumento en los niveles de colesterol en la sangre, pero la eliminación del colesterol depende de la función hepática, no renal.\n- La perla MIR: Recuerda que la hipercolesterolemia secundaria a colestasis es una condición clínica importante que debe ser considerada en pacientes con colestasis y niveles altos de colesterol en la sangre."
   },
   {
     "id": "q-197",
     "localNumber": 197,
     "category": "Neumología",
-    "stem": "Varón de 30 años que presenta una insuficien- cia respiratoria aguda grave que precisa de intubación orotraqueal a su llegada a urgencia y traslado a UCI para ventilación mecánica invasiva. Se realiza una radiografía de tórax compatible con un distrés respiratorio. ¿Cuál de las siguientes afirmaciones se ajusta mejor al caso clínico?:",
+    "stem": "Un varón de 30 años que presenta una insuficiencia respiratoria aguda grave que precisa de intubación orotraqueal a su llegada a urgencia y traslado a UCI para ventilación mecánica invasiva. Se realiza una radiografía de tórax compatible con un distrés respiratorio.",
     "options": [
       "La causa más frecuente es infecciosa.",
       "Durante los primeros siete días de evolución se produce normalmente la fase proliferativa.",
-      "Se caracteriza por un aumento de la distensi- bilidad del pulmón.",
-      "La relación entre la presión parcial de oxí- geno y la fracción inspirada de oxígeno es su- perior a 300."
+      "Se caracteriza por un aumento de la distensibilidad del pulmón.",
+      "La relación entre la presión parcial de oxígeno y la fracción inspirada de oxígeno es superior a 300."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 197 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La insuficiencia respiratoria aguda grave es una condición médica grave que requiere atención inmediata. La causa más frecuente de insuficiencia respiratoria aguda grave es la infección, especialmente en pacientes con enfermedades pulmonares preexistentes o con sistema inmunológico comprometido. En este caso, la insuficiencia respiratoria aguda grave se diagnostica en una unidad de cuidados intensivos (UCI), lo que sugiere que la causa probable es infecciosa. Por lo tanto, la afirmación correcta es que la causa más frecuente es infecciosa. \n\n- **🔴 Opción B (Incorrecta):** La fase proliferativa es un estadio de la infección viral en la que el virus se replica activamente. Sin embargo, en el contexto de la insuficiencia respiratoria aguda grave, la fase proliferativa no se produce normalmente durante los primeros siete días de evolución. En realidad, la insuficiencia respiratoria aguda grave es una condición que se desarrolla en respuesta a una lesión pulmonar aguda, como la infección, y no como resultado de una fase proliferativa. \n\n- **🔴 Opción C (Incorrecta):** La distensibilidad del pulmón se refiere a la capacidad del pulmón para expandirse y llenarse de aire. En la insuficiencia respiratoria aguda grave, la distensibilidad del pulmón se reduce debido a la lesión pulmonar aguda, lo que hace que sea difícil expandir los pulmones y obtener una ventilación adecuada. Por lo tanto, la afirmación de que la insuficiencia respiratoria aguda grave se caracteriza por un aumento de la distensibilidad del pulmón es incorrecta. \n\n- **🔴 Opción D (Incorrecta):** La relación entre la presión parcial de oxígeno (pO2) y la fracción inspirada de oxígeno (FiO2) es un parámetro utilizado para evaluar la eficacia de la ventilación mecánica. Sin embargo, en la insuficiencia respiratoria aguda grave, la relación pO2/FiO2 no es necesariamente superior a 300. De hecho, una relación pO2/FiO2 baja puede indicar una lesión pulmonar grave y una necesidad de ventilación mecánica más intensiva. Por lo tanto, la afirmación de que la relación entre la presión parcial de oxígeno y la fracción inspirada de oxígeno es superior a 300 es incorrecta.\n\nLa insuficiencia respiratoria aguda grave es una condición médica grave que requiere atención inmediata. La causa más frecuente es la infección, y es importante evaluar la eficacia de la ventilación mecánica utilizando parámetros como la relación pO2/FiO2. Recuerda que en la insuficiencia respiratoria aguda grave, la lesión pulmonar aguda es la causa principal, y no una fase proliferativa o un aumento de la distensibilidad del pulmón."
   },
   {
     "id": "q-198",
