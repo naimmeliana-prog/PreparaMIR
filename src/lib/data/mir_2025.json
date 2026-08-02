@@ -1065,49 +1065,49 @@
     "id": "q-77",
     "localNumber": 77,
     "category": "General",
-    "stem": "Respecto a la técnica de expansión tisular, la razón más frecuente de fallos es:",
+    "stem": "Respecto a la técnica de expansión tisular, la razón más frecuente de fallos es: La bolsa pequeña respecto al expansor.",
     "options": [
-      "Bolsa pequeña respecto al expansor.",
-      "Llenado del expansor de forma muy lenta.",
-      "Mal cálculo de las medidas necesarias.",
-      "Llenado del expansor de forma rápida."
+      "La bolsa pequeña respecto al expansor.",
+      "El llenado del expansor de forma muy lenta.",
+      "El mal cálculo de las medidas necesarias.",
+      "El llenado del expansor de forma rápida."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 77 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La razón más frecuente de fallos en la técnica de expansión tisular es la relación entre el tamaño de la bolsa y el expansor. Si la bolsa es demasiado pequeña en relación con el expansor, puede provocar una expansión insuficiente o irregular de la piel, lo que puede llevar a complicaciones como cicatrices mal formadas o retrasos en la cicatrización. Por lo tanto, es fundamental que el tamaño de la bolsa sea adecuado para el expansor utilizado. Esto asegura una expansión tisular efectiva y segura.\n\n- **🔴 Opción B (Incorrecta):** El llenado del expansor de forma muy lenta no es la razón más frecuente de fallos en la técnica de expansión tisular. Si bien un llenado lento puede causar incomodidad al paciente, no es una causa común de complicaciones en la técnica de expansión tisular.\n\n- **🔴 Opción C (Incorrecta):** El mal cálculo de las medidas necesarias tampoco es la razón más frecuente de fallos en la técnica de expansión tisular. Aunque el cálculo incorrecto de las medidas puede llevar a problemas, no es la causa principal de complicaciones en esta técnica.\n\n- **🔴 Opción D (Incorrecta):** El llenado del expansor de forma rápida tampoco es la razón más frecuente de fallos en la técnica de expansión tisular. Un llenado rápido puede causar incomodidad al paciente, pero no es una causa común de complicaciones en la técnica de expansión tisular.\n\nLa perla MIR: Para recordar la razón más frecuente de fallos en la técnica de expansión tisular, recuerda que \"una bolsa pequeña es un problema grande\"."
   },
   {
     "id": "q-78",
     "localNumber": 78,
     "category": "Neurología",
-    "stem": "Los tumores cerebrales metastásicos o se- cundarios son aquellas neoplasias que se diseminan e implantan en el cerebro, pero cuyo origen es un órgano de localización diferente a éste. Indique la respuesta CO- RRECTA acerca de estos tumores:",
+    "stem": "Los tumores cerebrales metastásicos o secundarios son aquellas neoplasias que se diseminan e implantan en el cerebro, pero cuyo origen es un órgano de localización diferente a éste. Indique la respuesta CORRECTA acerca de estos tumores.",
     "options": [
-      "Las neoplasias secundarias son más in- frecuentes que las neoplasias cerebrales primarias, representan sólo el 10% de los pacientes con diagnóstico de tumor cere- bral.",
-      "Son tumores que típicamente se desarro- llan durante la primera y segunda década de la vida.",
-      "Las neoplasias que con más frecuencia dan implantes cerebrales son aquellas ori- ginadas en el páncreas y en el hígado.",
+      "Las neoplasias secundarias son más infrecuentes que las neoplasias cerebrales primarias, representan sólo el 10% de los pacientes con diagnóstico de tumor cerebral.",
+      "Son tumores que típicamente se desarrollan durante la primera y segunda década de la vida.",
+      "Las neoplasias que con más frecuencia dan implantes cerebrales son aquellas originadas en el páncreas y en el hígado.",
       "Cuando existen metástasis cerebrales múltiples, el tratamiento quirúrgico para lograr la extirpación completa de todas las lesiones no suele ser una opción posible."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 78 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Las metástasis cerebrales son comunes en pacientes con enfermedades malignas avanzadas, como el cáncer de pulmón, mama, colon y melanoma. Debido a la complejidad de la anatomía cerebral y la presencia de múltiples lesiones, el tratamiento quirúrgico a veces no es factible o no es la mejor opción. En lugar de eso, se utilizan otros métodos de tratamiento, como la quimioterapia y la radioterapia, para controlar el crecimiento de las células cancerosas y aliviar los síntomas. Por lo tanto, esta opción es correcta porque refleja la complejidad del tratamiento de las metástasis cerebrales múltiples y la limitación del tratamiento quirúrgico en este contexto. \n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque las metástasis cerebrales son más comunes que las neoplasias cerebrales primarias. Según estadísticas, alrededor del 20-40% de los pacientes con cáncer tienen metástasis cerebrales, mientras que las neoplasias cerebrales primarias representan un porcentaje menor de los diagnósticos de tumor cerebral. Por lo tanto, esta opción subestima la frecuencia de las metástasis cerebrales. \n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque los tumores cerebrales metastásicos a menudo se desarrollan en pacientes de cualquier edad, no solo durante la primera y segunda década de la vida. La edad de presentación de las metástasis cerebrales varía dependiendo de la enfermedad subyacente y el tipo de cáncer. Por lo tanto, esta opción no es precisa. \n\n- **🔴 Opción C (Incorrecta):** Esta opción es incorrecta porque, aunque el páncreas y el hígado son orígenes comunes de cáncer que pueden metastatizar al cerebro, no son las neoplasias más frecuentes que dan implantes cerebrales. Las neoplasias más comunes que metastatizan al cerebro incluyen el cáncer de pulmón, mama, colon y melanoma. Por lo tanto, esta opción no es precisa."
   },
   {
     "id": "q-79",
     "localNumber": 79,
     "category": "Neurología",
-    "stem": "Con respecto al meningioma cerebral, indi- que la afirmación CORRECTA:",
+    "stem": "Con respecto al meningioma cerebral, indique la afirmación CORRECTA: Los meningiomas son tumores bien definidos y de localización extraaxial, por lo que generalmente son extirpables quirúrgicamente de forma completa y esto puede ser curativo.",
     "options": [
-      "Son tumores bien definidos y de localiza- ción extraaxial , por lo que generalmente son extirpables quirúrgicamente de forma completa y esto puede ser curativo.",
-      "Los pacientes diagnosticados de menin- gioma deben realizarse un estudio gené- tico a la hora de tener descendencia ante la herencia autosómica dominante de es- tos tumores.",
-      "Como son tumores de comportamiento benigno, no es necesario realizar un estu- dio anatomo -patológico completo puesto que el grado tumoral no influye en el trata- miento a realizar ni en el pronóstico pos- terior.",
-      "Las recidivas en estos tumores no depen- den del grado tumoral y no son frecuentes."
+      "Son tumores bien definidos y de localización extraaxial, por lo que generalmente son extirpables quirúrgicamente de forma completa y esto puede ser curativo.",
+      "Los pacientes diagnosticados de meningioma deben realizarse un estudio genético a la hora de tener descendencia ante la herencia autosómica dominante de estos tumores.",
+      "Como son tumores de comportamiento benigno, no es necesario realizar un estudio anatomo-patológico completo puesto que el grado tumoral no influye en el tratamiento a realizar ni en el pronóstico posterior.",
+      "Las recidivas en estos tumores no dependen del grado tumoral y no son frecuentes."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 79 del examen MIR de la convocatoria FSE."
+    "explanation": "Para responder a esta pregunta, debemos analizar cada opción individualmente:\n\n- **🟢 Opción A (Correcta):** Esta opción es correcta porque los meningiomas son tumores bien definidos y de localización extraaxial, lo que significa que pueden ser extirpados quirúrgicamente de forma completa. Esto puede ser curativo en muchos casos. La precisión y la localización de estos tumores hacen que sean accesibles y tratables de manera efectiva.\n\n- **🔴 Opción B (Incorrecta):** Esta opción no es correcta porque no todos los meningiomas tienen herencia autosómica dominante. La herencia de los meningiomas puede ser compleja y no se limita a una sola forma de transmisión genética. Además, el estudio genético no es obligatorio para todos los pacientes con meningioma, especialmente si no hay antecedentes familiares.\n\n- **🔴 Opción C (Incorrecta):** Esta opción no es correcta porque, aunque los meningiomas son tumores de comportamiento benigno, el grado tumoral sí influye en el pronóstico posterior. El grado tumoral se refiere a la agresividad del tumor y su capacidad para crecer y metastatizar. Un meningioma de grado bajo puede tener un pronóstico más favorable que uno de grado alto.\n\n- **🔴 Opción D (Incorrecta):** Esta opción no es correcta porque las recidivas en los meningiomas sí dependen del grado tumoral. Un meningioma de grado alto tiene una mayor probabilidad de recidiva que uno de grado bajo. Además, las recidivas pueden ser frecuentes en algunos casos, especialmente si el tumor no se extirpa completamente.\n\n**Perla MIR:** Los meningiomas son tumores bien definidos y de localización extraaxial, por lo que pueden ser tratados de manera efectiva con cirugía. El grado tumoral y la herencia genética pueden influir en el pronóstico posterior y la probabilidad de recidiva."
   },
   {
     "id": "q-80",
     "localNumber": 80,
     "category": "Neumología",
-    "stem": "Paciente remitido a la consulta de cirugía torácica con el diagnóstico de un segundo episodio de neumotórax resuelto, tratados ambos con drenaje torácico. ¿Cuál sería la mejor recomendación?:",
+    "stem": "Paciente remitido a la consulta de cirugía torácica con el diagnóstico de un segundo episodio de neumotórax resuelto tratados ambos con drenaje torácico ¿Cuál sería la mejor recomendación",
     "options": [
       "Reposo relativo y abstención de tabaco.",
       "Colocación de un nuevo drenaje torácico.",
@@ -1115,21 +1115,21 @@
       "Programar una intervención quirúrgica por videocirugía."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 80 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La mejor recomendación sería programar una intervención quirúrgica por videocirugía. Esto se debe a que el paciente ya ha tenido dos episodios de neumotórax resuelto, lo que sugiere una patología subyacente que requiere tratamiento quirúrgico. El videocirugía es una opción segura y eficaz para tratar el neumotórax, especialmente en pacientes con patología torácica compleja. Además, permite una menor invasión y un mejor seguimiento postoperatorio en comparación con la cirugía abierta tradicional.\n\n- **🔴 Opción A (Incorrecta):** El reposo relativo y la abstención de tabaco pueden ser recomendaciones para pacientes con neumotórax espontáneo, pero no son suficientes para un paciente que ya ha tenido dos episodios de neumotórax resuelto. La cirugía es la opción más adecuada en este caso.\n\n- **🔴 Opción B (Incorrecta):** La colocación de un nuevo drenaje torácico puede ser necesaria en algunos casos de neumotórax, pero no es la mejor recomendación para un paciente que ya ha tenido dos episodios de neumotórax resuelto. La cirugía es la opción más adecuada en este caso.\n\n- **🔴 Opción C (Incorrecta):** Esperar a un tercer episodio para plantear cirugía no es una buena opción, ya que el paciente ya ha tenido dos episodios de neumotórax resuelto, lo que sugiere una patología subyacente que requiere tratamiento quirúrgico lo antes posible.\n\nLa perla MIR es: \"Un segundo neumotórax resuelto es una señal de alarma para la cirugía\"."
   },
   {
     "id": "q-81",
     "localNumber": 81,
     "category": "General",
-    "stem": "El carcinoma adenoide quístico:",
+    "stem": "El carcinoma adenoide quístico es un tipo de tumor maligno que se origina en las glándulas salivares.",
     "options": [
       "Es el tumor maligno más frecuente de las glándulas salivares.",
       "Nunca afecta a las glándulas salivares menores a nivel del paladar.",
-      "Puede asociarse con parálisis facial de- bido a su neurotropismo.",
-      "Se debe tratar con radioterapia como pri- mera opción terapéutica."
+      "Puede asociarse con parálisis facial debido a su neurotropismo.",
+      "Se debe tratar con radioterapia como primera opción terapéutica."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 81 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El carcinoma adenoide quístico es un tipo de tumor maligno que se asocia con la glándula parótida y, en menor medida, con otras glándulas salivares. Puede presentar un comportamiento agresivo y puede afectar la función de la glándula parótida, lo que puede llevar a una parálisis facial debido a su neurotropismo. Esto se debe a que el tumor puede invadir y dañar los nervios faciales que controlan el movimiento facial. Por lo tanto, esta opción es correcta porque refleja la capacidad del carcinoma adenoide quístico para causar parálisis facial debido a su neurotropismo.\n\n- **🔴 Opción A (Incorrecta):** El carcinoma adenoide quístico no es el tumor maligno más frecuente de las glándulas salivares. El carcinoma escamocitario es el más común en las glándulas salivares. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción B (Incorrecta):** El carcinoma adenoide quístico puede afectar a las glándulas salivares menores, especialmente en las glándulas salivares menores del conducto auditivo externo. Por lo tanto, esta opción es incorrecta.\n\n- **🔴 Opción D (Incorrecta):** El tratamiento del carcinoma adenoide quístico depende del tamaño y la localización del tumor, así como de la etapa en la que se diagnostique. La radioterapia puede ser una opción terapéutica, pero no siempre es la primera opción. Por lo tanto, esta opción es incorrecta.\n\nLa perla MIR para recordar este concepto es que el carcinoma adenoide quístico es un tumor maligno que puede causar parálisis facial debido a su neurotropismo, y su tratamiento depende de varios factores, incluyendo el tamaño y la localización del tumor."
   },
   {
     "id": "q-82",
