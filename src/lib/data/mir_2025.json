@@ -1275,29 +1275,29 @@
     "id": "q-92",
     "localNumber": 92,
     "category": "Traumatología",
-    "stem": "La fractura de Monteggia consiste en:",
+    "stem": "La fractura de Monteggia consiste en la fractura de cubito proximal con luxación de la cabeza de radio.",
     "options": [
       "Fractura de cabeza radial con rotura de la membrana intraósea.",
       "Fractura de cabeza radial con luxación de articulación radio-cubital distal.",
       "Fractura de cubito proximal con luxación de la cabeza de radio.",
-      "Fractura de radio distal con luxación de ar- ticulación radio-cubital distal."
+      "Fractura de radio distal con luxación de articulación radio-cubital distal."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 92 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La fractura de Monteggia es una lesión compleja que implica una fractura del cubito proximal (hueso de la muñeca) acompañada de una luxación de la cabeza del radio. Esta condición es característica porque la fractura del cubito proximal no solo daña el hueso, sino que también altera la articulación entre el cubito y el radio, lo que provoca la luxación de la cabeza del radio. Esta lesión es un desafío para los médicos debido a la complejidad del daño y la necesidad de un tratamiento adecuado para restaurar la función y el movimiento de la articulación afectada.\n\n- **🔴 Opción A (Incorrecta):** Esta opción describe una fractura de cabeza radial con rotura de la membrana intraósea, lo cual no es la definición de la fractura de Monteggia. La membrana intraósea no está directamente relacionada con la lesión de Monteggia. La rotura de la membrana intraósea puede ser una complicación en algunas fracturas, pero no es característica de la fractura de Monteggia.\n\n- **🔴 Opción B (Incorrecta):** Esta opción menciona una luxación de la articulación radio-cubital distal, que no es parte de la definición de la fractura de Monteggia. La fractura de Monteggia implica una luxación de la cabeza del radio, no de la articulación radio-cubital distal. La articulación radio-cubital distal está ubicada más abajo en la muñeca y no está directamente relacionada con la lesión de Monteggia.\n\n- **🔴 Opción D (Incorrecta):** Esta opción describe una fractura de radio distal con luxación de la articulación radio-cubital distal. Esta condición no es la misma que la fractura de Monteggia. La fractura de Monteggia implica una fractura del cubito proximal y una luxación de la cabeza del radio, no una fractura de radio distal y una luxación de la articulación radio-cubital distal. Las dos lesiones son diferentes y requieren tratamientos y diagnósticos distintos.\n\nLa perla MIR para recordar la fractura de Monteggia es que se trata de una lesión compleja que implica una fractura del cubito proximal y una luxación de la cabeza del radio. Es importante reconocer esta condición para proporcionar un tratamiento adecuado y prevenir complicaciones."
   },
   {
     "id": "q-93",
     "localNumber": 93,
     "category": "General",
-    "stem": "En relación a las indicaciones de cirugía ba- riátrica, señale la correcta.",
+    "stem": "En relación a las indicaciones de cirugía bariátrica, señale la correcta.",
     "options": [
-      "El IMC es la mejor medida de correlación entre exceso de peso y gravedad de la en- fermedad.",
-      "El IMC es una medida útil, pero que no se utiliza para la indicación de cirugía bariá- trica.",
-      "El punto de corte del IMC es de 55, inde- pendientemente de las enfermedades asociadas.",
-      "Paciente con IMC por debajo de 35 y en- fermedades metabólicas poco controla- das se pueden beneficiar de la cirugía ba- riátrica."
+      "El IMC es la mejor medida de correlación entre exceso de peso y gravedad de la enfermedad.",
+      "El IMC es una medida útil, pero que no se utiliza para la indicación de cirugía bariátrica.",
+      "El punto de corte del IMC es de 55, independientemente de las enfermedades asociadas.",
+      "Paciente con IMC por debajo de 35 y enfermedades metabólicas poco controladas se pueden beneficiar de la cirugía bariátrica."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 93 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La cirugía bariátrica puede ser beneficioso para pacientes con un IMC por debajo de 35 y enfermedades metabólicas poco controladas, ya que pueden mejorar la salud general y reducir el riesgo de complicaciones relacionadas con el exceso de peso. Sin embargo, la decisión de realizar la cirugía debe basarse en una evaluación individualizada del paciente y no únicamente en su IMC.\n\n- **🔴 Opción A (Incorrecta):** El IMC no es la mejor medida de correlación entre exceso de peso y gravedad de la enfermedad. Aunque el IMC es una herramienta útil para evaluar el estado nutricional de una persona, no refleja la complejidad de la enfermedad o la respuesta a la cirugía bariátrica.\n\n- **🔴 Opción B (Incorrecta):** El IMC es una medida útil para evaluar el estado nutricional de una persona, pero no se utiliza exclusivamente para la indicación de cirugía bariátrica. La decisión de realizar la cirugía debe basarse en una evaluación individualizada del paciente, que incluya factores como la gravedad de la enfermedad, la respuesta a los tratamientos médicos y la calidad de vida.\n\n- **🔴 Opción C (Incorrecta):** El punto de corte del IMC para la indicación de cirugía bariátrica no es de 55. El IMC es una herramienta útil para evaluar el estado nutricional de una persona, pero la decisión de realizar la cirugía debe basarse en una evaluación individualizada del paciente y no en un punto de corte fijo. Además, el IMC puede variar dependiendo de la edad, género y composición corporal del paciente.\n\nLa cirugía bariátrica es una opción para pacientes con exceso de peso y enfermedades metabólicas graves, pero la decisión de realizar la cirugía debe basarse en una evaluación individualizada del paciente y no únicamente en su IMC."
   },
   {
     "id": "q-94",
@@ -1305,19 +1305,19 @@
     "category": "General",
     "stem": "La cirugía de elección en un paciente con un brote severo de colitis ulcerosa que desarrolla un megacolon tóxico es:",
     "options": [
-      "Proctocolectomía total + reservorio ileoanal+ ileostomía lateral.",
-      "Proctocolectomía total + ileostomía termi- nal.",
+      "Proctocolectomía total + reservorio ileoanal + ileostomía lateral.",
+      "Proctocolectomía total + ileostomía terminal.",
       "Colectomía total + ileostomía terminal.",
-      "Colectomía total + anastomosis ileorrec- tal."
+      "Colectomía total + anastomosis ileorectal."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 94 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** En un paciente con un brote severo de colitis ulcerosa que desarrolla un megacolon tóxico, la cirugía de elección es la colectomía total más anastomosis ileorectal. Esto se debe a que la colectomía total elimina el colon inflamado y el foco de infección, mientras que la anastomosis ileorectal permite la conservación del tramo rectal y la función intestinal normalizada.\n - **🔴 Opción A (Incorrecta):** La proctocolectomía total más reservorio ileoanal más ileostomía lateral es una opción viable en pacientes con colitis ulcerosa crónica, pero no es la elección adecuada en un brote severo de megacolon tóxico, ya que requiere una mayor complejidad quirúrgica y un riesgo mayor de complicaciones.\n- **🔴 Opción B (Incorrecta):** La proctocolectomía total más ileostomía terminal es una opción viable en pacientes con colitis ulcerosa crónica, pero no es la elección adecuada en un brote severo de megacolon tóxico, ya que no permite la conservación del tramo rectal y requiere una mayor complejidad quirúrgica.\n- **🔴 Opción D (Incorrecta):** La colectomía total más ileostomía terminal es una opción viable en pacientes con colitis ulcerosa crónica, pero no es la elección adecuada en un brote severo de megacolon tóxico, ya que no permite la conservación del tramo rectal y requiere una mayor complejidad quirúrgica.\n\n La perla MIR: En un brote severo de colitis ulcerosa con megacolon tóxico, la colectomía total más anastomosis ileorectal es la cirugía de elección, ya que elimina el foco de infección y conserva la función intestinal."
   },
   {
     "id": "q-95",
     "localNumber": 95,
     "category": "General",
-    "stem": "La complicación más frecuente y grave de la duodenopancreatectomía cefálica es:",
+    "stem": "La complicación más frecuente y grave de la duodenopancreatectomía cefálica es",
     "options": [
       "Hemorragia.",
       "Absceso intrabdominal.",
@@ -1325,13 +1325,13 @@
       "Infección herida."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 95 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La complicación más frecuente y grave de la duodenopancreatectomía cefálica es la fístula pancreática. Esto se debe a que la cirugía en esta región es altamente compleja y puede resultar en la formación de una comunicación anormal entre el páncreas y la cavidad abdominal, lo que puede llevar a la infección y la destrucción de tejido surrounding. La fístula pancreática es una complicación grave que requiere un manejo intensivo y puede tener consecuencias graves para el paciente si no se trata adecuadamente.\n\n- **🔴 Opción A (Incorrecta):** La hemorragia es una complicación posible de la duodenopancreatectomía cefálica, pero no es la más frecuente ni grave. Si bien la hemorragia puede ser un problema significativo, no es tan común como la fístula pancreática en la cirugía de esta región.\n\n- **🔴 Opción B (Incorrecta):** El absceso intrabdominal es una complicación posible de la duodenopancreatectomía cefálica, pero no es la más grave ni frecuente. El absceso intrabdominal puede ser un problema significativo, pero no es tan común como la fístula pancreática en la cirugía de esta región.\n\n- **🔴 Opción D (Incorrecta):** La infección herida es una complicación posible de la duodenopancreatectomía cefálica, pero no es la más grave ni frecuente. La infección herida puede ser un problema significativo, pero no es tan común como la fístula pancreática en la cirugía de esta región.\n\nLa perla MIR es: La duodenopancreatectomía cefálica es una cirugía compleja que requiere un manejo intensivo y un seguimiento cuidadoso para evitar complicaciones graves como la fístula pancreática."
   },
   {
     "id": "q-96",
     "localNumber": 96,
     "category": "General",
-    "stem": "La estrategia de control de daños pretende evitar:",
+    "stem": "La estrategia de control de daños pretende evitar la hipertermia, la acidosis y la coagulopatía.",
     "options": [
       "Hipertermia, acidosis y coagulopatía.",
       "Acidosis, hipotermia y coagulopatía.",
@@ -1339,7 +1339,7 @@
       "Hipertermia, alcalosis y coagulopatía."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 96 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La estrategia de control de daños se refiere a las medidas que se deben tomar para prevenir los daños en el paciente durante un procedimiento quirúrgico. La hipertermia (temperatura alta), la acidosis (alcalosis es su opuesto, por lo que es incorrecta) y la coagulopatía (problemas con la coagulación de la sangre) son complicaciones graves que pueden ocurrir durante la cirugía. Por lo tanto, la estrategia de control de daños pretende evitar estas complicaciones para asegurar la seguridad del paciente. La opción B es la correcta porque menciona acidosis, que es la complicación adecuada, en lugar de alcalosis, que es su opuesto. Además, la hipotermia (temperatura baja) es incorrecta porque no está relacionada con la estrategia de control de daños. La opción B es la única que menciona acidosis, lo que la hace la opción correcta. \n\n- **🔴 Opción A (Incorrecta):** Esta opción menciona hipertermia, que es una complicación real, pero también menciona acidosis, que es su opuesto. Además, la hipertermia ya está mencionada en la opción B, por lo que esta opción no es necesaria. \n\n- **🔴 Opción C (Incorrecta):** Esta opción menciona hipotermia, que no es una complicación relacionada con la estrategia de control de daños. Además, la alcalosis es el opuesto de la acidosis, lo que la hace incorrecta. \n\n- **🔴 Opción D (Incorrecta):** Esta opción menciona hipertermia y alcalosis, lo que es incorrecto porque la alcalosis es el opuesto de la acidosis. Además, la hipertermia ya está mencionada en la opción B, por lo que esta opción no es necesaria. \n\n**Perla MIR:** La estrategia de control de daños pretende evitar la hipertermia, la acidosis y la coagulopatía. Recuerda que la acidosis es una complicación real y que la alcalosis es su opuesto."
   },
   {
     "id": "q-97",
