@@ -1823,7 +1823,7 @@
     "id": "q-132",
     "localNumber": 132,
     "category": "General",
-    "stem": "¿Cuál de los si guientes tipos de apendicitis aguda cursa más frecuentemente con si gn o d e l p s o a s positivo?:",
+    "stem": "¿Cuál de los siguientes tipos de apendicitis aguda cursa más frecuentemente con síndrome de la psoas positivo?",
     "options": [
       "Apendicitis pélvica.",
       "Apendicitis mesoceliaca.",
@@ -1831,13 +1831,13 @@
       "Apendicitis medioinguinal."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 132 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** La apendicitis pélvica se refiere a la inflamación del apéndice en la región pélvica. Aunque puede presentar complicaciones como la perforación, no está directamente asociada con el síndrome de la psoas positivo de manera más frecuente que las otras opciones. \n\n- **🔴 Opción B (Incorrecta):** La apendicitis mesoceliaca se refiere a la inflamación del apéndice en la región mesoceliaca. Esta localización no está directamente relacionada con el síndrome de la psoas positivo, ya que este síndrome se asocia más con la apendicitis retrocecal. \n\n- **🔴 Opción D (Incorrecta):** La apendicitis medioinguinal se refiere a la inflamación del apéndice en la región medioinguinal. Aunque puede presentar síntomas similares a la apendicitis retrocecal, no está directamente asociada con el síndrome de la psoas positivo de manera más frecuente. \n\n- **🟢 Opción C (Correcta):** La apendicitis retrocecal se refiere a la inflamación del apéndice en la región retrocecal, cerca del cuello del útero en las mujeres o detrás de la vejiga en los hombres. El síndrome de la psoas positivo se asocia con la apendicitis retrocecal de manera más frecuente debido a la proximidad del apéndice inflamado con el nervio psoas, lo que puede causar dolor y rigidez en la región lumbar. \n\nLa perla MIR: La apendicitis retrocecal es la que más frecuentemente cursa con síndrome de la psoas positivo, ya que el apéndice inflamado se encuentra cerca del nervio psoas."
   },
   {
     "id": "q-133",
     "localNumber": 133,
     "category": "General",
-    "stem": "Paciente de 45 años con un episodio de colecisti- tis hace tres meses en el que se encontró colelitia- sis por ecografía. Ahora presenta fosfatasa alca- lina alta y en una nueva ecografía litiasis vesicu- lares de pequeño tamaño con vía biliar de 1 cm de diámetro. ¿Qué exploración de las si guientes realizaría antes de la intervención quirúrgica?:",
+    "stem": "Paciente de 45 años con un episodio de colecistitis hace tres meses en el que se encontró colelitiasis por ecografía. Ahora presenta fosfatasa alcalina alta y en una nueva ecografía litiasis vesiculares de pequeño tamaño con vía biliar de 1 cm de diámetro. ¿Qué exploración realizaría antes de la intervención quirúrgica?",
     "options": [
       "Colangiografía retrógrada endoscópica.",
       "Ecoendoscopia.",
@@ -1845,27 +1845,27 @@
       "Colangiorresonancia."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 133 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La colangiorresonancia es la exploración de elección en este caso. Se trata de una técnica no invasiva que permite visualizar la vía biliar sin la necesidad de insertar catéteres o dispositivos invasivos. En pacientes con colelitiasis y litiasis vesiculares, la colangiorresonancia puede ayudar a identificar la ubicación y la extensión de las lesiones biliarias, así como a evaluar la función de la vía biliar. Además, es una técnica muy sensible para detectar pequeñas litiasis y otros cambios en la vía biliar que puedan no ser visibles con la ecografía. Por lo tanto, es la exploración ideal para realizar antes de la intervención quirúrgica en este paciente. \n\n- **🔴 Opción A (Incorrecta):** La colangiografía retrógrada endoscópica es una técnica invasiva que implica la inserción de un catéter a través del estómago y el duodeno para visualizar la vía biliar. Aunque es una técnica muy útil para diagnosticar y tratar la enfermedad biliar, no es la exploración de elección en este caso debido a la complejidad del procedimiento y el riesgo de complicaciones. \n\n- **🔴 Opción B (Incorrecta):** La ecoendoscopia es una técnica que combina la ecografía con la endoscopia. Implica la inserción de un endoscopio a través de la nariz y el esófago para visualizar la vía biliar. Aunque es una técnica útil para diagnosticar y tratar la enfermedad biliar, no es la exploración de elección en este caso debido a la complejidad del procedimiento y el riesgo de complicaciones. \n\n- **🔴 Opción C (Incorrecta):** La colangiografía transparietohepática es una técnica invasiva que implica la inserción de un catéter a través del parietohepático para visualizar la vía biliar. Aunque es una técnica útil para diagnosticar y tratar la enfermedad biliar, no es la exploración de elección en este caso debido a la complejidad del procedimiento y el riesgo de complicaciones. \n\n**Perla MIR:** En la evaluación de la vía biliar, la colangiorresonancia es una técnica no invasiva y sensible que puede ayudar a identificar la ubicación y la extensión de las lesiones biliarias. Recuerda que la exploración de elección depende de la complejidad del caso y la experiencia del médico."
   },
   {
     "id": "q-134",
     "localNumber": 134,
     "category": "General",
-    "stem": "Respecto a la fisura anal, señale la afirmación INCORRECTA:",
+    "stem": "Respecto a la fisura anal, señale la afirmación INCORRECTA: Consiste en un desgarro longitudinal de la piel que recubre la porción del canal anal distal a la línea dentada y origina un dolor intenso con la defecación.",
     "options": [
       "Consiste en un desgarro longitudinal de la piel que recubre la porción del canal anal distal a la línea dentada y origina un dolor intenso con la defecación.",
-      "Tiene dos formas típicas: la primaria o idiopá- tica aparece en individuos sanos y no se asocia a ningún tipo de enferme dad; la secundaria se detecta en pacientes que sufren otro proceso.",
-      "La mayoría de las fisuras primarias se locali- zan en la comisura anterior, al ser ésta una zo- na del canal anal más susceptible al traumatis- mo y a la isquemia de la mucosa.",
-      "Las fisuras secundarias a otras enfermedades aparecen con frecuencia en posiciones más la- terales."
+      "Tiene dos formas típicas: la primaria o idiopática aparece en individuos sanos y no se asocia a ningún tipo de enfermedad; la secundaria se detecta en pacientes que sufren otro proceso.",
+      "La mayoría de las fisuras primarias se localizan en la comisura anterior, al ser ésta una zona del canal anal más susceptible al trauma y a la isquemia de la mucosa.",
+      "Las fisuras secundarias a otras enfermedades aparecen con frecuencia en posiciones más laterales."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 134 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La mayoría de las fisuras primarias se localizan en la comisura posterior, no en la comisura anterior. La comisura posterior es una zona del canal anal más susceptible al trauma y a la isquemia de la mucosa debido a su ubicación en la parte inferior del canal anal. Por lo tanto, esta opción es la correcta clínicamente.\n\n- **🔴 Opción A (Incorrecta):** La descripción de la fisura anal es correcta, pero no es la respuesta a la pregunta. La pregunta pide la afirmación INCORRECTA, y esta opción describe de manera correcta la fisura anal.\n\n- **🔴 Opción B (Incorrecta):** Las fisuras anal primarias pueden ser idiopáticas, pero también pueden estar asociadas con otras condiciones, como la disfunción del esfínter anal o la hiperactividad del músculo pubococígeo. Por lo tanto, esta afirmación no es necesariamente incorrecta.\n\n- **🔴 Opción D (Incorrecta):** Las fisuras secundarias a otras enfermedades pueden aparecer en posiciones más laterales, pero también pueden aparecer en posiciones más anteriores o posteriores. La ubicación exacta de las fisuras secundarias depende de la condición subyacente que la cause. Por lo tanto, esta afirmación no es necesariamente incorrecta.\n\nLa perla MIR es: La fisura anal primaria se localiza comúnmente en la comisura posterior, no en la comisura anterior. Esto se debe a la mayor susceptibilidad del área posterior al trauma y a la isquemia de la mucosa."
   },
   {
     "id": "q-135",
     "localNumber": 135,
     "category": "Psiquiatría",
-    "stem": "Mu jer de 24 años intervenida hace un año de endometriosis tras presentar episodios de dolor abdominal intensos especialmente relacionados con el ciclo menstrual, acompañados ocasional- mente de náuseas y vómito s. A pesar de la inter- vención no ha apreciado nin guna me joría, con progresivo empeoramiento y extensión del dolor a todo el cuerpo, junto con debilidad de extremi- dades. Los análisis rutinarios son normales, los anticuerpos antinucleares y el factor reumatoide son negativos, solo existe alguna analítica aislada con un Na de 132 mEq/L y alguna ALT (GOT) discretamente elevada. Eco grafía abdominal y TC abdominopélvica recientes normales. Hace dos meses le diagnosticaron de depresión y fi- bromialgia. El tratamien to antidepresivo y anal- gésico con derivados opiáceos no parece tener ningún efecto. Lleva meses sin apenas levantarse de la cama. Nos piden una se gunda opinión. Indica cuál de las siguientes pruebas diagnósticas deberíamos comprobar que ha sido realizada:",
+    "stem": "Una mujer de 24 años intervenida hace un año de endometriosis tras presentar episodios de dolor abdominal intensos especialmente relacionados con el ciclo menstrual, acompañados ocasionalmente de náuseas y vómitos. A pesar de la intervención no ha apreciado ninguna mejora, con progresivo empeoramiento y extensión del dolor a todo el cuerpo, junto con debilidad de extremidades. Los análisis rutinarios son normales, los anticuerpos antinucleares y el factor reumatoide son negativos, solo existe alguna analítica aislada con un Na de 132 mEq/L y alguna ALT (GOT) discretamente elevada. Ecografía abdominal y TC abdominopélvica recientes normales. Hace dos meses le diagnosticaron de depresión y fibromialgia. El tratamiento antidepresivo y analgésico con derivados opiáceos no parece tener ningún efecto. Lleva meses sin apenas levantarse de la cama. Nos piden una segunda opinión. Indica cuál de las siguientes pruebas diagnósticas deberíamos comprobar que ha sido realizada:",
     "options": [
       "Estudio del gen MEFV.",
       "Porfobilinógeno y ácido aminolevulínico en orina.",
@@ -1873,13 +1873,13 @@
       "Calprotectina en heces."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 135 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** El paciente presenta una historia clínica compleja con dolor abdominal crónico, debilidad de extremidades y elevación de la ALT (GOT) sin explicación. El porfobilinógeno y ácido aminolevulínico en orina pueden ser útiles para diagnosticar la porfiria, una enfermedad rara que puede causar dolor abdominal y debilidad muscular. Esto se debe a que la porfiria puede causar un aumento en la producción de ácido aminolevulínico, que es un metabolito de la heme biosíntesis. Por lo tanto, es importante realizar esta prueba para excluir la porfiria como causa de los síntomas del paciente.\n\n- **🔴 Opción A (Incorrecta):** El estudio del gen MEFV es útil para diagnosticar la enfermedad de Familia Mediterránea de Periodicidad Fiebre (FMF), que es una condición inflamatoria crónica que puede causar dolor abdominal y fiebre recurrente. Sin embargo, en este caso, los análisis rutinarios son normales y no hay indicaciones de FMF.\n\n- **🔴 Opción C (Incorrecta):** Los anticuerpos antimitocondriales en sangre pueden ser útiles para diagnosticar la enfermedad de la mitochondria, una condición que puede causar debilidad muscular y otros síntomas. Sin embargo, en este caso, la historia clínica del paciente no sugiere una condición de la mitochondria.\n\n- **🔴 Opción D (Incorrecta):** La calprotectina en heces es una prueba útil para diagnosticar la colitis inflamatoria, una condición que puede causar dolor abdominal y diarrea. Sin embargo, en este caso, la historia clínica del paciente no sugiere una condición gastrointestinal inflamatoria."
   },
   {
     "id": "q-136",
     "localNumber": 136,
     "category": "Nefrología",
-    "stem": "Varón de 34 años, que acude a ur gencias por disnea de tres semanas de evolución, ju n t o a l a presencia de orina roja intermitente en los últi- mos diez días. En la exploración física presenta: temperatura 36,6 ºC, TA 132/72 mmHg, frecuen- cia respiratoria 16 rpm y cardiaca 88 lpm, junto a crepitantes finos diseminados en la ausculta- ción pulmonar. Analítica de san gre: BUN 56 mg/dL, creatinina 5,8 m g/dL. Análisis de orina: hematíes 4+, proteínas 2+. Se realiza una biopsia renal que revela una glomerulonefritis difusa con semilunas. ¿Cuál de las siguientes pruebas con- firmaría el diagnóstico?:",
+    "stem": "Varón de 34 años, que acude a urgencias por disnea de tres semanas de evolución, junto a la presencia de orina roja intermitente en los últimos diez días. En la exploración física presenta: temperatura 36,6 °C, TA 132/72 mmHg, frecuencia respiratoria 16 rpm y cardiaca 88 lpm, junto a crepitantes finos diseminados en la auscultación pulmonar. Analítica de sangre: BUN 56 mg/dL, creatinina 5,8 mg/dL. Análisis de orina: hemáties 4+, proteínas 2+. Se realiza una biopsia renal que revela una glomerulonefritis difusa con semilunas. ¿Cuál de las siguientes pruebas confirmaría el diagnóstico?",
     "options": [
       "Concentración de complemento C3.",
       "Títulos de anticuerpos antimembrana basal glomerular.",
@@ -1887,7 +1887,7 @@
       "Cultivo de heces para Escherichia coli O157:H7."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 136 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La glomerulonefritis difusa con semilunas es una manifestación clínica de la glomerulonefritis postestreptocócica. Los títulos de antiestreptolisina O (ASO) se elevan en la mayoría de los pacientes con glomerulonefritis postestreptocócica, ya que el sistema inmunitario responde a la infección estreptocócica. Por lo tanto, la medida de ASO es una prueba útil para confirmar el diagnóstico de glomerulonefritis postestreptocócica. La concentración de complemento C3 se puede afectar en la glomerulonefritis, pero no es específica para la glomerulonefritis postestreptocócica. Los anticuerpos antimembrana basal glomerular son típicos de la nefritis membranoproliferativa, no de la glomerulonefritis postestreptocócica. El cultivo de heces para Escherichia coli O157:H7 es una prueba para la enfermedad por Shiga, que no se relaciona con la glomerulonefritis difusa con semilunas."
   },
   {
     "id": "q-137",
