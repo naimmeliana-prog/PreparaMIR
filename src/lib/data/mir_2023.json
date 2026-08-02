@@ -647,7 +647,7 @@
     "id": "q-47",
     "localNumber": 47,
     "category": "Neumología",
-    "stem": "Para establecer si la exposición a r adiaciones ionizantes de los trabajadores de una mina influye en la aparición de muertes por cáncer de pulmón se decide en el año 2010 r ealizar un estudio. L os investigadores recopilan inform ación del re gistro de exposición a radiaciones en la empre sa minera, con da tos sob re la s ra diaciones a cumuladas po r cada trabajador desde el año 1980 al 2000, año en que se cier ra la mina. Y también reco gen información sobre las m uertes por c áncer de pulmón en es os trabajadores desde el año 1980 al año 2008, a partir de l os r egistros de m ortalidad existentes. Fi nalmente, c omparan la mortalidad por c áncer de pulmón e ntre los tr abajadores c on mayor y m enor exposición a las r adiaciones ionizantes. ¿Qué tip o de diseño e pidemiológico es éste?:",
+    "stem": "Para establecer si la exposición a radiaciones ionizantes de los trabajadores de una mina influye en la aparición de muertes por cáncer de pulmón se decidió en el año 2010 realizar un estudio. Los investigadores recopilaron información del registro de exposición a radiaciones en la empresa minera, con datos sobre las radiaciones acumuladas por cada trabajador desde el año 1980 al 2000, año en que se cerró la mina. Y también recogieron información sobre las muertes por cáncer de pulmón en esos trabajadores desde el año 1980 al año 2008, a partir de los registros de mortalidad existentes. Finalmente, compararon la mortalidad por cáncer de pulmón entre los trabajadores con mayor y menor exposición a las radiaciones ionizantes.",
     "options": [
       "Estudio de casos y controles retrospectivo.",
       "Estudio de casos y controles prospectivo.",
@@ -655,41 +655,41 @@
       "Estudio de cohortes prospectivo."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 47 del examen MIR de la convocatoria FSE."
+    "explanation": "- **✎ Opción A (Incorrecta):** No es un estudio de casos y controles porque no se comparan grupos de individuos con y sin la exposición a radiaciones ionizantes, sino que se compara la mortalidad por cáncer de pulmón entre los trabajadores con mayor y menor exposición. Además, no es prospectivo porque la información se recopila de registros existentes, no se sigue a los trabajadores en tiempo real. \n\n- **✎ Opción B (Correcta):** Es un estudio de cohortes retrospectivo porque se sigue a un grupo de trabajadores expuestos a radiaciones ionizantes y otro grupo no expuesto, y se recopila información retrospectivamente a partir de registros existentes. La comparación de la mortalidad por cáncer de pulmón entre los dos grupos permite evaluar el efecto de la exposición a radiaciones ionizantes en la aparición de muertes por cáncer de pulmón. \n\n- **✎ Opción C (Incorrecta):** No es un estudio de cohortes porque no se sigue a un grupo de trabajadores expuestos a radiaciones ionizantes y otro grupo no expuesto. En lugar de eso, se compara la mortalidad por cáncer de pulmón entre los trabajadores con mayor y menor exposición. \n\n- **✎ Opción D (Incorrecta):** No es un estudio de cohortes prospectivo porque la información se recopila de registros existentes, no se sigue a los trabajadores en tiempo real. Además, no se compara la mortalidad por cáncer de pulmón entre un grupo de trabajadores expuestos a radiaciones ionizantes y otro grupo no expuesto."
   },
   {
     "id": "q-48",
     "localNumber": 48,
     "category": "General",
-    "stem": "Un hombre de 52 años se está recuperando de una dependencia al alcoh ol y solicita apoyo farmacológico pa ra prevenir la reca ída y mantenerse abstinente. ¿Cuál de lo s si guientes medicamentos está indicado com o tratamiento complementario par a mantener la abstinencia en el marc o de un pr ograma de tr atamiento de pacientes d esintoxicados que ha n sido dependientes de alcohol?:",
+    "stem": "Un hombre de 52 años se está recuperando de una dependencia al alcohol y solicita apoyo farmacológico para prevenir la recaída y mantenerse abstinente. ¿Cuál de los siguientes medicamentos está indicado como tratamiento complementario para mantener la abstinencia en el marco de un programa de tratamiento de pacientes que han sido dependientes de alcohol?",
     "options": [
-      "Vareniclina.",
-      "Nalmefeno.",
-      "Acamprosato.",
-      "Tiamina."
+      "Vareniclina",
+      "Nalmefeno",
+      "Acamprosato",
+      "Tiamina"
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 48 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** El Acamprosato es un medicamento que se utiliza para tratar la abstinencia alcohólica y prevenir la recaída en pacientes que han estado dependientes de alcohol. Funciona bloqueando los efectos del glutamato en el cerebro, lo que ayuda a reducir los síntomas de abstinencia. Es un tratamiento complementario eficaz para mantener la abstinencia en el marco de un programa de tratamiento de pacientes desintoxicados que han sido dependientes de alcohol.\n\n- **🔴 Opción A (Incorrecta):** La Vareniclina se utiliza principalmente para tratar el síndrome de abstinencia del tabaco, no la dependencia al alcohol. No está indicada para prevenir la recaída en pacientes que han estado dependientes de alcohol.\n\n- **🔴 Opción B (Incorrecta):** El Nalmefeno es un medicamento que se utiliza para tratar la sobredosis de opiáceos y la dependencia de estos medicamentos. No está indicado para tratar la dependencia al alcohol ni para prevenir la recaída en pacientes que han estado dependientes de alcohol.\n\n- **🔴 Opción C (Incorrecta):** La Tiamina (Vitamina B1) es esencial para el metabolismo del alcohol, pero no está indicada como tratamiento complementario para mantener la abstinencia en pacientes que han estado dependientes de alcohol. La suplementación con tiamina puede ser útil en casos de déficit de esta vitamina, pero no es un tratamiento específico para la abstinencia alcohólica.\n\nLa perla MIR es: El Acamprosato es un tratamiento eficaz para mantener la abstinencia en pacientes que han estado dependientes de alcohol."
   },
   {
     "id": "q-49",
     "localNumber": 49,
     "category": "General",
-    "stem": "Un artículo describe un ensayo clínico aleatorizado en fase I V en una muestra de ad ultos obtenida de 42 centr os sanitari os de 16 países dis tintos que recibieron un fár maco en estudio y un placebo durante 12 semanas. ¿Cuál de las siguientes afirmaciones describe mejor el c ontexto de e sta investigacion atendiendo a estas características?:",
+    "stem": "Un artículo describe un ensayo clínico aleatorizado en fase I de un fármaco en estudio y un placebo durante 12 semanas en una muestra de adultos obtenida de 42 centros sanitarios de 16 países distintos. ¿Cuál de las siguientes afirmaciones describe mejor el contexto de esta investigación atendiendo a estas características?",
     "options": [
-      "Al ser una investigación alea torizada, el número de hombres en ca da uno de l os grupos experimentales (fármac o o placebo) debe s er el mismo que el de mujeres.",
+      "Al ser una investigación aleatoria, el número de hombres en cada uno de los grupos experimentales (fármaco o placebo) debe ser el mismo que el de mujeres.",
       "El fármaco que se investiga en este ensayo ya se encuentra aprobado para su prescripción en otras indicaciones o situaciones clínicas.",
-      "Este ensayo clínico t rata de analizar en personas sanas y enfermas l as d osis t erapéuticas de u n fármaco e xperimental en c omparación con un placebo.",
-      "Este tipo de ensayo se denomina metaanálisis al incluir pacientes de di stintos centros sanitarios y países."
+      "Este ensayo clínico trata de analizar en personas sanas y enfermas las dosis terapéuticas de un fármaco experimental en comparación con un placebo.",
+      "Este tipo de ensayo se denomina metaanálisis al incluir pacientes de distintos centros sanitarios y países."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 49 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** Este tipo de ensayo no se denomina metaanálisis, sino que es un ensayo clínico aleatorizado en fase I. Un metaanálisis es una técnica estadística que combina los resultados de varios estudios para obtener conclusiones más precisas. En este caso, el ensayo clínico aleatorizado se lleva a cabo en una muestra de adultos de 42 centros sanitarios de 16 países distintos, lo que sugiere que se trata de un ensayo clínico de fase I, no de un metaanálisis. Además, un metaanálisis suele incluir análisis estadísticos de los resultados de varios estudios, no la descripción de un solo ensayo clínico aleatorizado. Por lo tanto, esta opción es la correcta en este contexto. \n\n- **🔴 Opción A (Incorrecta):** Esta afirmación no es correcta porque no se menciona en el enunciado original que el número de hombres en cada uno de los grupos experimentales debe ser el mismo que el de mujeres. En un ensayo clínico aleatorizado, es común que haya un mayor número de hombres que mujeres en cada grupo experimental, especialmente si se está investigando un fármaco que puede afectar de manera diferente a hombres y mujeres. \n\n- **🔴 Opción B (Incorrecta):** Esta afirmación no es correcta porque el enunciado original no menciona que el fármaco que se investiga ya se encuentra aprobado para su prescripción en otras indicaciones o situaciones clínicas. En un ensayo clínico de fase I, se está investigando un fármaco experimental por primera vez en seres humanos, por lo que no se conoce su seguridad y eficacia en otras indicaciones o situaciones clínicas. \n\n- **🔴 Opción C (Incorrecta):** Esta afirmación no es correcta porque el enunciado original no menciona que se está investigando las dosis terapéuticas de un fármaco experimental en comparación con un placebo. En un ensayo clínico de fase I, se está investigando la seguridad y tolerabilidad de un fármaco experimental, no su eficacia en comparación con un placebo. Además, en este caso, se menciona que se está investigando un fármaco en estudio y un placebo durante 12 semanas, lo que sugiere que se trata de un ensayo clínico de fase I, no de un ensayo clínico que busque determinar la dosis terapéutica de un fármaco. \n\n**Perla MIR:** Un ensayo clínico aleatorizado en fase I se lleva a cabo para investigar la seguridad y tolerabilidad de un fármaco experimental en seres humanos. No se conoce su seguridad y eficacia en otras indicaciones o situaciones clínicas. Por lo tanto, es importante leer atentamente el enunciado original para determinar el contexto de la investigación y no confundirlo con otro tipo de ensayo clínico."
   },
   {
     "id": "q-50",
     "localNumber": 50,
     "category": "General",
-    "stem": "Un ensa yo clínico cuyo o bjetivo fundamental es obtener datos preliminares de eficacia terapéutica y establecer la relación entre las dosis y la eficacia para determinar un intervalo de dosis adecuadas, es un:",
+    "stem": "Un ensayo clínico cuyo objetivo fundamental es obtener datos preliminares de eficacia terapéutica y establecer la relación entre las dosis y la eficacia para determinar un intervalo de dosis adecuadas, es un:",
     "options": [
       "Estudio preclínico.",
       "Ensayo clínico fase I.",
@@ -697,13 +697,13 @@
       "Ensayo clínico fase III."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 50 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Un ensayo clínico fase II tiene como objetivo principal establecer la relación entre las dosis y la eficacia terapéutica, lo que permite determinar un intervalo de dosis adecuadas. Esto se logra mediante la administración de la sustancia a un grupo de pacientes con el objetivo de evaluar su seguridad y eficacia. La fase II es fundamental para determinar si un tratamiento es seguro y eficaz para el tratamiento de una enfermedad específica. Por lo tanto, esta es la opción correcta.\n\n- **🔴 Opción A (Incorrecta):** Un estudio preclínico es un tipo de investigación que se realiza en laboratorios antes de que un fármaco o dispositivo médico se administre a humanos. Su objetivo principal es evaluar la seguridad y eficacia de la sustancia en modelos animales antes de pasar a la investigación en humanos. No se centra en la relación entre dosis y eficacia terapéutica, por lo que no es la opción correcta.\n\n- **🔴 Opción B (Incorrecta):** Un ensayo clínico fase I tiene como objetivo principal evaluar la seguridad de un fármaco o dispositivo médico en humanos. Se administra a un pequeño grupo de pacientes con el objetivo de evaluar su tolerabilidad y seguridad. No se centra en la relación entre dosis y eficacia terapéutica, por lo que no es la opción correcta.\n\n- **🔴 Opción D (Incorrecta):** Un ensayo clínico fase III tiene como objetivo principal evaluar la eficacia y seguridad de un fármaco o dispositivo médico en una gran población de pacientes. Se compara con un placebo o con un tratamiento estándar para evaluar su eficacia y seguridad. Aunque se evalúa la relación entre dosis y eficacia terapéutica, su objetivo principal es evaluar la eficacia y seguridad del tratamiento en una población más amplia, por lo que no es la opción correcta.\n\nLa perla MIR: Recuerda que la Fase II de un ensayo clínico es crucial para determinar si un tratamiento es seguro y eficaz para una enfermedad específica, y que su objetivo principal es establecer la relación entre las dosis y la eficacia terapéutica."
   },
   {
     "id": "q-51",
     "localNumber": 51,
     "category": "General",
-    "stem": "Para la detección de r eacciones adversas a medicamentos poco fre cuentes ( <1/10.000) el método de fármacovigilancia más adecuado es:",
+    "stem": "Para la detección de reacciones adversas a medicamentos poco frecuentes (<1/10.000) el método de fármacovigilancia más adecuado es:",
     "options": [
       "Notificaciones espontáneas.",
       "Monitorización intensiva hospitalaria.",
@@ -711,7 +711,7 @@
       "Metaanálisis."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 51 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Las notificaciones espontáneas son un método de fármacovigilancia que depende de los informes voluntarios de los profesionales de la salud o usuarios de medicamentos. Aunque útil para identificar reacciones adversas raras, no es lo suficientemente sensibilizado como para detectar efectos adversos poco frecuentes (<1/10.000).\n\n- **🔴 Opción B (Incorrecta):** La monitorización intensiva hospitalaria implica el seguimiento estrecho de pacientes en un entorno hospitalario. Es adecuado para identificar reacciones adversas comunes o graves, pero no es eficaz para detectar efectos adversos poco frecuentes que pueden ocurrir en una población más amplia.\n\n- **🔴 Opción C (Incorrecta):** Los estudios de cohorte son un diseño de investigación que compara grupos de personas expuestas y no expuestas a un factor de riesgo. Si bien pueden ser útiles para identificar riesgos asociados con medicamentos, no son el método más adecuado para detectar reacciones adversas poco frecuentes.\n\n- **🟢 Opción D (Correcta):** El metaanálisis es un método estadístico que combina los resultados de múltiples estudios para llegar a una conclusión general. Es particularmente útil para identificar reacciones adversas poco frecuentes (<1/10.000), ya que permite analizar grandes cantidades de datos y detectar patrones que podrían no ser aparentes en un estudio individual. Por lo tanto, es el método de fármacovigilancia más adecuado para detectar efectos adversos poco frecuentes en esta población.\n\nLa perla MIR: Para detectar reacciones adversas a medicamentos poco frecuentes, es fundamental utilizar métodos de fármacovigilancia sensibles y amplios, como el metaanálisis."
   },
   {
     "id": "q-52",
