@@ -1487,63 +1487,63 @@
     "id": "q-108",
     "localNumber": 108,
     "category": "Traumatología",
-    "stem": "Varón de 49 años que ingresa en UCI por un traumatismo craneoencefálico tras un accidente laboral. En la exploración física no abre ojos, no emite sonid os ante s de ser intub ad o y pr esent a extensión de extremidades al estímulo nocicep- tivo. Se coloca un sensor de presión intracraneal y debe realizarse una craneotomía descompre- siva por una hemorragia intraparenquimatosa. ¿Cuál de las siguientes afirmaciones es correc- ta?:",
+    "stem": "Varón de 49 años que ingresa en UCI por un traumatismo craneoencefálico tras un accidente laboral. En la exploración física no abre ojos, no emite sonidos antes de ser intubado y presenta extensión de extremidades al estímulo nociceptivo. Se coloca un sensor de presión intracraneal y debe realizarse una craneotomía descompresiva por una hemorragia intraparenquimatosa.",
     "options": [
       "A su llegada se encuentra en un coma de la escala de Glasgow de 7.",
       "La presión de perfusión cerebral es la presión arterial media más la presión intracraneal.",
-      "El edema cerebral vasogénico se produce por edema celular, rotura de la membrana y muer- te celular.",
-      "El flujo vascular cerebral aumenta con la hi- percapnia y la acidosis."
+      "El edema cerebral vasogénico se produce por edema celular, rotura de la membrana y muerte celular.",
+      "El flujo vascular cerebral aumenta con la hiperapnia y la acidosis."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 108 del examen MIR de la convocatoria FSE."
+    "explanation": "La pregunta trata sobre un paciente con traumatismo craneoencefálico y se requiere determinar la afirmación correcta. Analicemos cada opción de manera individual:\n\n* **🔴 Opción A (Incorrecta):** Esta afirmación no es correcta porque la escala de Glasgow es una herramienta utilizada para evaluar el estado de conciencia de un paciente, pero no se refiere a la gravedad del trauma craneoencefálico. La escala de Glasgow es de 15 puntos, y un paciente con una puntuación de 7 estaría en un coma profundo, lo que no sería un diagnóstico específico de la gravedad del trauma.\n\n* **🔴 Opción B (Incorrecta):** Esta afirmación no es correcta porque la presión de perfusión cerebral se refiere a la presión necesaria para mantener una perfusión sanguínea adecuada en el cerebro, pero no es la suma de la presión arterial media y la presión intracraneal. La presión de perfusión cerebral es una medida crítica en la gestión de pacientes con traumatismo craneoencefálico, pero se calcula de manera diferente.\n\n* **🔴 Opción C (Incorrecta):** Esta afirmación no es correcta porque el edema cerebral vasogénico se produce por una inflamación de las paredes de los vasos sanguíneos, lo que puede llevar a una rotura de la membrana y muerte celular, pero no se debe a un edema celular directo. El edema cerebral vasogénico es una complicación común en pacientes con traumatismo craneoencefálico.\n\n* **🟢 Opción D (Correcta):** Esta afirmación es correcta porque el flujo vascular cerebral aumenta con la hiperapnia (aumento del CO2 en la sangre) y la acidosis (disminución del pH en la sangre). La hiperapnia y la acidosis pueden provocar vasodilatación y aumento del flujo sanguíneo cerebral, lo que puede empeorar la condición del paciente. En la práctica clínica, se busca mantener un equilibrio adecuado entre la perfusión cerebral y la presión intracraneal.\n\nLa perla MIR es: \"La presión de perfusión cerebral es un concepto crítico en la gestión de pacientes con traumatismo craneoencefálico, y su cálculo y comprensión son fundamentales para tomar decisiones informadas en la atención médica\"."
   },
   {
     "id": "q-109",
     "localNumber": 109,
     "category": "General",
-    "stem": "Respecto a la sedació n del paciente crítico en ventilación mecánica en la UCI ¿cuál de las siguientes afirmaciones es cierta?:",
+    "stem": "Respecto a la sedación del paciente crítico en ventilación mecánica en la UCI ¿cuál de las siguientes afirmaciones es cierta?",
     "options": [
-      "Los bloqueantes neuromusculares están indi- cados cuando el paciente presenta asincro- nías, independientemente del grado de anal- gesia y sedación.",
-      "Se prefieren los sedantes no benzodiazepíni- cos debido a que las benzodiacepinas se rela- cionan con peor resultado clínico.",
-      "La interrupción diaria de la sedación no acor- ta el tiempo de ventilación mecánica ni la es- tancia en UCI.",
-      "El paracetamol es el pri ncipal agente farma- cológico para lograr una adecuada analgesia en los pacientes intubados y ventilados mecá- nicamente."
+      "Los bloqueantes neuromusculares están indicados cuando el paciente presenta asincronías, independientemente del grado de anestesia y sedación.",
+      "Se prefieren los sedantes no benzodiazepínicos debido a que las benzodiazepinas se relacionan con peor resultado clínico.",
+      "La interrupción diaria de la sedación no ajusta el tiempo de ventilación mecánica ni la estancia en UCI.",
+      "El paracetamol es el principal agente farmacológico para lograr una adecuada analgesia en los pacientes intubados y ventilados mecánicamente."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 109 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🔴 Opción A (Incorrecta):** Los bloqueantes neuromusculares se utilizan para prevenir las contracciones musculares durante la intubación y la ventilación mecánica, pero su indicación no se basa en la presencia de asincronías, sino en la necesidad de evitar movimientos involuntarios que puedan comprometer la ventilación. La asincronía puede ser un signo de exceso de sedación o de insuficiente analgesia, pero no es la indicación principal para el uso de bloqueantes neuromusculares.\n\n- **🟢 Opción B (Correcta):** Se prefieren los sedantes no benzodiazepínicos debido a que las benzodiazepinas pueden ser asociadas con un peor resultado clínico en pacientes críticos, incluyendo una mayor tasa de mortalidad y una mayor duración de la estancia en la UCI. Los sedantes no benzodiazepínicos, como el fentanil o el propofol, pueden ofrecer una sedación más suave y una menor dependencia.\n\n- **🔴 Opción C (Incorrecta):** La interrupción diaria de la sedación puede tener efectos negativos en la ventilación mecánica y la estancia en la UCI, ya que puede provocar un aumento en la resistencia a la ventilación y una mayor necesidad de oxígeno. La sedación es importante para mantener la comodidad y la seguridad del paciente en la UCI.\n\n- **🔴 Opción D (Incorrecta):** El paracetamol es un analgésico débil y no es adecuado como principal agente farmacológico para lograr una adecuada analgesia en pacientes intubados y ventilados mecánicamente. Los pacientes en ventilación mecánica requieren analgésicos más potentes, como la morfina o el fentanil, para controlar el dolor y la incomodidad.\n\nLa perla MIR: La sedación en la UCI debe ser personalizada y basada en la necesidad individual del paciente, considerando la edad, la condición clínica y la respuesta al tratamiento. Es importante evitar el uso excesivo de sedantes y optar por opciones más suaves y efectivas."
   },
   {
     "id": "q-110",
     "localNumber": 110,
     "category": "General",
-    "stem": "El osteosarcoma es un tumor óseo maligno que:",
+    "stem": "El osteosarcoma es un tumor óseo maligno que afecta más frecuentemente a huesos en la proximidad de la articulación de la rodilla.",
     "options": [
       "Es más frecuente en la primera década de la vida.",
-      "Su tratamiento con quimioterapia y radiotera- pia suele evitar la cirugía.",
+      "Su tratamiento con quimioterapia y radioterapia suele evitar la cirugía.",
       "Afecta más frecuentemente a huesos en la proximidad de la articulación de la rodilla.",
       "Si presenta enfermedad de Paget previa tiene un mejor pronóstico."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 110 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El osteosarcoma es un tumor óseo maligno que afecta más frecuentemente a huesos en la proximidad de la articulación de la rodilla. Esto se debe a que la rodilla es una de las áreas del cuerpo que se desarrolla y crece rápidamente durante la infancia y la adolescencia, lo que hace que sea más propensa a desarrollar osteosarcoma. Además, la rodilla es una de las articulaciones más comunes que se ven afectadas por este tipo de tumor. Por lo tanto, la opción C es la correcta ya que refleja con precisión la localización más frecuente del osteosarcoma en la proximidad de la articulación de la rodilla.\n\n- **🔴 Opción A (Incorrecta):** El osteosarcoma no es más frecuente en la primera década de la vida. Aunque es cierto que el osteosarcoma puede ocurrir en cualquier edad, la mayoría de los casos se diagnostican en adolescentes y adultos jóvenes, con un pico de incidencia entre las edades de 10 a 19 años. Por lo tanto, la opción A es incorrecta ya que no refleja con precisión la edad de inicio del osteosarcoma.\n\n- **🔴 Opción B (Incorrecta):** El tratamiento del osteosarcoma con quimioterapia y radioterapia no suele evitar la cirugía. Aunque la quimioterapia y la radioterapia pueden ser utilizadas como parte del tratamiento del osteosarcoma, la cirugía sigue siendo un componente esencial del tratamiento. La cirugía se utiliza para eliminar el tumor y los tejidos afectados, mientras que la quimioterapia y la radioterapia se utilizan para matar las células cancerosas que pueden haberse dispersado a otras partes del cuerpo. Por lo tanto, la opción B es incorrecta ya que no refleja con precisión el tratamiento del osteosarcoma.\n\n- **🔴 Opción D (Incorrecta):** El osteosarcoma que presenta enfermedad de Paget previa no tiene un mejor pronóstico. De hecho, la presencia de enfermedad de Paget puede empeorar el pronóstico del osteosarcoma. La enfermedad de Paget es una condición en la que el hueso se vuelve débil y se vuelve propenso a desarrollar tumores, incluyendo el osteosarcoma. Por lo tanto, la opción D es incorrecta ya que no refleja con precisión el impacto de la enfermedad de Paget en el pronóstico del osteosarcoma.\n\n**Perla MIR:** El osteosarcoma es un tumor óseo maligno que afecta más frecuentemente a huesos en la proximidad de la articulación de la rodilla. Esto se debe a que la rodilla es una de las áreas del cuerpo que se desarrolla y crece rápidamente durante la infancia y la adolescencia, lo que hace que sea más propensa a desarrollar osteosarcoma."
   },
   {
     "id": "q-111",
     "localNumber": 111,
     "category": "General",
-    "stem": "El síndrome del túnel carpiano:",
+    "stem": "El síndrome del túnel carpiano es una afección que causa dolor y entumecimiento en la mano debido a la compresión del nervio mediano en el túnel carpiano.",
     "options": [
-      "Es más frecuente en varones.",
-      "Cursa con hipoestesia en el pulpejo de los dedos segundo a quinto.",
-      "Los síntomas se exacerban durante la noche.",
-      "Se acompaña de atrofia de la musculatura de la eminencia hipotenar."
+      "Es más frecuente en varones",
+      "Cursa con hipoestesia en el pulpejo de los dedos segundo a quinto",
+      "Los síntomas se exacerban durante la noche",
+      "Se acompaña de atrofia de la musculatura de la eminencia hipotenar"
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 111 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** El síndrome del túnel carpiano se caracteriza por la compresión del nervio mediano en el túnel carpiano, lo que puede causar dolor y entumecimiento en la mano. La compresión del nervio puede ocurrir durante el día o la noche, pero es más común que los síntomas se exacerben durante la noche debido a la posición en la que se mantiene la mano durante el sueño. La atrofia de la musculatura de la eminencia hipotenar puede ocurrir en casos avanzados de la afección, pero no es un síntoma característico del síndrome del túnel carpiano. Por lo tanto, la opción C es la correcta porque describe con precisión los síntomas y la evolución del síndrome del túnel carpiano.\n\n- **🔴 Opción A (Incorrecta):** La afección es más común en mujeres que en varones, ya que las mujeres tienen una mayor probabilidad de desarrollar la condición debido a factores como la postura, la actividad laboral y la salud en general. Por lo tanto, la opción A es incorrecta.\n\n- **🔴 Opción B (Incorrecta):** La hipoestesia en el pulpejo de los dedos segundo a quinto no es un síntoma característico del síndrome del túnel carpiano. La hipoestesia se refiere a una disminución en la sensibilidad o la respuesta a estímulos táctiles, pero en el síndrome del túnel carpiano, los síntomas se presentan principalmente en la palma de la mano y los dedos, no en el pulpejo.\n\n- **🔴 Opción D (Incorrecta):** La atrofia de la musculatura de la eminencia hipotenar no es un síntoma característico del síndrome del túnel carpiano. La atrofia puede ocurrir en casos avanzados de la afección, pero no es un síntoma común ni característico de la condición.\n\nLa perla MIR para recordar el síndrome del túnel carpiano es: \"Compresión del nervio mediano en el túnel carpiano, dolor y entumecimiento en la mano, especialmente durante la noche.\""
   },
   {
     "id": "q-112",
     "localNumber": 112,
     "category": "General",
-    "stem": "Mujer de 61 años, administrativa, con antece- dentes de sobrepeso, hipertensión, dislipemia y síndrome metabólico, que consulta por dolor en ambas nalgas, región trocantérea izquierda, cara lateral del muslo izquierdo hasta la rodilla y pierna izquierda hasta el tercio medio. El dolor aparece cuando levantamos el miembro inferior con la rodilla extendida, pero se alivia al flexionar la rodilla. ¿Cuál es la primera sos- pecha clínica?:",
+    "stem": "Mujer de 61 años, administrativa, con antecedentes de sobrepeso, hipertensión, dislipemia y síndrome metabólico, que consulta por dolor en ambas nalgas, región trocantérea izquierda, cara lateral del muslo izquierdo hasta la rodilla y pierna izquierda hasta el tercio medio. El dolor aparece cuando levantamos el miembro inferior con la rodilla extendida, pero se alivia al flexionar la rodilla.",
     "options": [
       "Artritis gotosa de cadera izquierda.",
       "Artrosis coxo-femoral izquierda.",
@@ -1551,7 +1551,7 @@
       "Claudicación por estenosis de canal."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 112 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La primera sospecha clínica en este caso es la lumbalgia irradiada / lumbociatalgia. Esto se debe a que el dolor se localiza en la región trocantérea izquierda, cara lateral del muslo izquierdo hasta la rodilla y pierna izquierda hasta el tercio medio, lo que sugiere una irradiación del dolor desde la región lumbar. Además, el dolor se alivia al flexionar la rodilla, lo que es característico de la lumbalgia irradiada. La lumbalgia irradiada es una condición común en pacientes con antecedentes de sobrepeso, hipertensión, dislipemia y síndrome metabólico, como en este caso. Por lo tanto, la lumbalgia irradiada / lumbociatalgia es la primera sospecha clínica en este caso.\n\n- **🔴 Opción A (Incorrecta):** La artritis gotosa de cadera izquierda no es la primera sospecha clínica en este caso. Aunque el dolor se localiza en la región trocantérea izquierda, no hay indicaciones de que se trate de una artritis gotosa, que suele ser una condición que afecta a las articulaciones de las manos y pies. Además, la artritis gotosa no suele estar asociada con el síndrome metabólico.\n\n- **🔴 Opción B (Incorrecta):** La artrosis coxo-femoral izquierda tampoco es la primera sospecha clínica en este caso. La artrosis coxo-femoral es una condición que afecta a la articulación del coxofémur y se caracteriza por un dolor crónico y una limitación de la movilidad. Sin embargo, en este caso, el dolor se alivia al flexionar la rodilla, lo que no es característico de la artrosis coxo-femoral.\n\n- **🔴 Opción D (Incorrecta):** La claudicación por estenosis de canal no es la primera sospecha clínica en este caso. La claudicación por estenosis de canal es una condición que se caracteriza por un dolor crónico en la pierna que se alivia al descansar. Sin embargo, en este caso, el dolor se localiza en la región trocantérea izquierda, cara lateral del muslo izquierdo hasta la rodilla y pierna izquierda hasta el tercio medio, lo que sugiere una irradiación del dolor desde la región lumbar, más que una claudicación por estenosis de canal."
   },
   {
     "id": "q-113",
