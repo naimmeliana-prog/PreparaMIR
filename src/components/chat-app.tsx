@@ -153,7 +153,7 @@ export function ChatApp() {
   }, [messages, sending, section]);
 
   const newChat = () => {
-    setActiveId(null); setMessages([]); setInput(""); setError(null); setSection("chat"); setSidebarOpen(false);
+    setActiveId(null); setMessages([]); setInput(""); setError(null); setSection("exams"); setSidebarOpen(false);
     setTimeout(() => inputRef.current?.focus(), 50);
   };
 
@@ -207,7 +207,7 @@ export function ChatApp() {
     } catch {}
   };
 
-  const showWelcome = section === "chat" && !activeId && messages.length === 0;
+  const showWelcome = false;
 
   if (loadingUser) {
     return (

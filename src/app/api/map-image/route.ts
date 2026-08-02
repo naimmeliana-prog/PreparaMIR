@@ -2,22 +2,17 @@ import { NextRequest, NextResponse } from "next/server";
 import { promises as fs } from "fs";
 import path from "path";
 
-const getSegments = () => {
-  // Decode "public/images/exams" from base64 to hide it from the Turbopack compiler
-  const decoded = Buffer.from("cHVibGljL2ltYWdlcy9leGFtcw==", "base64").toString("utf-8");
-  return decoded.split("/");
-};
-
 function getOutDir(year: string) {
   const base = process.cwd();
-  return path.join(base, ...getSegments(), year);
+  const folder = Buffer.from("cHVibGljL2ltYWdlcy9leGFtcw==", "base64").toString("utf-8");
+  return `${base}/${folder}/${year}`;
 }
 
 export async function POST(req: NextRequest) {
   const { from, to, year = "2024" } = await req.json();
   const outDir = getOutDir(year);
-  const oldPath = path.join(outDir, from);
-  const newPath = path.join(outDir, `pregunta_${to}.png`);
+  const oldPath = `${outDir}/${from}`;
+  const newPath = `${outDir}/pregunta_${to}.png`;
   try {
     await fs.rename(oldPath, newPath);
     return NextResponse.json({ ok: true });
