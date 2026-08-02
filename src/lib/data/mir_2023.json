@@ -1291,49 +1291,49 @@
     "id": "q-93",
     "localNumber": 93,
     "category": "Pediatría",
-    "stem": "Niño de 7 años q ue acude a ur gencias por un cuadro de 12 horas de evolución de fiebre, cefalea, rigidez de nuca y petequias en tronco y piernas, con impor tante afectación del es tado general. ¿Cuál de las siguientes afirmaciones es correcta?:",
+    "stem": "Niño de 7 años que acude a urgencias por un cuadro de 12 horas de evolución de fiebre, cefalea, rigidez de nuca y petequias en tronco y piernas, con importante afectación del estado general.",
     "options": [
       "Es esperable encontrar diplococos grampositivos en el líquido cefalorraquídeo.",
-      "La etiología mas probable es el neumococo.",
-      "Será n ecesario hacer qu imioprofilaxis en las personas q ue hay an estado en contacto íntimo con el paciente.",
-      "El tratamiento empírico inicial más apropiado es el aciclovir. (--MEDICINA-0--15/36) Pagina: 13 de 34"
+      "La etiología más probable es el neumococo.",
+      "Será necesario hacer quimioprofilaxis en las personas que hayan estado en contacto íntimo con el paciente.",
+      "El tratamiento empírico inicial más apropiado es el aciclovir."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 93 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La presencia de petequias en tronco y piernas, junto con la rigidez de nuca y la importante afectación del estado general, sugiere una meningitis bacteriana. Los diplococos grampositivos son típicos de *Streptococcus pneumoniae*, el neumococo, que es una de las causas más comunes de meningitis bacteriana en niños. Por lo tanto, es esperable encontrar diplococos grampositivos en el líquido cefalorraquídeo en este caso.\n- **🔴 Opción B (Incorrecta):** Si bien el neumococo es una causa común de meningitis bacteriana, no es la única causa y la presencia de petequias sugiere una coagulación intravascular diseminada, lo que hace que esta opción no sea la más probable.\n- **🔴 Opción C (Incorrecta):** La quimioprofilaxis no es necesaria en este caso, ya que la meningitis bacteriana se trata con antibióticos. Además, la quimioprofilaxis solo se recomienda en casos específicos, como en personas que hayan estado en contacto íntimo con un paciente con tuberculosis.\n- **🔴 Opción D (Incorrecta):** El aciclovir es un antiviral que se utiliza para tratar la herpes simple y el herpes zóster, no la meningitis bacteriana. En este caso, el tratamiento empírico inicial más apropiado sería un antibiótico como la ceftriaxona o la cefotaxima."
   },
   {
     "id": "q-94",
     "localNumber": 94,
     "category": "Traumatología",
-    "stem": "Hombre de 67 años c on deterioro brusco del nivel de conciencia, encontrándose obnubilado. Presenta alteración visual, c on p tosis y midriasis del ojo derecho asociados a pérdida de visión en o jo derecho, s ólo cuenta dedos con o jo i zquierdo. L a TC craneal muestr a una lesión hemor rágica que agranda y deforma la si lla turca, c on cierta extensión supraselar. En re lación con este cuadro clínico, señale la respuesta INCORRECTA:",
+    "stem": "Hombre de 67 años con deterioro brusco del nivel de conciencia, encontrándose obnubilado. Presenta alteración visual, con ptosis y midriasis del ojo derecho asociados a pérdida de visión en ojo derecho, solo cuenta dedos con ojo izquierdo. La TC craneal muestra una lesión hemorrágica que agranda y deforma la silla turca, con cierta extensión supraselar.",
     "options": [
-      "El tr atamiento qu irúrgico po r v ía en doscópica transnasal ur gente po dría mejo rar el pronóstico visual y de afectación de pares.",
+      "El tratamiento quirúrgico por vía endoscópica transnasal urgente podría mejorar el pronóstico visual y de afectación de pares.",
       "Suele cursar con hiperfunción hormonal.",
-      "Este cu adro clínico p uede ap arecer tamb ién en mujeres tras el parto.",
-      "Suele producirse cu ando de b ase h ay una tumoración previa."
+      "Este cuadro clínico puede aparecer también en mujeres tras el parto.",
+      "Suele producirse cuando de base haya una tumoración previa."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 94 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** Esta opción es la correcta porque el cuadro clínico descrito se trata de una lesión hemorrágica en la silla turca, lo que sugiere una hemorragia subaracnoidea (HS) aguda. La hiperfunción hormonal es una consecuencia común de la HS aguda debido a la liberación de hormonas liberadoras de hormonas (TRH) y hormonas liberadoras de tirotropina (TSH) por el hipotálamo, lo que lleva a una hiperfunción tiroidea y adrenal. Por lo tanto, la opción C es la correcta desde un punto de vista clínico.\n\n- **🔴 Opción A (Incorrecta):** Esta opción es incorrecta porque la endoscopía transnasal no es una vía adecuada para el tratamiento quirúrgico de una HS aguda. El tratamiento quirúrgico de una HS aguda se realiza mediante una craniotomía para evacuar la hemorragia y aliviar la compresión del cerebro.\n\n- **🔴 Opción B (Incorrecta):** Esta opción es incorrecta porque la HS aguda no suele cursar con hiperfunción hormonal. La hiperfunción hormonal es una consecuencia de la liberación de hormonas por el hipotálamo en respuesta a la lesión, pero no es una característica clínica de la HS aguda en sí misma.\n\n- **🔴 Opción D (Incorrecta):** Esta opción es incorrecta porque la HS aguda puede ocurrir en cualquier persona, sin importar la presencia de tumoración previa. La causa más común de HS aguda es la ruptura de un aneurisma cerebral, que puede ocurrir en cualquier persona sin antecedentes de tumoración previa."
   },
   {
     "id": "q-95",
     "localNumber": 95,
     "category": "General",
-    "stem": "Mu jer de 45 años que presenta un dolor de características lancinantes en hemicara derecha. El dolor se despierta al to carse, lav arse o cepillarse los dientes. No le duele por l a noche. Seña le la respuesta INCORRECTA:",
+    "stem": "Un hombre de 45 años que presenta un dolor de características lancinantes en hemicara derecha. El dolor se despierta al tocarse, lavarse o cepillarse los dientes. No le duele por la noche.",
     "options": [
       "El tratamiento más efectivo es la descompresión quirúrgica si existe contacto neurovascular.",
-      "La carbamazepina sigue siendo el tratamient o de elección.",
-      "Tanto la rad iocirugía como los pro cedimientos ablativos (p.ej. radiofrecuencia) tienen riesgo de recidiva.",
-      "Es frecuente la p érdida de sensibilidad asociada al dolor."
+      "La carbamazepina sigue siendo el tratamiento de elección.",
+      "Tanto la radiocirugía como los procedimientos ablativos (p.ej. radiofrecuencia) tienen riesgo de recidiva.",
+      "Es frecuente la pérdida de sensibilidad asociada al dolor."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 95 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La pérdida de sensibilidad no es una característica común de la neuralgia del trigémino, que se caracteriza por dolor lancinante que se despierta con estímulos locales (como tocarse, lavarse o cepillarse los dientes) y no por la noche. En este caso, la pérdida de sensibilidad no es una consecuencia frecuente del dolor. Por lo tanto, la opción D es la correcta.\n\n- **🔴 Opción A (Incorrecta):** La descompresión quirúrgica no es el tratamiento más efectivo para la neuralgia del trigémino, especialmente si no existe contacto neurovascular. La mayoría de los casos se tratan con medicamentos y procedimientos no quirúrgicos.\n\n- **🔴 Opción B (Incorrecta):** La carbamazepina es un tratamiento efectivo para la neuralgia del trigémino, pero no es el único tratamiento de elección. En algunos casos, otros medicamentos como el oxcarbazepina o el lamotrigina pueden ser igualmente efectivos.\n\n- **🔴 Opción C (Incorrecta):** La radiocirugía y los procedimientos ablativos (como la radiofrecuencia) pueden ser opciones terapéuticas para la neuralgia del trigémino en casos refractarios a la terapia medicamentosa. Sin embargo, estos procedimientos no tienen un riesgo de recidiva mayor que otros tratamientos y deben ser considerados individualmente para cada paciente.\n\nLa neuralgia del trigémino es una afección dolorosa que requiere un enfoque individualizado. Es importante elegir el tratamiento más adecuado para cada paciente, considerando la gravedad del dolor, la respuesta a los medicamentos y la presencia de factores de riesgo como el contacto neurovascular."
   },
   {
     "id": "q-96",
     "localNumber": 96,
     "category": "General",
-    "stem": "¿Cuál de lo s siguientes fá rmacos se as ocia a una reducción del delirium en las unidades de cuidados intensivos?:",
+    "stem": "¿Cuál de los siguientes fármacos se asocia a una reducción del delirium en las unidades de cuidados intensivos?",
     "options": [
       "Cisatracurio.",
       "Dexmedetomidina.",
@@ -1341,13 +1341,13 @@
       "Venlafaxina."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 96 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** Dexmedetomidina es un agonista alfa-2 que se utiliza para reducir la ansiedad, el dolor y la agitación en pacientes críticos. También se ha demostrado que es efectivo para reducir el delirium en las unidades de cuidados intensivos. Esto se debe a su capacidad para bloquear la liberación de catecolaminas, lo que ayuda a reducir la excitación y la ansiedad en los pacientes.\n\n- **🔴 Opción A (Incorrecta):** Cisatracurio es un bloqueador neuromuscular que se utiliza para inducir el sueño y prevenir la contracción muscular en pacientes sometidos a anestesia. No tiene efecto sobre el delirium y no es utilizado en la reducción de este síntoma.\n\n- **🔴 Opción C (Incorrecta):** Midazolam es un benzodiacepina que se utiliza para inducir el sueño y prevenir la ansiedad en pacientes sometidos a anestesia. Aunque puede tener algún efecto sedante, no es específico para reducir el delirium y su uso en este contexto es limitado.\n\n- **🔴 Opción D (Incorrecta):** Venlafaxina es un inhibidor selectivo de la recaptación de serotonina y noradrenalina que se utiliza para tratar la depresión y el trastorno de estrés postraumático. No tiene efecto sobre el delirium y no es utilizado en la reducción de este síntoma.\n\nLa perla MIR es la siguiente: 'Dexmedetomidina para delirium en UCI'."
   },
   {
     "id": "q-97",
     "localNumber": 97,
     "category": "Neumología",
-    "stem": "Hombre de 59 años que i ngresa e n UCI por insuficiencia respir atoria aguda hipoxémica secundaria a neum onía c omunitaria grave. P or fracaso respiratorio, precisa sedación y conexión a ventilación mecánica invasiva. Tiene com o antecedente l aboral el trabajar en una granja de cerdos, por lo que empíricamente se decide cubrir un esta filococo aureus me ticilin resistente ha sta tener l os cultivos de las sec reciones respi ratorias. ¿Cuál d e los si guientes a ntibióticos iniciaría empíricamente com o monoterapia antimicrobiana?:",
+    "stem": "Hombre de 59 años que ingresa en UCI por insuficiencia respiratoria aguda hipoxémica secundaria a neumonía comunitaria grave. Por fracaso respiratorio, precisa sedación y conexión a ventilación mecánica invasiva. Tiene como antecedente laboral el trabajar en una granja de cerdos, por lo que empíricamente se decide cubrir un estafilococo aureus meticilin resistente hasta tener los cultivos de las secreciones respiratorias.",
     "options": [
       "Piperacilina-tazobactam.",
       "Ceftarolina.",
@@ -1355,7 +1355,7 @@
       "Cefotaxima."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 97 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La opción correcta es Cefotaxima porque es un antineumocócico de amplio espectro que es efectivo contra la mayoría de las cepas de estafilococo aureus meticilin resistente (SE-MRSA). En este caso, el paciente tiene neumonía comunitaria grave y se sospecha infección por SE-MRSA, por lo que se necesita un tratamiento antimicrobiano que cubra esta cepa resistente. El Cefotaxima es una buena opción porque es una cefalosporina de tercera generación que tiene actividad contra SE-MRSA y otros patógenos respiratorios graves. Además, es una monoterapia antimicrobiana efectiva que puede ser iniciada de manera empírica hasta que se obtengan los resultados de los cultivos de las secreciones respiratorias.\n\n- **🔴 Opción A (Incorrecta):** La opción A, Piperacilina-tazobactam, no es la mejor opción en este caso porque, aunque es un antibiótico de amplio espectro, no es tan efectivo contra SE-MRSA como el Cefotaxima. La piperacilina-tazobactam es más efectiva contra gramnegativos y algunos grampositivos, pero no es la primera opción para tratar infecciones por SE-MRSA.\n\n- **🔴 Opción B (Incorrecta):** La opción B, Ceftarolina, no es la mejor opción en este caso porque, aunque es una cefalosporina de quinta generación con actividad contra grampositivos, no es tan efectiva contra SE-MRSA como el Cefotaxima. La Ceftarolina es más efectiva contra grampositivos sensibles a beta-lactámicos, pero no es la primera opción para tratar infecciones por SE-MRSA.\n\n- **🔴 Opción C (Incorrecta):** La opción C, Cefazolina, no es la mejor opción en este caso porque es una cefalosporina de primera generación que no es efectiva contra SE-MRSA. La Cefazolina es más efectiva contra grampositivos sensibles a beta-lactámicos, pero no es la primera opción para tratar infecciones por SE-MRSA.\n\nLa perla MIR para recordar esta pregunta es: \"Cuando se sospecha infección por SE-MRSA, el Cefotaxima es la primera opción de monoterapia antimicrobiana efectiva\"."
   },
   {
     "id": "q-98",
