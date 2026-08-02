@@ -102,15 +102,15 @@ export function ChatApp() {
     const getInitialSection = (): Section => {
       if (typeof window !== "undefined") {
         const hash = window.location.hash.replace("#", "") as Section;
-        if (["exams", "generator", "traps", "hard", "flashcards", "stats", "chat"].includes(hash)) {
+        if (["exams", "generator", "traps", "hard", "flashcards", "plan", "stats"].includes(hash)) {
           return hash;
         }
         const stored = localStorage.getItem("mir_active_section") as Section;
-        if (stored && ["exams", "generator", "traps", "hard", "flashcards", "stats", "chat"].includes(stored)) {
+        if (stored && ["exams", "generator", "traps", "hard", "flashcards", "plan", "stats"].includes(stored)) {
           return stored;
         }
       }
-      return "chat";
+      return "exams";
     };
 
     const init = getInitialSection();
@@ -118,7 +118,7 @@ export function ChatApp() {
 
     const handleHashChange = () => {
       const hash = window.location.hash.replace("#", "") as Section;
-      if (["exams", "generator", "traps", "hard", "flashcards", "stats", "chat"].includes(hash)) {
+      if (["exams", "generator", "traps", "hard", "flashcards", "plan", "stats"].includes(hash)) {
         setSection(hash);
       }
     };
