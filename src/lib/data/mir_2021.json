@@ -1137,57 +1137,57 @@
     "id": "q-83",
     "localNumber": 83,
     "category": "General",
-    "stem": "La fenilcetonuria es una enfermedad metabóli- ca congénita. En relación con la misma, indique la contestación FALSA:",
+    "stem": "La fenilcetonuria es una enfermedad metabólica congénita. En relación con la misma, indique la contestación FALSA:",
     "options": [
       "La fenilalanina debe suprimirse en la dieta completamente.",
       "La discapacidad intelectual es constante y progresiva en caso de no realizar bien la dieta.",
-      "Puede deberse a un déficit de tetrahidrobiop- terina BH4.",
-      "S e r e c o m i e n d a s u e s t u d i o a l a s 2 4 - 4 8 h o r a s del inicio de la ingesta del recién nacido."
+      "Puede deberse a un déficit de tetrahidrobiop-terina BH4.",
+      "Se recomiendan sus estudios a las 24-48 horas del inicio de la ingesta del recién nacido."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 83 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La supresión completa de la fenilalanina en la dieta no es necesaria, ya que la terapia de reemplazo con ácido fenilacetilglutárico (PAAG) permite controlar los niveles de fenilalanina en sangre. La dieta restrictiva se enfoca en mantener los niveles de fenilalanina por debajo de 2-3 mg/dL, pero no en suprimir completamente la ingesta de fenilalanina.\n- **🔴 Opción B (Incorrecta):** La discapacidad intelectual en la fenilcetonuria es variable y depende de la edad de inicio de la terapia y la eficacia de la misma. No es constante ni progresiva en todos los casos.\n- **🔴 Opción C (Incorrecta):** La fenilcetonuria es causada por un déficit de fenilalanina hidroxilasa (PAH), no por un déficit de tetrahidrobiop-terina BH4. La BH4 es un cofactor necesario para la actividad de la PAH, pero la enfermedad se debe a una deficiencia en la PAH en sí.\n- **🔴 Opción D (Incorrecta):** Los estudios para el diagnóstico de la fenilcetonuria se realizan a las 24-48 horas de vida, pero no se recomiendan estudios de rutina a esta edad. La prueba de Guthrie, que mide la actividad de la PAH, se realiza a las 5-7 días de vida. Los estudios de rutina a las 24-48 horas no son necesarios y pueden generar confusión.\nLa perla MIR: 'La terapia de reemplazo con PAAG y la dieta restrictiva permiten controlar los niveles de fenilalanina en sangre y prevenir la discapacidad intelectual en la fenilcetonuria.'"
   },
   {
     "id": "q-84",
     "localNumber": 84,
     "category": "Neurología",
-    "stem": "En una enfermedad genética neurológica, el fenómeno de anticipación implica la aparición de las manifestaciones más precozmente y en general de forma más grave en la siguiente generación. Dado que la anticipación ocurre por la expansión de trinucleótidos, indique en cuál de estas enfermedades es posible esperar este fenómeno:",
+    "stem": "En una enfermedad genética neurológica, el fenómeno de anticipación implica la aparición de las manifestaciones más precozmente y de forma más grave en la siguiente generación. Dado que la anticipación ocurre por la expansión de trinucleótidos, indique en cuál de estas enfermedades es posible esperar este fenómeno.",
     "options": [
       "Atrofia muscular espinal.",
       "Distrofia muscular de Duchenne.",
       "Enfermedad de Parkinson.",
-      "Distrofia miotónica de Steinert. - 13 -"
+      "Distrofia miotónica de Steinert."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 84 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La distrofia miotónica de Steinert es una enfermedad genética neurológica causada por la expansión de un trinucleótido repetido (CTG) en el gen DMPK. Esta expansión de trinucleótidos conduce a un fenómeno de anticipación, donde las manifestaciones de la enfermedad se presentan más precozmente y de forma más grave en las generaciones siguientes. Por lo tanto, la distrofia miotónica de Steinert es un ejemplo clásico de enfermedad que cumple con el criterio de anticipación por expansión de trinucleótidos.\n\n- **🔴 Opción A (Incorrecta):** La atrofia muscular espinal es una enfermedad degenerativa que afecta el sistema nervioso y causa la pérdida de las células motoras en la médula espinal. Aunque es una enfermedad genética, no se asocia con la expansión de trinucleótidos y, por lo tanto, no cumple con el criterio de anticipación por esta causa.\n\n- **🔴 Opción B (Incorrecta):** La distrofia muscular de Duchenne es una enfermedad genética que afecta la capacidad de los músculos para moverse y se caracteriza por la expansión de un cromosoma X. Aunque es una enfermedad genética, no se asocia con la expansión de trinucleótidos y, por lo tanto, no cumple con el criterio de anticipación por esta causa.\n\n- **🔴 Opción C (Incorrecta):** La enfermedad de Parkinson es una enfermedad neurodegenerativa que afecta la capacidad del cerebro para regular los movimientos del cuerpo. Aunque es una enfermedad genética, no se asocia con la expansión de trinucleótidos y, por lo tanto, no cumple con el criterio de anticipación por esta causa.\n\nLa perla MIR para recordar este concepto es: \"La anticipación en enfermedades genéticas ocurre por la expansión de trinucleótidos, como en la distrofia miotónica de Steinert\"."
   },
   {
     "id": "q-85",
     "localNumber": 85,
     "category": "Neurología",
-    "stem": "El neuroblastoma es el tumor sólido extracra- neal más común en niños. En relación con su diagnóstico, señale la respuesta FALSA:",
+    "stem": "El neuroblastoma es el tumor sólido extracranial más común en niños. En relación con su diagnóstico, señale la respuesta FALSA:",
     "options": [
       "Debemos sospecharlo ante la aparición de un síndrome opsoclono-mioclono-ataxia.",
-      "Existe casi siempre un aumento en la excre- ción urinaria de metabolitos de catecolami- nas.",
+      "Existe casi siempre un aumento en la excreción urinaria de metabolitos de catecolaminas.",
       "La mayoría se diagnostica en menores de 6 años de edad.",
-      "La gammagrafía con tecnecio es muy especí- fica y está indicada para definir mejor su ex- tensión."
+      "La gammagrafía con tecnecio es muy específica y está indicada para definir mejor su extensión."
     ],
     "correctIndex": 3,
-    "explanation": "Pregunta oficial número 85 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción D (Correcta):** La gammagrafía con tecnecio es una técnica de imagen muy específica para el diagnóstico del neuroblastoma. Se utiliza para visualizar la actividad del tumor y determinar su extensión. Por lo tanto, esta opción es la correcta ya que se indica para definir mejor la extensión del tumor, no para sospechar el síndrome opsoclono-mioclono-ataxia, ni para mencionar el aumento de metabolitos de catecolaminas en la orina, ni para referirse a la edad de diagnóstico de la mayoría de los casos.\n\n- **🔴 Opción A (Incorrecta):** El síndrome opsoclono-mioclono-ataxia no está directamente relacionado con el diagnóstico del neuroblastoma. Este síndrome es una afección neurológica que puede presentarse en varias condiciones, incluyendo enfermedades autoinmunes y tumores cerebrales, pero no es una característica específica del neuroblastoma.\n\n- **🔴 Opción B (Incorrecta):** Aunque el neuroblastoma puede producir catecolaminas, como la adrenalina y la noradrenalina, el aumento en la excreción urinaria de estos metabolitos no es una característica universal del tumor. La producción de catecolaminas es más común en tumores del sistema nervioso y no es un indicador específico del neuroblastoma.\n\n- **🔴 Opción C (Incorrecta):** Si bien es cierto que la mayoría de los casos de neuroblastoma se diagnostican en menores de 6 años de edad, esta afirmación no es falsa. La mayoría de los casos de neuroblastoma se diagnostican en niños menores de 6 años, pero esta opción no es la respuesta falsa que se solicita.\n\nLa perla MIR: Recordar que el neuroblastoma es un tumor sólido extracranial común en niños y que su diagnóstico se basa en la combinación de síntomas clínicos, resultados de pruebas de imagen y análisis de tejido tumoral. La gammagrafía con tecnecio es una herramienta importante para determinar la extensión del tumor y planificar el tratamiento."
   },
   {
     "id": "q-86",
     "localNumber": 86,
     "category": "Pediatría",
-    "stem": "¿Cuál de los siguientes NO es indicación de realizar inmunoprofilaxis con palivizumab en un lactante?:",
+    "stem": "¿Cuál de los siguientes no es indicación de realizar inmunoprofilaxis con palivizumab en un lactante?",
     "options": [
       "Lactante nacido antes de las 29 semanas de gestación en el primer año de vida.",
       "Lactante nacido antes de las 32 semanas de gestación con enfermedad pulmonar crónica de la prematuridad en el primer año de vida.",
       "Lactante diagnosticado de fibrosis quística de páncreas en el cribado neonatal durante el primer año de vida.",
-      "Lactante de 12 meses afecto de inmunodefi- ciencia severa combinada."
+      "Lactante de 12 meses afecto de inmunodeficiencia severa combinada."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 86 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La inmunoprofilaxis con palivizumab se utiliza principalmente en lactantes prematuros para prevenir la enfermedad respiratoria severa causada por el virus sincitial respiratorio (VSR) y la neumonía por adenovirus. La enfermedad pulmonar crónica de la prematuridad es una complicación común en lactantes prematuros y puede aumentar el riesgo de complicaciones respiratorias. Por lo tanto, la inmunoprofilaxis con palivizumab puede ser beneficiosa en estos casos. Sin embargo, la fibrosis quística de páncreas es una enfermedad genética que afecta la producción de líquido pulmonar y puede requerir un tratamiento diferente. La inmunoprofilaxis con palivizumab no es indicada para prevenir las complicaciones respiratorias en lactantes con fibrosis quística de páncreas.\n   \n   - **🔴 Opción A (Incorrecta):** La inmunoprofilaxis con palivizumab es indicada para lactantes nacidos antes de las 29 semanas de gestación, ya que estos tienen un mayor riesgo de desarrollar complicaciones respiratorias.\n   \n   - **🔴 Opción B (Incorrecta):** La inmunoprofilaxis con palivizumab puede ser beneficiosa en lactantes con enfermedad pulmonar crónica de la prematuridad, ya que puede ayudar a prevenir las complicaciones respiratorias.\n   \n   - **🔴 Opción D (Incorrecta):** La inmunodeficiencia severa combinada es una condición que puede aumentar el riesgo de infecciones, y la inmunoprofilaxis con palivizumab puede ser considerada en estos casos para prevenir las infecciones respiratorias.\n   \n   La perla MIR: La inmunoprofilaxis con palivizumab es indicada para lactantes prematuros y aquellos con enfermedad pulmonar crónica de la prematuridad, pero no para lactantes con fibrosis quística de páncreas."
   },
   {
     "id": "q-87",
@@ -1195,13 +1195,13 @@
     "category": "Pediatría",
     "stem": "Con respecto al síndrome de muerte súbita del lactante, señale la afirmación correcta:",
     "options": [
-      "La presencia de antecedentes de muertes si- milares en hermanos/familiares es criterio diagnóstico de este síndrome.",
-      "Ante un episodio de muerte súbita infantil se debe firmar el certificado ordinario de defun- ción por el facultativo del servicio de urgen- cias.",
+      "La presencia de antecedentes de muertes súbitas en hermanos/familiares es criterio diagnóstico de este síndrome.",
+      "Ante un episodio de muerte súbita infantil se debe firmar el certificado ordinario de defunción por el facultativo del servicio de urgencias.",
       "La edad del niño superior a 1 año excluye el diagnóstico, independientemente de que se trate o no de lactantes.",
-      "La existencia de una patología grave diagnos- ticada en la autopsia es criterio diagnóstico de este síndrome."
+      "La existencia de una patología grave diagnosticada en la autopsia es criterio diagnóstico de este síndrome."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 87 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La afirmación correcta es que la edad del niño superior a 1 año excluye el diagnóstico de síndrome de muerte súbita del lactante, independientemente de que se trate o no de lactantes. Esto se debe a que el síndrome de muerte súbita del lactante se define como una muerte súbita e inesperada en un lactante menor de 1 año, sin signos previos de enfermedad. Por lo tanto, si la edad del niño es superior a 1 año, no se cumple el criterio de edad para el diagnóstico de este síndrome. \n\n- **🔴 Opción A (Incorrecta):** La presencia de antecedentes de muertes súbitas en hermanos/familiares no es un criterio diagnóstico de síndrome de muerte súbita del lactante. Si bien la historia familiar puede ser relevante en algunos casos, no es un criterio exclusivo para el diagnóstico de este síndrome. \n\n- **🔴 Opción B (Incorrecta):** Ante un episodio de muerte súbita infantil, no se debe firmar el certificado ordinario de defunción por el facultativo del servicio de urgencias. En lugar de eso, se debe realizar una investigación exhaustiva para determinar la causa de la muerte, y si es posible, se debe realizar una autopsia para determinar la causa de la muerte. \n\n- **🔴 Opción D (Incorrecta):** La existencia de una patología grave diagnosticada en la autopsia no es un criterio diagnóstico de síndrome de muerte súbita del lactante. Si bien la presencia de una patología grave puede ser relevante en algunos casos, no es un criterio exclusivo para el diagnóstico de este síndrome.\n\nLa perla MIR para recordar el concepto clave es: \"Síndrome de muerte súbita del lactante: muerte súbita e inesperada en un lactante menor de 1 año, sin signos previos de enfermedad.\""
   },
   {
     "id": "q-88",
