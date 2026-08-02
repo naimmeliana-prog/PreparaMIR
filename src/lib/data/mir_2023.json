@@ -1641,7 +1641,7 @@
     "id": "q-118",
     "localNumber": 118,
     "category": "Cardiología",
-    "stem": "Paciente de 65 años con antecedentes de un infarto de mioc ardio de c ara anterior que pres enta u na taquicardia c on Q RS an cho que se acompañ a de hipotensión (TA 70/ 40 mmHg) y de obnubilación. ¿Cuál de l os si guientes es el tr atamiento de elección?:",
+    "stem": "Paciente de 65 años con antecedentes de un infarto de miocardio de carácter anterior que presenta una taquicardia con QRS ancho que se acompaña de hipotensión (TA 70/40 mmHg) y de obnubilación.",
     "options": [
       "Lidocaína IV.",
       "Amiodarona IV.",
@@ -1649,27 +1649,27 @@
       "Cardioversión eléctrica urgente."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 118 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** La lidocaína es un bloqueador de los canales de sodio de acción rápida, que se utiliza para tratar la taquicardia ventricular en pacientes con antecedentes de infarto de miocardio. En este caso, la taquicardia con QRS ancho y la hipotensión sugieren una taquicardia ventricular, por lo que la lidocaína es el tratamiento de elección. La administración intravenosa de lidocaína puede ayudar a restaurar la frecuencia cardíaca normal y mejorar la presión arterial. Además, la lidocaína tiene un efecto rápido, lo que es crucial en un paciente con obnubilación y hipotensión. \n\n- **🔴 Opción B (Incorrecta):** La amiodarona es un bloqueador de los canales de potasio de acción lenta, que se utiliza para tratar la fibrilación auricular y la taquicardia ventricular. Sin embargo, en este caso, la taquicardia con QRS ancho sugiere una taquicardia ventricular, y la amiodarona puede no ser el tratamiento más rápido y efectivo. Además, la amiodarona puede causar hipotensión y otros efectos secundarios. \n\n- **🔴 Opción C (Incorrecta):** La procainamida es un bloqueador de los canales de sodio de acción lenta, que se utiliza para tratar la taquicardia ventricular. Sin embargo, en este caso, la taquicardia con QRS ancho sugiere una taquicardia ventricular, y la procainamida puede no ser el tratamiento más rápido y efectivo. Además, la procainamida puede causar efectos secundarios como la hipotensión y la obnubilación. \n\n- **🔴 Opción D (Incorrecta):** La cardioversión eléctrica es un procedimiento que se utiliza para restaurar la frecuencia cardíaca normal en pacientes con fibrilación auricular o taquicardia ventricular. Sin embargo, en este caso, el paciente tiene una taquicardia con QRS ancho y una hipotensión grave, lo que sugiere una taquicardia ventricular. La cardioversión eléctrica puede ser un tratamiento efectivo, pero en este caso, la lidocaína es el tratamiento de elección debido a su efecto rápido y su capacidad para restaurar la frecuencia cardíaca normal sin causar efectos secundarios graves."
   },
   {
     "id": "q-119",
     "localNumber": 119,
     "category": "Cardiología",
-    "stem": "Ante un recién nacido a término cianótico con pO2 de 30 mmHg, hipertrofia de ventrículo derecho en el electrocardiograma e ima gen \"de huevo\" en la radiografía de tó rax ¿cuál de l os si guientes es e l diagnóstico más probable?:",
+    "stem": "Ante un recién nacido a término cianótico con pO2 de 30 mmHg, hipertrofia de ventrículo derecho en el electrocardiograma e imagen gen 'de huevo' en la radiografía de tórax, ¿cuál de los siguientes es el diagnóstico más probable?",
     "options": [
       "Dextro-transposición de grandes arterias.",
       "Persistencia del ductus arterioso.",
       "Tetralogía de Fallot.",
-      "Enfermedad de Ebstein. (--MEDICINA-0--19/36) Pagina: 17 de 34"
+      "Enfermedad de Ebstein."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 119 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La persistencia del ductus arterioso se caracteriza por una comunicación anómala entre la aorta y la arteria pulmonar, lo que provoca una desviación del flujo sanguíneo hacia la aorta y una reducción del flujo hacia los pulmones. Esto puede causar una hipertrofia del ventrículo derecho debido a la resistencia al flujo sanguíneo hacia los pulmones. Además, la imagen gen 'de huevo' en la radiografía de tórax es característica de esta condición, ya que se debe a la expansión de la aorta y la arteria pulmonar debido a la comunicación anómala. El pO2 de 30 mmHg también es compatible con esta condición, ya que el flujo sanguíneo hacia los pulmones es reducido. Por lo tanto, la persistencia del ductus arterioso es el diagnóstico más probable en este caso.\n\n- **🔴 Opción A (Incorrecta):** La dextro-transposición de grandes arterias es una condición en la que las arterias pulmonar y aorta se han desplazado hacia la derecha, lo que provoca una desviación del flujo sanguíneo hacia la aorta y una reducción del flujo hacia los pulmones. Sin embargo, esta condición no se caracteriza por una imagen gen 'de huevo' en la radiografía de tórax, ya que la expansión de la aorta y la arteria pulmonar no es una característica de esta condición.\n\n- **🔴 Opción C (Incorrecta):** La tetralogía de Fallot es una condición en la que hay una comunicación anómala entre la aorta y la arteria pulmonar, similar a la persistencia del ductus arterioso. Sin embargo, la tetralogía de Fallot se caracteriza por una hipertrofia del ventrículo derecho y una reducción del flujo sanguíneo hacia los pulmones, lo que provoca una cianosis severa. La imagen gen 'de huevo' en la radiografía de tórax no es una característica de esta condición.\n\n- **🔴 Opción D (Incorrecta):** La enfermedad de Ebstein es una condición en la que el tricúspide es anormalmente pequeño y no funciona correctamente, lo que provoca una reducción del flujo sanguíneo hacia los pulmones. Sin embargo, esta condición no se caracteriza por una hipertrofia del ventrículo derecho o una imagen gen 'de huevo' en la radiografía de tórax, ya que la expansión de la aorta y la arteria pulmonar no es una característica de esta condición.\n\n**Perla MIR:** Recuerda que la persistencia del ductus arterioso se caracteriza por una comunicación anómala entre la aorta y la arteria pulmonar, lo que provoca una hipertrofia del ventrículo derecho y una imagen gen 'de huevo' en la radiografía de tórax. Esto puede causar una reducción del flujo sanguíneo hacia los pulmones y un pO2 de 30 mmHg."
   },
   {
     "id": "q-120",
     "localNumber": 120,
     "category": "Cardiología",
-    "stem": "Hombre de 70 años sometido hace 5 días a cirugía de re vascularización cor onaria que ac ude a urgencias por un sínc ope tras el que persiste sensación de mare o. E n la explor ación des taca tensión ar terial 70/40 mmHg, rui dos cardi acos disminuidos y distensi ón ve nosa yugular c on fenómeno de alter nancia eléctric a en el electrocardiograma. ¿Cuál de l os s iguientes diagnósticos es más probable?:",
+    "stem": "Hombre de 70 años sometido hace 5 días a cirugía de revascularización coronaria que acude a urgencias por un síncope tras el que persiste sensación de mareo. En la exploración destaca tensión arterial 70/40 mmHg, ruidos cardíacos disminuidos y distensión venosa yugular con fenómeno de alteración eléctrica en el electrocardiograma.",
     "options": [
       "Síndrome coronario agudo.",
       "Pericarditis.",
@@ -1677,35 +1677,35 @@
       "Endocarditis."
     ],
     "correctIndex": 0,
-    "explanation": "Pregunta oficial número 120 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción A (Correcta):** El síncope persistente y la disminución de los ruidos cardíacos sugieren un problema de función cardíaca. La distensión venosa yugular y la alteración eléctrica en el electrocardiograma indican una hipertensión pulmonar aguda, que es un signo de taponamiento cardiaco. La presión arterial baja de 70/40 mmHg también apunta en esta dirección. El taponamiento cardiaco es una emergencia médica que requiere tratamiento inmediato. El síndrome coronario agudo, la pericarditis y la endocarditis no se relacionan directamente con los signos y síntomas descritos en el escenario clínico.\n\n- **🔴 Opción B (Incorrecta):** La pericarditis puede causar dolor torácico y alteraciones en el electrocardiograma, pero no explicaría la disminución de los ruidos cardíacos y la hipertensión pulmonar aguda.\n\n- **🔴 Opción C (Incorrecta):** El síndrome coronario agudo puede causar dolor en el pecho y disminución de los ruidos cardíacos, pero no explicaría la distensión venosa yugular y la alteración eléctrica en el electrocardiograma.\n\n- **🔴 Opción D (Incorrecta):** La endocarditis puede causar disminución de los ruidos cardíacos y alteraciones en el electrocardiograma, pero no explicaría la hipertensión pulmonar aguda y la distensión venosa yugular.\n\n**Perla MIR**: Si un paciente con historia de cirugía cardíaca reciente presenta síncope, disminución de los ruidos cardíacos y alteraciones en el electrocardiograma, debe sospecharse un taponamiento cardiaco y realizar un tratamiento inmediato."
   },
   {
     "id": "q-121",
     "localNumber": 121,
     "category": "Neumología",
-    "stem": "Mujer as mática que tras un día de torme nta presenta sensación disneica y autoes cucha de sibilancias. Tras tratamiento inicial co n un agonista beta2 y cor ticoides inhal ados n o se produjo me joría de l os síntomas, requiriendo broncodilatadores cada hora durante varias horas consecutivas, con aparición de u n i mportante aumento del trabajo respiratorio. De las siguientes ¿cúal es la actitud más adecuada?:",
+    "stem": "Mujer asmática que tras un día de tormenta presenta sensación disnea y autoevaluación de sibilancias. Tras tratamiento inicial con un agonista beta2 y corticoides inhalados no se produjo mejora de los síntomas, requiriendo broncodilatadores cada hora durante varias horas consecutivas, con aparición de un importante aumento del trabajo respiratorio. De las siguientes ¿cual es la actitud más adecuada?",
     "options": [
-      "Se deben administrar de forma urgente agonistas beta2 nebulizados y, e n caso de au sencia de respuesta t emprana, a ñadir corticoides intravenosos.",
-      "Antes de iniciarse el trata miento debe realizase radiografía d e tórax, gasometría arterial y analítica general para establecer el diagnóstico.",
-      "Los c orticoides i nhalados est arían contraindicados po r au mentar el r iesgo d e neumonía.",
-      "Como primera elección se de ben admi nistrar anticolinérgicos ne bulizados, de bido a l a ausencia de respuesta a los agonistas beta2."
+      "Se deben administrar de forma urgente agonistas beta2 nebulizados y, en caso de ausencia de respuesta temprana, añadir corticoides intravenosos.",
+      "Antes de iniciarse el tratamiento debe realizarse radiografía de tórax, gasometría arterial y analítica general para establecer el diagnóstico.",
+      "Los corticoides inhalados estarían contraindicados por aumentar el riesgo de neumonía.",
+      "Como primera elección se deben administrar anticolinérgicos nebulizados, debido a la ausencia de respuesta a los agonistas beta2."
     ],
     "correctIndex": 2,
-    "explanation": "Pregunta oficial número 121 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción C (Correcta):** La respuesta correcta es la opción C, ya que no se han descrito suficientes signos de dificultad respiratoria severa para justificar la administración de anticolinérgicos como primera opción. Además, la presencia de sibilancias y disnea podría indicar una exacerbación asmática, y la administración de agonistas beta2 nebulizados es una medida razonable para intentar aliviar los síntomas. Si no hay respuesta temprana, la adición de corticoides intravenosos podría ser considerada, pero no es la primera opción. En este contexto, la opción C es la más adecuada porque sigue una secuencia lógica de tratamiento y no sobrepasa los límites de la situación descrita.\n\n- **🔴 Opción A (Incorrecta):** La opción A no es la más adecuada porque, si bien la administración de agonistas beta2 nebulizados es razonable, no se justifica la adición de corticoides intravenosos como segunda opción sin antes evaluar la respuesta al agonista beta2. Además, la administración de corticoides intravenosos es una medida más invasiva y no se ha descrito suficiente información para justificar su uso.\n\n- **🔴 Opción B (Incorrecta):** La opción B no es la más adecuada porque, si bien es importante realizar una evaluación inicial del paciente, no se justifica la realización de una radiografía de tórax, gasometría arterial y analítica general como primera medida. En este contexto, la opción B es excesiva y no sigue una secuencia lógica de tratamiento.\n\n- **🔴 Opción D (Incorrecta):** La opción D no es la más adecuada porque, si bien la administración de anticolinérgicos nebulizados podría ser considerada en casos de exacerbación asmática severa, no se ha descrito suficiente información para justificar su uso como primera opción. Además, la administración de anticolinérgicos sin antes intentar aliviar los síntomas con agonistas beta2 no sigue una secuencia lógica de tratamiento.\n\n**Perla MIR:** En situaciones de exacerbación asmática, es importante seguir una secuencia lógica de tratamiento y no sobrepasar los límites de la situación descrita. La administración de agonistas beta2 nebulizados es una medida razonable para intentar aliviar los síntomas, y la adición de corticoides intravenosos podría ser considerada si no hay respuesta temprana. La evaluación del paciente debe ser cuidadosa y no se deben realizar pruebas innecesarias como primera medida."
   },
   {
     "id": "q-122",
     "localNumber": 122,
     "category": "General",
-    "stem": "Hombre de 75 años con a ntecedentes de insuficiencia cardiaca con fracción de e yección del ventrículo iz quierdo del 30 % . Consulta p or apneas durante el sueño presenci adas por s u pareja. El grado de somnolencia en l a escala de Epworth e s de 5. El es tudio del sue ño muestr a episodios de respiración periódica con un índice de apneas-hipopneas de 22 por hora de sueño, siendo todos los eventos res piratorios centrales. De las siguientes, la actitud terapéutica recomendada es:",
+    "stem": "Hombre de 75 años con antecedentes de insuficiencia cardiaca con fracción de eyeción del ventrículo izquierdo del 30%. Consulta por apneas durante el sueño presenciadas por su pareja. El grado de somnolencia en la escala de Epworth es de 5. El estudio del sueño muestra episodios de respiración periódica con un índice de apneas-hipopneas de 22 por hora de sueño, siendo todos los eventos respiratorios centrales.",
     "options": [
       "Iniciar tratamiento con presión positiva continua por vía nasal.",
-      "Optimizar el tratamie nto de la insuficiencia cardiaca.",
+      "Optimizar el tratamiento de la insuficiencia cardiaca.",
       "Ensayo terapéutico con prótesis de avanzamiento mandibular.",
       "Iniciar tratamiento con servoventilación."
     ],
     "correctIndex": 1,
-    "explanation": "Pregunta oficial número 122 del examen MIR de la convocatoria FSE."
+    "explanation": "- **🟢 Opción B (Correcta):** La opción correcta es la optimización del tratamiento de la insuficiencia cardiaca. El paciente tiene una fracción de eyeción del ventrículo izquierdo del 30%, lo que indica una insuficiencia cardiaca severa. La apnea del sueño puede empeorar la condición del corazón, y la optimización del tratamiento de la insuficiencia cardiaca es fundamental para mejorar la calidad de vida del paciente. Además, la servoventilación y la presión positiva continua por vía nasal pueden ser beneficiosas, pero no son la opción principal en este caso. La prótesis de avanzamiento mandibular no es una opción terapéutica adecuada para la apnea del sueño en este paciente, ya que no se ha mencionado que tenga obstrucción del tracto respiratorio superior ni que requiera tratamiento ortodóncico para mejorar la respiración durante el sueño.\n- **🔴 Opción A (Incorrecta):** La presión positiva continua por vía nasal puede ser benefiosa para la apnea del sueño, pero no es la opción principal en este caso. El paciente tiene una insuficiencia cardiaca severa y la optimización de su tratamiento es fundamental. La presión positiva continua por vía nasal puede ser utilizada como tratamiento adyuvante, pero no como la opción principal.\n- **🔴 Opción C (Incorrecta):** La prótesis de avanzamiento mandibular no es una opción terapéutica adecuada para la apnea del sueño en este paciente. No se ha mencionado que tenga obstrucción del tracto respiratorio superior ni que requiera tratamiento ortodóncico para mejorar la respiración durante el sueño.\n- **🔴 Opción D (Incorrecta):** La servoventilación puede ser beneficiosa para la apnea del sueño, pero no es la opción principal en este caso. El paciente tiene una insuficiencia cardiaca severa y la optimización de su tratamiento es fundamental. La servoventilación puede ser utilizada como tratamiento adyuvante, pero no como la opción principal.\nLa perla MIR: La optimización del tratamiento de la insuficiencia cardiaca es fundamental en pacientes con apnea del sueño y fraccción de eyeción del ventrículo izquierdo del 30%. Recuerda que la apnea del sueño puede empeorar la condición del corazón, y la optimización del tratamiento de la insuficiencia cardiaca es clave para mejorar la calidad de vida del paciente."
   },
   {
     "id": "q-123",
